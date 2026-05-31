@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:41:47.000Z
+pubDatetime: 2026-05-31T19:05:01.000Z
 title: "Premier League no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Mateo Kovačić (90) — 95% de probabilidade de alta, a 25k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 78 cartas em alta contra 163 em queda (média -2.31%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 77 cartas em alta contra 163 em queda (média -2.33%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **78 subiram** e **163 caíram**, com variação média de **-2.31%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **77 subiram** e **163 caíram**, com variação média de **-2.33%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Cristian Romero (86) **+59.1%** · 🔴 **Maior baixa:** Nick Woltemade (87) **-40.2%**
 
@@ -129,7 +129,7 @@ Nick Woltemade (87), -40.2% em 24h, a 70k coins.
 Pelo modelo FutQuant, Mateo Kovačić (90) — 95% de probabilidade de alta, a 25k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 78 cartas em alta contra 163 em queda (média -2.31%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 77 cartas em alta contra 163 em queda (média -2.33%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

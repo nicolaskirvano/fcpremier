@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:41:47.000Z
+pubDatetime: 2026-05-31T19:05:02.000Z
 title: "Melhores investimentos em Premier League no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -42,7 +42,6 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Ramires | 88 | Premier League | 215k coins | +8% | +10.8% | 44% |
 | Dominik Szoboszlai | 87 | Premier League | 150k coins | +3.4% | +10.3% | 46% |
 | Tim Cahill | 89 | Premier League | 20k coins | +11.1% | +5.3% | 95% |
-| Mohamed Salah | 91 | Premier League | 16k coins | +1.6% | +5% | 44% |
 
 
 ## 📈 Análise dos destaques

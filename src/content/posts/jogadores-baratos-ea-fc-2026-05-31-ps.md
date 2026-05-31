@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:41:47.000Z
+pubDatetime: 2026-05-31T19:05:02.000Z
 title: "Jogadores baratos de Premier League no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,8 +31,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Virgil van Dijk | 90 | CB | Premier League | 8k coins | -3.4% |
 | Erling Haaland | 90 | ST | Premier League | 10k coins | 0% |
+| Alisson | 89 | GK | Premier League | 6k coins | +3.8% |
 | Florian Wirtz | 89 | CAM | Premier League | 6k coins | -5.2% |
-| Alisson | 89 | GK | Premier League | 6k coins | +1.8% |
 | Sepp van den Berg | 89 | CB | Premier League | 15k coins | 0% |
 | Jørgen Strand Larsen | 89 | ST | Premier League | 15k coins | -1.6% |
 | Bukayo Saka | 88 | RW | Premier League | 3k coins | -12.1% |
@@ -43,7 +43,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Martin Ødegaard | 87 | CM | Premier League | 2k coins | -5.9% |
 | Declan Rice | 87 | CDM | Premier League | 2k coins | 0% |
 | Cole Palmer | 87 | CAM | Premier League | 2k coins | +35.7% |
-| Bruno Fernandes | 87 | CAM | Premier League | 2k coins | -5% |
+| Moisés Caicedo | 87 | CDM | Premier League | 2k coins | +5.6% |
 
 
 ## 📈 Destaques
@@ -52,9 +52,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Erling Haaland (90, ST)** da Premier League, a apenas **10k coins**
 
-- **Florian Wirtz (89, CAM)** da Premier League, a apenas **6k coins**
-
 - **Alisson (89, GK)** da Premier League, a apenas **6k coins**
+
+- **Florian Wirtz (89, CAM)** da Premier League, a apenas **6k coins**
 
 - **Sepp van den Berg (89, CB)** da Premier League, a apenas **15k coins**
 
