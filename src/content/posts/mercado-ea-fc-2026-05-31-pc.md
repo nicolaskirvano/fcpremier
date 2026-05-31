@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:26:38.000Z
-title: "Mercado da Premier League hoje (31/05/2026): análise de altas, baixas e previsões — PC"
+pubDatetime: 2026-05-31T18:37:53.000Z
+title: "Premier League no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
 tags:

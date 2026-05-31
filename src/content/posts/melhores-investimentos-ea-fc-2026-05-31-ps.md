@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:26:37.000Z
-title: "Melhores investimentos na Premier League hoje (31/05/2026): análise e previsões — Console (PS)"
+pubDatetime: 2026-05-31T18:37:52.000Z
+title: "Melhores investimentos em Premier League no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
 tags:
@@ -36,7 +36,6 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Aaron Wan-Bissaka | 89 | Premier League | 55k coins | +10% | +37.5% | 5% |
 | John Arne Riise | 88 | Premier League | 28k coins | +14% | +35.7% | 5% |
 | Nathan Collins | 85 | Premier League | 26k coins | +2% | +32% | 68% |
-| Cesc Fàbregas | 88 | Premier League | 25k coins | +3.1% | +29.9% | 8% |
 | Jurriën Timber | 86 | Premier League | 17k coins | +26.4% | +19.6% | 47% |
 | Harry Wilson | 88 | Premier League | 44k coins | +3.5% | +18.7% | 5% |
 | Trai Hume | 84 | Premier League | 33k coins | +4.8% | +14.8% | 48% |

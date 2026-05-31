@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:26:38.000Z
-title: "Jogadores baratos e bons da Premier League (31/05/2026) — joias 83+ por menos de 15k — PC"
+pubDatetime: 2026-05-31T18:37:53.000Z
+title: "Jogadores baratos de Premier League no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
 tags:

@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:26:37.000Z
-title: "Jogadores baratos e bons da Premier League (31/05/2026) — joias 83+ por menos de 15k — Console (PS)"
+pubDatetime: 2026-05-31T18:37:52.000Z
+title: "Jogadores baratos de Premier League no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
 tags:
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 31/05/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/05/2026)?"
-    a: "Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 9k coins no Console (PS)."
+    a: "Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 8k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/05/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Virgil van Dijk (90) por apenas 9k coins.
+> 💰 **Melhor pechincha:** Virgil van Dijk (90) por apenas 8k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,7 +29,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 90 | CB | Premier League | 9k coins | +3.4% |
+| Virgil van Dijk | 90 | CB | Premier League | 8k coins | -3.4% |
 | Erling Haaland | 90 | ST | Premier League | 10k coins | 0% |
 | Florian Wirtz | 89 | CAM | Premier League | 6k coins | -5.2% |
 | Alisson | 89 | GK | Premier League | 6k coins | +1.8% |
@@ -48,7 +48,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 ## 📈 Destaques
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **9k coins**
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **8k coins**
 
 - **Erling Haaland (90, ST)** da Premier League, a apenas **10k coins**
 
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/05/2026)?**  
-Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 9k coins no Console (PS).
+Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 8k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
