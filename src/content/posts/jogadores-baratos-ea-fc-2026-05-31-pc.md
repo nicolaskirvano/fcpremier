@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:05:03.000Z
+pubDatetime: 2026-05-31T21:27:11.000Z
 title: "Jogadores baratos de Premier League no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,32 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 9k coins | +50% |
-| Erling Haaland | 90 | ST | Premier League | 10k coins | -11.6% |
-| Virgil van Dijk | 90 | CB | Premier League | 10k coins | +4.2% |
-| Florian Wirtz | 89 | CAM | Premier League | 6k coins | +6.7% |
+| Rodri | 90 | CDM | Premier League | 9k coins | +32.4% |
+| Virgil van Dijk | 90 | CB | Premier League | 10k coins | +3.2% |
+| Erling Haaland | 90 | ST | Premier League | 11k coins | +7.5% |
+| Florian Wirtz | 89 | CAM | Premier League | 6k coins | -10.4% |
 | Gianluigi Donnarumma | 89 | GK | Premier League | 7k coins | +8.2% |
-| Alisson | 89 | GK | Premier League | 7k coins | +3% |
-| Gabriel | 88 | CB | Premier League | 4k coins | +2.8% |
-| Bukayo Saka | 88 | RW | Premier League | 4k coins | +11.1% |
+| Alisson | 89 | GK | Premier League | 7k coins | -1.4% |
+| Gabriel | 88 | CB | Premier League | 4k coins | +5.6% |
+| Bukayo Saka | 88 | RW | Premier League | 4k coins | +17.1% |
 | Alexander Isak | 88 | ST | Premier League | 4k coins | 0% |
-| Moisés Caicedo | 87 | CDM | Premier League | 2k coins | +13.6% |
-| David Raya | 87 | GK | Premier League | 3k coins | +12.5% |
-| Declan Rice | 87 | CDM | Premier League | 3k coins | +12% |
-| Cole Palmer | 87 | CAM | Premier League | 3k coins | +33.3% |
-| William Saliba | 87 | CB | Premier League | 3k coins | +61.1% |
-| Bruno Fernandes | 87 | CAM | Premier League | 3k coins | +16% |
+| Moisés Caicedo | 87 | CDM | Premier League | 2k coins | +4.4% |
+| Declan Rice | 87 | CDM | Premier League | 2k coins | +13.6% |
+| Viktor Gyökeres | 87 | ST | Premier League | 2k coins | +8.7% |
+| Alexis Mac Allister | 87 | CM | Premier League | 2k coins | +38.9% |
+| Cole Palmer | 87 | CAM | Premier League | 2k coins | +47.1% |
+| Bruno Fernandes | 87 | CAM | Premier League | 3k coins | +18.2% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **9k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Erling Haaland (90, ST)** da Premier League, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **10k coins**
 
-- **Florian Wirtz (89, CAM)** da Premier League, a apenas **6k coins**
+- **Erling Haaland (90, ST)** da Premier League, a apenas **11k coins**
+
+- **Florian Wirtz (89, CAM)** da Premier League, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **7k coins**
 
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 

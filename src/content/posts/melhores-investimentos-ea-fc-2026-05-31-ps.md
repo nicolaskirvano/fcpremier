@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:05:02.000Z
+pubDatetime: 2026-05-31T21:27:10.000Z
 title: "Melhores investimentos em Premier League no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -32,29 +32,33 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Robbie Keane | 86 | Premier League | 22k coins | +28.4% | +65.4% | 50% |
-| Joe Cole | 88 | Premier League | 201k coins | +28% | +60.8% | 5% |
-| Aaron Wan-Bissaka | 89 | Premier League | 55k coins | +10% | +37.5% | 5% |
-| John Arne Riise | 88 | Premier League | 28k coins | +14% | +35.7% | 5% |
-| Nathan Collins | 85 | Premier League | 26k coins | +2% | +32% | 68% |
-| Jurriën Timber | 86 | Premier League | 17k coins | +26.4% | +19.6% | 47% |
-| Harry Wilson | 88 | Premier League | 44k coins | +3.5% | +18.7% | 5% |
-| Trai Hume | 84 | Premier League | 33k coins | +4.8% | +14.8% | 48% |
-| Ramires | 88 | Premier League | 215k coins | +8% | +10.8% | 44% |
-| Dominik Szoboszlai | 87 | Premier League | 150k coins | +3.4% | +10.3% | 46% |
-| Tim Cahill | 89 | Premier League | 20k coins | +11.1% | +5.3% | 95% |
+| Rayan Aït-Nouri | 90 | Premier League | 78k coins | +16.4% | +50% | 5% |
+| Xavi Simons | 88 | Premier League | 65k coins | +15% | +49.4% | 95% |
+| James Milner | 88 | Premier League | 69k coins | +27.8% | +45.3% | 95% |
+| Alejandro Garnacho | 89 | Premier League | 217k coins | +10.2% | +36.5% | 84% |
+| Nico O'Reilly | 88 | Premier League | 38k coins | +6.2% | +27.5% | 95% |
+| John Arne Riise | 86 | Premier League | 17k coins | +24.1% | +26.4% | 93% |
+| Ryan Gravenberch | 87 | Premier League | 98k coins | +8.9% | +23.3% | 39% |
+| Xavi Simons | 91 | Premier League | 97k coins | +12.1% | +19.8% | 27% |
+| Declan Rice | 89 | Premier League | 22k coins | +19.4% | +19.4% | 42% |
+| John Arne Riise | 88 | Premier League | 30k coins | +11.2% | +19% | 5% |
+| Joe Cole | 88 | Premier League | 188k coins | +19.8% | +18.2% | 5% |
+| Ollie Watkins | 90 | Premier League | 50k coins | +6.4% | +17.6% | 8% |
+| Oscar Bobb | 88 | Premier League | 37k coins | +6.5% | +15.6% | 68% |
+| Vincent Kompany | 91 | Premier League | 100k coins | +29% | +14.9% | 68% |
 
 
 ## 📈 Análise dos destaques
 
 - **Robbie Keane (86)** — 22k coins, **+65.4% em 7 dias** (+28.4% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Joe Cole (88)** — 201k coins, **+60.8% em 7 dias** (+28% em 24h). Preço +31% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Rayan Aït-Nouri (90)** — 78k coins, **+50% em 7 dias** (+16.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Aaron Wan-Bissaka (89)** — 55k coins, **+37.5% em 7 dias** (+10% em 24h). Preço +20% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Xavi Simons (88)** — 65k coins, **+49.4% em 7 dias** (+15% em 24h). Preço em linha com a média de 7 dias (+5%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **John Arne Riise (88)** — 28k coins, **+35.7% em 7 dias** (+14% em 24h). Preço +21% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **James Milner (88)** — 69k coins, **+45.3% em 7 dias** (+27.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Nathan Collins (85)** — 26k coins, **+32% em 7 dias** (+2% em 24h). Preço +15% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
+- **Alejandro Garnacho (89)** — 217k coins, **+36.5% em 7 dias** (+10.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **84% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
@@ -80,6 +84,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 

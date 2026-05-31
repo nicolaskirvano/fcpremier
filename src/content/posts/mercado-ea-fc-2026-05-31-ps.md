@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:05:01.000Z
+pubDatetime: 2026-05-31T21:27:10.000Z
 title: "Premier League no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,71 +13,71 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Cristian Romero (86, Premier League), com +59.1% em 24h, a 52k coins no Console (PS)."
+    a: "Jérémy Doku (84, Premier League), com +46.8% em 24h, a 124k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Nick Woltemade (87), -40.2% em 24h, a 70k coins."
+    a: "Marc Guéhi (88), -41.1% em 24h, a 25k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Mateo Kovačić (90) — 95% de probabilidade de alta, a 25k coins."
+    a: "Pelo modelo FutQuant, Enzo Fernández (91) — 95% de probabilidade de alta, a 38k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 77 cartas em alta contra 163 em queda (média -2.33%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 90 cartas em alta contra 130 em queda (média 1.13%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **77 subiram** e **163 caíram**, com variação média de **-2.33%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **90 subiram** e **130 caíram**, com variação média de **1.13%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Cristian Romero (86) **+59.1%** · 🔴 **Maior baixa:** Nick Woltemade (87) **-40.2%**
+> 🟢 **Maior alta:** Jérémy Doku (84) **+46.8%** · 🔴 **Maior baixa:** Marc Guéhi (88) **-41.1%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Cristian Romero | 86 | Premier League | 52k coins | +59.1% | -23.4% |
-| Bruno Fernandes | 88 | Premier League | 26k coins | +49.3% | +37.7% |
-| Danny Welbeck | 82 | Premier League | 29k coins | +46.2% | -2.5% |
-| Cody Gakpo | 89 | Premier League | 275k coins | +44.7% | +97.8% |
-| Crysencio Summerville | 86 | Premier League | 31k coins | +42% | -76.5% |
-| Anthony Gordon | 90 | Premier League | 1.57M coins | +35.5% | +74.6% |
+| Jérémy Doku | 84 | Premier League | 124k coins | +46.8% | -58.9% |
+| Pedro Neto | 88 | Premier League | 144k coins | +44.7% | +26.3% |
+| Dominik Szoboszlai | 87 | Premier League | 137k coins | +43.5% | -9.3% |
+| Bruno Fernandes | 88 | Premier League | 28k coins | +40% | -13.8% |
+| Tijjani Reijnders | 87 | Premier League | 305k coins | +36.8% | -7.6% |
+| Anthony Gordon | 90 | Premier League | 1.55M coins | +33.7% | +55% |
 | Eden Hazard | 88 | Premier League | 483k coins | +33.4% | +50.9% |
-| Granit Xhaka | 89 | Premier League | 27k coins | +33.3% | +4.8% |
+| Federico Chiesa | 86 | Premier League | 335k coins | +29.8% | +82.1% |
+| Vincent Kompany | 91 | Premier League | 100k coins | +29% | +14.9% |
 | Robbie Keane | 86 | Premier League | 22k coins | +28.4% | +65.4% |
-| Joe Cole | 88 | Premier League | 201k coins | +28% | +60.8% |
 
 
 ### Análise das altas
 
-- **Cristian Romero (86)** subiu **+59.1%** em 24h, a **52k coins** (faixa do dia: 33k–60k). Está +26% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (93% de chance de subir mais).
+- **Jérémy Doku (84)** subiu **+46.8%** em 24h, a **124k coins** (faixa do dia: 66k–124k). Está -17% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Bruno Fernandes (88)** subiu **+49.3%** em 24h, a **26k coins** (faixa do dia: 17k–28k). Está +29% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+- **Pedro Neto (88)** subiu **+44.7%** em 24h, a **144k coins** (faixa do dia: 90k–144k). Está +32% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Danny Welbeck (82)** subiu **+46.2%** em 24h, a **29k coins** (faixa do dia: 19k–30k). Está em linha com a média de 7 dias (-0%). O modelo vê **estabilização** no curto prazo.
+- **Dominik Szoboszlai (87)** subiu **+43.5%** em 24h, a **137k coins** (faixa do dia: 96k–160k). Está +28% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nick Woltemade | 87 | Premier League | 70k coins | -40.2% | -20.9% |
-| Cesc Fàbregas | 91 | Premier League | 72k coins | -38.6% | -16.7% |
-| Diogo Dalot | 87 | Premier League | 32k coins | -38.1% | -70.4% |
-| James Milner | 88 | Premier League | 57k coins | -36.7% | +2.7% |
-| Clint Dempsey | 89 | Premier League | 28k coins | -35.8% | -9% |
+| Marc Guéhi | 88 | Premier League | 25k coins | -41.1% | -13.2% |
+| Nick Woltemade | 87 | Premier League | 60k coins | -37.5% | -36.8% |
 | Xavi Simons | 84 | Premier League | 81k coins | -31.8% | -25% |
-| Xavi Simons | 88 | Premier League | 41k coins | -31.2% | -25% |
-| Maxence Lacroix | 87 | Premier League | 100k coins | -31% | -39.8% |
-| Joelinton | 87 | Premier League | 193k coins | -29.8% | -1% |
-| Emiliano Martínez | 88 | Premier League | 30k coins | -28.6% | +5.3% |
+| Rayan Cherki | 87 | Premier League | 98k coins | -29% | -18.3% |
+| Enzo Fernández | 91 | Premier League | 38k coins | -29% | -8.4% |
+| Noni Madueke | 86 | Premier League | 53k coins | -28.4% | +6% |
+| Micky van de Ven | 87 | Premier League | 2.54M coins | -25.4% | -11% |
+| Hugo Ekitiké | 86 | Premier League | 40k coins | -24.1% | -30.6% |
+| Rodri | 92 | Premier League | 82k coins | -22.4% | -26.6% |
+| Ramires | 86 | Premier League | 100k coins | -22.3% | -22.3% |
 
 
 ### Análise das baixas
 
-- **Nick Woltemade (87)** caiu **-40.2%** em 24h, a **70k coins** (faixa do dia: 70k–117k). Está -19% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Marc Guéhi (88)** caiu **-41.1%** em 24h, a **25k coins** (faixa do dia: 25k–40k). Está -21% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
-- **Cesc Fàbregas (91)** caiu **-38.6%** em 24h, a **72k coins** (faixa do dia: 72k–113k). Está -10% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 68% de probabilidade.
+- **Nick Woltemade (87)** caiu **-37.5%** em 24h, a **60k coins** (faixa do dia: 40k–101k). Está -30% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
-- **Diogo Dalot (87)** caiu **-38.1%** em 24h, a **32k coins** (faixa do dia: 32k–59k). Está -51% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Xavi Simons (84)** caiu **-31.8%** em 24h, a **81k coins** (faixa do dia: 750–181k). Está +12% acima da média de 7 dias (aquecida). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -86,14 +86,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Mateo Kovačić | 90 | 25k coins | 29k coins | 95% |
-| David Raya | 92 | 34k coins | 40k coins | 95% |
-| Raúl Jiménez | 86 | 100k coins | 114k coins | 95% |
-| James Milner | 88 | 57k coins | 68k coins | 95% |
-| Murillo | 87 | 88k coins | 112k coins | 95% |
-| Xavi Simons | 88 | 41k coins | 49k coins | 95% |
-| Dan Burn | 86 | 194k coins | 230k coins | 95% |
-| Enzo Fernández | 91 | 54k coins | 67k coins | 95% |
+| Enzo Fernández | 91 | 38k coins | 47k coins | 95% |
+| David Raya | 92 | 38k coins | 45k coins | 95% |
+| James Milner | 88 | 69k coins | 82k coins | 95% |
+| Murillo | 87 | 80k coins | 103k coins | 95% |
+| Declan Rice | 91 | 217k coins | 268k coins | 95% |
+| Xavi Simons | 88 | 65k coins | 77k coins | 95% |
+| Gabriel Martinelli | 87 | 82k coins | 94k coins | 95% |
+| Mohamed Salah | 92 | 370k coins | 440k coins | 95% |
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -102,14 +102,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| John Arne Riise | 88 | 28k coins | -15.6% |
+| Noni Madueke | 86 | 29k coins | -21.3% |
+| Jay-Jay Okocha | 88 | 50k coins | -23.8% |
+| Ian Maatsen | 89 | 40k coins | -21.4% |
+| Joe Cole | 88 | 188k coins | -21.4% |
+| Martin Ødegaard | 88 | 16k coins | -16.8% |
+| Mateus Mané | 88 | 40k coins | -15.7% |
+| John Arne Riise | 88 | 30k coins | -15.6% |
 | Xavi Simons | 84 | 81k coins | -34.1% |
-| Cole Palmer | 89 | 380k coins | -24.1% |
-| Tijjani Reijnders | 87 | 29k coins | -24% |
-| Marc Guéhi | 88 | 34k coins | -15.6% |
-| Clint Dempsey | 89 | 28k coins | -17.3% |
-| Mateus Mané | 88 | 43k coins | -15.7% |
-| Harry Wilson | 88 | 44k coins | -24% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -120,20 +120,22 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Cristian Romero (86, Premier League), com +59.1% em 24h, a 52k coins no Console (PS).
+Jérémy Doku (84, Premier League), com +46.8% em 24h, a 124k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Nick Woltemade (87), -40.2% em 24h, a 70k coins.
+Marc Guéhi (88), -41.1% em 24h, a 25k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Mateo Kovačić (90) — 95% de probabilidade de alta, a 25k coins.
+Pelo modelo FutQuant, Enzo Fernández (91) — 95% de probabilidade de alta, a 38k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 77 cartas em alta contra 163 em queda (média -2.33%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 90 cartas em alta contra 130 em queda (média 1.13%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 
