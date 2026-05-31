@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:37:52.000Z
+pubDatetime: 2026-05-31T18:41:47.000Z
 title: "Jogadores baratos de Premier League no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
