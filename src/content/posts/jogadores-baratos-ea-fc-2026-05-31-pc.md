@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:11.000Z
+pubDatetime: 2026-05-31T22:05:03.000Z
 title: "Jogadores baratos de Premier League no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -33,17 +33,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Virgil van Dijk | 90 | CB | Premier League | 10k coins | +3.2% |
 | Erling Haaland | 90 | ST | Premier League | 11k coins | +7.5% |
 | Florian Wirtz | 89 | CAM | Premier League | 6k coins | -10.4% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 7k coins | +8.2% |
 | Alisson | 89 | GK | Premier League | 7k coins | -1.4% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 7k coins | +9.5% |
+| Alexis Mac Allister | 89 | CM | Premier League | 14k coins | -41.8% |
 | Gabriel | 88 | CB | Premier League | 4k coins | +5.6% |
 | Bukayo Saka | 88 | RW | Premier League | 4k coins | +17.1% |
-| Alexander Isak | 88 | ST | Premier League | 4k coins | 0% |
+| Alexander Isak | 88 | ST | Premier League | 4k coins | -2.3% |
 | Moisés Caicedo | 87 | CDM | Premier League | 2k coins | +4.4% |
+| Cole Palmer | 87 | CAM | Premier League | 2k coins | +47.1% |
+| Alexis Mac Allister | 87 | CM | Premier League | 2k coins | +38.9% |
 | Declan Rice | 87 | CDM | Premier League | 2k coins | +13.6% |
 | Viktor Gyökeres | 87 | ST | Premier League | 2k coins | +8.7% |
-| Alexis Mac Allister | 87 | CM | Premier League | 2k coins | +38.9% |
-| Cole Palmer | 87 | CAM | Premier League | 2k coins | +47.1% |
-| Bruno Fernandes | 87 | CAM | Premier League | 3k coins | +18.2% |
 
 
 ## 📈 Destaques
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Premier League, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **7k coins**
+- **Alisson (89, GK)** da Premier League, a apenas **7k coins**
 
 
 ## Por que estas cartas?
