@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:05:02.000Z
+pubDatetime: 2026-06-01T13:05:01.000Z
 title: "Melhores investimentos em Premier League no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 01/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/06/2026) no EA FC?"
-    a: "Pascal Groß (87, Premier League) lidera, com +55.2% em 7 dias a 26k coins no Console (PS), e o modelo dá 8% de chance de seguir subindo."
+    a: "Joe Cole (88, Premier League) lidera, com +61.9% em 7 dias a 225k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **01/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Pascal Groß (87) acumula **+55.2% em 7 dias** a 26k coins.
+> 🔝 **Destaque:** Joe Cole (88) acumula **+61.9% em 7 dias** a 225k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pascal Groß | 87 | Premier League | 26k coins | +16.8% | +55.2% | 8% |
-| Xavi Simons | 91 | Premier League | 119k coins | +25.9% | +50.6% | 27% |
-| Jerzy Dudek | 87 | Premier League | 25k coins | +25% | +47.1% | 83% |
-| Ryan Christie | 89 | Premier League | 21k coins | +9% | +46.6% | 27% |
-| Ole Gunnar Solskjær | 88 | Premier League | 20k coins | +37.9% | +42.9% | 33% |
-| Ledley King | 86 | Premier League | 19k coins | +6.9% | +42.6% | 95% |
-| Granit Xhaka | 89 | Premier League | 26k coins | +12.8% | +37.7% | 27% |
-| Luke Shaw | 86 | Premier League | 40k coins | +15.1% | +33.3% | 56% |
-| Bernardo Silva | 87 | Premier League | 59k coins | +1.7% | +31.8% | 5% |
-| Harry Wilson | 88 | Premier League | 50k coins | +13.1% | +29.2% | 5% |
-| Alejandro Garnacho | 89 | Premier League | 200k coins | +13% | +29% | 84% |
-| Nick Woltemade | 90 | Premier League | 183k coins | +6.4% | +24.5% | 32% |
-| Wilson Odobert | 87 | Premier League | 110k coins | +20.2% | +23.6% | 95% |
-| Carlos Tévez | 88 | Premier League | 48k coins | +16.2% | +21.2% | 95% |
-| Jeremie Frimpong | 86 | Premier League | 160k coins | +34.4% | +21.2% | 95% |
+| Joe Cole | 88 | Premier League | 225k coins | +19.7% | +61.9% | 5% |
+| Bernardo Silva | 87 | Premier League | 58k coins | +2.7% | +56.5% | 5% |
+| Pedro Neto | 88 | Premier League | 170k coins | +27.8% | +56% | 5% |
+| Tomas Brolin | 89 | Premier League | 22k coins | +28.6% | +38.5% | 18% |
+| Harry Wilson | 88 | Premier League | 52k coins | +19.5% | +35.1% | 5% |
+| Lewis Miley | 89 | Premier League | 37k coins | +25.4% | +34.6% | 95% |
+| Nick Woltemade | 90 | Premier League | 195k coins | +25% | +32.6% | 32% |
+| Ole Gunnar Solskjær | 88 | Premier League | 18k coins | +32.1% | +32.1% | 33% |
+| Nico O'Reilly | 88 | Premier League | 40k coins | +17% | +31.7% | 95% |
+| Granit Xhaka | 89 | Premier League | 25k coins | +12.2% | +31.2% | 27% |
+| John Arne Riise | 88 | Premier League | 32k coins | +14.3% | +30.6% | 5% |
+| Jørgen Strand Larsen | 89 | Premier League | 18k coins | +12.9% | +29.6% | 5% |
+| Aaron Wan-Bissaka | 89 | Premier League | 54k coins | +8% | +25.6% | 5% |
+| Ian Maatsen | 89 | Premier League | 43k coins | +1.8% | +22.9% | 5% |
+| Mateus Mané | 88 | Premier League | 42k coins | +4.9% | +21.4% | 5% |
 
 
 ## 📈 Análise dos destaques
 
-- **Pascal Groß (87)** — 26k coins, **+55.2% em 7 dias** (+16.8% em 24h). Preço em linha com a média de 7 dias (+4%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Joe Cole (88)** — 225k coins, **+61.9% em 7 dias** (+19.7% em 24h). Preço +38% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Xavi Simons (91)** — 119k coins, **+50.6% em 7 dias** (+25.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Bernardo Silva (87)** — 58k coins, **+56.5% em 7 dias** (+2.7% em 24h). Preço em linha com a média de 7 dias (+3%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Jerzy Dudek (87)** — 25k coins, **+47.1% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+1%). 🔮 O modelo reforça a tese: **83% de chance de seguir subindo**.
+- **Pedro Neto (88)** — 170k coins, **+56% em 7 dias** (+27.8% em 24h). Preço +49% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Ryan Christie (89)** — 21k coins, **+46.6% em 7 dias** (+9% em 24h). Preço +18% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Tomas Brolin (89)** — 22k coins, **+38.5% em 7 dias** (+28.6% em 24h). Preço +18% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Ole Gunnar Solskjær (88)** — 20k coins, **+42.9% em 7 dias** (+37.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Harry Wilson (88)** — 52k coins, **+35.1% em 7 dias** (+19.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -76,7 +76,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/06/2026) no EA FC?**  
-Pascal Groß (87, Premier League) lidera, com +55.2% em 7 dias a 26k coins no Console (PS), e o modelo dá 8% de chance de seguir subindo.
+Joe Cole (88, Premier League) lidera, com +61.9% em 7 dias a 225k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:05:02.000Z
+pubDatetime: 2026-06-01T13:05:02.000Z
 title: "Jogadores baratos de Premier League no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -32,15 +32,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Rodri | 90 | CDM | Premier League | 8k coins | 0% |
 | Virgil van Dijk | 90 | CB | Premier League | 9k coins | +1.1% |
 | Erling Haaland | 90 | ST | Premier League | 10k coins | +3.2% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 6k coins | +1.7% |
 | Alisson | 89 | GK | Premier League | 6k coins | +7.1% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 7k coins | +30.2% |
 | Florian Wirtz | 89 | CAM | Premier League | 7k coins | +27.8% |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 14k coins | +3.7% |
-| Bruno Guimarães | 89 | CM | Premier League | 14k coins | -5% |
+| Sepp van den Berg | 89 | CB | Premier League | 15k coins | -23.4% |
 | Gabriel | 88 | CB | Premier League | 3k coins | +35% |
 | Bukayo Saka | 88 | RW | Premier League | 3k coins | 0% |
-| Alexander Isak | 88 | ST | Premier League | 5k coins | +6.8% |
-| Declan Rice | 88 | CM | Premier League | 14k coins | -14.1% |
+| Alexander Isak | 88 | ST | Premier League | 5k coins | +11.4% |
+| Declan Rice | 88 | CM | Premier League | 13k coins | -17.2% |
+| Martin Ødegaard | 88 | CM | Premier League | 14k coins | -39.6% |
 | Alexis Mac Allister | 87 | CM | Premier League | 2k coins | +20% |
 | Cole Palmer | 87 | CAM | Premier League | 2k coins | +5.6% |
 | William Saliba | 87 | CB | Premier League | 2k coins | -17.4% |
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Erling Haaland (90, ST)** da Premier League, a apenas **10k coins**
 
-- **Alisson (89, GK)** da Premier League, a apenas **6k coins**
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **6k coins**
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
+- **Alisson (89, GK)** da Premier League, a apenas **6k coins**
 
 
 ## Por que estas cartas?
