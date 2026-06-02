@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-02T13:05:02.000Z
+pubDatetime: 2026-06-02T16:05:02.000Z
 title: "Melhores investimentos em Premier League no EA FC (02/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
