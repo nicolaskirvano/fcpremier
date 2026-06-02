@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T22:05:02.000Z
+pubDatetime: 2026-06-02T01:05:02.000Z
 title: "Premier League no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
