@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:05:45.000Z
+pubDatetime: 2026-06-18T23:39:36.000Z
 title: "Jogadores baratos de Premier League no EA FC (18/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 18/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/06/2026)?"
-    a: "Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 10k coins no Console (PS)."
+    a: "Alexander Isak (88, Premier League) aparece como melhor custo-benefício, a 4k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Virgil van Dijk (90) por apenas 10k coins.
+> 💰 **Melhor pechincha:** Alexander Isak (88) por apenas 4k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,27 +29,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 90 | CB | Premier League | 10k coins | +5% |
-| Alexander Isak | 88 | ST | Premier League | 4k coins | +100% |
-| Dimitar Berbatov | 87 | ST | Premier League | 11k coins | -2.2% |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | -2.1% |
+| Alexander Isak | 88 | ST | Premier League | 4k coins | +104.8% |
+| Cesc Fàbregas | 88 | CM | Premier League | 15k coins | -10.4% |
+| Emiliano Martínez | 87 | GK | Premier League | 3k coins | +86.7% |
+| Dimitar Berbatov | 87 | ST | Premier League | 12k coins | -2.2% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | +2.1% |
 | Freddie Ljungberg | 86 | LM | Premier League | 11k coins | -4.3% |
-| Tomáš Rosický | 86 | CAM | Premier League | 12k coins | -30.3% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 12k coins | +6.8% |
-| John Arne Riise | 86 | LB | Premier League | 14k coins | +14.9% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 12k coins | +4.5% |
+| Tomáš Rosický | 86 | CAM | Premier League | 12k coins | -28.8% |
+| John Arne Riise | 86 | LB | Premier League | 12k coins | +10.6% |
+| André Onana | 83 | GK | Premier League | 2k coins | -38.9% |
 
 
 ## 📈 Destaques
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **10k coins**
-
 - **Alexander Isak (88, ST)** da Premier League, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Emiliano Martínez (87, GK)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **12k coins**
 
 - **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
-
-- **Freddie Ljungberg (86, LM)** da Premier League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -66,7 +68,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/06/2026)?**  
-Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 10k coins no Console (PS).
+Alexander Isak (88, Premier League) aparece como melhor custo-benefício, a 4k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:06:28.000Z
+pubDatetime: 2026-06-18T23:40:43.000Z
 title: "Jogadores baratos de Premier League no EA FC (18/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,26 +30,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Alexander Isak | 88 | ST | Premier League | 6k coins | +119.2% |
+| Emiliano Martínez | 87 | GK | Premier League | 4k coins | +184.6% |
+| Dimitar Berbatov | 87 | ST | Premier League | 11k coins | +2.3% |
 | Steve McManaman | 87 | RM | Premier League | 12k coins | +9.1% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | +3.3% |
-| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | +2.2% |
+| Joe Cole | 87 | RW | Premier League | 14k coins | -3.3% |
+| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | 0% |
 | Ole Gunnar Solskjær | 86 | ST | Premier League | 12k coins | +9.3% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | +4.3% |
-| John Arne Riise | 86 | LB | Premier League | 12k coins | -10.9% |
-| Emiliano Martínez | 85 | GK | Premier League | 4k coins | +192.3% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | +2.2% |
+| John Arne Riise | 86 | LB | Premier League | 12k coins | -12.7% |
+| Robbie Keane | 86 | ST | Premier League | 14k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Alexander Isak (88, ST)** da Premier League, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
 
+- **Emiliano Martínez (87, GK)** da Premier League, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
+
 - **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
 
 - **Joe Cole (87, RW)** da Premier League, a apenas **14k coins**
-
-- **Freddie Ljungberg (86, LM)** da Premier League, a apenas **12k coins**
-
-- **Ole Gunnar Solskjær (86, ST)** da Premier League, a apenas **12k coins**
 
 
 ## Por que estas cartas?
