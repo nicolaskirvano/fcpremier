@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:34:23.000Z
+pubDatetime: 2026-06-18T22:06:26.000Z
 title: "Melhores investimentos em Premier League no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Marcos Senesi (88, Premier League) lidera, com +78% em 7 dias a 40k coins no PC, e o modelo dá 42% de chance de seguir subindo."
+    a: "Jerzy Dudek (86, Premier League) lidera, com +76.5% em 7 dias a 30k coins no PC, e o modelo dá 29% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,15 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Marcos Senesi (88) acumula **+78% em 7 dias** a 40k coins.
+> 🔝 **Destaque:** Jerzy Dudek (86) acumula **+76.5% em 7 dias** a 30k coins.
+
+
+## 🔎 Análise do mercado hoje
+No cenário do EA FC Ultimate Team em PC, datado de 18 de junho de 2026, o mercado da Premier League apresenta oportunidades claras para investidores que buscam capitalizar sobre tendências de curto prazo. Ao analisar a volatilidade dos últimos dias, destaca-se Jørgen Strand Larsen como o ativo mais agressivo. Com uma impressionante alta de 39,4% em apenas 24 horas e uma probabilidade de alta futura estimada em 71%, sua carta de rating 89 está cotada a 25 mil coins. Essa combinação de baixo preço de entrada e momentum técnico forte sugere que é o investimento mais seguro para lucros rápidos, aproveitando a escassez relativa em relação à sua demanda no meta atual.
+
+Outra carta que merece atenção imediata é Adam Wharton. O meio-campista, com rating 88, registrou um salto de 21% em 24 horas, posicionando-se a 27 mil coins. A probabilidade de alta de 76% reforça a tese de valorização contínua, tornando-o uma alternativa interessante para quem busca equilíbrio entre risco e retorno. A entrada relativamente acessível permite diversificar a carteira, enquanto a tendência de valorização robusta indica que o preço pode subir significativamente nos próximos ciclos de mercado, especialmente se houver promoções ou eventos que aumentem a demanda por peças de Premier League.
+
+Por outro lado, Elliot Anderson e Dan Burn também se destacam, embora com perfis diferentes. Anderson (86) subiu 14,2% a 34 mil coins, com 36% de chance de alta, oferecendo um ponto de entrada mais conservador. Já Dan Burn (86), a 117 mil coins, teve alta de 27,9% com 44% de probabilidade de continuar subindo, atrativo para investidores de capital maior que aceitam volatilidade. É crucial evitar cartas como Douglas Luiz (90) ou Hugo Ekitiké (90) para este objetivo específico de curto prazo, pois, apesar de alta probabilidade de alta (79% e 55%), seus ganhos em 24h foram menores (3,8% e 13,6%) e os preços (53k e 74k) exigem mais tempo de retenção para justificar o risco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +39,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marcos Senesi | 88 | Premier League | 40k coins | +7.9% | +78% | 42% |
-| Elliot Anderson | 86 | Premier League | 35k coins | +2.2% | +77.2% | 36% |
-| Hugo Ekitiké | 86 | Premier League | 34k coins | +4.6% | +61.9% | 53% |
-| Jørgen Strand Larsen | 89 | Premier League | 25k coins | +35.6% | +57.1% | 71% |
-| Noni Madueke | 86 | Premier League | 42k coins | +6.2% | +54.5% | 32% |
-| Sandro Tonali | 91 | Premier League | 114k coins | +1.8% | +46.2% | 24% |
-| Florian Wirtz | 90 | Premier League | 185k coins | +3.9% | +43.4% | 15% |
-| Mateo Kovačić | 91 | Premier League | 42k coins | +15% | +39.4% | 41% |
-| Hugo Ekitiké | 90 | Premier League | 76k coins | +16.2% | +38.5% | 55% |
-| Dan Burn | 86 | Premier League | 112k coins | +13.1% | +31.8% | 44% |
-| Mohamed Salah | 91 | Premier League | 21k coins | +20.3% | +27.7% | 22% |
-| Vincent Kompany | 91 | Premier League | 110k coins | +20% | +27.7% | 45% |
-| Park Ji Sung | 86 | Premier League | 32k coins | +1.4% | +27.1% | 57% |
-| Senne Lammens | 88 | Premier League | 72k coins | +21.3% | +23.3% | 58% |
-| Declan Rice | 89 | Premier League | 92k coins | +8.8% | +21.7% | 61% |
+| Jerzy Dudek | 86 | Premier League | 30k coins | +15.4% | +76.5% | 29% |
+| Jérémy Doku | 84 | Premier League | 152k coins | +6.2% | +70.9% | 18% |
+| Elliot Anderson | 86 | Premier League | 34k coins | +14.2% | +67.1% | 36% |
+| Jørgen Strand Larsen | 89 | Premier League | 25k coins | +39.4% | +57.1% | 71% |
+| Douglas Luiz | 90 | Premier League | 53k coins | +3.8% | +57.1% | 79% |
+| Omar Marmoush | 87 | Premier League | 90k coins | +5.3% | +52.5% | 48% |
+| Nathan Collins | 85 | Premier League | 34k coins | +1.5% | +52.3% | 24% |
+| Adam Wharton | 88 | Premier League | 27k coins | +21% | +51.2% | 76% |
+| Hugo Ekitiké | 90 | Premier League | 74k coins | +13.6% | +44.5% | 55% |
+| Dan Burn | 86 | Premier League | 117k coins | +27.9% | +40.1% | 44% |
+| Wilson Odobert | 87 | Premier League | 36k coins | +10.4% | +36.4% | 30% |
+| Jerzy Dudek | 87 | Premier League | 50k coins | +22% | +29.9% | 29% |
+| Vincent Kompany | 91 | Premier League | 120k coins | +20% | +27.7% | 45% |
+| Mateo Kovačić | 91 | Premier League | 50k coins | +8.4% | +26.5% | 41% |
+| Noni Madueke | 86 | Premier League | 51k coins | +6.2% | +25.9% | 46% |
 
 
 ## 📈 Análise dos destaques
 
-- **Marcos Senesi (88)** — 40k coins, **+78% em 7 dias** (+7.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jerzy Dudek (86)** — 30k coins, **+76.5% em 7 dias** (+15.4% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Elliot Anderson (86)** — 35k coins, **+77.2% em 7 dias** (+2.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jérémy Doku (84)** — 152k coins, **+70.9% em 7 dias** (+6.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Hugo Ekitiké (86)** — 34k coins, **+61.9% em 7 dias** (+4.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Elliot Anderson (86)** — 34k coins, **+67.1% em 7 dias** (+14.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jørgen Strand Larsen (89)** — 25k coins, **+57.1% em 7 dias** (+35.6% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jørgen Strand Larsen (89)** — 25k coins, **+57.1% em 7 dias** (+39.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Noni Madueke (86)** — 42k coins, **+54.5% em 7 dias** (+6.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Douglas Luiz (90)** — 53k coins, **+57.1% em 7 dias** (+3.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **79% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
@@ -69,14 +77,14 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 - Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 🧪 De onde vêm estes números
+Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em múltiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Marcos Senesi (88, Premier League) lidera, com +78% em 7 dias a 40k coins no PC, e o modelo dá 42% de chance de seguir subindo.
+Jerzy Dudek (86, Premier League) lidera, com +76.5% em 7 dias a 30k coins no PC, e o modelo dá 29% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

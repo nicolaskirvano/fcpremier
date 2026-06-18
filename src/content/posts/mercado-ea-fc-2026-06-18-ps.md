@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:34:11.000Z
+pubDatetime: 2026-06-18T22:05:20.000Z
 title: "Premier League no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,125 +13,119 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Jay-Jay Okocha (88, Premier League), com +50% em 24h, a 95k coins no Console (PS)."
+    a: "Jay-Jay Okocha (88, Premier League), com +47.2% em 24h, a 92k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ramires (88), -41.8% em 24h, a 349k coins."
+    a: "Ramires (88), -28.7% em 24h, a 384k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Anthony Gordon (87) — 95% de probabilidade de alta, a 35k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 91 cartas em alta contra 97 em queda (média 0.2%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
+    a: "Pelo modelo FutQuant, Gabriel Martinelli (87) — 95% de probabilidade de alta, a 76k coins."
+  - q: "Como está o mercado do EA FC hoje?"
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 81 cartas em alta contra 100 em queda (média -0.85%)."
+  - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **91 subiram** e **97 caíram**, com variação média de **0.2%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+O mercado da Premier League segue lateral sem direção clara, com uma média de -0.85% nas últimas 24 horas entre 81 altas e 100 quedas. Esse cenário de indecisão exige cautela, pois não há um fluxo massivo de compra ou venda dominando o segmento hoje.
 
-> 🟢 **Maior alta:** Jay-Jay Okocha (88) **+50%** · 🔴 **Maior baixa:** Ramires (88) **-41.8%**
+> 🟢 **Maior alta:** Jay-Jay Okocha (88) **+47.2%** · 🔴 **Maior baixa:** Ramires (88) **-28.7%**
 
-## 🟢 Maiores altas (24h)
-
-| Jogador | OVR | Liga | Preço | 24h | 7d |
-| --- | --- | --- | --- | --- | --- |
-| Jay-Jay Okocha | 88 | Premier League | 95k coins | +50% | +52.5% |
-| Cole Palmer | 88 | Premier League | 469k coins | +38.4% | +70.5% |
-| Noni Madueke | 86 | Premier League | 55k coins | +31% | +12.2% |
-| Martin Ødegaard | 87 | Premier League | 96k coins | +27.3% | -14.7% |
-| Eden Hazard | 90 | Premier League | 595k coins | +26.3% | +35.1% |
-| Anthony Gordon | 90 | Premier League | 1.24M coins | +24.1% | +21.9% |
-| Hugo Ekitiké | 86 | Premier League | 38k coins | +24% | +74.4% |
-| Patrick Dorgu | 84 | Premier League | 64k coins | +22% | +24.5% |
-| Declan Rice | 89 | Premier League | 86k coins | +20.6% | +39.3% |
-| Matheus Cunha | 87 | Premier League | 90k coins | +20% | +26.8% |
-
-
-### Análise das altas
-
-- **Jay-Jay Okocha (88)** subiu **+50%** em 24h, a **95k coins** (faixa do dia: 58k–94k). Está +43% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
-
-- **Cole Palmer (88)** subiu **+38.4%** em 24h, a **469k coins** (faixa do dia: 270k–502k). Está +49% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Noni Madueke (86)** subiu **+31%** em 24h, a **55k coins** (faixa do dia: 40k–55k). Está +24% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
-
-
-## 🔴 Maiores baixas (24h)
+## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ramires | 88 | Premier League | 349k coins | -41.8% | -3.3% |
-| Micah Richards | 85 | Premier League | 27k coins | -37.7% | +9% |
-| James Milner | 88 | Premier League | 75k coins | -26.7% | +5.1% |
-| Dominik Szoboszlai | 87 | Premier League | 80k coins | -25.5% | +7.3% |
-| Carlos Baleba | 90 | Premier League | 90k coins | -22.8% | +24.3% |
-| Eden Hazard | 92 | Premier League | 648k coins | -19.7% | +3% |
-| Gabriel | 89 | Premier League | 116k coins | -19.7% | -2% |
-| Marcos Senesi | 88 | Premier League | 29k coins | -17.6% | +10.9% |
-| Mohamed Salah | 92 | Premier League | 267k coins | -16% | -17.8% |
-| Florian Wirtz | 92 | Premier League | 548k coins | -15.7% | +3.4% |
+| Jay-Jay Okocha | 88 | Premier League | 92k coins | +47.2% | +49.6% |
+| Cole Palmer | 88 | Premier League | 469k coins | +47% | +67.5% |
+| Marc Cucurella | 86 | Premier League | 71k coins | +36.5% | +84.4% |
+| Virgil van Dijk | 95 | Premier League | 2.75M coins | +27.7% | +6.1% |
+| Alexis Mac Allister | 89 | Premier League | 22k coins | +25.7% | +31.3% |
+| Martin Ødegaard | 87 | Premier League | 91k coins | +25.5% | -19.5% |
+| Nwankwo Kanu | 86 | Premier League | 29k coins | +24.7% | +157.8% |
+| Granit Xhaka | 89 | Premier League | 60k coins | +24.4% | +10.1% |
+| Federico Chiesa | 86 | Premier League | 181k coins | +20.7% | +13.1% |
+| Cole Palmer | 92 | Premier League | 675k coins | +20.1% | +73.1% |
 
 
-### Análise das baixas
+Jay-Jay Okocha lidera as altas com 47.2% para 92k, seguido de perto por Cole Palmer, que subiu 47% para 469k com probabilidade de alta de 38%. Marc Cucurella e Virgil van Dijk também se destacam, com saltos de 36.5% e 27.7% respectivamente, indicando interesse pontual em essas cartas.
 
-- **Ramires (88)** caiu **-41.8%** em 24h, a **349k coins** (faixa do dia: 350k–694k). Está -13% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 68% de probabilidade.
 
-- **Micah Richards (85)** caiu **-37.7%** em 24h, a **27k coins** (faixa do dia: 25k–43k). Está -8% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+## 🔴 Destaques de queda (24h)
 
-- **James Milner (88)** caiu **-26.7%** em 24h, a **75k coins** (faixa do dia: 65k–97k). Está -14% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 95% de probabilidade.
+| Jogador | OVR | Liga | Preço | 24h | 7d |
+| --- | --- | --- | --- | --- | --- |
+| Ramires | 88 | Premier League | 384k coins | -28.7% | +7.2% |
+| Carlos Baleba | 90 | Premier League | 85k coins | -26.7% | +19.7% |
+| Dominik Szoboszlai | 87 | Premier League | 80k coins | -26.4% | +4.6% |
+| Hugo Ekitiké | 86 | Premier League | 32k coins | -25.8% | +51.7% |
+| Jørgen Strand Larsen | 89 | Premier League | 20k coins | -24.4% | +14% |
+| Lewis Miley | 83 | Premier League | 39k coins | -23.8% | -4.8% |
+| Erling Haaland | 96 | Premier League | 448k coins | -22.5% | -14.5% |
+| Florian Wirtz | 89 | Premier League | 165k coins | -21.4% | +5.6% |
+| Joelinton | 87 | Premier League | 205k coins | -19.6% | +34.8% |
+| Tino Livramento | 85 | Premier League | 30k coins | -18.3% | +2.7% |
+
+
+Ramires sofreu a maior queda de -28.7% para 384k, enquanto Carlos Baleba despencou 26.7% para 85k. Nomes como Dominik Szoboszlai e Hugo Ekitiké também recuaram significativamente, caindo 26.4% e 25.8% respectivamente, refletindo o ajuste de preços em meio à volatilidade.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
+| Gabriel Martinelli | 87 | 76k coins | 88k coins | 95% |
+| Jurriën Timber | 87 | 36k coins | 46k coins | 95% |
+| James Milner | 88 | 76k coins | 90k coins | 95% |
+| Carlos Tévez | 88 | 54k coins | 68k coins | 95% |
+| Mateo Kovačić | 91 | 34k coins | 40k coins | 95% |
+| Jaap Stam | 89 | 94k coins | 108k coins | 95% |
 | Anthony Gordon | 87 | 35k coins | 43k coins | 95% |
-| Rayan Cherki | 85 | 40k coins | 46k coins | 95% |
-| Robin Roefs | 87 | 47k coins | 54k coins | 95% |
-| Jaap Stam | 89 | 102k coins | 117k coins | 95% |
-| Mohamed Salah | 92 | 195k coins | 225k coins | 95% |
-| Lewis Miley | 89 | 47k coins | 56k coins | 95% |
-| Carlos Tévez | 88 | 48k coins | 61k coins | 95% |
-| David Raya | 93 | 104k coins | 123k coins | 95% |
+| Lewis Miley | 89 | 42k coins | 50k coins | 95% |
 
 
-## ⚠️ Cuidado: o modelo projeta queda
+O modelo projeta alta para Gabriel Martinelli, Jurriën Timber e James Milner, todos com 95% de probabilidade de subir. Carlos Tévez, Mateo Kovačić, Jaap Stam, Anthony Gordon e Lewis Miley também compartilham essa forte expectativa de valorização para as próximas horas.
 
-Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite comprar agora:
+
+## ⚠️ Alerta de queda projetada
+
+Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes de comprar:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Ian Maatsen | 89 | 37k coins | -21.4% |
-| Clint Dempsey | 89 | 150k coins | -17.3% |
-| Casemiro | 84 | 47k coins | -17.3% |
-| Jordan Pickford | 86 | 30k coins | -16.7% |
-| Noni Madueke | 86 | 37k coins | -21.3% |
-| Marc Guéhi | 88 | 38k coins | -15.6% |
-| Kevin Schade | 84 | 42k coins | -16.8% |
-| Hugo Ekitiké | 86 | 38k coins | -15.6% |
+| Maxence Lacroix | 87 | 100k coins | -29.2% |
+| Pedro Neto | 88 | 67k coins | -17.5% |
+| Marc Guéhi | 88 | 48k coins | -15.6% |
+| Jay-Jay Okocha | 88 | 92k coins | -23.8% |
+| Casemiro | 84 | 55k coins | -17.3% |
+| Bernardo Silva | 87 | 60k coins | -24.1% |
+| Rayan Aït-Nouri | 90 | 46k coins | -15.6% |
+| Mikkel Damsgaard | 87 | 32k coins | -15.6% |
 
 
-## 📐 Como o FutQuant lê o mercado
+## 🎯 A estratégia do dia
+Dado o mercado lateral, o foco deve ser nas compras de oportunidade nas cartas com alta probabilidade de valorização, como Martinelli e Timber. Evite entrar com força nas altas recentes sem suporte de demanda, e aproveite as quedas de ativos como Ekitiké para acumular se o seu time exigir.
 
-Nossos números vêm de **centenas de milhões de pontos de preço** coletados de múltiplas fontes do mercado do EA FC, atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias de preço** (cotações irreais de cartas extintas ou erros de coleta). As previsões usam um modelo treinado no histórico de cada carta, considerando **médias móveis (24h e 7 dias)**, **níveis de suporte e resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: não só o preço, mas **para onde ele tende a ir**.
+
+## 🧪 De onde vêm estes números
+Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em múltiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Jay-Jay Okocha (88, Premier League), com +50% em 24h, a 95k coins no Console (PS).
+Jay-Jay Okocha (88, Premier League), com +47.2% em 24h, a 92k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Ramires (88), -41.8% em 24h, a 349k coins.
+Ramires (88), -28.7% em 24h, a 384k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Anthony Gordon (87) — 95% de probabilidade de alta, a 35k coins.
+Pelo modelo FutQuant, Gabriel Martinelli (87) — 95% de probabilidade de alta, a 76k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 91 cartas em alta contra 97 em queda (média 0.2%).
+**Como está o mercado do EA FC hoje?**  
+Hoje o mercado está em mercado lateral — sem direção clara, com 81 cartas em alta contra 100 em queda (média -0.85%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
