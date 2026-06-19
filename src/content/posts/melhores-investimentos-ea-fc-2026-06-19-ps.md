@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:06:27.000Z
+pubDatetime: 2026-06-19T22:06:45.000Z
 title: "Melhores investimentos em Premier League no EA FC (19/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Carlos Baleba (90, Premier League) lidera, com +60.3% em 7 dias a 116k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo."
+    a: "Carlos Baleba (90, Premier League) lidera, com +75.6% em 7 dias a 116k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,19 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Carlos Baleba (90) acumula **+60.3% em 7 dias** a 116k coins.
+> 🔝 **Destaque:** Carlos Baleba (90) acumula **+75.6% em 7 dias** a 116k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-A análise do mercado do EA FC Ultimate Team no console PlayStation, datada de 19 de junho de 2026, revela uma dinâmica interessante dentro da Premier League. Ao observar as tendências de valorização dos últimos sete dias, focamos especificamente nas cartas que apresentam maior probabilidade de continuidade na alta, filtrando os dados para identificar oportunidades reais de investimento. O mercado atual exige cautela, pois nem todo aumento de preço em 24 horas se traduz em uma tendência sustentável, sendo crucial analisar a interseção entre o percentual de alta e a probabilidade estatística de manutenção desse crescimento.
+Ao analisarmos o mercado de EA FC Ultimate Team em consoles PlayStation nesta sexta-feira, 19 de junho de 2026, observamos uma dinâmica interessante nas cartas da Premier League, onde a volatilidade dos preços se torna o principal indicador para investidores cautelosos. O foco recai sobre a tendência de valorização de sete dias, um período crucial para identificar ativos que não apenas subiram, mas que mantêm momentum sustentável. Entre os destaques, Mohamed Salah se apresenta como um pilar de estabilidade e crescimento, com sua versão de 92 de Overall registrando um aumento de 18,4% nas últimas 24 horas, atingindo a marca de 220k coins. Com uma probabilidade de alta de 95%, esta carta demonstra uma demanda robusta, sugerindo que investidores com capital mais elevado podem encontrar segurança relativa neste ativo, pois a alta probabilidade indica uma aceitação massiva no mercado de squads competitivos.
 
-Entre as opções de alto custo, Carlos Baleba (90, Premier League) destaca-se com um impressionante aumento de 17,3% em apenas 24 horas, posicionando-se a 116k coins. Embora tenha uma probabilidade de alta de 50%, o valor absoluto e a taxa de crescimento sugerem que ele pode ser uma aposta sólida para quem busca ativos premium com potencial de valorização moderada a alta. Por outro lado, Joelinton (87, Premier League), a 218k coins, mostra um crescimento mais conservador de 5% em 24h, com uma probabilidade de alta de apenas 16%. Isso indica que, apesar do preço elevado, a tendência de valorização imediata é fraca, tornando-o menos atraente para investimentos de curto prazo em comparação com outras opções da liga.
+Paralelamente, a versão de 89 de Overall de Mohamed Salah também merece atenção, embora com um perfil de risco diferente. Com uma alta de 20% em 24 horas e um preço atual de 20k coins, esta carta possui uma probabilidade de alta de 44%. Embora o percentual de crescimento seja ligeiramente superior ao da versão mais cara, a probabilidade significativamente menor sugere que a volatilidade é maior e o suporte do mercado pode ser mais instável. Para investidores de médio porte, esta opção oferece uma entrada de baixo custo, mas exige monitoramento constante, já que a probabilidade de continuação da tendência é apenas moderada, tornando-a uma aposta mais agressiva do que a contraparte de 92.
 
-No segmento de entrada e médio custo, Raúl Jiménez (86, Premier League) apresenta-se como uma das oportunidades mais claras. Com uma alta de 5,9% em 24 horas e uma probabilidade de alta extremamente alta de 95%, sua cotação de 42k coins oferece uma relação risco-retorno atrativa. Da mesma forma, Ledley King (86, Premier League) é uma indicação forte para entrada, com um salto de 21,1% em 24h e 95% de probabilidade de alta, custando apenas 18k coins. Esses dois jogadores combinam baixa volatilidade de preço com alta confiança estatística, sendo ideais para portfólios que buscam segurança e crescimento consistente.
+No segmento de jogadores mais acessíveis, Nico González surge como a oportunidade mais clara para quem busca rentabilidade rápida com baixo risco. A carta de 86 de Overall subiu 10,2% em 24 horas, custando apenas 24k coins, e o dado mais impressionante é sua probabilidade de alta de 95%. Esta combinação de preço baixo e certeza estatística elevada indica que a carta está sendo muito procurada para times de entrada ou rotativas, criando uma pressão de compra constante. Para novos investidores ou aqueles com orçamentos limitados, a entrada em Nico González representa uma das decisões mais racionais do dia, alinhando baixo custo de aquisição com alta expectativa de retorno no curto prazo.
 
-Outra carta que merece atenção imediata é Jeremie Frimpong (86, Premier League). Apesar de estar em um patamar mais elevado de 143k coins, ele registrou um aumento de 9,1% em 24h com a mesma probabilidade de alta de 95% vista em Jiménez e Ledley King. Isso sugere que Frimpong pode ser um ativo de maior valor que está consolidando sua tendência de alta, oferecendo um potencial de retorno significativo para investidores dispostos a alocar mais capital em ativos de maior liquidez e demanda dentro da Premier League.
+Outro nome que se destaca pela consistência é Florian Wirtz. Sua carta de 89 de Overall registrou uma alta de 15,4% em 24 horas, posicionando-se a 195k coins. Com uma probabilidade de alta de 93%, Wirtz consolida-se como um ativo de médio-alto valor com forte respaldo de mercado. A proximidade da probabilidade de 95% com a de Salah e Nico González sugere que a tendência de valorização é sólida e menos sujeita a correções bruscas, tornando-o uma escolha segura para diversificar portfólios que incluem ativos de maior valorização.
 
-Para diversificação, Gilberto Silva (87, Premier League) e Jerzy Dudek (87, Premier League) oferecem perfis distintos. Silva teve uma alta robusta de 34,4% em 24h a 26k coins, mas sua probabilidade de alta é de apenas 5%, indicando um possível pico de momento que pode reverter. Já Dudek, a 30k coins, subiu 6,1% com 83% de probabilidade de alta, apresentando um perfil mais equilibrado e seguro do que Silva, embora com menor potencial explosivo imediato. Igor Jesus (87) e Ryan Christie (90) também mostram sinais positivos, com probabilidades de 68% e 27% respectivamente, mas exigem monitoramento mais atento devido às suas probabilidades intermediárias.
-
-Em resumo, para investidores buscando segurança e tendência confirmada, Raúl Jiménez, Ledley King e Jeremie Frimpong são as escolhas mais robustas devido à sua probabilidade de alta de 95%. Carlos Baleba oferece uma opção de alto valor com risco moderado, enquanto Gilberto Silva e Jerzy Dudek permitem estratégias de entrada de baixo custo, sendo Silva mais especulativa e Dudek mais estável. A gestão desses ativos deve considerar a volatilidade do mercado da Premier League e a confirmação contínua dessas tendências nos dias seguintes.
+Já os demais jogadores listados apresentam perfis de investimento mais complexos ou menos atrativos. Carlos Baleba, com 32,9% de alta e 50% de probabilidade a 116k coins, oferece um retorno potencial alto, mas com risco considerável, ideal apenas para quem tolera oscilações. Joelinton e Andrew Robertson, apesar de estarem em patamares altos de preço (237k e 228k, respectivamente), possuem probabilidades de alta baixas (16%), o que indica que o movimento de preço pode ser efêmero. Por fim, Pascal Groß e Cole Palmer apresentam probabilidades de alta de 8% e 5%, respectivamente, sugerindo que as altas recentes de 10,3% e 4,3% podem ser picos momentâneos sem sustentação, desaconselhando a entrada neste momento específico.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +43,31 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Carlos Baleba | 90 | Premier League | 116k coins | +17.3% | +60.3% | 50% |
-| Joelinton | 87 | Premier League | 218k coins | +5% | +59.7% | 16% |
-| Raúl Jiménez | 86 | Premier League | 42k coins | +5.9% | +50.8% | 95% |
-| Gilberto Silva | 87 | Premier League | 26k coins | +34.4% | +48.3% | 5% |
-| Ledley King | 86 | Premier League | 18k coins | +21.1% | +43.8% | 95% |
-| Igor Jesus | 87 | Premier League | 24k coins | +1.1% | +34.3% | 68% |
-| Omar Marmoush | 87 | Premier League | 74k coins | +2.5% | +26.4% | 42% |
-| Jerzy Dudek | 87 | Premier League | 30k coins | +6.1% | +20.8% | 83% |
-| Jeremie Frimpong | 86 | Premier League | 143k coins | +9.1% | +20% | 95% |
-| Ryan Christie | 90 | Premier League | 45k coins | +12.7% | +17.4% | 27% |
-| Daniel James | 87 | Premier League | 204k coins | +10.6% | +17.1% | 39% |
-| Noni Madueke | 86 | Premier League | 55k coins | +14% | +14.6% | 8% |
-| Ramires | 88 | Premier League | 250k coins | +12.1% | +13.1% | 44% |
-| Casemiro | 84 | Premier League | 48k coins | +5.8% | +12.4% | 5% |
-| Dan Burn | 86 | Premier League | 105k coins | +4.9% | +12.2% | 95% |
+| Carlos Baleba | 90 | Premier League | 116k coins | +32.9% | +75.6% | 50% |
+| Joelinton | 87 | Premier League | 237k coins | +4.3% | +56.8% | 16% |
+| Nico González | 86 | Premier League | 24k coins | +10.2% | +51.6% | 95% |
+| Mohamed Salah | 92 | Premier League | 220k coins | +18.4% | +41.3% | 95% |
+| Mohamed Salah | 89 | Premier League | 20k coins | +20% | +35.5% | 44% |
+| Florian Wirtz | 89 | Premier League | 195k coins | +15.4% | +34.5% | 93% |
+| Pascal Groß | 87 | Premier League | 20k coins | +10.3% | +32.3% | 8% |
+| Andrew Robertson | 86 | Premier League | 228k coins | +8.6% | +22.6% | 16% |
+| Cole Palmer | 89 | Premier League | 170k coins | +4.3% | +21.4% | 5% |
+| Sandro Tonali | 91 | Premier League | 157k coins | +11.4% | +15.6% | 50% |
+| Ramires | 88 | Premier League | 244k coins | +19% | +10.9% | 44% |
+| Joe Cole | 88 | Premier League | 150k coins | +1.3% | +7% | 5% |
 
 
 ## 📈 Análise dos destaques
 
-- **Carlos Baleba (90)** — 116k coins, **+60.3% em 7 dias** (+17.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Carlos Baleba (90)** — 116k coins, **+75.6% em 7 dias** (+32.9% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Joelinton (87)** — 218k coins, **+59.7% em 7 dias** (+5% em 24h). Preço em linha com a média de 7 dias (+7%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Joelinton (87)** — 237k coins, **+56.8% em 7 dias** (+4.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Raúl Jiménez (86)** — 42k coins, **+50.8% em 7 dias** (+5.9% em 24h). Preço em linha com a média de 7 dias (+2%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Nico González (86)** — 24k coins, **+51.6% em 7 dias** (+10.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Gilberto Silva (87)** — 26k coins, **+48.3% em 7 dias** (+34.4% em 24h). Preço +40% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Mohamed Salah (92)** — 220k coins, **+41.3% em 7 dias** (+18.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Ledley King (86)** — 18k coins, **+43.8% em 7 dias** (+21.1% em 24h). Preço em linha com a média de 7 dias (-4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mohamed Salah (89)** — 20k coins, **+35.5% em 7 dias** (+20% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +85,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Carlos Baleba (90, Premier League) lidera, com +60.3% em 7 dias a 116k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo.
+Carlos Baleba (90, Premier League) lidera, com +75.6% em 7 dias a 116k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
