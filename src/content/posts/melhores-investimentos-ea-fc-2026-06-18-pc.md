@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:40:41.000Z
+pubDatetime: 2026-06-19T01:07:14.000Z
 title: "Melhores investimentos em Premier League no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Jerzy Dudek (86, Premier League) lidera, com +76.5% em 7 dias a 29k coins no PC, e o modelo dá 29% de chance de seguir subindo."
+    a: "Patrick Dorgu (84, Premier League) lidera, com +86.8% em 7 dias a 69k coins no PC, e o modelo dá 12% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,19 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Jerzy Dudek (86) acumula **+76.5% em 7 dias** a 29k coins.
+> 🔝 **Destaque:** Patrick Dorgu (84) acumula **+86.8% em 7 dias** a 69k coins.
 
 
 ## 🔎 Análise do mercado hoje
-No cenário atual do Ultimate Team em PC, datado de 18 de junho de 2026, a análise do mercado da Premier League revela oportunidades distintas para investidores atentos às tendências de curto prazo. A volatilidade recente tem sido marcada por movimentos acentuados em cartas específicas, onde a probabilidade de alta nos próximos dias se mostra um indicador crucial para decisões de compra. Ao examinar os dados dos últimos 24 horas, percebe-se que não apenas o percentual de valorização imediata importa, mas sim a convergência entre o aumento recente e a probabilidade estatística de continuidade dessa tendência. O mercado está em um momento sensível, e a seleção criteriosa de ativos é fundamental para maximizar retornos sem expor o capital a riscos desnecessários.
+Ao analisar o mercado do EA FC Ultimate Team em PC nesta segunda-feira, 18 de junho de 2026, o foco principal deve recair sobre as cartas da Premier League que apresentam indícios claros de valorização nos últimos sete dias. O cenário atual indica uma volatilidade interessante, onde jogadores com diferentes perfis de preço estão reagindo às dinâmicas de oferta e demanda. Para quem busca lucros rápidos ou a construção de um squad competitivo sem quebrar o banco, identificar quais ativos estão em tendência de alta é crucial. Os dados mais recentes revelam que vários atletas, tanto estrelas consagradas quanto nomes emergentes, estão registrando aumentos significativos em suas cotações, oferecendo oportunidades tangíveis para investidores atentos às movimentações de mercado das últimas 24 horas.
 
-Entre as opções mais promissoras, o meio-campista Mateo Kovačić se destaca com uma valorização expressiva de 26,1% em apenas 24 horas, atingindo o preço de 46k coins. Com uma probabilidade de alta de 41%, esta carta de 91 rating demonstra uma força de mercado robusta, sugerindo que a demanda por seu perfil técnico está superando a oferta momentânea. Para investidores que buscam equilíbrio entre risco e retorno, Kovačić representa uma entrada sólida, pois o impulso recente é significativo o suficiente para indicar interesse sustentado da comunidade, sem os preços exorbitantes de cartas lendárias ou de evento limitado.
+Entre as opções de maior risco e recompensa, Adam Wharton se destaca como uma das apostas mais sólidas do momento. A carta de 88 de rating, pertencente à Premier League, registrou um impressionante aumento de 40% em apenas 24 horas, atingindo a marca de 35 mil coins. O que torna essa entrada particularmente atraente é a probabilidade de alta de 76%, o maior índice observado no grupo analisado. Essa combinação de crescimento recente acelerado com uma alta probabilidade estatística de continuação da tendência sugere que Wharton está em um momento de forte demanda, possivelmente devido a atualizações de forma ou promoções específicas do jogo que elevaram seu perfil.
 
-Outro nome que merece atenção imediata é Omar Marmoush, cuja carta de 87 rating subiu 7,8% em 24 horas, posicionando-se em 90k coins. O dado mais relevante aqui é a probabilidade de alta de 48%, a segunda mais alta entre as cartas analisadas. Isso indica que, embora o movimento percentual recente não seja o maior da lista, a expectativa de mercado é fortemente positiva. A combinação de um preço acessível relativamente à sua qualidade e uma alta probabilidade de apreciação futura torna Marmoush um candidato interessante para quem deseja montar uma reserva de valor com menor volatilidade inicial.
+No segmento de valores mais elevados, Dominik Szoboszlai apresenta uma trajetória robusta. A carta de 87 de rating subiu 24% em um dia, posicionando-se aos 150 mil coins. Embora a probabilidade de alta seja de 33%, o volume de transação e a estabilidade do preço indicam que ele é um ativo de segurança relativa para investidores com maior capital. Ao lado dele, Bruno Fernandes também merece atenção. Com 88 de rating, sua cotação disparou 26.3% nas últimas 24 horas, chegando a 55 mil coins. A probabilidade de alta de 29% reforça a ideia de que o meia português está em uma fase de valorização consistente, atraindo tanto jogadores para squads quanto especuladores.
 
-Para os investidores com maior apetite de risco e capital disponível, Dominik Szoboszlai oferece duas oportunidades distintas. A versão de 87 rating, que disparou 22,3% em 24 horas para 150k coins, possui uma probabilidade de alta de 33%, refletindo o momentum agressivo do momento. Já a versão de 90 rating, a 180k coins, teve um crescimento mais moderado de 6,5%, mas apresenta a maior probabilidade de alta da lista, com 64%. Esta última sugere uma base de compradores mais firme e menos sujeita a flutuações bruscas de venda, sendo uma aposta mais conservadora no segmento de alto custo.
+Para quem opera com orçamentos mais enxutos, Erling Haaland oferece uma oportunidade única de liquidez. A carta de 91 de rating, um dos nomes mais fortes do jogo, registrou alta de 24.1% em 24 horas e está cotada a apenas 18 mil coins. Com probabilidade de alta de 34%, o atacante norueguês representa uma entrada de baixo risco financeiro, permitindo que os jogadores adquiram um ícone da Premier League com margem de lucro potencial. Da mesma forma, Patrick Dorgu, com 84 de rating, subiu 12.8% para 69 mil coins, mantendo uma probabilidade de alta de 12%, o que o coloca como uma opção secundária interessante para diversificação.
 
-No segmento de baixo custo, Jerzy Dudek e Elliot Anderson apresentam perfis interessantes. Dudek, na versão de 86 rating a 29k coins, subiu 15,4% com 29% de probabilidade de alta, enquanto sua versão de 87 rating a 45k coins cresceu 13,6% com a mesma probabilidade. Elliot Anderson, a 33k coins, teve alta de 14,5% e 36% de probabilidade de continuidade. Estas cartas são ideais para diversificar portfólios menores, aproveitando a liquidez de itens de baixo preço que tendem a se valorizar em ondas rápidas.
-
-Por fim, vale notar Hugo Ekitiké e Jérémy Doku. Ekitiké (90 rating) teve alta modesta de 3,2%, mas com a probabilidade de alta mais alta do grupo (55%), a 78k coins, indicando potencial de acumulação silenciosa. Doku (84 rating), a 148k coins, subiu 6,2% com 18% de probabilidade, o que o torna menos atraente para investimento imediato comparado aos demais. A estratégia recomendada foca em Kovačić e Marmoush por equilíbrio, e Szoboszlai (90) para segurança em alto valor, evitando cartas com baixa probabilidade de continuidade apesar de altas recentes.
+Outros nomes como Omar Marmoush (87 rating, 84k coins, alta de 7.8% e probabilidade de 48%) e Douglas Luiz (90 rating, 53k coins, alta de 17.1% e probabilidade de 79%) completam o quadro de ativos promissores. A alta probabilidade de valorização de Douglas Luiz, em especial, sinaliza uma tendência de longo prazo mais sólida. Por fim, cartas como Jerzy Dudek (86 rating, 30k coins) e Hugo Ekitiké (86 rating, 35k coins) oferecem entradas acessíveis com probabilidades de alta de 29% e 53%, respectivamente, permitindo estratégias de giro rápido. Em resumo, o mercado da Premier League em 18/06/2026 premia a análise fria, com Adam Wharton e Douglas Luiz se destacando como as melhores entradas devido às suas elevadas probabilidades de continuidade da valorização.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +43,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jerzy Dudek | 86 | Premier League | 29k coins | +15.4% | +76.5% | 29% |
-| Dominik Szoboszlai | 87 | Premier League | 150k coins | +22.3% | +69.1% | 33% |
-| Elliot Anderson | 86 | Premier League | 33k coins | +14.5% | +63.4% | 36% |
-| Jérémy Doku | 84 | Premier League | 148k coins | +6.2% | +61.9% | 18% |
-| Nathan Collins | 85 | Premier League | 33k coins | +4.5% | +56.8% | 24% |
-| Omar Marmoush | 87 | Premier League | 90k coins | +7.8% | +52.5% | 48% |
-| Hugo Ekitiké | 90 | Premier League | 78k coins | +3.2% | +48.1% | 55% |
-| Mateo Kovačić | 91 | Premier League | 46k coins | +26.1% | +46.2% | 41% |
-| Dominik Szoboszlai | 90 | Premier League | 180k coins | +6.5% | +33.3% | 64% |
-| Jerzy Dudek | 87 | Premier League | 45k coins | +13.6% | +29.9% | 29% |
-| Aaron Wan-Bissaka | 89 | Premier League | 50k coins | +13.6% | +24.2% | 24% |
-| Cristian Romero | 86 | Premier League | 70k coins | +11.1% | +20.7% | 47% |
-| Dan Burn | 86 | Premier League | 100k coins | +9.3% | +19.8% | 44% |
-| Harry Wilson | 88 | Premier League | 34k coins | +15.1% | +19.1% | 66% |
-| Jeremie Frimpong | 86 | Premier League | 205k coins | +21.3% | +13.9% | 12% |
+| Patrick Dorgu | 84 | Premier League | 69k coins | +12.8% | +86.8% | 12% |
+| Adam Wharton | 88 | Premier League | 35k coins | +40% | +77.2% | 76% |
+| Dominik Szoboszlai | 87 | Premier League | 150k coins | +24% | +71.4% | 33% |
+| Jerzy Dudek | 86 | Premier League | 30k coins | +16% | +70.6% | 29% |
+| Hugo Ekitiké | 86 | Premier League | 35k coins | +2.9% | +66.7% | 53% |
+| Erling Haaland | 91 | Premier League | 18k coins | +24.1% | +56.5% | 34% |
+| Omar Marmoush | 87 | Premier League | 84k coins | +7.8% | +52.5% | 48% |
+| Douglas Luiz | 90 | Premier League | 53k coins | +17.1% | +51.4% | 79% |
+| Elliot Anderson | 86 | Premier League | 30k coins | +1.7% | +45.1% | 36% |
+| Bruno Fernandes | 88 | Premier League | 55k coins | +26.3% | +37.1% | 29% |
+| David Raya | 93 | Premier League | 94k coins | +26.8% | +35% | 65% |
+| Dominik Szoboszlai | 90 | Premier League | 180k coins | +7.8% | +33.3% | 64% |
+| Morgan Rogers | 87 | Premier League | 85k coins | +1.2% | +30.8% | 54% |
+| Park Ji Sung | 86 | Premier League | 37k coins | +4.3% | +28.9% | 57% |
+| Ole Gunnar Solskjær | 88 | Premier League | 24k coins | +11.6% | +26.3% | 50% |
 
 
 ## 📈 Análise dos destaques
 
-- **Jerzy Dudek (86)** — 29k coins, **+76.5% em 7 dias** (+15.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Patrick Dorgu (84)** — 69k coins, **+86.8% em 7 dias** (+12.8% em 24h). Preço em linha com a média de 7 dias (-8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Dominik Szoboszlai (87)** — 150k coins, **+69.1% em 7 dias** (+22.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Adam Wharton (88)** — 35k coins, **+77.2% em 7 dias** (+40% em 24h). Preço +48% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **76% de chance de seguir subindo**.
 
-- **Elliot Anderson (86)** — 33k coins, **+63.4% em 7 dias** (+14.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Dominik Szoboszlai (87)** — 150k coins, **+71.4% em 7 dias** (+24% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jérémy Doku (84)** — 148k coins, **+61.9% em 7 dias** (+6.2% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jerzy Dudek (86)** — 30k coins, **+70.6% em 7 dias** (+16% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Nathan Collins (85)** — 33k coins, **+56.8% em 7 dias** (+4.5% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Hugo Ekitiké (86)** — 35k coins, **+66.7% em 7 dias** (+2.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Jerzy Dudek (86, Premier League) lidera, com +76.5% em 7 dias a 29k coins no PC, e o modelo dá 29% de chance de seguir subindo.
+Patrick Dorgu (84, Premier League) lidera, com +86.8% em 7 dias a 69k coins no PC, e o modelo dá 12% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

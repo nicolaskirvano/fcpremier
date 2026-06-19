@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:40:43.000Z
+pubDatetime: 2026-06-19T01:07:16.000Z
 title: "Jogadores baratos de Premier League no EA FC (18/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 18/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/06/2026)?"
-    a: "Alexander Isak (88, Premier League) aparece como melhor custo-benefício, a 6k coins no PC."
+    a: "Alexander Isak (88, Premier League) aparece como melhor custo-benefício, a 5k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Alexander Isak (88) por apenas 6k coins.
+> 💰 **Melhor pechincha:** Alexander Isak (88) por apenas 5k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,29 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexander Isak | 88 | ST | Premier League | 6k coins | +119.2% |
-| Emiliano Martínez | 87 | GK | Premier League | 4k coins | +184.6% |
-| Dimitar Berbatov | 87 | ST | Premier League | 11k coins | +2.3% |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | +9.1% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | -3.3% |
-| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | 0% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 12k coins | +9.3% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | +2.2% |
-| John Arne Riise | 86 | LB | Premier League | 12k coins | -12.7% |
-| Robbie Keane | 86 | ST | Premier League | 14k coins | 0% |
+| Alexander Isak | 88 | ST | Premier League | 5k coins | +115.4% |
+| Joe Cole | 87 | RW | Premier League | 11k coins | -10% |
+| Steve McManaman | 87 | RM | Premier League | 11k coins | +9.1% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | -6.5% |
+| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | -4.4% |
+| Tomáš Rosický | 86 | CAM | Premier League | 11k coins | -27.9% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | +9.3% |
+| John Arne Riise | 86 | LB | Premier League | 12k coins | -14.5% |
+| Robbie Keane | 86 | ST | Premier League | 13k coins | -14.5% |
 
 
 ## 📈 Destaques
 
-- **Alexander Isak (88, ST)** da Premier League, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
+- **Alexander Isak (88, ST)** da Premier League, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Emiliano Martínez (87, GK)** da Premier League, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Joe Cole (87, RW)** da Premier League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
+- **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
 
-- **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
+- **Jamie Carragher (86, CB)** da Premier League, a apenas **11k coins**
 
-- **Joe Cole (87, RW)** da Premier League, a apenas **14k coins**
+- **Freddie Ljungberg (86, LM)** da Premier League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -68,7 +67,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/06/2026)?**  
-Alexander Isak (88, Premier League) aparece como melhor custo-benefício, a 6k coins no PC.
+Alexander Isak (88, Premier League) aparece como melhor custo-benefício, a 5k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
