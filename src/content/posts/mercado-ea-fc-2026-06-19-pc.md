@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:06:49.000Z
+pubDatetime: 2026-06-19T19:07:36.000Z
 title: "Premier League no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Bruno Guimarães (89, Premier League), com +50% em 24h, a 38k coins no PC."
+    a: "Marc Cucurella (86, Premier League), com +56.4% em 24h, a 48k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Granit Xhaka (89), -49.7% em 24h, a 38k coins."
+    a: "Jérémy Doku (84), -49.1% em 24h, a 77k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 93 cartas em alta contra 76 em queda (média 1.71%)."
+    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 92 cartas em alta contra 96 em queda (média -0.57%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado da Premier League em PC exibe um cenário de forte viés comprador nesta segunda-feira, 19 de junho de 2026, com uma dinâmica que favorece claramente a aquisição de ativos antes de eventuais correções ou consolidamentos de preços. A análise do fluxo de negociação revela uma assimetria significativa na direção dos preços, onde 93 ativos registraram alta em suas cotações nas últimas 24 horas, contra apenas 76 que sofreram quedas, resultando em uma média de variação positiva de 1.71% para o segmento. Este desequilíbrio sugere que a demanda por titulares e estrelas de alto rendimento está superando a oferta disponível, pressionando os valores para cima em um ambiente onde a liquidez parece estar concentrada em poucos nomes de destaque. Traders experientes devem interpretar esse sinal de 'clima comprador' não como uma corrida irracional, mas como uma oportunidade de entrada estratégica em ativos fundamentais que ainda não atingiram seus picos históricos, especialmente considerando a probabilidade estatística de continuidade nas altas para os principais nomes. A volatilidade intradiária está contida, mas a tendência estrutural aponta para valorização, exigindo atenção redobrada aos movimentos de volume que podem indicar a saturação iminente de certas carteiras de investimento.
+O cenário do mercado da Premier League para o dia 19 de junho de 2026 apresenta uma dinâmica de equilíbrio quase perfeito, com um sentimento de mercado de lado que reflete a hesitação dos traders em assumir posições de risco excessivo em um ambiente de volatilidade controlada. Os dados indicam uma distribuição simétrica entre as forças de compra e venda, com 92 jogadores registrando altas significativas contra 96 jogadores sofrendo quedas, resultando em uma variação média de apenas -0.57% nas últimas 24 horas, o que sugere que não há uma narrativa dominante de hype ou pânico generalizado. Este contexto de estabilidade relativa exige uma abordagem cirúrgica por parte dos analistas, focando nos movimentos idiossincráticos de ativos específicos em vez de tendências macro do mercado, já que a correlação entre os preços está diluída pela falta de grandes eventos de calendário que impulsionariam a demanda coletiva. A probabilidade de alta para a maioria dos ativos permanece em níveis moderados, indicando que os movimentos observados são mais reativos a mudanças imediatas na oferta e demanda do que a expectativas de longo prazo, o que cria oportunidades de arbitragem rápida para quem monitora as flutuações em tempo real. Portanto, a estratégia do dia deve ser baseada na identificação de desvios de preço em relação à média histórica, aproveitando a liquidez existente em ativos que estão sendo negociados abaixo ou acima de seu valor intrínseco percebido pela comunidade de trading.
 
-> 🟢 **Maior alta:** Bruno Guimarães (89) **+50%** · 🔴 **Maior baixa:** Granit Xhaka (89) **-49.7%**
+> 🟢 **Maior alta:** Marc Cucurella (86) **+56.4%** · 🔴 **Maior baixa:** Jérémy Doku (84) **-49.1%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bruno Guimarães | 89 | Premier League | 38k coins | +50% | +51.5% |
-| Cody Gakpo | 89 | Premier League | 171k coins | +42.5% | +22.1% |
-| Carlos Baleba | 90 | Premier League | 109k coins | +41.6% | +30.5% |
-| Marc Cucurella | 86 | Premier League | 50k coins | +38.4% | 0% |
-| Federico Chiesa | 86 | Premier League | 225k coins | +35.5% | -6.2% |
-| Hugo Ekitiké | 90 | Premier League | 79k coins | +31.7% | +14.5% |
-| Xavi Simons | 88 | Premier League | 55k coins | +29.5% | +23.2% |
-| Oscar Bobb | 88 | Premier League | 36k coins | +29.5% | +23.9% |
-| Anthony Gordon | 88 | Premier League | 483k coins | +28.5% | -0.4% |
-| Jerzy Dudek | 87 | Premier League | 90k coins | +27.7% | +7.8% |
+| Marc Cucurella | 86 | Premier League | 48k coins | +56.4% | -5.5% |
+| Ramires | 88 | Premier League | 270k coins | +51.9% | -3.1% |
+| Nico González | 86 | Premier League | 40k coins | +47.2% | +40.9% |
+| Erling Haaland | 92 | Premier League | 250k coins | +46.9% | +39.1% |
+| Tijjani Reijnders | 93 | Premier League | 740k coins | +42.9% | +36.9% |
+| Tomas Brolin | 89 | Premier League | 38k coins | +41.5% | +54.6% |
+| Cody Gakpo | 89 | Premier League | 171k coins | +39.2% | +19.3% |
+| Xavi Simons | 88 | Premier League | 50k coins | +32.9% | +23.2% |
+| Declan Rice | 89 | Premier League | 42k coins | +30.8% | +1.2% |
+| Gilberto Silva | 87 | Premier League | 23k coins | +29.3% | +124.5% |
 
 
-A liderança das altas é dominada por Bruno Guimarães, cuja carta de 89 rating disparou 50% em 24 horas, atingindo a marca de 38k coins, um movimento robusto sustentado por uma probabilidade de alta futura estimada em 71%, o que indica forte confiança do mercado em sua valorização contínua. Em contraste, Cody Gakpo apresentou um salto de 42.5% para 171k coins, demonstrando que mesmo ativos de alto valor absoluto podem experimentar ganhos percentuais significativos quando a probabilidade de alta se mantém em níveis moderados de 51%, atraindo investidores de maior capital. Carlos Baleba, com um rating de 90, subiu 41.6% para 109k coins, embora sua probabilidade de alta futura seja mais baixa, em 20%, o que sugere que este movimento pode ser uma correção técnica ou uma reação pontual a eventos de jogo, exigindo cautela na entrada. Marc Cucurella, à venda por 50k coins, registrou alta de 38.4% com uma probabilidade de continuidade de apenas 23%, caracterizando-se como um ativo de risco elevado onde o lucro pode ser rápido, mas a sustentabilidade é duvidosa sem novos catalisadores. Federico Chiesa, o ativo mais caro desta lista, subiu 35.5% para 225k coins, mas sua probabilidade de alta é marginal, de apenas 6%, indicando que o mercado pode estar exaurido em sua capacidade de valorização imediata, tornando-o um candidato para venda em vez de compra.
+Entre os ativos que registraram as maiores altas, destaca-se o movimento espetacular de Marc Cucurella, cuja carta de rating 86 subiu 56.4% em 24 horas, atingindo o preço de 48k coins, embora a probabilidade de alta permaneça cautelosa em 23%, sugerindo que este pode ser um pico de curto prazo impulsionado por uma escassez momentânea de ofertas. Ramires, com um rating de 88, apresentou uma alta robusta de 51.9%, chegando a 270k coins, e com uma probabilidade de alta de 40%, este movimento indica uma possível acumulação de traders que visam o uso em squads específicos ou uma expectativa de demanda futura baseada em seu desempenho ou raridade. Nico González, outro nome de rating 86, acompanhou essa tendência com uma alta de 47.2%, posicionando-se em 40k coins e com 26% de probabilidade de alta, o que pode estar relacionado a uma correção de preço após uma queda anterior ou a um aumento na demanda para equipes orçamentárias da Premier League. O astro Erling Haaland, em sua versão de rating 92, registrou um aumento de 46.9% para 250k coins, com uma probabilidade de alta de 30%, refletindo a resiliência de ativos de elite que tendem a se recuperar rapidamente de qualquer queda devido à demanda constante de equipes competitivas. Tijjani Reijnders, com um impressionante rating de 93, subiu 42.9% para 740k coins e possui a maior probabilidade de alta deste grupo em 39%, indicando que traders de alto nível estão acumulando este ativo de alto valor, possivelmente em antecipação a eventos futuros ou pela sua utilidade em squads de alta dificuldade. A combinação desses movimentos sugere que o capital está fluindo para ativos com ratings elevados e utilidade comprovada, mesmo em um mercado lateralizado, criando bolsões de oportunidade para quem consegue entrar cedo nessas tendências ascendentes antes da saturação da oferta.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Granit Xhaka | 89 | Premier League | 38k coins | -49.7% | -42.7% |
-| Luke Shaw | 86 | Premier League | 42k coins | -36.8% | 0% |
-| Steve McManaman | 89 | Premier League | 42k coins | -33.3% | -33.3% |
-| Senne Lammens | 88 | Premier League | 54k coins | -30.7% | -4.6% |
-| Lewis Hall | 89 | Premier League | 38k coins | -29.6% | -34.5% |
-| Morgan Rogers | 87 | Premier League | 64k coins | -24.1% | -20.4% |
-| Antoine Semenyo | 83 | Premier League | 55k coins | -23.6% | -0.9% |
-| Jerzy Dudek | 86 | Premier League | 22k coins | -23.3% | +35.3% |
-| Dominik Szoboszlai | 87 | Premier League | 191k coins | -21.7% | +41.4% |
-| Virgil van Dijk | 95 | Premier League | 4.02M coins | -19.5% | +31.6% |
+| Jérémy Doku | 84 | Premier League | 77k coins | -49.1% | -35% |
+| Erling Haaland | 91 | Premier League | 60k coins | -45.9% | -37.7% |
+| Nick Woltemade | 90 | Premier League | 84k coins | -39.6% | -39.6% |
+| Steve McManaman | 89 | Premier League | 42k coins | -38.7% | -34.9% |
+| Bruno Fernandes | 88 | Premier League | 36k coins | -36% | -7.6% |
+| Gianluigi Donnarumma | 95 | Premier League | 960k coins | -29.9% | -10.8% |
+| Antoine Semenyo | 83 | Premier League | 48k coins | -29.9% | 0% |
+| Kevin Schade | 88 | Premier League | 45k coins | -28.6% | -21.1% |
+| Mateo Kovačić | 91 | Premier League | 32k coins | -27.7% | +2.3% |
+| Aaron Wan-Bissaka | 89 | Premier League | 40k coins | -27.5% | -9.4% |
 
 
-Do lado oposto, Granit Xhaka lidera as quedas com uma queda brutal de 49.7% em 24 horas, caindo para 38k coins, apesar de uma probabilidade de alta futura ainda elevada de 63%, o que sugere uma correção excessiva e uma potencial oportunidade de compra agressiva para traders dispostos a assumir risco. Luke Shaw, também de 86 rating, despencou 36.8% para 42k coins, com uma probabilidade de alta de 56%, indicando que a queda pode ser temporária e que o ativo encontra-se em uma zona de valor relativo atrativa para reposição de inventário. Steve McManaman, uma carta de 89 rating, caiu 33.3% para 42k coins, e com uma probabilidade de alta de 77%, apresenta-se como um dos ativos mais subvalorizados do momento, onde o consenso do mercado espera uma recuperação significativa nos próximos ciclos. Senne Lammens, à venda por 54k coins, registrou queda de 30.7% com probabilidade de alta de 58%, reforçando a tese de que defensores de médio custo estão sofrendo pressão de venda, possivelmente devido a mudanças na meta ou rotatividade de elencos competitivos. Lewis Hall, com 89 rating, caiu 29.6% para 38k coins, e sua probabilidade de alta de 64% confirma que a queda foi desproporcional ao seu valor intrínseco, criando uma divergência clara entre preço atual e expectativa de mercado que traders ágeis podem explorar para ganhos de curto prazo.
+Na outra ponta do espectro, as quedas mais acentuadas foram registradas por Jérémy Doku, cuja carta de rating 84 despencou 49.1% em 24 horas, caindo para 77k coins, e com uma baixa probabilidade de alta de apenas 18%, o que sinaliza uma possível saturação do mercado ou perda de interesse devido a fatores externos como lesões ou desempenho em jogo. Erling Haaland, em sua variante de rating 91, também sofreu uma queda significativa de 45.9%, atingindo 60k coins, com uma probabilidade de alta de 17%, o que pode indicar uma divergência de valor entre suas diferentes cartas ou uma venda massiva por parte de traders que estão liquidando posições para capturar lucros ou minimizar perdas. Nick Woltemade, com rating 90, caiu 39.6% para 84k coins, mas apresenta uma probabilidade de alta de 50%, sugerindo que esta queda pode ser uma oportunidade de compra para traders contrarian que acreditam na recuperação do preço devido à sua alta utilidade em squads. Steve McManaman, de rating 89, registrou uma queda de 38.7% para 42k coins, mas com uma probabilidade de alta extremamente alta de 77%, o que aponta para uma forte expectativa de recuperação imediata, possivelmente devido a uma sobreoferta temporária que está sendo rapidamente absorvida pela demanda. Bruno Fernandes, com rating 88, caiu 36% para 36k coins, mantendo uma probabilidade de alta de 29%, o que indica uma correção moderada em um ativo de uso comum, onde a oferta aumentou ligeiramente acima da demanda, mas sem sinais de colapso estrutural no preço. Esses movimentos de baixa, especialmente nos ativos com alta probabilidade de recuperação como McManaman e Woltemade, devem ser monitorados de perto, pois podem representar pontos de entrada ideais para estratégias de swing trading que visam capitalizar na reversion à média dos preços.
 
 
 ## 🎯 Conclusão do dia
-A estratégia recomendada para hoje é focar na compra seletiva dos ativos que apresentaram quedas severas com alta probabilidade de recuperação, especificamente Granit Xhaka e Steve McManaman, que oferecem o melhor risco-retorno baseado nos dados de probabilidade de alta de 63% e 77%, respectivamente. Deve-se evitar a compra agressiva de Bruno Guimarães e Cody Gakpo no pico atual, pois embora as altas sejam impressionantes, a probabilidade de continuidade já está incorporada nos preços de 38k e 171k, aumentando o risco de correção imediata. Traders devem considerar a venda de Federico Chiesa e Carlos Baleba, cujas probabilidades de alta são baixas (6% e 20%), realizando lucros em ativos que já se valorizaram significativamente e não apresentam indicadores estatísticos de continuidade de tendência. O timing ideal para entrada nas quedas é nas próximas horas, aproveitando a inércia da venda em ativos como Luke Shaw e Lewis Hall, onde a probabilidade de alta superior a 55% sugere que o preço de 42k e 38k é insustentável a longo prazo. Mantenha a liquidez para oportunidades de 'dip buying' em ativos de 86 a 89 rating, evitando expor capital excessivo em ativos de rating inferior a 85, como Antoine Semenyo e Jerzy Dudek, que apresentam probabilidades de alta inferiores a 30%, indicando fraqueza estrutural no interesse do mercado.
+Diante deste cenário de mercado lateralizado com oportunidades pontuais, a estratégia recomendada para o dia 19 de junho de 2026 é focar na compra seletiva de ativos que apresentam altas probabilidades de recuperação após quedas acentuadas, como Steve McManaman e Nick Woltemade, cujos preços atuais de 42k e 84k respectivamente oferecem margens de segurança atraídas para traders de médio prazo. Simultaneamente, é prudentevitar posições longas em ativos com altas recentes desprovidas de suporte de probabilidade, como Marc Cucurella, que apesar de sua alta de 56.4%, possui apenas 23% de chance de continuar subindo, indicando risco de reversão imediata. Para traders de alto capital, a acumulação gradual de Tijjani Reijnders e Ramires pode ser viável, dada a sua alta probabilidade de alta e utilidade em squads premium, mas deve ser feita com ordens limitadas para mitigar o risco de comprar no topo de um movimento efêmero. A venda de ativos com quedas pronunciadas e baixa probabilidade de recuperação, como Jérémy Doku, deve ser considerada para liberar capital e reduzir a exposição a ativos em tendência de baixa estrutural, enquanto a manutenção de posições estáveis em ativos de elite como Haaland (rating 92) deve ser avaliada com base na necessidade de liquidez imediata. O timing é crucial neste mercado equilibrado, pois a falta de um direcionamento claro significa que os movimentos de preço são mais voláteis e menos sustentáveis, exigindo que os traders tenham a disciplina para sair das posições assim que os alvos de lucro forem atingidos ou se a probabilidade de alta começar a diminuir. Em resumo, a chave para o sucesso hoje é a seletividade extrema, focando nos poucos ativos que oferecem uma combinação clara de preço descontado e alta probabilidade estatística de valorização, evitando a tentação de perseguir altas rápidas que podem se revelar armadilhas de liquidez.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -77,13 +77,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Bruno Guimarães (89, Premier League), com +50% em 24h, a 38k coins no PC.
+Marc Cucurella (86, Premier League), com +56.4% em 24h, a 48k coins no PC.
 
 **E a maior queda do dia?**  
-Granit Xhaka (89), -49.7% em 24h, a 38k coins.
+Jérémy Doku (84), -49.1% em 24h, a 77k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 93 cartas em alta contra 76 em queda (média 1.71%).
+Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 92 cartas em alta contra 96 em queda (média -0.57%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
