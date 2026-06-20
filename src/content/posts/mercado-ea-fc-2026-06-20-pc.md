@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T13:07:06.000Z
+pubDatetime: 2026-06-20T16:06:50.000Z
 title: "Premier League no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Luke Shaw (86, Premier League), com +53.3% em 24h, a 46k coins no PC."
+    a: "Marc Guéhi (88, Premier League), com +52.5% em 24h, a 46k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Florian Wirtz (92), -46% em 24h, a 882k coins."
+    a: "Florian Wirtz (92), -48.9% em 24h, a 705k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 69 cartas em alta contra 121 em queda (média -5.95%)."
+    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 61 cartas em alta contra 102 em queda (média -1.94%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado da Premier League em PC apresenta um cenário de extrema cautela para o dia 20 de junho de 2026, caracterizado por uma pressão vendedora significativa que domina as negociações. Com uma média de queda de -5.95% nas últimas 24 horas e um saldo negativo expressivo de 121 quedas contra apenas 69 altas, o sentimento geral é de descompressão de ativos sobrevalorizados ou ajuste de expectativas pós-eventos. O trader experiente deve observar que essa volatilidade negativa não é aleatória, mas sim um reflexo de liquidez sendo retirada de carteiras em busca de segurança ou realocação para oportunidades de SBCs iminentes. A predominância das quedas sugere que a maioria dos jogadores está sendo negociada com desconto, criando oportunidades de compra para quem possui paciência e capital para operar no contraciclo. É fundamental manter os olhos nos indicadores de probabilidade de alta, pois em um mercado tão pressionado, qualquer ativo que demonque resiliência pode ser um sinalizador forte de tendência reversa. O tom do dia exige disciplina rígida, evitando impulsividade em compras de ativos em queda livre sem confirmação de suporte.
+O cenário do mercado da Premier League para PC nesta terça-feira, 20 de junho de 2026, é caracterizado por uma pressão vendedora intensa e uma predominância clara de quedas nos preços, refletindo um sentimento de cautela e liquidificação em curso entre os traders. Com um balanço negativo expressivo de 102 quedas contra apenas 61 altas no último período de 24 horas, a média geral dos ativos registrou uma desvalorização de 1.94%, sinalizando que a liquidez está sendo absorvida rapidamente por oportunidades de venda e não por demanda de compra. Este contexto de mercado pressionado exige que os operadores evitem impulsividade em compras de alta e foquem na identificação de ativos que estão sendo vendidos em pânico, especialmente aqueles com fundamentos sólidos mas precificação momentaneamente distorcida. A volatilidade observada não é aleatória, mas sim estrutural, onde a maioria dos jogadores está sofrendo com a falta de volume comprador consistente, forçando os traders a agirem com precisão cirúrgica para capturar valor em meio ao caos. Entender que a tendência principal é de baixa permite filtrar ruídos e identificar as poucas exceções que estão subindo, geralmente impulsionadas por eventos específicos ou escassez temporária de oferta, enquanto a maioria dos ativos de alto custo sofre com a saída de capital do mercado.
 
-> 🟢 **Maior alta:** Luke Shaw (86) **+53.3%** · 🔴 **Maior baixa:** Florian Wirtz (92) **-46%**
+> 🟢 **Maior alta:** Marc Guéhi (88) **+52.5%** · 🔴 **Maior baixa:** Florian Wirtz (92) **-48.9%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Luke Shaw | 86 | Premier League | 46k coins | +53.3% | +53.3% |
-| Nico González | 86 | Premier League | 34k coins | +51.1% | +54.5% |
-| Marc Guéhi | 88 | Premier League | 48k coins | +39.7% | +26.7% |
-| Ramires | 88 | Premier League | 529k coins | +34.6% | -3.8% |
-| Ramires | 88 | Premier League | 235k coins | +32.6% | -15.8% |
-| Igor Jesus | 87 | Premier League | 30k coins | +32.2% | +6.2% |
-| Erling Haaland | 96 | Premier League | 839k coins | +32.1% | +44.7% |
-| Mohamed Salah | 89 | Premier League | 25k coins | +31.6% | +75.4% |
-| Mohamed Salah | 92 | Premier League | 232k coins | +28.9% | +0.9% |
-| Xavi Simons | 91 | Premier League | 109k coins | +26% | +40.6% |
+| Marc Guéhi | 88 | Premier League | 46k coins | +52.5% | +23.6% |
+| Igor Jesus | 87 | Premier League | 28k coins | +45.6% | +17% |
+| Nick Woltemade | 90 | Premier League | 120k coins | +42% | +13.2% |
+| Alejandro Garnacho | 89 | Premier League | 282k coins | +41% | -5.1% |
+| William Saliba | 90 | Premier League | 480k coins | +38.3% | +1.1% |
+| Harvey Barnes | 84 | Premier League | 40k coins | +36.2% | +2.6% |
+| Federico Chiesa | 86 | Premier League | 270k coins | +33.3% | +13.8% |
+| Maxence Lacroix | 87 | Premier League | 124k coins | +25.9% | +5.1% |
+| Ramires | 88 | Premier League | 531k coins | +25.8% | -2.4% |
+| Omar Marmoush | 87 | Premier League | 84k coins | +25.7% | +29.4% |
 
 
-Entre as poucas luzes neste mar de vermelhos, destaca-se o movimento robusto de Luke Shaw, cuja carta de 86 rating subiu 53.3% em 24 horas, atingindo a marca de 46k coins, um movimento apoiado por uma alta probabilidade de continuidade de 56%, indicando forte demanda específica para SBCs de defesa ou esquemas de Premier League. Nico González também surpreende com uma alta de 51.1% em 24 horas, chegando a 34k coins, embora sua probabilidade de alta de apenas 26% sugira que este movimento pode ser mais especulativo e de curto prazo, possivelmente ligado a um evento de squad refresh ou demanda momentânea. Marc Guéhi se mostra um ativo de alta confiabilidade com uma valorização de 39.7% em 24 horas, cotado a 48k coins, e sua impressionante probabilidade de alta de 69% reforça a tese de que defesas premium estão em alta demanda, talvez devido à escassez de opções baratas em meta squads. A situação de Ramires é particularmente interessante, com duas listagens distintas mostrando alta de 34.6% a 529k coins (probabilidade 42%) e 32.6% a 235k coins (probabilidade 40%), indicando uma fragmentação de preços que pode ser explorada por traders que busquem lucros rápidos na arbitragem entre diferentes faixas de preço. Igor Jesus completa o grupo de destaque com uma alta de 32.2% em 24 horas, atingindo 30k coins, e sua probabilidade de alta de 68% o posiciona como um dos ativos mais promissores para compra e revenda imediata, aproveitando o momentum de jogadores de ataque de baixo custo. Erling Haaland, o gigante do mercado, registrou uma alta de 32.1% em 24 horas, atingindo 839k coins, com probabilidade de 48%, mostrando que até os ativos de ultra-alto valor estão participando do movimento de compra seletiva, provavelmente por investidores de longo prazo ou para grandes SBCs de fim de temporada. Mohamed Salah, apesar de ser um nome icônico, mostra uma alta modesta de 31.6% em 24 horas a apenas 25k coins, com baixa probabilidade de alta de 22%, o que sugere que seu valor está sendo mantido por demanda constante, mas sem o hype necessário para impulsionar preços drasticamente neste momento de mercado pressionado.
+Entre os ativos que conseguiram se destacar contra a maré baixa, Marc Guéhi surge como um dos movimentos mais consistentes, registrando um aumento de 52.5% em 24 horas, alcançando o preço de 46k coins, com uma probabilidade calculada de alta de 69%, indicando forte suporte técnico e fundamental. Igor Jesus também apresenta desempenho robusto, com alta de 45.6% em 24 horas, atingindo 28k coins, apoiado por uma probabilidade de alta de 68%, o que sugere que o mercado está reconhecendo seu valor de uso em times competitivos da liga. Nick Woltemade, um ativo de maior valor, subiu 42% em 24 horas para 120k coins, embora sua probabilidade de alta seja mais moderada em 50%, o movimento reflete uma reposição de estoque necessária devido à sua inclusão em promoções ou times de alto nível. Alejandro Garnacho segue a tendência de valorização significativa com 41% de alta em 24 horas, cotado a 282k coins, e possui uma probabilidade de alta de 55%, mostrando que jogadores de grande visibilidade mantêm demanda mesmo em mercados de baixa. William Saliba, apesar de ser um ativo de altíssimo valor, registrou alta de 38.3% em 24 horas para 480k coins, mas sua probabilidade de alta de apenas 29% alerta para a possibilidade de correção imediata, caracterizando-se como um movimento especulativo de curto prazo. Harvey Barnes, por outro lado, oferece um perfil mais acessível com alta de 36.2% em 24 horas para 40k coins e probabilidade de alta de 47%, sendo uma opção interessante para traders com menos capital que buscam segurança relativa. Federico Chiesa subiu 33.3% em 24 horas para 270k coins, mas sua probabilidade de alta extremamente baixa de 6% indica que o movimento pode ser insustentável e sujeito a reversão rápida. Maxence Lacroix completou o grupo com alta de 25.9% em 24 horas para 124k coins e probabilidade de alta de 55%, demonstrando que defensores com bom custo-benefício estão sendo acumulados estrategicamente.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 92 | Premier League | 882k coins | -46% | -23.4% |
-| Nicolò Savona | 83 | Premier League | 74k coins | -45.7% | -19.8% |
+| Florian Wirtz | 92 | Premier League | 705k coins | -48.9% | -28% |
 | James Milner | 88 | Premier League | 38k coins | -45.3% | -46.1% |
-| Bryan Mbeumo | 87 | Premier League | 28k coins | -38.9% | -33.3% |
-| Emiliano Martínez | 88 | Premier League | 37k coins | -38.8% | -15.5% |
-| Dominik Szoboszlai | 87 | Premier League | 84k coins | -38.1% | -44.3% |
-| Ollie Watkins | 90 | Premier League | 36k coins | -37.1% | -9.1% |
-| Declan Rice | 94 | Premier League | 187k coins | -37.1% | -39.1% |
-| Matheus Cunha | 87 | Premier League | 130k coins | -35% | -5.1% |
-| Gianluigi Donnarumma | 95 | Premier League | 1.05M coins | -34.9% | -24.2% |
+| Jay-Jay Okocha | 88 | Premier League | 24k coins | -44.8% | -55.8% |
+| Hugo Ekitiké | 90 | Premier League | 43k coins | -40.8% | -34.3% |
+| Nicolò Savona | 83 | Premier League | 65k coins | -40.1% | -25.3% |
+| Matheus Cunha | 87 | Premier League | 120k coins | -39.1% | -12.4% |
+| Vincent Kompany | 88 | Premier League | 26k coins | -38.8% | -32% |
+| Patrick Dorgu | 84 | Premier League | 59k coins | -34.6% | +35.1% |
+| Dominik Szoboszlai | 87 | Premier League | 82k coins | -33.7% | -23.2% |
+| Harry Wilson | 88 | Premier League | 34k coins | -32.3% | -33.3% |
 
 
-O lado negativo do mercado é liderado por quedas severas, com Florian Wirtz sofrendo um despencaço de 46% em 24 horas, caindo para 882k coins, um movimento alarmante dado seu rating de 92, mas sua baixa probabilidade de alta de apenas 25% indica que o fundo ainda não foi encontrado, sugerindo que vendedores estão desesperados para liquidar posições. Nicolò Savona segue a tendência de queda com uma perda de 45.7% em 24 horas, atingindo 74k coins, e sua probabilidade de alta de 12% é a mais baixa entre os principais ativos, sinalizando um ativo que deve ser evitado a todo custo até que haja sinais claros de estabilização. James Milner também despenca 45.3% em 24 horas, chegando a 38k coins, com probabilidade de alta de 24%, o que reflete a perda de utilidade ou interesse em SBCs que o incluíam, tornando-o um ativo de risco elevado para qualquer trader que busque segurança. Bryan Mbeumo registra uma queda de 38.9% em 24 horas, caindo para 28k coins, com probabilidade de alta de 28%, o que indica que mesmo jogadores de ataque acessíveis não estão imunes à pressão vendedora generalizada, possivelmente devido à oferta excessiva no mercado. Emiliano Martínez, um goleiro de alta demanda histórica, caiu 38.8% em 24 horas para 37k coins, com probabilidade de alta de 37%, o que sugere uma correção de preço após um pico anterior, mas ainda oferece alguma esperança de recuperação parcial no curto prazo. Dominik Szoboszlai também não escapou, com queda de 38.1% em 24 horas, atingindo 84k coins, e probabilidade de alta de 33%, refletindo a volatilidade típica de meio-campistas de alto rating que perdem relevância em metas específicas. Ollie Watkins e Declan Rice, ambos com quedas de 37.1% em 24 horas, atingiram 36k coins e 187k coins respectivamente, com probabilidades de alta de 51% e 46%, o que indica que, apesar da queda atual, esses ativos têm fundamentos mais sólidos para uma possível recuperação, especialmente Rice, que mantém uma probabilidade de alta mais elevada.
+No extremo oposto, as quedas foram severas e abrangentes, lideradas por Florian Wirtz, que despencou 48.9% em 24 horas, caindo para 705k coins, com uma probabilidade de alta de apenas 25%, sugerindo uma correção de preço excessivo e saída de grandes especuladores. James Milner também sofreu uma queda drástica de 45.3% em 24 horas, atingindo 38k coins, com probabilidade de alta de 24%, indicando que ativos de veteranos podem estar perdendo relevância ou sofrendo com vendas massivas após eventos. Jay-Jay Okocha registrou queda de 44.8% em 24 horas para 24k coins, com probabilidade de alta de 38%, mostrando que até mesmo ícones históricos não estão imunes à pressão vendedora generalizada do mercado. Hugo Ekitiké caiu 40.8% em 24 horas para 43k coins, mas sua probabilidade de alta de 55% sugere que este pode ser um ponto de compra atrativo, pois o mercado pode ter vendido demais o ativo em pânico. Nicolò Savona, ativo de menor rating, despencou 40.1% em 24 horas para 65k coins, com probabilidade de alta baixa de 12%, indicando que não há interesse comprador imediato e que o preço pode continuar caindo. Matheus Cunha, apesar de ter alta probabilidade de alta de 62%, caiu 39.1% em 24 horas para 120k coins, o que representa uma oportunidade clássica de 'comprar o medo', onde o fundamental do jogador não mudou, apenas a psicologia do mercado se inverteu temporariamente. Vincent Kompany caiu 38.8% em 24 horas para 26k coins, com probabilidade de alta de 52%, sugerindo uma estabilização próxima e potencial para recuperação de valores em curto prazo. Patrick Dorgu completou as perdas significativas com queda de 34.6% em 24 horas para 59k coins, mas com probabilidade de alta de apenas 12%, alertando para riscos de continuidade na desvalorização.
 
 
 ## 🎯 O que fazer hoje
-A estratégia para o dia 20 de junho de 2026 deve focar na compra seletiva de ativos com alta probabilidade de continuidade e na venda de ativos em queda livre com baixa probabilidade de recuperação. Recomenda-se fortemente a compra de Marc Guéhi e Igor Jesus, pois suas probabilidades de alta de 69% e 68% respectivamente, combinadas com suas valorizações recentes, indicam momentum positivo sustentável em um mercado de fundo negativo. Luke Shaw também é uma compra segura, dada sua alta probabilidade de 56% e o movimento de 53.3%, que sugere demanda estrutural em vez de especulação de curto prazo. É crucial evitar Nicolò Savona e Florian Wirtz, cujas baixas probabilidades de alta de 12% e 25% indicam que as quedas podem continuar, representando risco de perda significativa para traders que tentem adivinhar o fundo. Para quem possui posições em ativos como Declan Rice e Ollie Watkins, a recomendação é segurar, pois suas probabilidades de alta de 46% e 51% sugerem que a correção pode estar perto do fim, oferecendo oportunidade de venda em uma eventual recuperação. O timing é essencial: aproveite a liquidez excessiva nas quedas para comprar ativos resilientes como Guéhi e Shaw, e liquide posições em ativos sem utilidade clara como Savona e Wirtz antes que as quedas se aprofundem ainda mais.
+A estratégia recomendada para hoje é focar na compra seletiva de ativos que sofreram quedas acentuadas mas possuem alta probabilidade de recuperação, especificamente Matheus Cunha a 120k e Hugo Ekitiké a 43k, aproveitando o pânico do mercado para entrar em posições de baixo risco relativo. Deve-se evitar comprar os ativos de alta recente com baixa probabilidade de continuidade, como Federico Chiesa e William Saliba, pois o risco de correção é elevado em um mercado predominantemente vendedor. Jogadores como James Milner e Nicolò Savona devem ser evitados completamente para compra, pois suas probabilidades de alta baixas indicam falta de suporte comprador, enquanto seus preços podem continuar caindo. Para traders que já possuem Marc Guéhi ou Igor Jesus, o momento é favorável para realização de lucros parciais, dada a probabilidade alta de alta que já está precificada no preço atual. O timing ideal para compras é durante os horários de menor volume, quando a pressão vendedora diminui ligeiramente, permitindo entradas mais seguras em ativos fundamentais como Matheus Cunha. A paciência é crucial, pois o mercado pressionado tende a corrigir excessos rapidamente, recompensando aqueles que aguardam confirmação de suporte em vez de tentar pegar a faca caindo sem análise de probabilidade.
 
 
 ## 🔍 Como apuramos os preços
@@ -77,13 +77,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Luke Shaw (86, Premier League), com +53.3% em 24h, a 46k coins no PC.
+Marc Guéhi (88, Premier League), com +52.5% em 24h, a 46k coins no PC.
 
 **E a maior queda do dia?**  
-Florian Wirtz (92), -46% em 24h, a 882k coins.
+Florian Wirtz (92), -48.9% em 24h, a 705k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 69 cartas em alta contra 121 em queda (média -5.95%).
+Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 61 cartas em alta contra 102 em queda (média -1.94%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

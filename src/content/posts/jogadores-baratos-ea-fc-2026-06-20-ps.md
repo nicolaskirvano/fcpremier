@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T13:06:19.000Z
+pubDatetime: 2026-06-20T16:06:03.000Z
 title: "Jogadores baratos de Premier League no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,30 +29,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alisson | 89 | GK | Premier League | 4k coins | -19.1% |
-| Emiliano Martínez | 87 | GK | Premier League | 2k coins | +25% |
-| Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | 0% |
-| Freddie Ljungberg | 87 | RM | Premier League | 12k coins | -9.4% |
-| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | +7% |
-| John Arne Riise | 86 | LB | Premier League | 12k coins | -2.1% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 12k coins | +2.2% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | 0% |
-| Tomáš Rosický | 86 | CAM | Premier League | 12k coins | 0% |
-| Oscar Bobb | 85 | RW | Premier League | 14k coins | -17.8% |
+| Alisson | 89 | GK | Premier League | 4k coins | -22.9% |
+| Virgil van Dijk | 89 | CB | Premier League | 8k coins | -21.8% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | -2.1% |
+| Dimitar Berbatov | 87 | ST | Premier League | 12k coins | +4.5% |
+| Freddie Ljungberg | 87 | RM | Premier League | 12k coins | -7.5% |
+| Tomáš Rosický | 86 | CAM | Premier League | 11k coins | -4.2% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 12k coins | 0% |
+| John Arne Riise | 86 | LB | Premier League | 12k coins | 0% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | +4.3% |
+| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | +11.6% |
+| Robbie Keane | 86 | ST | Premier League | 12k coins | -1.9% |
+| David Brooks | 86 | RM | Premier League | 14k coins | -25.3% |
 
 
 ## 📈 Destaques
 
 - **Alisson (89, GK)** da Premier League, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Emiliano Martínez (87, GK)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
+- **Virgil van Dijk (89, CB)** da Premier League, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
 
-- **Freddie Ljungberg (87, RM)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **12k coins**
+
+- **Freddie Ljungberg (87, RM)** da Premier League, a apenas **12k coins**
 
 
 ## Por que estas cartas?
