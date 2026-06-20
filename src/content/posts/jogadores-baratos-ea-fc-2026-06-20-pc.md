@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:07:14.000Z
+pubDatetime: 2026-06-20T19:07:16.000Z
 title: "Jogadores baratos de Premier League no EA FC (20/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Alisson (89, Premier League) aparece como melhor custo-benefício, a 5k coins no PC."
+    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 3k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Alisson (89) por apenas 5k coins.
+> 💰 **Melhor pechincha:** Rodri (90) por apenas 3k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,29 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alisson | 89 | GK | Premier League | 5k coins | +2.1% |
-| Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | 0% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | -24.6% |
-| Tomáš Rosický | 86 | CAM | Premier League | 11k coins | -43.4% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | +2.3% |
-| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | -4.4% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | -2.1% |
-| John Arne Riise | 86 | LB | Premier League | 13k coins | +17% |
-| Robbie Keane | 86 | ST | Premier League | 13k coins | -11.3% |
+| Rodri | 90 | CDM | Premier League | 3k coins | -50% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | -36.7% |
+| Alisson | 89 | GK | Premier League | 4k coins | -14.6% |
+| Dimitar Berbatov | 87 | ST | Premier League | 11k coins | +2.3% |
+| Steve McManaman | 87 | RM | Premier League | 11k coins | -6.2% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | +4.7% |
+| Tomáš Rosický | 86 | CAM | Premier League | 11k coins | -39.4% |
+| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | +4.7% |
+| John Arne Riise | 86 | LB | Premier League | 12k coins | +2.1% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | 0% |
+| Heung Min Son | 85 | LW | Premier League | 2k coins | -52.4% |
 
 
 ## 📈 Destaques
 
-- **Alisson (89, GK)** da Premier League, a apenas **5k coins**
+- **Rodri (90, CDM)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Alisson (89, GK)** da Premier League, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
 
-- **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
-
-- **Joe Cole (87, RW)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Tomáš Rosický (86, CAM)** da Premier League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -68,7 +69,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Alisson (89, Premier League) aparece como melhor custo-benefício, a 5k coins no PC.
+Rodri (90, Premier League) aparece como melhor custo-benefício, a 3k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
