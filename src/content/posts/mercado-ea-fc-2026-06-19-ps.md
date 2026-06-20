@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:06:17.000Z
+pubDatetime: 2026-06-20T01:05:42.000Z
 title: "Premier League no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Carlos Baleba (90, Premier League), com +32.9% em 24h, a 116k coins no Console (PS)."
+    a: "Micky van de Ven (87, Premier League), com +28.7% em 24h, a 1.50M coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Carlos Tévez (88), -46.6% em 24h, a 27k coins."
+    a: "Nico O'Reilly (88), -49.6% em 24h, a 28k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Carlos Tévez (88) — 95% de probabilidade de alta, a 27k coins."
+    a: "Pelo modelo FutQuant, Jean-Philippe Mateta (84) — 95% de probabilidade de alta, a 45k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 34 cartas em alta contra 119 em queda (média -8.84%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 26 cartas em alta contra 99 em queda (média -10.55%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado da Premier League em consoles PS exibe um viés extremamente vendedor nesta segunda-feira, 19 de junho de 2026, com uma dinâmica de desinvestimento massiva que penalizou a maioria dos ativos líquidos. O sentimento do dia é caracterizado por uma fuga de capitais, evidenciada pela proporção esmagadora de quedas em relação às altas, com 119 cartas recuando de preço contra apenas 34 que subiram, resultando em uma média de desvalorização de -8.84% nas últimas 24 horas. Este cenário de alta volatilidade e pessimismo sugere que traders estão liquidando posições rapidamente, possivelmente devido à incerteza sobre eventos iminentes ou simplesmente para realizar lucros e reduzir exposição ao risco. A atmosfera é propícia para compras seletivas em ativos de alta liquidez que foram vendidos em pânico, mas exige extrema cautela com ativos de baixa liquidez que podem sofrer quedas acentuadas sem suporte de demanda real. A chave para operar neste ambiente é identificar discrepâncias entre o preço de mercado atual e o valor intrínseco do jogador, focando naqueles com probabilidade de alta elevada mas que ainda estão descontados.
+O mercado da Premier League em console apresenta um cenário extremamente hostil para investidores não preparados, caracterizado por um sentimento claramente vendedor que dominou as últimas 24 horas com uma predominância esmagadora de quedas nos preços das cartas. Com um saldo negativo drástico de 99 quedas contra apenas 26 altas, a média de desvalorização atingiu um alarmante -10.55%, indicando que a maioria dos ativos está sendo liquidada rapidamente pelos usuários que necessitam de fluxo de caixa ou estão ajustando suas squads para eventos iminentes. Este ambiente de pânico vendeur cria oportunidades de compra para traders ousados que entendem como identificar o fundo de mercado, mas exige extrema cautela com ativos que ainda estão em queda livre sem sinais claros de suporte. A volatilidade elevada sugere que a liquidez está concentrada em poucas cartas de alta demanda, enquanto a massa crítica de jogadores sofre com a desvalorização generalizada, forçando uma reavaliação estratégica dos portfólios de trading para o dia 19 de junho de 2026.
 
-> 🟢 **Maior alta:** Carlos Baleba (90) **+32.9%** · 🔴 **Maior baixa:** Carlos Tévez (88) **-46.6%**
+> 🟢 **Maior alta:** Micky van de Ven (87) **+28.7%** · 🔴 **Maior baixa:** Nico O'Reilly (88) **-49.6%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Carlos Baleba | 90 | Premier League | 116k coins | +32.9% | +75.6% |
-| Dominik Szoboszlai | 87 | Premier League | 100k coins | +24.5% | -1% |
-| Mohamed Salah | 89 | Premier League | 20k coins | +20% | +35.5% |
-| Antoine Semenyo | 83 | Premier League | 50k coins | +19% | +5.3% |
-| Ramires | 88 | Premier League | 244k coins | +19% | +10.9% |
-| Mohamed Salah | 92 | Premier League | 220k coins | +18.4% | +41.3% |
-| Florian Wirtz | 89 | Premier League | 195k coins | +15.4% | +34.5% |
-| Hugo Ekitiké | 87 | Premier League | 48k coins | +13.1% | 0% |
-| Sandro Tonali | 91 | Premier League | 157k coins | +11.4% | +15.6% |
-| Bukayo Saka | 90 | Premier League | 715k coins | +10.3% | +7.3% |
+| Micky van de Ven | 87 | Premier League | 1.50M coins | +28.7% | -2.9% |
+| Nico González | 86 | Premier League | 27k coins | +16.7% | +27.3% |
+| Antoine Semenyo | 83 | Premier League | 50k coins | +16.3% | +11.1% |
+| Federico Chiesa | 86 | Premier League | 219k coins | +14.9% | +37% |
+| Mohamed Salah | 92 | Premier League | 229k coins | +13.5% | +40% |
+| Andrew Robertson | 86 | Premier League | 240k coins | +11.8% | +20.6% |
+| João Pedro | 89 | Premier League | 166k coins | +9.5% | +2.5% |
+| Casemiro | 84 | Premier League | 50k coins | +7% | +11.7% |
+| Ramires | 86 | Premier League | 122k coins | +6.1% | +41.9% |
+| Jean-Philippe Mateta | 84 | Premier League | 45k coins | +5.9% | +0.6% |
 
 
-Entre os ativos que resistiram à onda de vendas e registraram valorização significativa, destaca-se Carlos Baleba (90, Premier League), que disparou 32.9% em 24 horas, atingindo a marca de 116 mil coins, um movimento impulsionado por sua probabilidade de alta de 50% e pela escassez relativa de oferta em um mercado dominado por vendas. Dominik Szoboszlai (87, Premier League) também apresentou força, subindo 24.5% para 100 mil coins, embora sua probabilidade de alta seja modesta de 16%, o que indica que o movimento pode ser mais especulativo do que fundamentado em demanda orgânica sustentada. Mohamed Salah (89, Premier League) registrou alta de 20% para 20 mil coins, com probabilidade de alta de 44%, sugerindo que traders de curto prazo estão tentando capturar ganhos rápidos em um ativo de alta liquidez antes de possíveis correções. Antoine Semenyo (83, Premier League) e Ramires (88, Premier League) seguiram a tendência com aumentos de 19% cada, chegando a 50 mil e 244 mil coins respectivamente, ambos com probabilidade de alta de 39% e 44%, o que reflete uma demanda pontual por ativos de meio-campo e ataque que podem estar sendo preparados para squads específicos. Mohamed Salah (92, Premier League) lidera as altas em ativos premium com 18.4% para 220 mil coins, apoiado por uma probabilidade de alta altíssima de 95%, indicando que o mercado reconhece seu valor de reserva e a tendência de alta é robusta e menos sujeita a volatilidade aleatória. Florian Wirtz (89, Premier League) subiu 15.4% para 195 mil coins com 93% de probabilidade de alta, consolidando-se como um ativo de segurança em meio ao caos, enquanto Hugo Ekitiké (87, Premier League) cresceu 13.1% para 48 mil coins com 47% de probabilidade de alta, mostrando que até ativos de menor rating estão sendo alvos de arbitragem em um mercado caótico.
+Entre as poucas luzes no cenário sombrio, Micky van de Ven lidera as altas com um impressionante aumento de 28.7% em 24 horas, atingindo o preço de 1.50M de moedas, embora sua probabilidade de continuar subindo seja de apenas 49%, o que sugere uma correção iminente após este pico especulativo. Nico González se destaca como uma das oportunidades mais seguras, com alta de 16.7% para 27k de moedas e uma probabilidade de alta de 95%, indicando forte sustentação de demanda e potencial de continuidade na tendência ascendente. Antoine Semenyo também registra um crescimento robusto de 16.3%, chegando a 50k de moedas, mas sua probabilidade de alta de apenas 39% alerta para a possibilidade de uma consolidação ou reversão de curto prazo. Federico Chiesa sobe 14.9% para 219k de moedas, porém com uma probabilidade de alta extremamente baixa de 5%, caracterizando um movimento provavelmente final de uma fase de alta ou uma manipulação de preço de curto prazo que deve ser evitada por traders conservadores. Mohamed Salah, o gigante do mercado, registra alta de 13.5% para 229k de moedas com probabilidade de alta de 95%, confirmando seu status como ativo refúgio com demanda constante e estrutura de preço sólida em meio ao caos do mercado.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Carlos Tévez | 88 | Premier League | 27k coins | -46.6% | +62.7% |
-| Patrick Dorgu | 84 | Premier League | 35k coins | -43.4% | -39.1% |
-| Adama Traoré | 89 | Premier League | 110k coins | -42.1% | -30.8% |
-| Diogo Dalot | 87 | Premier League | 62k coins | -40.9% | -9.5% |
-| Alejandro Garnacho | 89 | Premier League | 105k coins | -39.9% | -4.8% |
-| Dominik Szoboszlai | 90 | Premier League | 90k coins | -39.2% | +23.3% |
-| Eli Junior Kroupi | 89 | Premier League | 29k coins | -39.1% | -2.7% |
-| Rayan Cherki | 87 | Premier League | 74k coins | -37.8% | -46.4% |
-| Joelinton | 89 | Premier League | 227k coins | -37.5% | -8.2% |
-| James Milner | 88 | Premier League | 50k coins | -33.8% | -41.2% |
+| Nico O'Reilly | 88 | Premier League | 28k coins | -49.6% | -35.5% |
+| Eden Hazard | 88 | Premier League | 199k coins | -45.1% | -29.1% |
+| Jeremie Frimpong | 86 | Premier League | 91k coins | -43.1% | -27.2% |
+| Rodri | 91 | Premier League | 78k coins | -41.2% | -23.5% |
+| Adama Traoré | 89 | Premier League | 118k coins | -38.9% | -22.7% |
+| Cole Palmer | 92 | Premier League | 565k coins | -38.9% | +1.9% |
+| James Milner | 88 | Premier League | 48k coins | -38.5% | -45.1% |
+| Eden Hazard | 90 | Premier League | 400k coins | -36.9% | -8% |
+| Tim Howard | 85 | Premier League | 25k coins | -36.2% | -36.6% |
+| Peter Crouch | 87 | Premier League | 80k coins | -36.2% | -9.8% |
 
 
-O lado das quedas foi brutal, com Carlos Tévez (88, Premier League) liderando o declínio com uma queda de 46.6% para 27 mil coins, um movimento que parece ser um exagero de venda dado que sua probabilidade de alta é de 95%, sugerindo uma oportunidade de compra agressiva para traders ousados. Patrick Dorgu (84, Premier League) também sofreu uma queda severa de 43.4% para 35 mil coins, com probabilidade de alta de 95%, indicando que o preço atual está drasticamente desconectado do valor esperado pelo modelo, criando um risco mínimo de perda se comprado agora. Adama Traoré (89, Premier League) despencou 42.1% para 110 mil coins, mas sua baixa probabilidade de alta de 8% alerta traders para evitarem esta compra, pois a queda provavelmente reflete uma deterioração real da demanda ou utilidade do ativo. Diogo Dalot (87, Premier League) caiu 40.9% para 62 mil coins com probabilidade de alta de 50%, representando um risco neutro onde a decisão de comprar depende da tolerância ao volatilidade do trader, pois metade do cenário aponta para recuperação e metade para continuação da queda. Alejandro Garnacho (89, Premier League) registrou queda de 39.9% para 105 mil coins, mas sua alta probabilidade de alta de 84% sugere que a venda foi panática e o preço deve se recuperar rapidamente, sendo um alvo interessante para swing trade. Dominik Szoboszlai (90, Premier League) também caiu 39.2% para 90 mil coins com 84% de probabilidade de alta, mostrando uma divergência interessante com sua versão de rating 87 que subiu, indicando fragmentação de mercado entre diferentes iterações do mesmo jogador. Eli Junior Kroupi (89, Premier League) e Rayan Cherki (87, Premier League) completaram o grupo de perdedores com quedas de 39.1% e 37.8% respectivamente, mas suas altas probabilidades de alta de 65% e 93% indicam que são erros de precificação temporários que o mercado corrigirá nas próximas horas.
+A outra face da moeda revela destruição de valor em larga escala, com Nico O'Reilly sofrendo uma queda brutal de 49.6% para 28k de moedas, apesar de ter probabilidade de alta de 95%, o que paradoxalmente indica um fundo de mercado profundo onde compradores institucionais podem estar acumulando discretamente. Eden Hazard (versão 88) despencou 45.1% para 199k de moedas, com probabilidade de alta de apenas 5%, sinalizando perda total de confiança do mercado e risco elevado de continuidade na queda. Jeremie Frimpong cai 43.1% para 91k de moedas, mas sua probabilidade de alta de 95% sugere que esta é uma venda de pânico extrema e uma oportunidade de compra agressiva para traders que aceitam o risco de volatilidade inicial. Rodri perde 41.2% atingindo 78k de moedas com probabilidade de alta de 50%, refletindo indecisão do mercado e necessidade de observação antes de entrar em posições longas. Adama Traoré cai 38.9% para 118k de moedas com baixa probabilidade de alta de 8%, enquanto Cole Palmer despencou 38.9% para 565k de moedas, mostrando que mesmo ativos de elite não estão imunes à pressão vendedora generalizada do dia.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -74,17 +74,17 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Carlos Tévez | 88 | 27k coins | 34k coins | 95% |
-| James Milner | 88 | 50k coins | 59k coins | 95% |
-| Jurriën Timber | 87 | 33k coins | 42k coins | 95% |
-| Robin Roefs | 87 | 42k coins | 48k coins | 95% |
-| Anthony Gordon | 87 | 34k coins | 42k coins | 95% |
-| Xavi Simons | 88 | 37k coins | 44k coins | 95% |
+| Jean-Philippe Mateta | 84 | 45k coins | 60k coins | 95% |
+| James Milner | 88 | 48k coins | 57k coins | 95% |
+| Robin Roefs | 87 | 34k coins | 39k coins | 95% |
+| Enzo Fernández | 91 | 30k coins | 38k coins | 95% |
+| Jeremie Frimpong | 86 | 91k coins | 112k coins | 95% |
 | Declan Rice | 91 | 330k coins | 407k coins | 95% |
-| Murillo | 87 | 80k coins | 103k coins | 95% |
+| Jaap Stam | 89 | 75k coins | 86k coins | 95% |
+| Murillo | 87 | 86k coins | 110k coins | 95% |
 
 
-O modelo de previsão projeta altas significativas para uma série de ativos que estão atualmente descontados, com Carlos Tévez (88, Premier League) liderando a lista com 95% de probabilidade de alta a 27 mil coins, confirmando a tese de compra na queda. James Milner (88, Premier League) e Jurriën Timber (87, Premier League) também possuem 95% de probabilidade de alta, cotados a 50 mil e 33 mil coins respectivamente, oferecendo oportunidades de baixo risco para traders conservadores que buscam estabilidade. Robin Roefs (87, Premier League) e Anthony Gordon (87, Premier League) seguem a mesma lógica de alta probabilidade, com 95% de chance de valorização, posicionados em 42 mil e 34 mil coins, respectivamente, ativos que podem ser acumulados para revenda imediata. Xavi Simons (88, Premier League) é outro ativo com 95% de probabilidade de alta a 37 mil coins, sugerindo que o mercado subestimou sua demanda em squads de meio-campo. Declan Rice (91, Premier League) destaca-se como o ativo premium com maior expectativa de retorno, com 95% de probabilidade de alta a 330 mil coins, indicando que grandes investidores estão posicionando-se para uma valorização de longo prazo ou evento futuro. Murillo (87, Premier League) completa a lista com 95% de probabilidade de alta a 80 mil coins, reforçando a tese de que defensores e meio-campistas jovens estão sendo valorizados em detrimento de ativos mais antigos ou com utilidade limitada.
+O modelo preditivo identifica uma série de ativos com alta probabilidade de reversão ou continuidade de alta, destacando Jean-Philippe Mateta a 45k de moedas e James Milner a 48k de moedas, ambos com 95% de probabilidade de alta, sugerindo que as quedas recentes foram oportunidades de compra mal aproveitadas pelo mercado. Robin Roefs a 34k de moedas e Enzo Fernández a 30k de moedas também apresentam 95% de probabilidade de alta, indicando forte potencial de valorização em ativos de baixo custo que podem servir como alavancagem para portfólios menores. Jeremie Frimpong a 91k de moedas e Declan Rice a 330k de moedas, ambos com 95% de probabilidade de alta, confirmam a tese de que as quedas bruscas criaram fundos de mercado profundos para ativos de médio e alto porte. Jaap Stam a 75k de moedas e Murillo a 86k de moedas completam o cenário de ativos com 95% de probabilidade de alta, oferecendo diversificação para estratégias de acumulação em diferentes faixas de preço e perfis de risco.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -93,18 +93,18 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
+| Casemiro | 84 | 50k coins | -17.3% |
 | Jordan Pickford | 86 | 30k coins | -16.7% |
-| Hugo Ekitiké | 86 | 38k coins | -15.6% |
-| Kevin Schade | 84 | 38k coins | -16.8% |
+| Noni Madueke | 86 | 38k coins | -21.3% |
 | Igor Thiago | 85 | 30k coins | -21.3% |
-| Bernardo Silva | 87 | 35k coins | -24.1% |
 | Dominic Solanke | 87 | 32k coins | -17.2% |
-| Joe Cole | 88 | 150k coins | -21.4% |
-| Aaron Wan-Bissaka | 89 | 42k coins | -15.6% |
+| Kai Havertz | 91 | 314k coins | -29.2% |
+| Rayan Aït-Nouri | 90 | 28k coins | -15.6% |
+| Aaron Wan-Bissaka | 89 | 50k coins | -15.6% |
 
 
 ## 🎯 Conclusão do dia
-A estratégia ideal para hoje é adotar uma postura de comprador agressivo em ativos com alta probabilidade de recuperação que sofreram quedas excessivas, focando especificamente em Carlos Tévez (88) e Patrick Dorgu (84) como compras imediatas, dado o descompasso entre suas quedas de mais de 40% e a probabilidade de alta de 95%. Traders devem evitar adentrar em ativos como Adama Traoré (89), cuja baixa probabilidade de alta de 8% sugere que a queda é fundamental e não especulativa, preservando capital para oportunidades de maior convicção. É recomendável segurar posições em ativos premium como Mohamed Salah (92) e Florian Wirtz (89), que demonstram resiliência e probabilidade de alta superior a 90%, servindo como reservas de valor em meio à volatilidade. O timing para compra deve ser executado imediatamente, pois a liquidez desses ativos descontados pode se esgotar rapidamente conforme outros traders identificam as discrepâncias de preço, especialmente em Declan Rice (91) e Xavi Simons (88). A venda deve ser realizada em ativos de alta volatilidade com baixa probabilidade de alta, como Adama Traoré, para realizar perdas controladas e evitar exposição a quedas prolongadas. O foco deve permanecer na arbitragem entre a probabilidade de alta do modelo e o preço atual de mercado, priorizando ativos com liquidez suficiente para saída rápida, como os vários ativos de rating 87 e 88 listados nas previsões, maximizando o retorno diário em um mercado predominantemente vendedor.
+A estratégia do dia deve focar na compra agressiva de ativos com alta probabilidade de reversão e queda extrema, como Jeremie Frimpong e Nico O'Reilly, enquanto se evita a perseguição de altas de curto prazo em ativos com baixa probabilidade de continuidade, como Federico Chiesa e Micky van de Ven. É crucial segurar posições em ativos de refúgio como Mohamed Salah e Nico González, que demonstram resiliência e probabilidade alta de continuar subindo, servindo como lastro para o portfólio em meio à volatilidade. Traders devem evitar comprar ativos em queda livre com baixa probabilidade de alta, como Eden Hazard 88 e Adama Traoré, pois o risco de continuidade na desvalorização é significativamente maior do que o potencial de ganho imediato. O timing ideal para execução é durante os horários de pico de atividade, quando a liquidez aumenta e os preços tendem a se estabilizar, permitindo entradas mais precisas nos fundos de mercado identificados pelo modelo. A disciplina é fundamental neste dia de sentimento vendedor, onde a paciência para esperar confirmação de suporte em ativos como Declan Rice e Enzo Fernández pode gerar retornos superiores ao perseguir movimentos de alta de curto prazo em um mercado predominantemente bearish.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -114,16 +114,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Carlos Baleba (90, Premier League), com +32.9% em 24h, a 116k coins no Console (PS).
+Micky van de Ven (87, Premier League), com +28.7% em 24h, a 1.50M coins no Console (PS).
 
 **E a maior queda do dia?**  
-Carlos Tévez (88), -46.6% em 24h, a 27k coins.
+Nico O'Reilly (88), -49.6% em 24h, a 28k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Carlos Tévez (88) — 95% de probabilidade de alta, a 27k coins.
+Pelo modelo FutQuant, Jean-Philippe Mateta (84) — 95% de probabilidade de alta, a 45k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 34 cartas em alta contra 119 em queda (média -8.84%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 26 cartas em alta contra 99 em queda (média -10.55%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

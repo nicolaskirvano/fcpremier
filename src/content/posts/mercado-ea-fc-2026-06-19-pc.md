@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:09:29.000Z
+pubDatetime: 2026-06-20T01:06:40.000Z
 title: "Premier League no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Florian Wirtz (92, Premier League), com +54.7% em 24h, a 1.34M coins no PC."
+    a: "Ryan Yates (85, Premier League), com +59.8% em 24h, a 32k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Diogo Dalot (87), -40% em 24h, a 102k coins."
+    a: "Jérémy Doku (84), -44.8% em 24h, a 80k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 76 cartas em alta contra 94 em queda (média -0.96%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 72 cartas em alta contra 110 em queda (média -1.9%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado da Premier League em PC apresenta um cenário de lateralidade consolidada para o dia 19 de junho de 2026, onde a volatilidade extrema é substituída por uma guerra de desgaste entre compradores e vendedores que resulta em um equilíbrio frágil. Com 76 altas registradas contra 94 quedas no último ciclo de 24 horas, o indicador médio de variação fecha em -0.96%, sinalizando uma leve pressão vendedora que, no entanto, não é suficiente para derrubar a estrutura de preços dos ativos mais líquidos. Este tom de mercado exige que o trader abandone a busca por movimentos explosivos generalizados e foque na seletividade extrema, pois a maioria dos ativos está simplesmente recalibrando seus valores de equilíbrio após a incerteza das últimas sessões. A probabilidade de alta para a média dos jogadores citados sugere que, apesar da queda no índice geral, há oportunidades pontuais de compra em ativos que estão sendo subvalorizados temporariamente devido a pânico desnecessário ou falta de liquidez momentânea. O analista deve observar que a distribuição das altas e baixas não segue um padrão de liga ou posição específico, mas sim uma reação individualizada a eventos de squad building challenges e promoções de conteúdo que afetam a demanda por cartas específicas.
+O cenário do mercado de Ultimate Team para a Premier League nesta segunda-feira, 19 de junho de 2026, é dominado por um sentimento avassaladoramente vendedor, onde a lógica de compra para revenda imediata está severamente comprometida pela pressão de saída de itens. Os indicadores macroeconômicos do jogo mostram uma distorção clara, com 110 quedas de preço contra apenas 72 altas, resultando em uma média negativa de -1.9% nas últimas 24 horas, o que sinaliza que a maioria dos traders está priorizando a liquidez e o saque de capital sobre a acumulação de ativos. Esse clima de pânico ou ajuste de portfólio cria oportunidades assimétricas, mas exige um olhar cirúrgico para identificar quais quedas são oportunidades de compra de qualidade e quais são simplesmente o início de uma tendência de desvalorização estrutural. O trader experiente deve evitar a FOMO nas altas, pois muitas delas parecem ser movimentos de correção de preço após quedas anteriores, enquanto as quedas profundas podem representar o fundo de uma curva de demanda sazonal ou específica de evento. A volatilidade é alta, mas a direção geral é claramente para baixo, exigindo paciência e disciplina para não ser liquidado por tentativas de antecipar um fundo que ainda não se confirmou com volume suficiente de compradores.
 
-> 🟢 **Maior alta:** Florian Wirtz (92) **+54.7%** · 🔴 **Maior baixa:** Diogo Dalot (87) **-40%**
+> 🟢 **Maior alta:** Ryan Yates (85) **+59.8%** · 🔴 **Maior baixa:** Jérémy Doku (84) **-44.8%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 92 | Premier League | 1.34M coins | +54.7% | +109.6% |
-| Marc Cucurella | 86 | Premier League | 54k coins | +42.1% | +24.3% |
-| Luke Shaw | 86 | Premier League | 46k coins | +39.8% | +55% |
-| Ryan Yates | 85 | Premier League | 33k coins | +38.1% | +103% |
-| Ledley King | 86 | Premier League | 28k coins | +37.5% | +46.7% |
-| Gilberto Silva | 87 | Premier League | 21k coins | +37.1% | +60.4% |
-| Harvey Barnes | 84 | Premier League | 50k coins | +34.7% | +4.4% |
-| Declan Rice | 89 | Premier League | 42k coins | +30.8% | +1.2% |
+| Ryan Yates | 85 | Premier League | 32k coins | +59.8% | +98.5% |
+| Ramires | 88 | Premier League | 183k coins | +39.7% | -13.5% |
+| Mohamed Salah | 89 | Premier League | 23k coins | +32.9% | +66.1% |
+| Declan Rice | 89 | Premier League | 42k coins | +30.8% | 0% |
 | Jordan Pickford | 85 | Premier League | 48k coins | +28.4% | +35.7% |
-| Dominik Szoboszlai | 87 | Premier League | 236k coins | +24.2% | +80.2% |
+| Dominik Szoboszlai | 87 | Premier League | 236k coins | +25.5% | +68.6% |
+| Federico Chiesa | 86 | Premier League | 277k coins | +24.8% | +12.6% |
+| Sandro Tonali | 91 | Premier League | 114k coins | +23.9% | +16.3% |
+| Matheus Cunha | 87 | Premier League | 197k coins | +23.9% | +41.7% |
+| Bernardo Silva | 87 | Premier League | 55k coins | +22.2% | 0% |
 
 
-A liderança das altas é dominada por Florian Wirtz, cuja carta de 92 rating disparou impressionantes 54.7% em 24 horas, atingindo a marca de 1.34 milhão de coins, um movimento que reflete a escassez extrema de um ativo de elite com apenas 25% de probabilidade de alta sustentada, indicando que o preço pode estar em um pico irracional de curto prazo. Marc Cucurella, com 86 rating, seguiu a tendência com alta de 42.1% para 54 mil coins, beneficiando-se de uma probabilidade de alta de 23% que sugere um ajuste técnico de preço mais do que uma demanda fundamental explosiva, tornando-o um ativo de risco para compras imediatas. Luke Shaw também se destaca com 39.8% de alta, cotado a 46 mil coins, mas sua probabilidade de alta de 56% é um sinal claro de que o movimento ainda tem fôlego, pois o mercado reconhece sua utilidade em squads defensivos da Premier League. Ryan Yates, com 85 rating, subiu 38.1% para 33 mil coins, apresentando uma probabilidade de alta de 24% que alerta para uma possível correção, sugerindo que traders agressivos devem tomar lucros nessa faixa de preço. Ledley King, com 86 rating, registrou alta de 37.5% para 28 mil coins, e sua alta probabilidade de alta de 57% indica que a demanda por sua carta está sendo impulsionada por metas específicas de conteúdo que ainda não foram concluídas pela maioria dos jogadores.
+Entre os poucos ativos que conseguiram resistir à gravidade do mercado, Ryan Yates se destaca com um salto absurdo de 59.8% em 24 horas, chegando a 32 mil moedas, embora sua probabilidade de alta futura seja de apenas 24%, indicando que este pode ser um pico especulativo de curto prazo sem fundamentos sólidos de demanda sustentada. Ramires, uma carta de nível 88, registrou uma alta de 39.7% para 183 mil moedas, um movimento interessante considerando que sua probabilidade de alta é de 40%, sugerindo que há um interesse institucional ou de squads específicos mantendo o preço elevado em um nível que pode ser insustentável se o hype baixar. Mohamed Salah, ícone absoluto do mercado, subiu 32.9% para 23 mil moedas, mas com uma probabilidade de alta de apenas 22%, o que nos alerta que esta é provavelmente uma correção técnica após uma queda prévia e não uma tendência de valorização real, sendo arriscado comprar neste topo temporário. Declan Rice também acompanha o movimento de alta com 30.8% para 42 mil moedas, apresentando uma probabilidade de alta de 23%, o que reforça a ideia de que as cartas de médio porte da Premier League estão sofrendo uma reavaliação de preço que ainda não encontrou seu equilíbrio final, criando uma zona de perigo para compradores impulsivos. Jordan Pickford, com 28.4% de alta para 48 mil moedas e 32% de probabilidade de alta, parece ter um suporte mais forte devido à sua utilidade em squads específicos, mas mesmo assim, entrar agora é jogar contra a corrente principal do mercado que está vendendo agressivamente.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diogo Dalot | 87 | Premier League | 102k coins | -40% | -27.1% |
-| Nick Woltemade | 90 | Premier League | 84k coins | -39.6% | -33.5% |
-| Trai Hume | 84 | Premier League | 32k coins | -38.7% | +28.7% |
-| Dominik Szoboszlai | 87 | Premier League | 94k coins | -35.8% | -36.7% |
-| Jurriën Timber | 87 | Premier League | 28k coins | -35.3% | -13.4% |
-| Mohammed Kudus | 90 | Premier League | 87k coins | -31.6% | -25.6% |
-| Kevin Schade | 88 | Premier League | 38k coins | -30.6% | -33% |
-| Senne Lammens | 88 | Premier League | 50k coins | -27.6% | -30% |
-| Kevin Schade | 84 | Premier League | 32k coins | -26.9% | -22.2% |
-| Jerzy Dudek | 86 | Premier League | 21k coins | -26.7% | +35.4% |
+| Jérémy Doku | 84 | Premier League | 80k coins | -44.8% | -40.7% |
+| John Arne Riise | 88 | Premier League | 28k coins | -41.3% | +15% |
+| Jeremie Frimpong | 86 | Premier League | 122k coins | -39% | -30.9% |
+| Pedro Neto | 88 | Premier League | 57k coins | -38.4% | -38.7% |
+| Xavi Simons | 91 | Premier League | 91k coins | -35.7% | -26.7% |
+| Mateo Kovačić | 91 | Premier League | 28k coins | -33.1% | -11.7% |
+| Jerzy Dudek | 87 | Premier League | 29k coins | -32.8% | -27.1% |
+| Robin Roefs | 87 | Premier League | 34k coins | -31.3% | -3.5% |
+| Jérémy Doku | 91 | Premier League | 380k coins | -30.1% | -20.7% |
+| Anthony Gordon | 88 | Premier League | 341k coins | -29.4% | -29.5% |
 
 
-Diogo Dalot lidera as quedas com uma queda brutal de 40% em 24 horas, caindo para 102 mil coins, mas sua alta probabilidade de alta de 58% sugere fortemente que este é um ponto de compra de oportunidade, pois o preço foi deprimido artificialmente por vendas em pânico. Nick Woltemade, com 90 rating, despencou 39.6% para 84 mil coins, e com 50% de probabilidade de alta, o ativo parece estar em um equilíbrio de risco neutro, onde traders conservadores devem aguardar confirmação de suporte antes de entrar. Trai Hume, de 84 rating, caiu 38.7% para 32 mil coins, e sua probabilidade de alta de 63% é o indicador mais forte de reversão entre os ativos em queda, tornando-o um candidato ideal para acumulação em preços baixos. Dominik Szoboszlai, com 87 rating, recuou 35.8% para 94 mil coins, mas sua probabilidade de alta de apenas 33% indica que a pressão vendedora pode continuar, aconselhando cautela extrema para compras imediatas neste ativo. Jurriën Timber, também de 87 rating, caiu 35.3% para 28 mil coins, e com 56% de probabilidade de alta, o ativo apresenta um perfil de risco-recompensa atrativo para traders que buscam exposição a defensores de elite a preços descontados.
+Do lado das quedas, a sangria é intensa e representa a verdadeira realidade do mercado hoje, com Jérémy Doku despencando 44.8% para 80 mil moedas, uma queda brutal que, apesar de sua probabilidade de alta de 18%, sugere que a demanda por esta carta enfraqueceu drasticamente ou que há um excesso de oferta na plataforma. John Arne Riise, uma carta vintage de nível 88, caiu 41.3% para 28 mil moedas, e com uma probabilidade de alta de 40%, pode parecer uma oportunidade, mas a queda tão acentuada indica que os colecionadores ou usuários de squads de nostalgia estão liquidando posições rapidamente, o que é um sinal de alerta vermelho para compra. Jeremie Frimpong perdeu 39% de seu valor, caindo para 122 mil moedas, e com apenas 12% de probabilidade de alta, esta carta parece estar em uma tendência de desvalorização clara, onde tentar pegar a faca caindo é a estratégia mais perigosa que um trader pode adotar neste momento. Pedro Neto também sofreu uma queda acentuada de 38.4% para 57 mil moedas, e embora tenha 40% de probabilidade de alta, a magnitude da queda sugere que o preço anterior era artificialmente inflado e agora está retornando a uma média realista de mercado, o que pode levar a mais volatilidade antes de qualquer estabilização. Xavi Simons, uma carta de nível 91, despencou 35.7% para 91 mil moedas, e mesmo com uma probabilidade de alta de 56%, que é relativamente alta para o contexto atual, a queda absoluta é tão grande que o risco de uma continuação da baixa devido a vendas em cascata é significativo, exigindo cautela extrema.
 
 
 ## 🎯 Conclusão do dia
-A estratégia para o dia deve focar na compra seletiva de ativos com alta probabilidade de reversão, como Trai Hume e Diogo Dalot, que apresentam quedas acentuadas mas indicadores técnicos favoráveis para recuperação de preço. Evite comprar Florian Wirtz e Marc Cucurella no momento atual, pois suas altas percentuais extremas combinadas com baixas probabilidades de alta sustentada sugerem que os preços estão em máximas locais de risco elevado. Segure Luke Shaw e Ledley King, pois suas probabilidades de alta superiores a 55% indicam que o movimento de alta ainda não se esgotou, permitindo lucros adicionais nas próximas horas. Considere vender Ryan Yates e Gilberto Silva para realizar lucros rápidos, já que suas probabilidades de alta, embora moderadas, não compensam o risco de uma correção imediata após o ganho percentual significativo. O timing ideal para entrada nas quedas é durante os horários de pico de atividade, quando a liquidez aumenta e permite a execução de ordens de compra nos fundos, maximizando o potencial de ganho na reversão prevista pelo modelo.
+A estratégia para hoje deve ser extremamente defensiva, focando em preservar o capital e evitar compras impulsivas em ativos que parecem baratos apenas porque caíram muito, como é o caso de Doku e Frimpong, que mostram sinais de exaustão de demanda. Recomendo segurar as cartas de base como Salah e Rice, aguardando a estabilização do mercado, pois suas probabilidades de alta baixas indicam que não há pressão de compra imediata suficiente para gerar lucro rápido, tornando-as ativos de manutenção de valor em vez de alavancagem. Evite comprar Ryan Yates ou Ramires no topo, pois a probabilidade de reversão é alta e o mercado vendedor tende a derrubar quaisquer topos temporários formados por especuladores de curto prazo. Se houver intenção de compra, foque apenas em Xavi Simons ou Pedro Neto, mas com ordens limitadas bem abaixo dos preços atuais, aguardando uma confirmação de fundo com volume de compra, já que suas probabilidades de alta são as mais favoráveis entre os ativos em queda. O timing atual é de observação, onde a melhor ação muitas vezes é não agir, deixando que os vendedores de pânico esgotem suas reservas e criem um suporte real antes de reentrar no mercado com moedas frescas e uma perspectiva de longo prazo.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -77,13 +77,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Florian Wirtz (92, Premier League), com +54.7% em 24h, a 1.34M coins no PC.
+Ryan Yates (85, Premier League), com +59.8% em 24h, a 32k coins no PC.
 
 **E a maior queda do dia?**  
-Diogo Dalot (87), -40% em 24h, a 102k coins.
+Jérémy Doku (84), -44.8% em 24h, a 80k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 76 cartas em alta contra 94 em queda (média -0.96%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 72 cartas em alta contra 110 em queda (média -1.9%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
