@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T10:05:10.000Z
+pubDatetime: 2026-06-21T13:05:09.000Z
 title: "Jogadores baratos de Premier League no EA FC (21/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 4k coins | -44.9% |
-| Virgil van Dijk | 90 | CB | Premier League | 7k coins | -31.4% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | -41.8% |
+| Rodri | 90 | CDM | Premier League | 4k coins | -45.7% |
+| Virgil van Dijk | 90 | CB | Premier League | 8k coins | -15% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 4k coins | -44.6% |
+| Alexander Isak | 88 | ST | Premier League | 2k coins | -46.7% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
 | Steve McManaman | 87 | RM | Premier League | 11k coins | -20% |
-| Joe Cole | 87 | RW | Premier League | 12k coins | -12.5% |
-| Freddie Ljungberg | 87 | RM | Premier League | 13k coins | -21.2% |
-| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | -6.5% |
-| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | -10.4% |
 | Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | 0% |
-| John Arne Riise | 86 | LB | Premier League | 11k coins | -14% |
-| Tomáš Rosický | 86 | CAM | Premier League | 11k coins | -20.4% |
+| Tomáš Rosický | 86 | CAM | Premier League | 11k coins | -6% |
+| Jerzy Dudek | 86 | GK | Premier League | 11k coins | -52.7% |
+| Ledley King | 86 | CB | Premier League | 11k coins | -32.8% |
+| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | -4.4% |
 | Jamie Carragher | 86 | CB | Premier League | 12k coins | -2.1% |
-| Robbie Keane | 86 | ST | Premier League | 12k coins | -20.6% |
-| Ledley King | 86 | CB | Premier League | 13k coins | -39.2% |
+| Robbie Keane | 86 | ST | Premier League | 12k coins | -29% |
+| John Arne Riise | 86 | LB | Premier League | 14k coins | -2% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **7k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Alexander Isak (88, ST)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
-
-- **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
