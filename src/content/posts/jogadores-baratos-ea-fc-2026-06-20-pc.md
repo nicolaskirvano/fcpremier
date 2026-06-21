@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:07:11.000Z
+pubDatetime: 2026-06-21T01:07:18.000Z
 title: "Jogadores baratos de Premier League no EA FC (20/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 6k coins no PC."
+    a: "Rodri (91, Premier League) aparece como melhor custo-benefício, a 4k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Virgil van Dijk (90) por apenas 6k coins.
+> 💰 **Melhor pechincha:** Rodri (91) por apenas 4k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,32 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 90 | CB | Premier League | 6k coins | -35.4% |
-| Alisson | 89 | GK | Premier League | 3k coins | -32.7% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | -40% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -22.2% |
-| Dimitar Berbatov | 87 | ST | Premier League | 11k coins | +2.3% |
-| Steve McManaman | 87 | RM | Premier League | 11k coins | 0% |
-| Joe Cole | 87 | RW | Premier League | 15k coins | -15.4% |
+| Rodri | 91 | CDM | Premier League | 4k coins | -44.3% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | -45.1% |
+| Alisson | 89 | GK | Premier League | 3k coins | -34.7% |
+| Virgil van Dijk | 89 | CB | Premier League | 7k coins | -31.6% |
+| Alexander Isak | 88 | ST | Premier League | 2k coins | -50% |
+| Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | -8.3% |
 | Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | 0% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | -8.5% |
-| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | -42.7% |
+| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | -4.4% |
 | Freddie Ljungberg | 86 | LM | Premier League | 11k coins | 0% |
-| Tomáš Rosický | 86 | CAM | Premier League | 11k coins | -33.8% |
-| Robbie Keane | 86 | ST | Premier League | 13k coins | -17.7% |
+| Tomáš Rosický | 86 | CAM | Premier League | 11k coins | -25.9% |
+| John Arne Riise | 86 | LB | Premier League | 11k coins | -14% |
+| Robbie Keane | 86 | ST | Premier League | 11k coins | -31.7% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | -8.5% |
+| Ledley King | 86 | CB | Premier League | 12k coins | +1.3% |
 
 
 ## 📈 Destaques
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Alisson (89, GK)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rodri (91, CDM)** da Premier League, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alisson (89, GK)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
+- **Virgil van Dijk (89, CB)** da Premier League, a apenas **7k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Alexander Isak (88, ST)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -71,7 +73,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 6k coins no PC.
+Rodri (91, Premier League) aparece como melhor custo-benefício, a 4k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
