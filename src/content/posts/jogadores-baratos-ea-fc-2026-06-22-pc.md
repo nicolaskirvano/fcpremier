@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T22:05:10.000Z
+pubDatetime: 2026-06-23T01:05:09.000Z
 title: "Jogadores baratos de Premier League no EA FC (22/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 5k coins | -44.4% |
-| Virgil van Dijk | 90 | CB | Premier League | 8k coins | -32.4% |
-| Erling Haaland | 90 | ST | Premier League | 8k coins | -20.9% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 4k coins | -45.5% |
-| Alisson | 89 | GK | Premier League | 4k coins | -40.6% |
-| Freddie Ljungberg | 87 | RM | Premier League | 11k coins | -10.3% |
+| Rodri | 90 | CDM | Premier League | 5k coins | -51% |
+| Virgil van Dijk | 90 | CB | Premier League | 8k coins | -29.8% |
+| Erling Haaland | 90 | ST | Premier League | 8k coins | -21.9% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 4k coins | -48.5% |
+| Alisson | 89 | GK | Premier League | 4k coins | -40.9% |
+| Steve McManaman | 87 | RM | Premier League | 11k coins | 0% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | +9.1% |
-| Harry Kewell | 87 | LW | Premier League | 15k coins | -45.4% |
-| Tomáš Rosický | 86 | CAM | Premier League | 11k coins | -14% |
-| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | -14% |
-| Robbie Keane | 86 | ST | Premier League | 11k coins | 0% |
+| Harry Kewell | 87 | LW | Premier League | 12k coins | -55.8% |
+| Joe Cole | 87 | RW | Premier League | 13k coins | -3.6% |
 | Jamie Carragher | 86 | CB | Premier League | 11k coins | 0% |
-| John Arne Riise | 86 | LB | Premier League | 11k coins | -6.5% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | 0% |
+| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | -8.5% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | -2.3% |
+| Tomáš Rosický | 86 | CAM | Premier League | 11k coins | -14% |
+| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | 0% |
+| John Arne Riise | 86 | LB | Premier League | 11k coins | -8.5% |
 
 
 ## 📈 Destaques
