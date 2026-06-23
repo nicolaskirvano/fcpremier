@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T16:05:05.000Z
+pubDatetime: 2026-06-23T19:05:05.000Z
 title: "Jogadores baratos de Premier League no EA FC (23/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 4k coins | -45.6% |
-| Virgil van Dijk | 90 | CB | Premier League | 8k coins | -27.6% |
-| Erling Haaland | 90 | ST | Premier League | 9k coins | -10.2% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | -40.7% |
-| Alisson | 89 | GK | Premier League | 4k coins | -25.9% |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 13k coins | -27% |
-| Alexis Mac Allister | 89 | CM | Premier League | 14k coins | -24.1% |
-| Cesc Fàbregas | 88 | CM | Premier League | 15k coins | -10.4% |
+| Rodri | 90 | CDM | Premier League | 4k coins | -44.3% |
+| Virgil van Dijk | 90 | CB | Premier League | 8k coins | -26.7% |
+| Erling Haaland | 90 | ST | Premier League | 9k coins | -12.2% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | -41.1% |
+| Alisson | 89 | GK | Premier League | 4k coins | -22.6% |
+| Sepp van den Berg | 89 | CB | Premier League | 14k coins | -37.5% |
+| Alexander Isak | 88 | ST | Premier League | 2k coins | -57.1% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | -10.8% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11k coins | -6.4% |
-| Freddie Ljungberg | 87 | RM | Premier League | 11k coins | -16.4% |
-| Steve McManaman | 87 | RM | Premier League | 11k coins | -8.2% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | -1.4% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | -6.5% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | -10.2% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | -6.1% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | -4.3% |
+| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | 0% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | -4.1% |
 | Nwankwo Kanu | 86 | ST | Premier League | 12k coins | -51.1% |
+| John Arne Riise | 86 | LB | Premier League | 12k coins | -11.3% |
 
 
 ## 📈 Destaques
