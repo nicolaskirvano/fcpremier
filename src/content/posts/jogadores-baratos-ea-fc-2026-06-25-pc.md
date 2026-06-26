@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T22:05:10.000Z
+pubDatetime: 2026-06-26T01:05:09.000Z
 title: "Jogadores baratos de Premier League no EA FC (25/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,20 +29,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 90 | CB | Premier League | 10k coins | -11.1% |
-| Erling Haaland | 90 | ST | Premier League | 10k coins | -23.1% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 4k coins | -25.5% |
-| Alisson | 89 | GK | Premier League | 4k coins | -10% |
-| Bukayo Saka | 88 | RW | Premier League | 2k coins | -20% |
+| Virgil van Dijk | 90 | CB | Premier League | 10k coins | -12.9% |
+| Erling Haaland | 90 | ST | Premier League | 10k coins | -41.4% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 4k coins | -20.8% |
+| Bukayo Saka | 88 | RW | Premier League | 2k coins | -15.8% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11k coins | -6.4% |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | -2.1% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | -6.5% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | -6.5% |
-| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | -50% |
-| Tomáš Rosický | 86 | CAM | Premier League | 11k coins | -6.5% |
-| John Arne Riise | 86 | LB | Premier League | 11k coins | -10.4% |
-| Park Ji Sung | 86 | LM | Premier League | 12k coins | -60.5% |
-| Micah Richards | 85 | RB | Premier League | 12k coins | -43.3% |
+| Steve McManaman | 87 | RM | Premier League | 12k coins | 0% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | -8.5% |
+| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | -48.2% |
+| Tomáš Rosický | 86 | CAM | Premier League | 11k coins | -4.4% |
+| John Arne Riise | 86 | LB | Premier League | 11k coins | -15.4% |
+| Freddie Ljungberg | 86 | LM | Premier League | 13k coins | +18.6% |
+| Park Ji Sung | 86 | LM | Premier League | 14k coins | -56.2% |
+| Ledley King | 86 | CB | Premier League | 15k coins | -6.3% |
 
 
 ## 📈 Destaques
@@ -53,9 +52,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Alisson (89, GK)** da Premier League, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Bukayo Saka (88, RW)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
