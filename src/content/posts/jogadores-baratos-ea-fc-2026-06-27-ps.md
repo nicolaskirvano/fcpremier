@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T10:05:05.000Z
+pubDatetime: 2026-06-27T13:05:05.000Z
 title: "Jogadores baratos de Premier League no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,32 +29,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Erling Haaland | 90 | ST | Premier League | 11k coins | -40.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -2% |
-| Steve McManaman | 87 | RM | Premier League | 11k coins | -6.4% |
-| Dimitar Berbatov | 87 | ST | Premier League | 12k coins | +2.2% |
-| Freddie Ljungberg | 87 | RM | Premier League | 15k coins | +10.2% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | -8.5% |
+| Erling Haaland | 90 | ST | Premier League | 11k coins | -38.6% |
+| Alisson | 89 | GK | Premier League | 5k coins | +51.5% |
+| Dimitar Berbatov | 87 | ST | Premier League | 11k coins | -2.2% |
+| Steve McManaman | 87 | RM | Premier League | 11k coins | -4.3% |
+| Joe Cole | 87 | RW | Premier League | 12k coins | -4% |
+| Freddie Ljungberg | 87 | RM | Premier League | 14k coins | +20% |
 | Nwankwo Kanu | 86 | ST | Premier League | 11k coins | 0% |
-| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | -6.5% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 12k coins | +2.2% |
-| Tomáš Rosický | 86 | CAM | Premier League | 12k coins | +4.5% |
+| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | -2.3% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | -8.5% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | -4.3% |
+| Tomáš Rosický | 86 | CAM | Premier League | 11k coins | +2.3% |
 | John Arne Riise | 86 | LB | Premier League | 12k coins | 0% |
-| Ledley King | 86 | CB | Premier League | 13k coins | 0% |
-| Jerzy Dudek | 86 | GK | Premier League | 14k coins | +21.3% |
+| Ledley King | 86 | CB | Premier League | 13k coins | -2% |
+| Jerzy Dudek | 86 | GK | Premier League | 15k coins | +24.4% |
 
 
 ## 📈 Destaques
 
 - **Erling Haaland (90, ST)** da Premier League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13k coins**
+- **Alisson (89, GK)** da Premier League, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
 
 - **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
 
-- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **12k coins**
-
-- **Freddie Ljungberg (87, RM)** da Premier League, a apenas **15k coins**
+- **Joe Cole (87, RW)** da Premier League, a apenas **12k coins**
 
 
 ## Por que estas cartas?
