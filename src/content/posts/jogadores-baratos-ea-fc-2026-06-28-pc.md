@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T22:05:09.000Z
+pubDatetime: 2026-06-29T01:05:09.000Z
 title: "Jogadores baratos de Premier League no EA FC (28/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 28/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (28/06/2026)?"
-    a: "Moisés Caicedo (87, Premier League) aparece como melhor custo-benefício, a 2k coins no PC."
+    a: "Tomas Brolin (89, Premier League) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **28/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Moisés Caicedo (87) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Tomas Brolin (89) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,33 +29,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Moisés Caicedo | 87 | CDM | Premier League | 2k coins | +88.2% |
+| Tomas Brolin | 89 | ST | Premier League | 14k coins | -50.5% |
+| Moisés Caicedo | 87 | CDM | Premier League | 2k coins | +76.5% |
+| Joe Cole | 87 | RW | Premier League | 11k coins | -18.5% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
-| Steve McManaman | 87 | RM | Premier League | 11k coins | +2.1% |
-| Freddie Ljungberg | 87 | RM | Premier League | 12k coins | -29.4% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | -5.6% |
+| Steve McManaman | 87 | RM | Premier League | 11k coins | -2.2% |
+| Freddie Ljungberg | 87 | RM | Premier League | 12k coins | -34.3% |
 | Jamie Carragher | 86 | CB | Premier League | 11k coins | -2.3% |
-| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | +2.3% |
+| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | -6.5% |
 | Tomáš Rosický | 86 | CAM | Premier League | 11k coins | 0% |
-| Park Ji Sung | 86 | LM | Premier League | 11k coins | -17.3% |
+| Jerzy Dudek | 86 | GK | Premier League | 11k coins | -10.4% |
+| John Arne Riise | 86 | LB | Premier League | 11k coins | +4.7% |
 | Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | +2.3% |
-| Ledley King | 86 | CB | Premier League | 11k coins | -6.2% |
-| Jerzy Dudek | 86 | GK | Premier League | 12k coins | -2.1% |
-| John Arne Riise | 86 | LB | Premier League | 12k coins | +14% |
-| Nwankwo Kanu | 86 | ST | Premier League | 12k coins | -2.3% |
+| Nwankwo Kanu | 86 | ST | Premier League | 12k coins | +7% |
+| Robbie Keane | 86 | ST | Premier League | 14k coins | +14% |
 
 
 ## 📈 Destaques
 
+- **Tomas Brolin (89, ST)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Moisés Caicedo (87, CDM)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Joe Cole (87, RW)** da Premier League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
 
 - **Steve McManaman (87, RM)** da Premier League, a apenas **11k coins**
-
-- **Freddie Ljungberg (87, RM)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Joe Cole (87, RW)** da Premier League, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -72,7 +72,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (28/06/2026)?**  
-Moisés Caicedo (87, Premier League) aparece como melhor custo-benefício, a 2k coins no PC.
+Tomas Brolin (89, Premier League) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
