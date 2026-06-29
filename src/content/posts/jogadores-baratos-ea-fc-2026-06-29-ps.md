@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-29T13:05:06.000Z
+pubDatetime: 2026-06-29T16:05:05.000Z
 title: "Jogadores baratos de Premier League no EA FC (29/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 2k coins | -40% |
-| Erling Haaland | 90 | ST | Premier League | 8k coins | -22% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -38.2% |
-| Alisson | 89 | GK | Premier League | 3k coins | -34.1% |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 15k coins | +1.7% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -9.1% |
-| Ole Gunnar Solskjær | 88 | ST | Premier League | 14k coins | -17.4% |
-| Vincent Kompany | 88 | CB | Premier League | 14k coins | -26.9% |
-| Steve McManaman | 87 | RM | Premier League | 12k coins | +6.4% |
-| Freddie Ljungberg | 87 | RM | Premier League | 14k coins | +8.2% |
-| Bryan Mbeumo | 87 | ST | Premier League | 14k coins | -63.3% |
-| Tomáš Rosický | 86 | CAM | Premier League | 12k coins | +6.7% |
-| Ledley King | 86 | CB | Premier League | 12k coins | -39% |
-| Freddie Ljungberg | 86 | LM | Premier League | 13k coins | +6.7% |
-| Jerzy Dudek | 86 | GK | Premier League | 13k coins | -5.8% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -37.5% |
+| Erling Haaland | 90 | ST | Premier League | 8k coins | -18.2% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -29.4% |
+| Alisson | 89 | GK | Premier League | 3k coins | -22% |
+| Sepp van den Berg | 89 | CB | Premier League | 13k coins | -8.6% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -7.4% |
+| Ole Gunnar Solskjær | 88 | ST | Premier League | 14k coins | -13% |
+| Dimitar Berbatov | 87 | ST | Premier League | 12k coins | +6.8% |
+| Freddie Ljungberg | 87 | RM | Premier League | 12k coins | -2% |
+| Bryan Mbeumo | 87 | ST | Premier League | 14k coins | -64.4% |
+| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | +4.4% |
+| John Arne Riise | 86 | LB | Premier League | 12k coins | +6.8% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | +4.3% |
+| Robbie Keane | 86 | ST | Premier League | 12k coins | -12.3% |
+| Tomáš Rosický | 86 | CAM | Premier League | 13k coins | +15.6% |
 
 
 ## 📈 Destaques
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Alisson (89, GK)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jørgen Strand Larsen (89, ST)** da Premier League, a apenas **15k coins**
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
