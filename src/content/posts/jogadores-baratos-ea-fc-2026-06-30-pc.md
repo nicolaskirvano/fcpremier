@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T10:05:09.000Z
+pubDatetime: 2026-06-30T13:05:10.000Z
 title: "Jogadores baratos de Premier League no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,20 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Mohamed Salah | 91 | RM | Premier League | 15k coins | -29.8% |
-| Rodri | 90 | CDM | Premier League | 2k coins | -61.2% |
-| Erling Haaland | 90 | ST | Premier League | 5k coins | -29.3% |
-| Alisson | 89 | GK | Premier League | 2k coins | -57.8% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -48.7% |
-| Sepp van den Berg | 89 | CB | Premier League | 15k coins | -22.4% |
-| Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -62% |
+| Erling Haaland | 90 | ST | Premier League | 5k coins | -30.3% |
+| Alisson | 89 | GK | Premier League | 2k coins | -58.7% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -50% |
+| Sepp van den Berg | 89 | CB | Premier League | 15k coins | -20.3% |
 | Steve McManaman | 87 | RM | Premier League | 11k coins | -4.3% |
-| Freddie Ljungberg | 87 | RM | Premier League | 13k coins | +13% |
+| Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
+| Freddie Ljungberg | 87 | RM | Premier League | 13k coins | +10.6% |
 | Joe Cole | 87 | RW | Premier League | 13k coins | 0% |
-| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | 0% |
 | John Arne Riise | 86 | LB | Premier League | 11k coins | 0% |
-| Jerzy Dudek | 86 | GK | Premier League | 11k coins | -12.2% |
+| Jerzy Dudek | 86 | GK | Premier League | 11k coins | -4.4% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | -2.3% |
+| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | 0% |
 | Jamie Carragher | 86 | CB | Premier League | 11k coins | 0% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | 0% |
 
 
 ## 📈 Destaques
