@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T19:05:05.000Z
+pubDatetime: 2026-06-30T22:05:05.000Z
 title: "Jogadores baratos de Premier League no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 30/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (30/06/2026)?"
-    a: "Cesc Fàbregas (88, Premier League) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **30/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Cesc Fàbregas (88) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Rodri (90) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Rodri | 90 | CDM | Premier League | 2k coins | -65.9% |
+| Alisson | 89 | GK | Premier League | 2k coins | -60% |
 | Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -17.2% |
 | Ole Gunnar Solskjær | 88 | ST | Premier League | 14k coins | -8.5% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
 | Steve McManaman | 87 | RM | Premier League | 12k coins | 0% |
 | Nwankwo Kanu | 87 | ST | Premier League | 13k coins | -49% |
 | Bryan Mbeumo | 87 | ST | Premier League | 14k coins | -52.6% |
+| Park Ji Sung | 86 | LM | Premier League | 11k coins | -10.4% |
+| Robbie Keane | 86 | ST | Premier League | 11k coins | -40.3% |
 | Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | -4.4% |
-| Robbie Keane | 86 | ST | Premier League | 11k coins | -36.8% |
-| John Arne Riise | 86 | LB | Premier League | 11k coins | -2.2% |
 | Freddie Ljungberg | 86 | LM | Premier League | 11k coins | -4.3% |
+| John Arne Riise | 86 | LB | Premier League | 11k coins | -2.2% |
 | Jamie Carragher | 86 | CB | Premier League | 11k coins | -2.2% |
 | Nwankwo Kanu | 86 | ST | Premier League | 12k coins | 0% |
-| Jerzy Dudek | 86 | GK | Premier League | 12k coins | -7.7% |
-| Tomáš Rosický | 86 | CAM | Premier League | 12k coins | +4.3% |
-| Ledley King | 86 | CB | Premier League | 14k coins | -6.7% |
 
 
 ## 📈 Destaques
+
+- **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Alisson (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Cesc Fàbregas (88, CM)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ole Gunnar Solskjær (88, ST)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
-
-- **Steve McManaman (87, RM)** da Premier League, a apenas **12k coins**
-
-- **Nwankwo Kanu (87, ST)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (30/06/2026)?**  
-Cesc Fàbregas (88, Premier League) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Rodri (90, Premier League) aparece como melhor custo-benefício, a 2k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
