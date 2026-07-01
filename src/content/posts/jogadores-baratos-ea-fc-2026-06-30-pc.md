@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T22:05:09.000Z
+pubDatetime: 2026-07-01T01:05:09.000Z
 title: "Jogadores baratos de Premier League no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mohamed Salah | 91 | RM | Premier League | 15k coins | -28% |
+| Mohamed Salah | 91 | RM | Premier League | 15k coins | -27.2% |
 | Rodri | 90 | CDM | Premier League | 2k coins | -62% |
-| Erling Haaland | 90 | ST | Premier League | 5k coins | -32.1% |
+| Erling Haaland | 90 | ST | Premier League | 5k coins | -33.8% |
 | Alisson | 89 | GK | Premier League | 2k coins | -61.2% |
 | Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -55.6% |
 | Sepp van den Berg | 89 | CB | Premier League | 15k coins | -20.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -3.6% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | +1.9% |
 | Steve McManaman | 87 | RM | Premier League | 11k coins | 0% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
-| Freddie Ljungberg | 87 | RM | Premier League | 13k coins | +10.6% |
+| Freddie Ljungberg | 87 | RM | Premier League | 13k coins | +2% |
 | Joe Cole | 87 | RW | Premier League | 13k coins | 0% |
-| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | 0% |
 | John Arne Riise | 86 | LB | Premier League | 11k coins | 0% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | -2.3% |
 | Jerzy Dudek | 86 | GK | Premier League | 11k coins | -8.5% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | -4.4% |
+| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | 0% |
 
 
 ## 📈 Destaques

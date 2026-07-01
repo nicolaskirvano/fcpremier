@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T22:05:05.000Z
+pubDatetime: 2026-07-01T01:05:05.000Z
 title: "Jogadores baratos de Premier League no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 2k coins | -65.9% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -66.7% |
+| Erling Haaland | 90 | ST | Premier League | 5k coins | -43.3% |
 | Alisson | 89 | GK | Premier League | 2k coins | -60% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -17.2% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -11.1% |
+| Vincent Kompany | 88 | CB | Premier League | 13k coins | -35% |
 | Ole Gunnar Solskjær | 88 | ST | Premier League | 14k coins | -8.5% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
 | Steve McManaman | 87 | RM | Premier League | 12k coins | 0% |
+| Gilberto Silva | 87 | CDM | Premier League | 12k coins | -43.7% |
+| Joe Cole | 87 | RW | Premier League | 12k coins | -7.4% |
 | Nwankwo Kanu | 87 | ST | Premier League | 13k coins | -49% |
 | Bryan Mbeumo | 87 | ST | Premier League | 14k coins | -52.6% |
-| Park Ji Sung | 86 | LM | Premier League | 11k coins | -10.4% |
 | Robbie Keane | 86 | ST | Premier League | 11k coins | -40.3% |
 | Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | -4.4% |
-| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | -4.3% |
-| John Arne Riise | 86 | LB | Premier League | 11k coins | -2.2% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | -2.2% |
-| Nwankwo Kanu | 86 | ST | Premier League | 12k coins | 0% |
+| Park Ji Sung | 86 | LM | Premier League | 11k coins | -10.4% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Erling Haaland (90, ST)** da Premier League, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Alisson (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Cesc Fàbregas (88, CM)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ole Gunnar Solskjær (88, ST)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
+- **Vincent Kompany (88, CB)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
