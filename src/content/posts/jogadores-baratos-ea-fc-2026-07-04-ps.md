@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T22:05:05.000Z
+pubDatetime: 2026-07-05T01:05:05.000Z
 title: "Jogadores baratos de Premier League no EA FC (04/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,30 +29,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 2k coins | +9.1% |
-| Alisson | 89 | GK | Premier League | 2k coins | +4.2% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | +8.3% |
-| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -16.9% |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 13k coins | -15.9% |
-| Alexis Mac Allister | 89 | CM | Premier League | 14k coins | -2.9% |
-| Vincent Kompany | 88 | CB | Premier League | 13k coins | 0% |
-| Harry Kewell | 87 | LW | Premier League | 14k coins | 0% |
-| Freddie Ljungberg | 87 | RM | Premier League | 14k coins | +13.7% |
+| Rodri | 90 | CDM | Premier League | 2k coins | +20% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | +4.5% |
+| Alisson | 89 | GK | Premier League | 2k coins | +9.1% |
+| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -14.3% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | +18.8% |
+| Harry Kewell | 87 | LW | Premier League | 14k coins | +1.9% |
+| Freddie Ljungberg | 87 | RM | Premier League | 14k coins | +14.3% |
+| Nwankwo Kanu | 86 | ST | Premier League | 12k coins | +6.7% |
 | Ledley King | 86 | CB | Premier League | 13k coins | +12.8% |
-| Robbie Keane | 86 | ST | Premier League | 14k coins | +23.4% |
+| Park Ji Sung | 86 | LM | Premier League | 13k coins | +15.2% |
 
 
 ## 📈 Destaques
 
-- **Rodri (90, CDM)** da Premier League, a apenas **2k coins**
-
-- **Alisson (89, GK)** da Premier League, a apenas **2k coins**
+- **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **2k coins**
 
+- **Alisson (89, GK)** da Premier League, a apenas **2k coins**
+
 - **Sepp van den Berg (89, CB)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jørgen Strand Larsen (89, ST)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
