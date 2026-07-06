@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T16:05:05.000Z
+pubDatetime: 2026-07-06T19:05:05.000Z
 title: "Jogadores baratos de Premier League no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3k coins | +93.3% |
-| Virgil van Dijk | 90 | CB | Premier League | 10k coins | -35.3% |
-| Alisson | 89 | GK | Premier League | 3k coins | +87.5% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +169.2% |
-| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -15% |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 13k coins | -38.5% |
-| Vincent Kompany | 88 | CB | Premier League | 14k coins | +1.9% |
-| Cesc Fàbregas | 88 | CM | Premier League | 15k coins | +25% |
-| Harry Kewell | 87 | LW | Premier League | 14k coins | -31.4% |
-| Steve McManaman | 87 | RM | Premier League | 14k coins | +4.3% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | +4% |
-| Freddie Ljungberg | 87 | RM | Premier League | 15k coins | -5.6% |
-| Jamie Carragher | 86 | CB | Premier League | 14k coins | +6.8% |
-| Robbie Keane | 86 | ST | Premier League | 14k coins | +27.9% |
-| Park Ji Sung | 86 | LM | Premier League | 14k coins | +11.6% |
+| Rodri | 90 | CDM | Premier League | 3k coins | +86.7% |
+| Virgil van Dijk | 90 | CB | Premier League | 10k coins | -41.2% |
+| Alisson | 89 | GK | Premier League | 3k coins | +62.5% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +115.4% |
+| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -16.4% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 13k coins | -30.8% |
+| Alexis Mac Allister | 89 | CM | Premier League | 14k coins | -17.4% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +22.9% |
+| Freddie Ljungberg | 87 | RM | Premier League | 13k coins | -5.5% |
+| Joe Cole | 87 | RW | Premier League | 14k coins | +10% |
+| Pascal Groß | 87 | CAM | Premier League | 15k coins | -2.9% |
+| Gilberto Silva | 87 | CDM | Premier League | 15k coins | +22.4% |
+| Freddie Ljungberg | 86 | LM | Premier League | 13k coins | +18.2% |
+| Jamie Carragher | 86 | CB | Premier League | 13k coins | +18.2% |
+| Park Ji Sung | 86 | LM | Premier League | 13k coins | +23.3% |
 
 
 ## 📈 Destaques
