@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T13:05:09.000Z
+pubDatetime: 2026-07-07T16:05:09.000Z
 title: "Jogadores baratos de Premier League no EA FC (07/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,18 +29,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3k coins | +42.1% |
-| Virgil van Dijk | 90 | CB | Premier League | 9k coins | -46.5% |
-| Erling Haaland | 90 | ST | Premier League | 13k coins | +145.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 11k coins | +5.7% |
+| Rodri | 90 | CDM | Premier League | 3k coins | +52.6% |
+| Virgil van Dijk | 90 | CB | Premier League | 9k coins | -45.3% |
+| Erling Haaland | 90 | ST | Premier League | 14k coins | +154.7% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +35% |
+| Alisson | 89 | GK | Premier League | 3k coins | +52.6% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
+| Harry Kewell | 87 | LW | Premier League | 11k coins | -53.7% |
 | Steve McManaman | 87 | RM | Premier League | 11k coins | 0% |
+| Joe Cole | 87 | RW | Premier League | 13k coins | 0% |
+| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | 0% |
 | Park Ji Sung | 86 | LM | Premier League | 11k coins | -33.8% |
-| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | +2.3% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 12k coins | +2.3% |
-| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | -5.9% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | +18.6% |
-| Ledley King | 86 | CB | Premier League | 12k coins | -10.7% |
+| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | -9.8% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 12k coins | +11.6% |
+| Jamie Carragher | 86 | CB | Premier League | 13k coins | +25.6% |
 
 
 ## 📈 Destaques
@@ -49,11 +51,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Erling Haaland (90, ST)** da Premier League, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Erling Haaland (90, ST)** da Premier League, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **11k coins**
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
+- **Alisson (89, GK)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
