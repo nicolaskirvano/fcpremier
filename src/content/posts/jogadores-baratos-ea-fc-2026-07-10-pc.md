@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T10:05:10.000Z
+pubDatetime: 2026-07-10T13:05:09.000Z
 title: "Jogadores baratos de Premier League no EA FC (10/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,25 +29,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Erling Haaland | 90 | ST | Premier League | 14k coins | +70.9% |
-| Cesc Fàbregas | 88 | CM | Premier League | 15k coins | +41.3% |
+| Erling Haaland | 90 | ST | Premier League | 14k coins | +70.7% |
+| Alisson | 89 | GK | Premier League | 3k coins | +8% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +10.7% |
+| Vincent Kompany | 88 | CB | Premier League | 15k coins | +3.4% |
+| Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
 | Nwankwo Kanu | 86 | ST | Premier League | 11k coins | 0% |
-| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | +11.6% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 13k coins | +20.9% |
-| Jerzy Dudek | 86 | GK | Premier League | 14k coins | +10% |
+| Tomáš Rosický | 86 | CAM | Premier League | 11k coins | 0% |
+| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | +4.7% |
+| Park Ji Sung | 86 | LM | Premier League | 12k coins | +11.4% |
+| Jerzy Dudek | 86 | GK | Premier League | 14k coins | +14% |
 
 
 ## 📈 Destaques
 
 - **Erling Haaland (90, ST)** da Premier League, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Alisson (89, GK)** da Premier League, a apenas **3k coins**
 
-- **Nwankwo Kanu (86, ST)** da Premier League, a apenas **11k coins**
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3k coins**
 
-- **Freddie Ljungberg (86, LM)** da Premier League, a apenas **12k coins**
+- **Vincent Kompany (88, CB)** da Premier League, a apenas **15k coins**
 
-- **Ole Gunnar Solskjær (86, ST)** da Premier League, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
