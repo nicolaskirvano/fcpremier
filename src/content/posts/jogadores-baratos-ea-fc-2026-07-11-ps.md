@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T10:05:05.000Z
+pubDatetime: 2026-07-11T13:05:05.000Z
 title: "Jogadores baratos de Premier League no EA FC (11/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,18 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 2k coins | -24% |
-| Alisson | 89 | GK | Premier League | 2k coins | -32% |
-| Sepp van den Berg | 89 | CB | Premier League | 12k coins | 0% |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 13k coins | -15.8% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -5.9% |
-| Vincent Kompany | 88 | CB | Premier League | 13k coins | +7.5% |
-| Harry Kewell | 87 | LW | Premier League | 12k coins | 0% |
-| Dimitar Berbatov | 87 | ST | Premier League | 12k coins | +2.2% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | -6.4% |
-| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | 0% |
-| Nwankwo Kanu | 86 | ST | Premier League | 12k coins | +2.3% |
-| Robbie Keane | 86 | ST | Premier League | 13k coins | 0% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -20% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 12k coins | -10% |
+| Sepp van den Berg | 89 | CB | Premier League | 13k coins | +10.4% |
+| Vincent Kompany | 88 | CB | Premier League | 13k coins | +1.8% |
+| Dimitar Berbatov | 87 | ST | Premier League | 12k coins | 0% |
+| Gilberto Silva | 87 | CDM | Premier League | 13k coins | -15% |
+| Harry Kewell | 87 | LW | Premier League | 13k coins | +10.4% |
+| Freddie Ljungberg | 87 | RM | Premier League | 15k coins | +11.1% |
+| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | 0% |
+| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | +2.2% |
+| Robbie Keane | 86 | ST | Premier League | 12k coins | -5.7% |
 | Park Ji Sung | 86 | LM | Premier League | 13k coins | +8.2% |
 
 
@@ -48,13 +47,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Alisson (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jørgen Strand Larsen (89, ST)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **12k coins**
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13k coins**
 
-- **Jørgen Strand Larsen (89, ST)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vincent Kompany (88, CB)** da Premier League, a apenas **13k coins**
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **12k coins**
+- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **12k coins**
 
 
 ## Por que estas cartas?
