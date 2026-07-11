@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T22:05:10.000Z
+pubDatetime: 2026-07-11T01:05:10.000Z
 title: "Jogadores baratos de Premier League no EA FC (10/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,28 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Erling Haaland | 90 | ST | Premier League | 13k coins | +15.2% |
-| Alisson | 89 | GK | Premier League | 2k coins | -12.5% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -8.3% |
+| Erling Haaland | 90 | ST | Premier League | 13k coins | +19.1% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
-| Freddie Ljungberg | 87 | RM | Premier League | 14k coins | -19.4% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | +25.6% |
-| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | +7% |
-| Freddie Ljungberg | 86 | LM | Premier League | 13k coins | +14% |
-| Robbie Keane | 86 | ST | Premier League | 15k coins | +35.4% |
+| Freddie Ljungberg | 87 | RM | Premier League | 13k coins | -16.2% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 11k coins | 0% |
+| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | 0% |
+| Nwankwo Kanu | 86 | ST | Premier League | 12k coins | 0% |
+| Robbie Keane | 86 | ST | Premier League | 12k coins | -12.3% |
+| Park Ji Sung | 86 | LM | Premier League | 12k coins | +13.6% |
 
 
 ## 📈 Destaques
 
 - **Erling Haaland (90, ST)** da Premier League, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Alisson (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
 
-- **Freddie Ljungberg (87, RM)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Freddie Ljungberg (87, RM)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Ole Gunnar Solskjær (86, ST)** da Premier League, a apenas **11k coins**
+
+- **Freddie Ljungberg (86, LM)** da Premier League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
