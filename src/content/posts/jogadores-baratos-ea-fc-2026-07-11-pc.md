@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T13:05:09.000Z
+pubDatetime: 2026-07-11T16:05:09.000Z
 title: "Jogadores baratos de Premier League no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 11/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (11/07/2026)?"
-    a: "Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 5k coins no PC."
+    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 2k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **11/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Virgil van Dijk (90) por apenas 5k coins.
+> 💰 **Melhor pechincha:** Rodri (90) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,16 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 90 | CB | Premier League | 5k coins | -43.2% |
-| Erling Haaland | 90 | ST | Premier League | 14k coins | +6.1% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -15.4% |
+| Virgil van Dijk | 90 | CB | Premier League | 5k coins | -43.7% |
+| Erling Haaland | 90 | ST | Premier League | 14k coins | +14.3% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
-| Gilberto Silva | 87 | CDM | Premier League | 15k coins | -30.6% |
-| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | 0% |
-| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | +9.3% |
-| Jerzy Dudek | 86 | GK | Premier League | 15k coins | +13.5% |
+| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | 0% |
+| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | +4.7% |
 
 
 ## 📈 Destaques
+
+- **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -46,9 +47,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
 
-- **Gilberto Silva (87, CDM)** da Premier League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Nwankwo Kanu (86, ST)** da Premier League, a apenas **11k coins**
+- **Freddie Ljungberg (86, LM)** da Premier League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -65,7 +64,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (11/07/2026)?**  
-Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 5k coins no PC.
+Rodri (90, Premier League) aparece como melhor custo-benefício, a 2k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
