@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T16:05:09.000Z
+pubDatetime: 2026-07-11T19:05:10.000Z
 title: "Jogadores baratos de Premier League no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,25 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 2k coins | -15.4% |
-| Virgil van Dijk | 90 | CB | Premier League | 5k coins | -43.7% |
-| Erling Haaland | 90 | ST | Premier League | 14k coins | +14.3% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -18.5% |
+| Virgil van Dijk | 90 | CB | Premier League | 4k coins | -47.1% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -16% |
+| Sepp van den Berg | 89 | CB | Premier League | 13k coins | -3.6% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11k coins | 0% |
-| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | 0% |
-| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | +4.7% |
+| Nwankwo Kanu | 86 | ST | Premier League | 11k coins | 0% |
+| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | 0% |
+| Park Ji Sung | 86 | LM | Premier League | 13k coins | +18.2% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Erling Haaland (90, ST)** da Premier League, a apenas **14k coins**
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13k coins**
 
 - **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11k coins**
-
-- **Freddie Ljungberg (86, LM)** da Premier League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
