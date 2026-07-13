@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T19:05:05.000Z
+pubDatetime: 2026-07-13T22:05:05.000Z
 title: "Jogadores baratos de Premier League no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 13/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (13/07/2026)?"
-    a: "Mohamed Salah (91, Premier League) aparece como melhor custo-benefício, a 9k coins no Console (PS)."
+    a: "Mohamed Salah (91, Premier League) aparece como melhor custo-benefício, a 8k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **13/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Mohamed Salah (91) por apenas 9k coins.
+> 💰 **Melhor pechincha:** Mohamed Salah (91) por apenas 8k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mohamed Salah | 91 | RM | Premier League | 9k coins | -73.6% |
-| Rodri | 90 | CDM | Premier League | 2k coins | -37% |
-| Virgil van Dijk | 90 | CB | Premier League | 3k coins | -67% |
-| Erling Haaland | 90 | ST | Premier League | 4k coins | -77.6% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -50% |
-| Alisson | 89 | GK | Premier League | 2k coins | -42.3% |
-| Sepp van den Berg | 89 | CB | Premier League | 13k coins | -5.9% |
-| Alexis Mac Allister | 89 | CM | Premier League | 14k coins | +1.6% |
-| Ole Gunnar Solskjær | 88 | ST | Premier League | 12k coins | +8.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | +7.1% |
-| Freddie Ljungberg | 87 | RM | Premier League | 12k coins | -11.1% |
-| Dimitar Berbatov | 87 | ST | Premier League | 12k coins | -6% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | +21.8% |
-| Steve McManaman | 87 | RM | Premier League | 14k coins | +17.6% |
-| Nwankwo Kanu | 86 | ST | Premier League | 12k coins | +2.2% |
+| Mohamed Salah | 91 | RM | Premier League | 8k coins | -74.7% |
+| Virgil van Dijk | 90 | CB | Premier League | 3k coins | -70.5% |
+| Erling Haaland | 90 | ST | Premier League | 4k coins | -78.2% |
+| Alisson | 89 | GK | Premier League | 2k coins | -46.2% |
+| Sepp van den Berg | 89 | CB | Premier League | 12k coins | 0% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -8.9% |
+| Vincent Kompany | 88 | CB | Premier League | 14k coins | +7.7% |
+| Oscar Bobb | 88 | RW | Premier League | 14k coins | -54.3% |
+| Freddie Ljungberg | 87 | RM | Premier League | 12k coins | -1.9% |
+| Dimitar Berbatov | 87 | ST | Premier League | 13k coins | -2% |
+| Steve McManaman | 87 | RM | Premier League | 14k coins | +11.5% |
+| David Brooks | 86 | RM | Premier League | 12k coins | -32% |
+| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | -3.8% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 12k coins | +2% |
+| Jerzy Dudek | 86 | GK | Premier League | 12k coins | -26.5% |
 
 
 ## 📈 Destaques
 
-- **Mohamed Salah (91, RM)** da Premier League, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mohamed Salah (91, RM)** da Premier League, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Erling Haaland (90, ST)** da Premier League, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alisson (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **12k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (13/07/2026)?**  
-Mohamed Salah (91, Premier League) aparece como melhor custo-benefício, a 9k coins no Console (PS).
+Mohamed Salah (91, Premier League) aparece como melhor custo-benefício, a 8k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
