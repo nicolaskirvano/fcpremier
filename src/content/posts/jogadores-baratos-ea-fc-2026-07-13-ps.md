@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T10:05:05.000Z
+pubDatetime: 2026-07-13T13:05:05.000Z
 title: "Jogadores baratos de Premier League no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mohamed Salah | 91 | RM | Premier League | 8k coins | -78.4% |
-| Rodri | 90 | CDM | Premier League | 2k coins | -39.3% |
-| Virgil van Dijk | 90 | CB | Premier League | 3k coins | -69% |
-| Erling Haaland | 90 | ST | Premier League | 3k coins | -80.6% |
-| Sepp van den Berg | 89 | CB | Premier League | 12k coins | +4% |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 13k coins | -10.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -11.7% |
-| Vincent Kompany | 88 | CB | Premier League | 14k coins | +15.7% |
-| Dimitar Berbatov | 87 | ST | Premier League | 12k coins | +4.3% |
-| Harry Kewell | 87 | LW | Premier League | 14k coins | +10.2% |
-| Freddie Ljungberg | 87 | RM | Premier League | 14k coins | +3.8% |
-| John Arne Riise | 86 | LB | Premier League | 11k coins | -44.6% |
-| Nwankwo Kanu | 86 | ST | Premier League | 12k coins | +2.2% |
-| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | +2.2% |
-| Jerzy Dudek | 86 | GK | Premier League | 12k coins | -25.8% |
+| Mohamed Salah | 91 | RM | Premier League | 8k coins | -77.2% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -35.7% |
+| Virgil van Dijk | 90 | CB | Premier League | 3k coins | -68% |
+| Erling Haaland | 90 | ST | Premier League | 4k coins | -78.8% |
+| Alisson | 89 | GK | Premier League | 2k coins | -42.3% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -53.3% |
+| Sepp van den Berg | 89 | CB | Premier League | 13k coins | +4% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -15.5% |
+| Vincent Kompany | 88 | CB | Premier League | 14k coins | +11.5% |
+| Oscar Bobb | 88 | RW | Premier League | 14k coins | -57.9% |
+| Dimitar Berbatov | 87 | ST | Premier League | 12k coins | 0% |
+| Freddie Ljungberg | 87 | RM | Premier League | 12k coins | -9.4% |
+| Harry Kewell | 87 | LW | Premier League | 14k coins | +12.2% |
+| Steve McManaman | 87 | RM | Premier League | 15k coins | +22% |
+| John Arne Riise | 86 | LB | Premier League | 12k coins | -43.4% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Erling Haaland (90, ST)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Erling Haaland (90, ST)** da Premier League, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **12k coins**
+- **Alisson (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
