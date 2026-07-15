@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T19:05:05.000Z
+pubDatetime: 2026-07-15T22:05:05.000Z
 title: "Jogadores baratos de Premier League no EA FC (15/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 15/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (15/07/2026)?"
-    a: "Jørgen Strand Larsen (89, Premier League) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 3k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **15/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jørgen Strand Larsen (89) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Rodri (90) por apenas 3k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 13k coins | +15.4% |
-| Sepp van den Berg | 89 | CB | Premier League | 14k coins | +8% |
-| Vincent Kompany | 88 | CB | Premier League | 14k coins | +3.7% |
-| Oscar Bobb | 88 | RW | Premier League | 15k coins | -50% |
+| Rodri | 90 | CDM | Premier League | 3k coins | +7.1% |
+| Alisson | 89 | GK | Premier League | 3k coins | +14.3% |
+| Oscar Bobb | 88 | RW | Premier League | 15k coins | -48.3% |
 | Dimitar Berbatov | 87 | ST | Premier League | 12k coins | +4.2% |
-| Freddie Ljungberg | 87 | RM | Premier League | 14k coins | -5.7% |
-| Harry Kewell | 87 | LW | Premier League | 15k coins | -4.7% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 12k coins | -4% |
-| Robbie Keane | 86 | ST | Premier League | 12k coins | -12.3% |
-| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | +2% |
-| Nwankwo Kanu | 86 | ST | Premier League | 13k coins | +2% |
-| Jerzy Dudek | 86 | GK | Premier League | 13k coins | -18% |
-| Park Ji Sung | 86 | LM | Premier League | 13k coins | +3.9% |
-| David Brooks | 86 | RM | Premier League | 13k coins | +14.3% |
-| Jamie Carragher | 86 | CB | Premier League | 15k coins | +20.4% |
+| Freddie Ljungberg | 87 | RM | Premier League | 13k coins | -5.6% |
+| Steve McManaman | 87 | RM | Premier League | 14k coins | +64% |
+| Harry Kewell | 87 | LW | Premier League | 14k coins | -9.2% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 12k coins | -6% |
+| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | 0% |
+| Jerzy Dudek | 86 | GK | Premier League | 12k coins | -20.3% |
+| Nwankwo Kanu | 86 | ST | Premier League | 12k coins | 0% |
+| Park Ji Sung | 86 | LM | Premier League | 13k coins | -1.9% |
+| Oscar Bobb | 85 | RW | Premier League | 15k coins | -38.5% |
 
 
 ## 📈 Destaques
 
-- **Jørgen Strand Larsen (89, ST)** da Premier League, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Rodri (90, CDM)** da Premier League, a apenas **3k coins**
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **14k coins**
-
-- **Vincent Kompany (88, CB)** da Premier League, a apenas **14k coins**
+- **Alisson (89, GK)** da Premier League, a apenas **3k coins**
 
 - **Oscar Bobb (88, RW)** da Premier League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Dimitar Berbatov (87, ST)** da Premier League, a apenas **12k coins**
+
+- **Freddie Ljungberg (87, RM)** da Premier League, a apenas **13k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +71,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (15/07/2026)?**  
-Jørgen Strand Larsen (89, Premier League) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Rodri (90, Premier League) aparece como melhor custo-benefício, a 3k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
