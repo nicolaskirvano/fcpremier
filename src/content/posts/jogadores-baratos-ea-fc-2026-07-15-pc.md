@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T10:05:09.000Z
+pubDatetime: 2026-07-15T13:05:09.000Z
 title: "Jogadores baratos de Premier League no EA FC (15/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,13 +29,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3k coins | +10% |
-| Virgil van Dijk | 90 | CB | Premier League | 6k coins | -25.6% |
-| Erling Haaland | 90 | ST | Premier League | 8k coins | -47.9% |
-| Sepp van den Berg | 89 | CB | Premier League | 12k coins | +1.7% |
-| Freddie Ljungberg | 87 | RM | Premier League | 14k coins | -9.4% |
-| John Arne Riise | 86 | LB | Premier League | 13k coins | -15% |
-| Freddie Ljungberg | 86 | LM | Premier League | 14k coins | +18.6% |
+| Rodri | 90 | CDM | Premier League | 3k coins | 0% |
+| Virgil van Dijk | 90 | CB | Premier League | 6k coins | -24.4% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | -6.5% |
+| Alisson | 89 | GK | Premier League | 3k coins | +6.9% |
+| Freddie Ljungberg | 86 | LM | Premier League | 13k coins | +18.6% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 15k coins | +39.1% |
 
 
 ## 📈 Destaques
@@ -44,11 +43,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Erling Haaland (90, ST)** da Premier League, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3k coins**
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **12k coins**
+- **Alisson (89, GK)** da Premier League, a apenas **3k coins**
 
-- **Freddie Ljungberg (87, RM)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Freddie Ljungberg (86, LM)** da Premier League, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
