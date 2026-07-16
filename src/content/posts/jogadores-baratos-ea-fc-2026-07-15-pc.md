@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T22:05:09.000Z
+pubDatetime: 2026-07-16T01:05:09.000Z
 title: "Jogadores baratos de Premier League no EA FC (15/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,27 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 4k coins | +37.9% |
-| Virgil van Dijk | 90 | CB | Premier League | 9k coins | +17.6% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +6.7% |
-| Alexander Isak | 88 | ST | Premier League | 2k coins | -6.2% |
-| Dimitar Berbatov | 87 | ST | Premier League | 12k coins | +18.2% |
-| Freddie Ljungberg | 86 | LM | Premier League | 12k coins | +27.9% |
-| Robbie Keane | 86 | ST | Premier League | 14k coins | +20.4% |
-| Luis Díaz | 85 | LM | Premier League | 2k coins | +46.7% |
+| Rodri | 90 | CDM | Premier League | 4k coins | +20% |
+| Alisson | 89 | GK | Premier League | 4k coins | +30% |
+| Dimitar Berbatov | 87 | ST | Premier League | 12k coins | +6.8% |
+| Freddie Ljungberg | 86 | LM | Premier League | 11k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **9k coins** — já **valorizando**, sinal de procura crescente.
+- **Alisson (89, GK)** da Premier League, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3k coins**
+- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **12k coins**
 
-- **Alexander Isak (88, ST)** da Premier League, a apenas **2k coins**
-
-- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+- **Freddie Ljungberg (86, LM)** da Premier League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
