@@ -7,7 +7,7 @@ export default defineAstroPaperConfig({
     description:
       "Preços, mercado e melhores investimentos da Premier League no EA FC Ultimate Team, atualizados todos os dias com dados reais.",
     author: "Premier Trader",
-    profile: "https://fcpremier.pages.dev/",
+    profile: "https://fcpremier.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Premier Trader",
