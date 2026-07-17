@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Premier Trader"
 pubDatetime: 2026-06-20T01:07:04.000Z
-title: "Melhores investimentos em Premier League no EA FC (19/06/2026): análise e previsões — PC"
+title: "Momentum de Premier League no EA FC em 19/06 — PC"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Elliot Anderson (86, Premier League) lidera, com +84.2% em 7 dias a 35k coins no PC, e o modelo dá 36% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 19/06/2026 no PC: Elliot Anderson liderou 7d com +84,2%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Elliot Anderson** liderou o recorte com **+84,2% em 7d** e +9,4% em 24h. Entre 15 cartas, 15 tinham as duas janelas positivas; a mediana semanal foi **+33,3%**.
+
+Os preços destacados iam de **23k coins** a **236k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Premier League no EA FC em 19/06 — PC](/charts/melhores-investimentos-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **19/06/2026** no **PC**:
 
 > 🔝 **Destaque:** Elliot Anderson (86) acumula **+84.2% em 7 dias** a 35k coins.
 
@@ -41,9 +48,9 @@ Finalmente, a carta icônica de Freddie Ljungberg, com 87 de Overall e preço de
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Elliot Anderson | 86 | Premier League | 35k coins | +9.4% | +84.2% | 36% |
 | Dominik Szoboszlai | 87 | Premier League | 236k coins | +25.5% | +68.6% | 68% |
@@ -64,23 +71,23 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 ## 📈 Análise dos destaques
 
-- **Elliot Anderson (86)** — 35k coins, **+84.2% em 7 dias** (+9.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Elliot Anderson (86)** — 35k coins, **+84.2% em 7 dias** (+9.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Dominik Szoboszlai (87)** — 236k coins, **+68.6% em 7 dias** (+25.5% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Dominik Szoboszlai (87)** — 236k coins, **+68.6% em 7 dias** (+25.5% em 24h). Preço +34% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Mohamed Salah (89)** — 23k coins, **+66.1% em 7 dias** (+32.9% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mohamed Salah (89)** — 23k coins, **+66.1% em 7 dias** (+32.9% em 24h). Preço +28% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Cristian Romero (86)** — 85k coins, **+42.9% em 7 dias** (+21.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Cristian Romero (86)** — 85k coins, **+42.9% em 7 dias** (+21.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Matheus Cunha (87)** — 197k coins, **+41.7% em 7 dias** (+23.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Matheus Cunha (87)** — 197k coins, **+41.7% em 7 dias** (+23.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -89,13 +96,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Elliot Anderson (86, Premier League) lidera, com +84.2% em 7 dias a 35k coins no PC, e o modelo dá 36% de chance de seguir subindo.
+**Qual carta liderava o momentum em 19/06/2026 no EA FC?**
+Elliot Anderson (86, Premier League) lidera, com +84.2% em 7 dias a 35k coins no PC. No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -104,3 +111,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Premier League baratos no EA FC em 19/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-19-pc/)
+- [Premier League no EA FC em 19/06: altas e baixas — PC](/posts/mercado-ea-fc-2026-06-19-pc/)
+- [Momentum de Premier League no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

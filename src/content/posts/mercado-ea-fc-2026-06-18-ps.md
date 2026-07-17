@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Premier Trader"
 pubDatetime: 2026-06-19T01:05:40.000Z
-title: "Premier League no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Premier League no EA FC em 18/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Martin Ødegaard (87, Premier League), com +32.4% em 24h, a 96k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Anthony Gordon (88), -34.7% em 24h, a 220k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Sandro Tonali (88) — 95% de probabilidade de alta, a 205k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 80 cartas em alta contra 97 em queda (média -0.62%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PS: Martin Ødegaard liderou as altas e Anthony Gordon as baixas em Premier League. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Martin Ødegaard** registrou o maior movimento de 24h (+32,4%), enquanto **Anthony Gordon** marcou o menor (-34,7%). A distância entre os extremos foi de **67,1 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+1,3%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Premier League no EA FC em 18/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado da Premier League no console PS para o dia 18 de junho de 2026 apresenta um cenário de extrema indecisão, caracterizado por um sentimento lateral que não oferece uma direção clara para os traders que buscam movimentos explosivos imediatos. Com um balanço de 80 altas contra 97 quedas nos últimos 24 horas, a média geral do mercado recuou apenas 0.62%, indicando que a volatilidade está contida e que os preços estão se estabilizando em patamares de consolidação antes de possíveis grandes movimentos. Esta ausência de tendência definida exige uma leitura mais apurada dos dados, pois o volume de vendas não está sendo suficiente para derrubar os ativos mais fortes, nem a demanda está pressionando para cima de forma generalizada. O trader experiente deve observar que, em dias laterais como este, as oportunidades surgem nas discrepâncias entre a probabilidade de alta projetada pelo modelo e o preço atual de mercado, onde ativos subvalorizados podem oferecer margens de segurança superiores. A estratégia hoje deve focar em identificar quais cartas estão sendo vendidas por pânico momentâneo e quais estão subindo por demanda real de squads competitivos, evitando compras em topo em ativos sem fundamentos claros de sustentação.
 
@@ -68,7 +71,7 @@ A liderança das altas é dominada por Martin Ødegaard, que registrou um impres
 As maiores quedas do dia revelam uma correção significativa em ativos que haviam sido supervalorizados ou que sofreram impacto negativo de notícias ou mudanças de meta, com Anthony Gordon liderando as perdas com queda de 34.7% para 220k coins, apesar de manter uma probabilidade de alta de 33%, o que indica que a venda pode ser uma oportunidade de compra para quem acredita na recuperação. Ramires (88) despencou 34.6% para 362k coins, um movimento drástico que parece ser uma correção de preço em ativos de coleção ou squads temáticos, já que sua probabilidade de alta de 68% sugere que o valor intrínseco ainda é subestimado pelo mercado atual. Florian Wirtz caiu 32.4% para 148k coins, mas com probabilidade de alta de 93%, este é um caso clássico de 'compre na baixa', onde o preço foi artificialmente deprimido por vendas em pânico, criando uma oportunidade de ouro para traders de médio prazo. Lewis Miley registrou queda de 22.1% para 48k coins, com probabilidade de alta de 95%, reforçando a tese de que ativos de baixo custo com alta probabilidade de valorização são os mais seguros para acumulação em dias laterais. Joe Cole caiu 21.4% para 146k coins com probabilidade de alta de apenas 5%, sugerindo que esta queda é estrutural e que o ativo pode continuar em tendência de baixa, devendo ser evitado por traders conservadores.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Martin Ødegaard (87, Premier League), com +32.4% em 24h, a 96k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Anthony Gordon (88), -34.7% em 24h, a 220k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Sandro Tonali (88) — 95% de probabilidade de alta, a 205k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Sandro Tonali (88) — 95% de probabilidade de alta, a 205k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 80 cartas em alta contra 97 em queda (média -0.62%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 80 cartas em alta contra 97 em queda (média -0.62%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Premier League baratos no EA FC em 18/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-18-ps/)
+- [Momentum de Premier League no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
