@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **+5,3%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📊 Como está o mercado agora
+## Dados preservados do snapshot
 
-O mercado da Premier League no console PlayStation apresenta um cenário extremamente aquecido para o dia 20 de junho de 2026, caracterizado por uma dominância esmagadora das altas sobre as quedas, refletindo um sentimento otimista entre os traders e uma forte demanda por ativos específicos. Os dados indicam um desequilíbrio significativo na balança diária, com 91 registros de altas contra apenas 84 quedas, resultando em uma média de variação positiva de 2.94% nas últimas 24 horas para o segmento analisado. Este ambiente de alta liquidez e apetite por risco sugere que os investidores estão buscando exposição rápida em cartas de média e alta raridade, impulsionados possivelmente por atualizações de SBCs ou promoções iminentes que valorizam jogadores da liga inglesa. A volatilidade observada exige atenção redobrada, pois a probabilidade de continuidade nas tendências de alta varia drasticamente entre os ativos, separando oportunidades reais de meros picos de especulação de curto prazo. Operar neste contexto requer disciplina para diferenciar entre a euforia momentânea do mercado e fundamentos sólidos de sustentabilidade de preço, especialmente quando se lida com variações percentuais tão agressivas em um único ciclo diário.
+As 4 tabelas abaixo preservam **36 registros** de **33 jogadores** observados em 20/06/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Harry Maguire (83) **+54.2%** · 🔴 **Maior baixa:** Wilson Odobert (87) **-45%**
-
-## 🟢 Maiores altas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado da Premier League no console PlayStation apresenta um cenário extrema
 | Matheus Cunha | 87 | Premier League | 96k coins | +33.6% | +11.2% |
 | Mohammed Kudus | 90 | Premier League | 119k coins | +32.2% | +3.5% |
 
-
-A liderança do ranking de altas é comandada por Harry Maguire, que registrou um aumento vertiginoso de 54.2% em 24 horas, atingindo a cotação de 45 mil moedas, embora a probabilidade de continuidade dessa alta seja moderada em 33%, indicando um possível exaustão de compradores após o pico inicial. Em segundo lugar, Gabriel se destaca com alta de 52.7%, subindo para 94 mil moedas, e possui uma probabilidade robusta de 80% de continuar subindo, o que sugere forte sustentação técnica e interesse institucional ou de SBCs de maior valor. Martin Ødegaard acompanha a tendência com alta de 46% e preço de 79 mil moedas, mantendo uma probabilidade equilibrada de 50% de alta, tornando-o um ativo interessante para swing trades de curto prazo com risco calculado. Clint Dempsey, apesar de registrar alta de 39.5% e atingir 113 mil moedas, apresenta uma probabilidade de apenas 5% de continuar subindo, caracterizando-se como um ativo de venda imediata ou 'sell the news', onde o preço já precificou expectativas futuras. Joško Gvardiol e David Brooks completam o topo das altas com 37.6% e 37.5% respectivamente, com preços de 54 mil e 20 mil moedas, ambos exibindo probabilidades elevadas de 74% e 80% de alta, o que indica que a subida deles ainda está em fase inicial e pode ter mais espaço para apreciação no curto prazo.
-
-
-## 🔴 Quem mais caiu (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,13 +61,7 @@ A liderança do ranking de altas é comandada por Harry Maguire, que registrou u
 | Nick Woltemade | 90 | Premier League | 153k coins | -22% | -19.2% |
 | Erling Haaland | 92 | Premier League | 91k coins | -21.6% | -27.8% |
 
-
-No outro extremo do espectro, Wilson Odobert sofreu a maior queda do dia com -45%, despencando para 24 mil moedas, mas paradoxalmente possui 95% de probabilidade de alta futura, sugerindo uma oportunidade clássica de compra no fundo ('buy the dip') para traders ousados que acreditam na correção de preço. Jean-Philippe Mateta caiu 39.8% para 27 mil moedas, com baixa probabilidade de alta de apenas 28%, indicando que a pressão vendedora ainda pode persistir e que o ativo não encontrou suporte imediato, aumentando o risco de manutenção da baixa. Luke Shaw e Lewis Hall também recuaram significativamente, com quedas de -33.6% e -30.4% para 26 mil e 28 mil moedas respectivamente, apresentando probabilidades de alta de 56% e 50%, o que os coloca em uma zona de indecisão do mercado onde a confirmação de suporte será crucial antes de qualquer entrada compradora. Bruno Fernandes, com queda de -28.9% para 42 mil moedas e probabilidade de alta de 50%, reflete a volatilidade típica de meias de elite que são alvos frequentes de manipulação de preço por grandes traders. Tijjani Reijnders caiu 28.6% para 54 mil moedas com apenas 5% de chance de alta, enquanto Carlos Tévez e David Raya, com quedas de -24.8% e -22.7% para 20 mil e 52 mil moedas, ambos com 95% de probabilidade de alta, parem ser os ativos mais promissores entre as baixas para acumulação estratégica.
-
-
-## 🔮 Radar de valorização (24h)
-
-Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
+### Probabilidades registradas no snapshot
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -86,13 +74,7 @@ Na publicação original, estas cartas receberam as maiores probabilidades de va
 | Jaap Stam | 89 | 95k coins | 109k coins | 95% |
 | Sandro Tonali | 88 | 155k coins | 198k coins | 95% |
 
-
-O modelo preditivo identifica Rico Lewis, Malick Thiaw, Anthony Gordon, Pedro Neto, Jaap Stam e Sandro Tonali como ativos com 95% de probabilidade de alta, com preços atuais variando de 33 mil a 155 mil moedas, sugerindo um movimento coordenado de valorização em diferentes faixas de preço. Gianluigi Donnarumma surge como o ativo de maior valor absoluto na previsão, com 95% de chance de alta e preço de 277 mil moedas, indicando potencial de apreciação significativa para carteiras de maior capital. Jean-Philippe Mateta aparece novamente nas previsões com 95% de probabilidade de alta a 42 mil moedas, confirmando a tese de compra após a queda recente e validando a estratégia de acumulação em ativos que sofreram correções acentuadas. A convergência entre as previsões de alta e os dados de baixa recentes para jogadores como Tévez e Raya reforça a ideia de que o mercado está em processo de realocação de capital, saindo de ativos de alta volatilidade negativa para ativos com fundamentos de recuperação forte. Esta lista de previsões serve como um mapa de calor para as próximas 24 a 48 horas, onde a execução rápida será determinante para capturar os ganhos antes que a liquidez se estabilize.
-
-
-## ⚠️ Cuidado: o modelo projeta queda
-
-Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h — segure a compra:
+### Tabela preservada 4
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -105,38 +87,14 @@ Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h 
 | Dominic Solanke | 87 | 32k coins | -17.2% |
 | Pedro Neto | 88 | 34k coins | -17.5% |
 
+## Como interpretar este arquivo
 
-## 🎯 O que fazer hoje
-A estratégia recomendada para o dia é focar na acumulação agressiva de ativos com alta probabilidade de futuro e baixa probabilidade de continuidade de alta, como Wilson Odobert, Carlos Tévez e David Raya, aproveitando as quedas recentes como pontos de entrada de baixo risco. Deve-se evitar a compra de Clint Dempsey e Peter Crouch, pois suas altas recentes são sustentadas por probabilidades de continuidade baixas ou moderadas, indicando que o pico de preço pode estar próximo. Para traders de curto prazo, Gabriel e David Brooks oferecem a melhor relação risco-retorno devido às suas altas percentuais combinadas com altas probabilidades de continuidade, permitindo lucros rápidos com saída estratégica. É crucial manter posições curtas em ativos de queda com baixa probabilidade de alta, como Tijjani Reijnders, até que sinais de reversão técnica apareçam no gráfico de preços. O monitoramento constante dos ativos previstos pelo modelo, especialmente Donnarumma e Tonali, é essencial para antecipar movimentos de maior magnitude e ajustar o portfólio conforme a liquidez do mercado evolui ao longo das próximas horas.
-
-
-## 🔍 Como apuramos os preços
-Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultimate Team, atualizada ao longo do dia. Descartamos **anomalias** e erros de coleta, e cruzamos preço, **médias de 24h/7d** e níveis técnicos antes de publicar. É dado curado — não cotação solta da web.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
-Harry Maguire (83, Premier League), com +54.2% em 24h, a 45k coins no Console (PS).
-
-**E a maior queda do dia?**
-Wilson Odobert (87), -45% em 24h, a 24k coins.
-
-**Qual carta tinha maior probabilidade registrada nesse snapshot?**
-No snapshot histórico, Rico Lewis (86) — 95% de probabilidade de alta, a 33k coins.
-
-**Como estava o mercado do EA FC nesse dia?**
-Naquele dia, o mercado estava aquecido — as altas dominam o dia, com 91 cartas em alta contra 84 em queda (média 2.94%).
-
-**Posso confiar nos preços e previsões do FutQuant?**
-Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
-
-
-> 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
-
----
-
-*Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **20k coins** a **153k coins**, com mediana de **53k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **+5,3%**.
+- A mediana das variações de 7d presentes nas tabelas foi **-19,6%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -146,3 +104,7 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 - [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.
