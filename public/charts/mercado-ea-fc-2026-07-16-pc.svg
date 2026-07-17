@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Trai Hume</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Moisés Caicedo</text>
-<rect x="285" y="153" width="358" height="28" rx="7" fill="#22c55e"/>
-<text x="653" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bryan Mbeumo</text>
-<rect x="285" y="211" width="341" height="28" rx="7" fill="#22c55e"/>
-<text x="636" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matheus Cunha</text>
-<rect x="285" y="269" width="334" height="28" rx="7" fill="#22c55e"/>
-<text x="629" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Harry Maguire</text>
-<rect x="285" y="327" width="319" height="28" rx="7" fill="#22c55e"/>
-<text x="614" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.7%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Elliot Anderson</text>
-<rect x="285" y="385" width="319" height="28" rx="7" fill="#22c55e"/>
-<text x="614" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.4%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Harry Maguire</text>
+<rect x="285" y="153" width="360" height="28" rx="7" fill="#22c55e"/>
+<text x="655" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Elliot Anderson</text>
+<rect x="285" y="211" width="323" height="28" rx="7" fill="#22c55e"/>
+<text x="618" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bryan Mbeumo</text>
+<rect x="285" y="269" width="323" height="28" rx="7" fill="#22c55e"/>
+<text x="618" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patrick Dorgu</text>
+<rect x="285" y="327" width="317" height="28" rx="7" fill="#22c55e"/>
+<text x="612" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.2%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">James Milner</text>
+<rect x="285" y="385" width="303" height="28" rx="7" fill="#22c55e"/>
+<text x="598" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.5%</text>
 </svg>
