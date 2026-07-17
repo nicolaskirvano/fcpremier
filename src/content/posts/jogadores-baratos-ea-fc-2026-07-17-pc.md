@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:05:20.000Z
+pubDatetime: 2026-07-17T16:05:20.000Z
 title: "Jogadores baratos EA FC: Premier League em 17/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 17/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (17/07/2026)?"
-    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.400 coins no PC."
+    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.800 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **17/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Rodri (90) por apenas 3.400 coins.
+> 💰 **Melhor pechincha:** Rodri (90) por apenas 3.800 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Premier League em 17/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-17-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 10.321 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 3.300 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 8.759 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 1.700 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,38 +40,37 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3.400 coins | -5.4% |
-| Virgil van Dijk | 90 | CB | Premier League | 7.500 coins | +14.8% |
-| Erling Haaland | 90 | ST | Premier League | 11.000 coins | +2.3% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3.300 coins | +13.3% |
-| Alisson | 89 | GK | Premier League | 6.400 coins | +56.1% |
-| Sepp van den Berg | 89 | CB | Premier League | 14.250 coins | -12.7% |
-| Oscar Bobb | 88 | RW | Premier League | 14.000 coins | -9.7% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 11.750 coins | -2% |
-| Nwankwo Kanu | 86 | ST | Premier League | 12.000 coins | -4% |
+| Rodri | 90 | CDM | Premier League | 3.800 coins | +5.7% |
+| Virgil van Dijk | 90 | CB | Premier League | 7.800 coins | +39.3% |
+| Erling Haaland | 90 | ST | Premier League | 11.000 coins | +13.2% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3.500 coins | +24.1% |
+| Alisson | 89 | GK | Premier League | 6.800 coins | +57.1% |
+| Alexander Isak | 88 | ST | Premier League | 1.700 coins | -10.5% |
+| Dimitar Berbatov | 87 | ST | Premier League | 12.250 coins | +12.5% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 12.000 coins | +9.1% |
+| Nwankwo Kanu | 86 | ST | Premier League | 12.000 coins | 0% |
 | Freddie Ljungberg | 86 | LM | Premier League | 12.000 coins | -4% |
-| John Arne Riise | 86 | LB | Premier League | 13.500 coins | -3.9% |
-| Oscar Bobb | 85 | RW | Premier League | 14.750 coins | +4.6% |
+| John Arne Riise | 86 | LB | Premier League | 13.500 coins | -10.5% |
 
 
 ## 📈 Destaques
 
-- **Rodri (90, CDM)** da Premier League, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Rodri (90, CDM)** da Premier League, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **7.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **7.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Erling Haaland (90, ST)** da Premier League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Alisson (89, GK)** da Premier League, a apenas **6.400 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Alisson (89, GK)** da Premier League, a apenas **6.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Virgil van Dijk (90, CB) por 7.500 coins é a referência de rating deste recorte.
+- **Defesa:** Virgil van Dijk (90, CB) por 7.800 coins é a referência de rating deste recorte.
 
-- **Meio:** Rodri (90, CDM) por 3.400 coins é a referência de rating deste recorte.
+- **Meio:** Rodri (90, CDM) por 3.800 coins é a referência de rating deste recorte.
 
 - **Ataque:** Erling Haaland (90, ST) por 11.000 coins é a referência de rating deste recorte.
 
@@ -92,7 +91,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (17/07/2026)?**  
-Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.400 coins no PC.
+Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.800 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:05:07.000Z
+pubDatetime: 2026-07-17T16:05:07.000Z
 title: "Mercado EA FC em 17/07: Premier League — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Emiliano Martínez (88, Premier League), com +55.5% em 24h, a 42k coins no Console (PS)."
+    a: "Lucas Paquetá (84, Premier League), com +59.6% em 24h, a 75k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Leny Yoro (86), -45.7% em 24h, a 88k coins."
+    a: "Mateus Mané (88), -35.4% em 24h, a 41k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 100 cartas em alta contra 90 em queda (média 4.62%)."
+    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 95 cartas em alta contra 94 em queda (média 3.97%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **100 subiram** e **90 caíram**, com variação média de **4.62%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **95 subiram** e **94 caíram**, com variação média de **3.97%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Emiliano Martínez (88) **+55.5%** · 🔴 **Maior baixa:** Leny Yoro (86) **-45.7%**
+> 🟢 **Maior alta:** Lucas Paquetá (84) **+59.6%** · 🔴 **Maior baixa:** Mateus Mané (88) **-35.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Premier League — Console (PS)](/charts/mercado-ea-fc-2026-07-17-ps.svg)
 
@@ -35,65 +35,65 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 52.6% entre as cartas que se moveram; o universo observado reúne 221 cartas.
+- **Amplitude do dia:** 95.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.3% entre as cartas que se moveram; o universo observado reúne 220 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Emiliano Martínez | 88 | Premier League | 42k coins | +55.5% | +42.1% |
-| Eberechi Eze | 88 | Premier League | 66k coins | +54.4% | +26.4% |
-| Granit Xhaka | 89 | Premier League | 76k coins | +52.5% | +57.3% |
-| Dominik Szoboszlai | 87 | Premier League | 84k coins | +48.7% | +79.7% |
-| Tim Howard | 85 | Premier League | 22k coins | +43.5% | +3.5% |
-| Matheus Cunha | 87 | Premier League | 154k coins | +42.6% | +94.9% |
-| Matheus Cunha | 87 | Premier League | 157k coins | +40% | +131.4% |
-| Mateo Kovačić | 91 | Premier League | 55k coins | +34.1% | +71.9% |
-| Lewis Miley | 83 | Premier League | 40k coins | +33.3% | +22% |
-| Diogo Dalot | 87 | Premier League | 100k coins | +33.3% | +122.2% |
+| Lucas Paquetá | 84 | Premier League | 75k coins | +59.6% | +93.2% |
+| Igor Thiago | 89 | Premier League | 32k coins | +55% | +96.2% |
+| Granit Xhaka | 89 | Premier League | 69k coins | +53.8% | +44.3% |
+| Carlos Tévez | 88 | Premier League | 36k coins | +51.5% | +56.4% |
+| Nick Woltemade | 90 | Premier League | 104k coins | +51% | +12.5% |
+| Tim Howard | 85 | Premier League | 22k coins | +50% | +3.6% |
+| Joe Cole | 87 | Premier League | 21k coins | +33.9% | -1.2% |
+| Carlos Baleba | 90 | Premier League | 124k coins | +31.1% | +83.7% |
+| Jaap Stam | 89 | Premier League | 100k coins | +31% | +54.1% |
+| Bruno Fernandes | 89 | Premier League | 84k coins | +28% | +31% |
 
 
 ### Análise das altas
 
-- **Emiliano Martínez (88)** subiu **+55.5%** em 24h, a **42k coins** (faixa do dia: 28k–60k). Está +25% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Lucas Paquetá (84)** subiu **+59.6%** em 24h, a **75k coins** (faixa do dia: 42k–75k). Está +74% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Eberechi Eze (88)** subiu **+54.4%** em 24h, a **66k coins** (faixa do dia: 40k–75k). Está +15% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Igor Thiago (89)** subiu **+55%** em 24h, a **32k coins** (faixa do dia: 30k–45k). Está +21% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Granit Xhaka (89)** subiu **+52.5%** em 24h, a **76k coins** (faixa do dia: 42k–76k). Está +50% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Granit Xhaka (89)** subiu **+53.8%** em 24h, a **69k coins** (faixa do dia: 42k–76k). Está +36% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Leny Yoro | 86 | Premier League | 88k coins | -45.7% | +62.4% |
-| Tijjani Reijnders | 87 | Premier League | 42k coins | -45.2% | -12.6% |
-| Tim Cahill | 89 | Premier League | 48k coins | -42.4% | -32.7% |
-| Joško Gvardiol | 86 | Premier League | 43k coins | -39% | -25.9% |
-| Marc Cucurella | 86 | Premier League | 37k coins | -32.7% | +39.6% |
-| Antoine Semenyo | 83 | Premier League | 32k coins | -32.1% | -36.5% |
-| Peter Crouch | 87 | Premier League | 150k coins | -31.8% | -22.7% |
-| Ibrahim Sangaré | 86 | Premier League | 40k coins | -29.6% | -29.2% |
-| Jérémy Doku | 84 | Premier League | 89k coins | -26.4% | +5.6% |
-| William Saliba | 90 | Premier League | 199k coins | -25.9% | -25.7% |
+| Mateus Mané | 88 | Premier League | 41k coins | -35.4% | -23% |
+| Marc Cucurella | 86 | Premier League | 36k coins | -32.1% | +35.8% |
+| Lewis Hall | 89 | Premier League | 100k coins | -29.9% | +13.8% |
+| Bryan Mbeumo | 87 | Premier League | 27k coins | -29.6% | +6.4% |
+| Joško Gvardiol | 86 | Premier League | 48k coins | -29.4% | -11.9% |
+| Jaap Stam | 89 | Premier League | 1.40M coins | -28.4% | +7.1% |
+| Ramires | 88 | Premier League | 179k coins | -25.1% | -19.2% |
+| Crysencio Summerville | 86 | Premier League | 40k coins | -23.1% | -8% |
+| Daniel Ballard | 86 | Premier League | 46k coins | -23% | -5% |
+| Emiliano Buendía | 83 | Premier League | 40k coins | -20.6% | -17.3% |
 
 
 ### Análise das baixas
 
-- **Leny Yoro (86)** caiu **-45.7%** em 24h, a **88k coins** (faixa do dia: 86k–170k). Está em linha com a média de 7 dias (+4%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Mateus Mané (88)** caiu **-35.4%** em 24h, a **41k coins** (faixa do dia: 30k–55k). Está em linha com a média de 7 dias (+6%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Tijjani Reijnders (87)** caiu **-45.2%** em 24h, a **42k coins** (faixa do dia: 36k–76k). Está -13% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Marc Cucurella (86)** caiu **-32.1%** em 24h, a **36k coins** (faixa do dia: 33k–82k). Está em linha com a média de 7 dias (+0%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Tim Cahill (89)** caiu **-42.4%** em 24h, a **48k coins** (faixa do dia: 30k–58k). Está em linha com a média de 7 dias (-7%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Lewis Hall (89)** caiu **-29.9%** em 24h, a **100k coins** (faixa do dia: 88k–147k). Está +17% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Emiliano Martínez já avançou 55.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lucas Paquetá já avançou 59.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Leny Yoro recuou -45.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Mateus Mané recuou -35.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -105,13 +105,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Emiliano Martínez (88, Premier League), com +55.5% em 24h, a 42k coins no Console (PS).
+Lucas Paquetá (84, Premier League), com +59.6% em 24h, a 75k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Leny Yoro (86), -45.7% em 24h, a 88k coins.
+Mateus Mané (88), -35.4% em 24h, a 41k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 100 cartas em alta contra 90 em queda (média 4.62%).
+Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 95 cartas em alta contra 94 em queda (média 3.97%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
