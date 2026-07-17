@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:05:18.000Z
+pubDatetime: 2026-07-17T17:23:01.000Z
 title: "Investimentos EA FC: Premier League em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Ian Maatsen (89, Premier League) lidera, com +73.9% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ian Maatsen (89, Premier League) lidera, com +67.8% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ian Maatsen (89) acumula **+73.9% em 7 dias** a 48k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ian Maatsen (89) acumula **+67.8% em 7 dias** a 55k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Premier League em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.9% em 24h** e **+44.7% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+13.6% em 24h** e **+40.5% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ian Maatsen | 89 | Premier League | 48k coins | +38.9% | +73.9% | Esticada |
-| Alexis Mac Allister | 89 | Premier League | 44k coins | +37% | +64.2% | Esticada |
-| Eberechi Eze | 88 | Premier League | 84k coins | +13.2% | +62.3% | Esticada |
-| Bryan Mbeumo | 87 | Premier League | 50k coins | +7.1% | +57% | Momentum moderado |
+| Ian Maatsen | 89 | Premier League | 55k coins | +34% | +67.8% | Esticada |
+| Diogo Dalot | 87 | Premier League | 96k coins | +10% | +57.1% | Momentum moderado |
+| Eberechi Eze | 88 | Premier League | 81k coins | +13.6% | +54.6% | Momentum moderado |
 | Jordan Pickford | 85 | Premier League | 45k coins | +9.1% | +49.2% | Momentum moderado |
-| Carlos Tévez | 88 | Premier League | 40k coins | +4.6% | +47.2% | Momentum moderado |
+| Bruno Fernandes | 88 | Premier League | 66k coins | +14.5% | +48.9% | Momentum moderado |
+| Carlos Tévez | 88 | Premier League | 40k coins | +8.9% | +47.2% | Momentum moderado |
 | Cody Gakpo | 86 | Premier League | 50k coins | +11.9% | +46.7% | Momentum moderado |
-| Diogo Dalot | 87 | Premier League | 110k coins | +10% | +44.7% | Momentum moderado |
-| Jeremie Frimpong | 86 | Premier League | 162k coins | +21.5% | +40.2% | Esticada |
-| Jaap Stam | 89 | Premier League | 148k coins | +23.1% | +39.3% | Esticada |
-| Anthony Gordon | 87 | Premier League | 70k coins | +15.1% | +34.3% | Momentum moderado |
-| Declan Rice | 89 | Premier League | 80k coins | +19.9% | +31.5% | Momentum moderado |
-| Dominik Szoboszlai | 90 | Premier League | 165k coins | +22.2% | +29.9% | Esticada |
-| Jurriën Timber | 86 | Premier League | 51k coins | +24.1% | +28.7% | Esticada |
-| Emiliano Martínez | 88 | Premier League | 40k coins | +21.9% | +26.7% | Esticada |
+| Jeremie Frimpong | 86 | Premier League | 163k coins | +20.7% | +40.5% | Esticada |
+| Jaap Stam | 89 | Premier League | 148k coins | +22.3% | +39.6% | Esticada |
+| Ryan Christie | 90 | Premier League | 55k coins | +3.8% | +38.4% | Momentum moderado |
+| Anthony Gordon | 87 | Premier League | 62k coins | +17.6% | +37.3% | Momentum moderado |
+| Ryan Gravenberch | 87 | Premier League | 77k coins | +5.5% | +33.6% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 87k coins | +17.6% | +29% | Momentum moderado |
+| Jérémy Doku | 84 | Premier League | 185k coins | +1.1% | +27.6% | Momentum moderado |
+| Jurriën Timber | 86 | Premier League | 50k coins | +22.9% | +27.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Ian Maatsen (89)** — 48k coins, **+73.9% em 7 dias** (+38.9% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ian Maatsen (89)** — 55k coins, **+67.8% em 7 dias** (+34% em 24h). Preço +61% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexis Mac Allister (89)** — 44k coins, **+64.2% em 7 dias** (+37% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Diogo Dalot (87)** — 96k coins, **+57.1% em 7 dias** (+10% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eberechi Eze (88)** — 84k coins, **+62.3% em 7 dias** (+13.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Bryan Mbeumo (87)** — 50k coins, **+57% em 7 dias** (+7.1% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eberechi Eze (88)** — 81k coins, **+54.6% em 7 dias** (+13.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Jordan Pickford (85)** — 45k coins, **+49.2% em 7 dias** (+9.1% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Bruno Fernandes (88)** — 66k coins, **+48.9% em 7 dias** (+14.5% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Ian Maatsen (89, Premier League) lidera, com +73.9% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ian Maatsen (89, Premier League) lidera, com +67.8% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -97,7 +97,7 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
+> **Link patrocinado:** 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:05:07.000Z
+pubDatetime: 2026-07-17T17:22:51.000Z
 title: "Mercado EA FC em 17/07: Premier League — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Lucas Paquetá (84, Premier League), com +59.6% em 24h, a 75k coins no Console (PS)."
+    a: "Elliot Anderson (86, Premier League), com +57.5% em 24h, a 40k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Mateus Mané (88), -35.4% em 24h, a 41k coins."
+    a: "Joe Cole (88), -40.7% em 24h, a 210k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 95 cartas em alta contra 94 em queda (média 3.97%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 100 cartas em alta contra 99 em queda (média 3.16%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **95 subiram** e **94 caíram**, com variação média de **3.97%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **100 subiram** e **99 caíram**, com variação média de **3.16%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lucas Paquetá (84) **+59.6%** · 🔴 **Maior baixa:** Mateus Mané (88) **-35.4%**
+> 🟢 **Maior alta:** Elliot Anderson (86) **+57.5%** · 🔴 **Maior baixa:** Joe Cole (88) **-40.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Premier League — Console (PS)](/charts/mercado-ea-fc-2026-07-17-ps.svg)
 
@@ -35,65 +35,69 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 95.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.3% entre as cartas que se moveram; o universo observado reúne 220 cartas.
+- **Amplitude do dia:** 98.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.3% entre as cartas que se moveram; o universo observado reúne 239 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lucas Paquetá | 84 | Premier League | 75k coins | +59.6% | +93.2% |
-| Igor Thiago | 89 | Premier League | 32k coins | +55% | +96.2% |
-| Granit Xhaka | 89 | Premier League | 69k coins | +53.8% | +44.3% |
-| Carlos Tévez | 88 | Premier League | 36k coins | +51.5% | +56.4% |
-| Nick Woltemade | 90 | Premier League | 104k coins | +51% | +12.5% |
-| Tim Howard | 85 | Premier League | 22k coins | +50% | +3.6% |
-| Joe Cole | 87 | Premier League | 21k coins | +33.9% | -1.2% |
-| Carlos Baleba | 90 | Premier League | 124k coins | +31.1% | +83.7% |
-| Jaap Stam | 89 | Premier League | 100k coins | +31% | +54.1% |
-| Bruno Fernandes | 89 | Premier League | 84k coins | +28% | +31% |
+| Elliot Anderson | 86 | Premier League | 40k coins | +57.5% | -9.1% |
+| Lucas Paquetá | 84 | Premier League | 60k coins | +56.2% | +89.1% |
+| Granit Xhaka | 89 | Premier League | 70k coins | +53.8% | +44.3% |
+| Joe Cole | 87 | Premier League | 20k coins | +45.8% | +7.5% |
+| Matheus Cunha | 87 | Premier League | 159k coins | +42% | +135.6% |
+| Carlos Tévez | 88 | Premier League | 35k coins | +41.8% | +49.5% |
+| Tim Howard | 85 | Premier League | 20k coins | +39% | -1.2% |
+| Tomas Brolin | 89 | Premier League | 25k coins | +38.7% | +5.1% |
+| Mohamed Salah | 92 | Premier League | 700k coins | +33.3% | +63.2% |
+| Igor Thiago | 89 | Premier League | 45k coins | +30.1% | +100% |
 
 
 ### Análise das altas
 
-- **Lucas Paquetá (84)** subiu **+59.6%** em 24h, a **75k coins** (faixa do dia: 42k–75k). Está +74% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Igor Thiago (89)** subiu **+55%** em 24h, a **32k coins** (faixa do dia: 30k–45k). Está +21% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+<!-- projection-note:v1 -->
+> **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Granit Xhaka (89)** subiu **+53.8%** em 24h, a **69k coins** (faixa do dia: 42k–76k). Está +36% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Elliot Anderson (86)** subiu **+57.5%** em 24h, a **40k coins** (faixa do dia: 30k–60k). Está -10% abaixo da média de 7 dias (descontada).
+
+- **Lucas Paquetá (84)** subiu **+56.2%** em 24h, a **60k coins** (faixa do dia: 42k–75k). Está +38% acima da média de 7 dias (aquecida).
+
+- **Granit Xhaka (89)** subiu **+53.8%** em 24h, a **70k coins** (faixa do dia: 46k–76k). Está +37% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mateus Mané | 88 | Premier League | 41k coins | -35.4% | -23% |
-| Marc Cucurella | 86 | Premier League | 36k coins | -32.1% | +35.8% |
-| Lewis Hall | 89 | Premier League | 100k coins | -29.9% | +13.8% |
-| Bryan Mbeumo | 87 | Premier League | 27k coins | -29.6% | +6.4% |
-| Joško Gvardiol | 86 | Premier League | 48k coins | -29.4% | -11.9% |
-| Jaap Stam | 89 | Premier League | 1.40M coins | -28.4% | +7.1% |
-| Ramires | 88 | Premier League | 179k coins | -25.1% | -19.2% |
-| Crysencio Summerville | 86 | Premier League | 40k coins | -23.1% | -8% |
-| Daniel Ballard | 86 | Premier League | 46k coins | -23% | -5% |
-| Emiliano Buendía | 83 | Premier League | 40k coins | -20.6% | -17.3% |
+| Joe Cole | 88 | Premier League | 210k coins | -40.7% | -23.6% |
+| Leny Yoro | 86 | Premier League | 90k coins | -33.3% | +45.5% |
+| Joško Gvardiol | 86 | Premier League | 54k coins | -30.6% | -13.8% |
+| Nico O'Reilly | 88 | Premier League | 32k coins | -27.8% | -40.7% |
+| Tijjani Reijnders | 87 | Premier League | 44k coins | -25.9% | -13.5% |
+| Eberechi Eze | 87 | Premier League | 55k coins | -25.6% | -20% |
+| Nick Woltemade | 87 | Premier League | 30k coins | -25% | -1.6% |
+| Raúl Jiménez | 86 | Premier League | 60k coins | -24.1% | -11.1% |
+| Ibrahim Sangaré | 86 | Premier League | 45k coins | -22.6% | -24.6% |
+| William Saliba | 90 | Premier League | 200k coins | -20% | -20% |
 
 
 ### Análise das baixas
 
-- **Mateus Mané (88)** caiu **-35.4%** em 24h, a **41k coins** (faixa do dia: 30k–55k). Está em linha com a média de 7 dias (+6%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Joe Cole (88)** caiu **-40.7%** em 24h, a **210k coins** (faixa do dia: 210k–334k). Está -28% abaixo da média de 7 dias (descontada).
 
-- **Marc Cucurella (86)** caiu **-32.1%** em 24h, a **36k coins** (faixa do dia: 33k–82k). Está em linha com a média de 7 dias (+0%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Leny Yoro (86)** caiu **-33.3%** em 24h, a **90k coins** (faixa do dia: 80k–128k). Está em linha com a média de 7 dias (+6%).
 
-- **Lewis Hall (89)** caiu **-29.9%** em 24h, a **100k coins** (faixa do dia: 88k–147k). Está +17% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Joško Gvardiol (86)** caiu **-30.6%** em 24h, a **54k coins** (faixa do dia: 36k–68k). Está em linha com a média de 7 dias (+3%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lucas Paquetá já avançou 59.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Elliot Anderson já avançou 57.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Mateus Mané recuou -35.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Joe Cole recuou -40.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -104,20 +108,20 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Lucas Paquetá (84, Premier League), com +59.6% em 24h, a 75k coins no Console (PS).
+**Qual foi a maior alta do EA FC hoje (17/07/2026)?**
+Elliot Anderson (86, Premier League), com +57.5% em 24h, a 40k coins no Console (PS).
 
-**E a maior queda do dia?**  
-Mateus Mané (88), -35.4% em 24h, a 41k coins.
+**E a maior queda do dia?**
+Joe Cole (88), -40.7% em 24h, a 210k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 95 cartas em alta contra 94 em queda (média 3.97%).
+**O mercado do EA FC está em alta ou baixa hoje?**
+Hoje o mercado está aquecido — as altas dominam o dia, com 100 cartas em alta contra 99 em queda (média 3.16%).
 
-**Posso confiar nos preços e previsões do FutQuant?**  
+**Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
 
 
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
+> **Link patrocinado:** 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 
