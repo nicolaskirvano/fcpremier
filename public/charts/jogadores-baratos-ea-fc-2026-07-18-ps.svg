@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodri</text>
-<rect x="285" y="95" width="105" height="28" rx="7" fill="#38bdf8"/>
-<text x="400" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.000</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Virgil van Dijk</text>
-<rect x="285" y="153" width="223" height="28" rx="7" fill="#38bdf8"/>
-<text x="518" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">6.400</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Erling Haaland</text>
-<rect x="285" y="211" width="419" height="28" rx="7" fill="#38bdf8"/>
-<text x="714" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gianluigi Donnarumma</text>
-<rect x="285" y="269" width="101" height="28" rx="7" fill="#38bdf8"/>
-<text x="396" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.900</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sepp van den Berg</text>
-<rect x="285" y="327" width="454" height="28" rx="7" fill="#38bdf8"/>
-<text x="749" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.000</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jørgen Strand Larsen</text>
-<rect x="285" y="385" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.750</text>
+<rect x="285" y="95" width="106" height="28" rx="7" fill="#38bdf8"/>
+<text x="401" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.200</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Erling Haaland</text>
+<rect x="285" y="153" width="397" height="28" rx="7" fill="#38bdf8"/>
+<text x="692" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gianluigi Donnarumma</text>
+<rect x="285" y="211" width="66" height="28" rx="7" fill="#38bdf8"/>
+<text x="361" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.000</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sepp van den Berg</text>
+<rect x="285" y="269" width="480" height="28" rx="7" fill="#38bdf8"/>
+<text x="775" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.500</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dimitar Berbatov</text>
+<rect x="285" y="327" width="372" height="28" rx="7" fill="#38bdf8"/>
+<text x="667" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.250</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Harry Kewell</text>
+<rect x="285" y="385" width="414" height="28" rx="7" fill="#38bdf8"/>
+<text x="709" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.500</text>
 </svg>
