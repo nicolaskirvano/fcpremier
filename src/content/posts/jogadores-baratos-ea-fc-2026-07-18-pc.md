@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T09:34:04.000Z
+pubDatetime: 2026-07-18T10:05:19.000Z
 title: "Jogadores baratos EA FC: Premier League em 18/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 18/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/07/2026)?"
-    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.700 coins no PC."
+    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.600 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Rodri (90) por apenas 3.700 coins.
+> 💰 **Melhor pechincha:** Rodri (90) por apenas 3.600 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Premier League em 18/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-18-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 10.506 coins.
-- **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 2.100 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 10.283 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 1.700 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,26 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3.700 coins | +8.8% |
+| Rodri | 90 | CDM | Premier League | 3.600 coins | +5.9% |
 | Erling Haaland | 90 | ST | Premier League | 11.500 coins | +4.5% |
-| Alexander Isak | 88 | ST | Premier League | 2.100 coins | +40% |
-| Dimitar Berbatov | 87 | ST | Premier League | 11.750 coins | 0% |
+| Martin Ødegaard | 87 | CM | Premier League | 1.700 coins | +15.8% |
+| Dimitar Berbatov | 87 | ST | Premier League | 11.500 coins | -11.3% |
 | Freddie Ljungberg | 86 | LM | Premier League | 12.000 coins | 0% |
 | John Arne Riise | 86 | LB | Premier League | 12.000 coins | -4% |
-| Robbie Keane | 86 | ST | Premier League | 13.750 coins | +25% |
-| Nwankwo Kanu | 86 | ST | Premier League | 13.750 coins | -2.1% |
+| Robbie Keane | 86 | ST | Premier League | 12.500 coins | -1.8% |
+| Nwankwo Kanu | 86 | ST | Premier League | 13.750 coins | +4.2% |
 | Jamie Carragher | 86 | CB | Premier League | 14.000 coins | -11.1% |
 
 
 ## 📈 Destaques
 
-- **Rodri (90, CDM)** da Premier League, a apenas **3.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Rodri (90, CDM)** da Premier League, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Erling Haaland (90, ST)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Alexander Isak (88, ST)** da Premier League, a apenas **2.100 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Martin Ødegaard (87, CM)** da Premier League, a apenas **1.700 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11.750 coins**
+- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11.500 coins**
 
 - **Freddie Ljungberg (86, LM)** da Premier League, a apenas **12.000 coins**
 
@@ -68,7 +68,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Defesa:** John Arne Riise (86, LB) por 12.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Rodri (90, CDM) por 3.700 coins é a referência de rating deste recorte.
+- **Meio:** Rodri (90, CDM) por 3.600 coins é a referência de rating deste recorte.
 
 - **Ataque:** Erling Haaland (90, ST) por 11.500 coins é a referência de rating deste recorte.
 
@@ -89,7 +89,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/07/2026)?**  
-Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.700 coins no PC.
+Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.600 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

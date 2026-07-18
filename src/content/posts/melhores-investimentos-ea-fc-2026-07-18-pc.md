@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T09:34:03.000Z
+pubDatetime: 2026-07-18T10:05:18.000Z
 title: "Investimentos EA FC: Premier League em 18/07 — PC"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.5% em 24h** e **+37.5% em 7 dias**.
+- A mediana é de **+13.0% em 24h** e **+39.5% em 7 dias**.
 - **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -46,18 +46,18 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Declan Rice | 88 | Premier League | 76k coins | +29.8% | +55.4% | Esticada |
 | Micah Richards | 85 | Premier League | 28k coins | +6.5% | +47.4% | Momentum moderado |
 | Eberechi Eze | 86 | Premier League | 249k coins | +8.3% | +46.5% | Momentum moderado |
-| Freddie Ljungberg | 87 | Premier League | 20k coins | +20.9% | +44.6% | Esticada |
+| Harry Wilson | 88 | Premier League | 34k coins | +33% | +44.2% | Esticada |
 | David Brooks | 86 | Premier League | 25k coins | +19% | +42.9% | Momentum moderado |
-| Vincent Kompany | 91 | Premier League | 64k coins | +7.3% | +40.7% | Momentum moderado |
-| Declan Rice | 89 | Premier League | 86k coins | +6.7% | +40.3% | Momentum moderado |
+| Freddie Ljungberg | 87 | Premier League | 20k coins | +20.9% | +42.1% | Esticada |
+| Vincent Kompany | 91 | Premier League | 25k coins | +7.3% | +40.7% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 86k coins | +6.1% | +39.5% | Momentum moderado |
 | James Milner | 88 | Premier League | 55k coins | +4.8% | +37.5% | Momentum moderado |
 | Elliot Anderson | 89 | Premier League | 169k coins | +20.7% | +35.2% | Esticada |
 | Igor Jesus | 87 | Premier League | 38k coins | +14.5% | +30.4% | Momentum moderado |
-| Omar Marmoush | 87 | Premier League | 60k coins | +25% | +27.4% | Esticada |
-| Harry Wilson | 88 | Premier League | 34k coins | +16.5% | +26.3% | Momentum moderado |
-| Cesc Fàbregas | 88 | Premier League | 25k coins | +28.6% | +25% | Esticada |
 | Bruno Guimarães | 87 | Premier League | 47k coins | +2.7% | +23.8% | Entrada a observar |
-| Clint Dempsey | 89 | Premier League | 180k coins | +7% | +22.7% | Momentum moderado |
+| Diogo Dalot | 87 | Premier League | 102k coins | +8.5% | +20.7% | Momentum moderado |
+| Cesc Fàbregas | 88 | Premier League | 16.750 coins | +25.7% | +20.5% | Esticada |
+| Cody Gakpo | 86 | Premier League | 50k coins | +13% | +19% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -68,7 +68,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Eberechi Eze (86)** — 249k coins, **+46.5% em 7 dias** (+8.3% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Freddie Ljungberg (87)** — 20k coins, **+44.6% em 7 dias** (+20.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Harry Wilson (88)** — 34k coins, **+44.2% em 7 dias** (+33% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **David Brooks (86)** — 25k coins, **+42.9% em 7 dias** (+19% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
