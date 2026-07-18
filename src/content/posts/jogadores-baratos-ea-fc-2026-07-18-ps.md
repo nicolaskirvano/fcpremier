@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T19:05:10.000Z
+pubDatetime: 2026-07-18T22:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 18/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 18/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/07/2026)?"
-    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 2.800 coins no Console (PS)."
+    a: "Erling Haaland (90, Premier League) aparece como melhor custo-benefício, a 12.000 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Rodri (90) por apenas 2.800 coins.
+> 💰 **Melhor pechincha:** Erling Haaland (90) por apenas 12.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Premier League em 18/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-18-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 9.638 coins.
-- **Posição mais frequente:** GK, com 2 cartas.
-- **Faixa real:** 2.800 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 13.400 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 12.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,36 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 2.800 coins | +7.1% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 2.800 coins | 0% |
-| Freddie Ljungberg | 87 | RM | Premier League | 13.750 coins | +9.6% |
-| Jamie Carragher | 86 | CB | Premier League | 12.500 coins | +5.2% |
-| Jerzy Dudek | 86 | GK | Premier League | 13.250 coins | 0% |
-| Robbie Keane | 86 | ST | Premier League | 14.250 coins | +20.4% |
-| Oscar Bobb | 85 | RW | Premier League | 14.250 coins | 0% |
-| Murillo | 83 | CB | Premier League | 3.500 coins | +25.9% |
+| Erling Haaland | 90 | ST | Premier League | 12.000 coins | 0% |
+| Sepp van den Berg | 89 | CB | Premier League | 13.250 coins | -3.6% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 14.500 coins | 0% |
+| Oscar Bobb | 88 | RW | Premier League | 14.000 coins | +1.8% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14.500 coins | +13% |
+| Freddie Ljungberg | 87 | RM | Premier League | 12.000 coins | -13.3% |
+| Steve McManaman | 87 | RM | Premier League | 14.000 coins | -14.9% |
+| Tomáš Rosický | 86 | CAM | Premier League | 13.000 coins | +5.8% |
+| Park Ji Sung | 86 | LM | Premier League | 13.000 coins | +16% |
+| Robbie Keane | 86 | ST | Premier League | 13.500 coins | +17.3% |
+| Jerzy Dudek | 86 | GK | Premier League | 13.500 coins | 0% |
+| David Brooks | 86 | RM | Premier League | 13.750 coins | +31% |
+| Freddie Ljungberg | 86 | LM | Premier League | 13.750 coins | +19.6% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 14.000 coins | +9.8% |
+| Tim Howard | 85 | GK | Premier League | 12.250 coins | +16.1% |
 
 
 ## 📈 Destaques
 
-- **Rodri (90, CDM)** da Premier League, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Erling Haaland (90, ST)** da Premier League, a apenas **12.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13.250 coins**
 
-- **Freddie Ljungberg (87, RM)** da Premier League, a apenas **13.750 coins**
+- **Jørgen Strand Larsen (89, ST)** da Premier League, a apenas **14.500 coins**
 
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **12.500 coins**
+- **Oscar Bobb (88, RW)** da Premier League, a apenas **14.000 coins**
 
-- **Jerzy Dudek (86, GK)** da Premier League, a apenas **13.250 coins** — já **valorizando**, sinal de procura crescente.
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Gianluigi Donnarumma (89, GK) por 2.800 coins é a referência de rating deste recorte.
+- **Defesa:** Sepp van den Berg (89, CB) por 13.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Rodri (90, CDM) por 2.800 coins é a referência de rating deste recorte.
+- **Meio:** Cesc Fàbregas (88, CM) por 14.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Robbie Keane (86, ST) por 14.250 coins é a referência de rating deste recorte.
+- **Ataque:** Erling Haaland (90, ST) por 12.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -88,7 +95,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/07/2026)?**  
-Rodri (90, Premier League) aparece como melhor custo-benefício, a 2.800 coins no Console (PS).
+Erling Haaland (90, Premier League) aparece como melhor custo-benefício, a 12.000 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

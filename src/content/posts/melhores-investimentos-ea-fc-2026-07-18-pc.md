@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T19:05:19.000Z
+pubDatetime: 2026-07-18T22:05:18.000Z
 title: "Investimentos EA FC: Premier League em 18/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Ollie Watkins (90, Premier League) lidera, com +81% em 7 dias a 53k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Bryan Mbeumo (87, Premier League) lidera, com +47.7% em 7 dias a 43k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ollie Watkins (90) acumula **+81% em 7 dias** a 53k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Bryan Mbeumo (87) acumula **+47.7% em 7 dias** a 43k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Premier League em 18/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-18-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.1% em 24h** e **+29.4% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+13.6% em 24h** e **+26.1% em 7 dias**.
+- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ollie Watkins | 90 | Premier League | 53k coins | +9.4% | +81% | Esticada |
-| James Milner | 88 | Premier League | 40k coins | +2.8% | +67.9% | Esticada |
-| Micah Richards | 85 | Premier League | 30k coins | +9.1% | +53.8% | Momentum moderado |
-| Vincent Kompany | 91 | Premier League | 65k coins | +4.8% | +37.6% | Momentum moderado |
-| Nick Woltemade | 90 | Premier League | 149k coins | +19.2% | +36.7% | Momentum moderado |
-| Jérémy Doku | 84 | Premier League | 249k coins | +27.6% | +36.3% | Esticada |
-| Igor Jesus | 87 | Premier League | 38k coins | +4.2% | +32.7% | Momentum moderado |
-| Bruno Fernandes | 89 | Premier League | 90k coins | +22.2% | +29.4% | Esticada |
-| Cody Gakpo | 89 | Premier League | 237k coins | +39.2% | +25.3% | Esticada |
-| Hugo Ekitiké | 90 | Premier League | 65k coins | +24% | +24.6% | Esticada |
-| Diogo Dalot | 87 | Premier League | 106k coins | +9.7% | +22.3% | Momentum moderado |
-| Mateo Kovačić | 91 | Premier League | 50k coins | +32.1% | +20% | Esticada |
-| Marc Cucurella | 86 | Premier League | 38k coins | +34.8% | +17.4% | Esticada |
-| Gabriel | 89 | Premier League | 137k coins | +12.1% | +14.9% | Momentum moderado |
-| Ryan Gravenberch | 87 | Premier League | 86k coins | +4.8% | +14.3% | Entrada a observar |
+| Bryan Mbeumo | 87 | Premier League | 43k coins | +13.6% | +47.7% | Momentum moderado |
+| Bruno Fernandes | 88 | Premier League | 32k coins | +14.5% | +41.6% | Momentum moderado |
+| Micah Richards | 85 | Premier League | 26k coins | +4.8% | +41% | Momentum moderado |
+| Xavi Simons | 88 | Premier League | 43k coins | +2.5% | +36.7% | Momentum moderado |
+| Nick Woltemade | 90 | Premier League | 147k coins | +18.4% | +33.3% | Momentum moderado |
+| Sandro Tonali | 91 | Premier League | 165k coins | +18.9% | +30.8% | Momentum moderado |
+| Maxence Lacroix | 87 | Premier League | 120k coins | +33.7% | +26.2% | Esticada |
+| Igor Jesus | 87 | Premier League | 38k coins | +4.2% | +26.1% | Momentum moderado |
+| Wilson Odobert | 87 | Premier League | 35k coins | +28.8% | +23.6% | Esticada |
+| Diogo Dalot | 87 | Premier League | 103k coins | +3% | +21.2% | Entrada a observar |
+| Eli Junior Kroupi | 89 | Premier League | 50k coins | +38.7% | +18.9% | Esticada |
+| Noni Madueke | 86 | Premier League | 50k coins | +1% | +14% | Entrada a observar |
+| Jordan Pickford | 85 | Premier League | 48k coins | +6.1% | +12.4% | Momentum moderado |
+| Dominic Solanke | 87 | Premier League | 48k coins | +12.4% | +11.8% | Momentum moderado |
+| Pedro Neto | 85 | Premier League | 42k coins | +16.4% | +11.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ollie Watkins (90)** — 53k coins, **+81% em 7 dias** (+9.4% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bryan Mbeumo (87)** — 43k coins, **+47.7% em 7 dias** (+13.6% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **James Milner (88)** — 40k coins, **+67.9% em 7 dias** (+2.8% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bruno Fernandes (88)** — 32k coins, **+41.6% em 7 dias** (+14.5% em 24h). Preço -38% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Micah Richards (85)** — 30k coins, **+53.8% em 7 dias** (+9.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Micah Richards (85)** — 26k coins, **+41% em 7 dias** (+4.8% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vincent Kompany (91)** — 65k coins, **+37.6% em 7 dias** (+4.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Xavi Simons (88)** — 43k coins, **+36.7% em 7 dias** (+2.5% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nick Woltemade (90)** — 149k coins, **+36.7% em 7 dias** (+19.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nick Woltemade (90)** — 147k coins, **+33.3% em 7 dias** (+18.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Ollie Watkins (90, Premier League) lidera, com +81% em 7 dias a 53k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Bryan Mbeumo (87, Premier League) lidera, com +47.7% em 7 dias a 43k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,6 +106,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Premier League em 18/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-18-pc/)
 - [Mercado EA FC em 18/07: Premier League — PC](/posts/mercado-ea-fc-2026-07-18-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

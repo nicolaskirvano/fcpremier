@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carlos Baleba</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Elliot Anderson</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emiliano Buendía</text>
-<rect x="285" y="153" width="409" height="28" rx="7" fill="#22c55e"/>
-<text x="704" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joško Gvardiol</text>
-<rect x="285" y="211" width="357" height="28" rx="7" fill="#22c55e"/>
-<text x="652" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hugo Ekitiké</text>
-<rect x="285" y="269" width="354" height="28" rx="7" fill="#22c55e"/>
-<text x="649" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ryan Gravenberch</text>
-<rect x="285" y="327" width="341" height="28" rx="7" fill="#22c55e"/>
-<text x="636" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gabriel Martinelli</text>
-<rect x="285" y="385" width="306" height="28" rx="7" fill="#22c55e"/>
-<text x="601" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.9%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Declan Rice</text>
+<rect x="285" y="153" width="367" height="28" rx="7" fill="#22c55e"/>
+<text x="662" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joelinton</text>
+<rect x="285" y="211" width="333" height="28" rx="7" fill="#22c55e"/>
+<text x="628" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dominik Szoboszlai</text>
+<rect x="285" y="269" width="283" height="28" rx="7" fill="#22c55e"/>
+<text x="578" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.7%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emiliano Buendía</text>
+<rect x="285" y="327" width="275" height="28" rx="7" fill="#22c55e"/>
+<text x="570" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.8%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jerzy Dudek</text>
+<rect x="285" y="385" width="231" height="28" rx="7" fill="#22c55e"/>
+<text x="526" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.4%</text>
 </svg>
