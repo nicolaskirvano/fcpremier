@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Virgil van Dijk</text>
-<rect x="285" y="95" width="159" height="28" rx="7" fill="#38bdf8"/>
-<text x="454" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.900</text>
+<rect x="285" y="95" width="162" height="28" rx="7" fill="#38bdf8"/>
+<text x="457" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.800</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Erling Haaland</text>
-<rect x="285" y="153" width="391" height="28" rx="7" fill="#38bdf8"/>
-<text x="686" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dimitar Berbatov</text>
-<rect x="285" y="211" width="358" height="28" rx="7" fill="#38bdf8"/>
-<text x="653" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.000</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">John Arne Riise</text>
-<rect x="285" y="269" width="464" height="28" rx="7" fill="#38bdf8"/>
-<text x="759" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.250</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nwankwo Kanu</text>
-<rect x="285" y="327" width="472" height="28" rx="7" fill="#38bdf8"/>
-<text x="767" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.500</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Freddie Ljungberg</text>
-<rect x="285" y="385" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.750</text>
+<rect x="285" y="153" width="404" height="28" rx="7" fill="#38bdf8"/>
+<text x="699" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alisson</text>
+<rect x="285" y="211" width="115" height="28" rx="7" fill="#38bdf8"/>
+<text x="410" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.400</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sepp van den Berg</text>
+<rect x="285" y="269" width="480" height="28" rx="7" fill="#38bdf8"/>
+<text x="775" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.250</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dimitar Berbatov</text>
+<rect x="285" y="327" width="429" height="28" rx="7" fill="#38bdf8"/>
+<text x="724" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.750</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Park Ji Sung</text>
+<rect x="285" y="385" width="472" height="28" rx="7" fill="#38bdf8"/>
+<text x="767" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
 </svg>
