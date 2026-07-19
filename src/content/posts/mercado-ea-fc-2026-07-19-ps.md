@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:05:07.000Z
+pubDatetime: 2026-07-19T13:05:07.000Z
 title: "Mercado EA FC em 19/07: Premier League — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Morgan Rogers (87, Premier League), com +55.6% em 24h, a 87k coins no Console (PS)."
+    a: "Noni Madueke (86, Premier League), com +56.2% em 24h, a 49k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Granit Xhaka (89), -45.7% em 24h, a 65k coins."
+    a: "Bernardo Silva (87), -41% em 24h, a 39k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 83 cartas em alta contra 94 em queda (média 1.83%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 86 cartas em alta contra 91 em queda (média 0.07%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **19/07/2026** no Console (PS) com clima **comprador** — a maioria das cartas subiu: **83 cartas subiram** e **94 caíram** (80+ acima de 5k coins), variação média de **1.83%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **de lado** — altas e quedas se equilibram: **86 cartas subiram** e **91 caíram** (80+ acima de 5k coins), variação média de **0.07%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Morgan Rogers (87) **+55.6%** · 🔴 **Maior baixa:** Granit Xhaka (89) **-45.7%**
+> 🟢 **Maior alta:** Noni Madueke (86) **+56.2%** · 🔴 **Maior baixa:** Bernardo Silva (87) **-41%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Premier League — Console (PS)](/charts/mercado-ea-fc-2026-07-19-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com clima **comprador
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.9% entre as cartas que se moveram; o universo observado reúne 209 cartas.
+- **Amplitude do dia:** 97.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.6% entre as cartas que se moveram; o universo observado reúne 212 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Morgan Rogers | 87 | Premier League | 87k coins | +55.6% | +120.4% |
-| Jay-Jay Okocha | 90 | Premier League | 210k coins | +52.9% | -7.4% |
-| Sandro Tonali | 88 | Premier League | 287k coins | +45% | +7.4% |
-| Nick Woltemade | 87 | Premier League | 68k coins | +43.8% | +102.9% |
-| Ryan Gravenberch | 87 | Premier League | 58k coins | +43.2% | +39.5% |
-| William Saliba | 90 | Premier League | 250k coins | +37.7% | +6.4% |
-| Bryan Mbeumo | 87 | Premier League | 35k coins | +34.7% | +20% |
-| Declan Rice | 89 | Premier League | 42k coins | +31.3% | -7.9% |
-| Dominic Solanke | 87 | Premier League | 45k coins | +31.1% | +18.3% |
-| Bruno Fernandes | 93 | Premier League | 250k coins | +30.4% | +50.9% |
+| Noni Madueke | 86 | Premier League | 49k coins | +56.2% | +4.2% |
+| Lewis Miley | 89 | Premier League | 36k coins | +38.1% | +25.4% |
+| Marcos Senesi | 88 | Premier League | 21k coins | +38.1% | +2.7% |
+| Jay-Jay Okocha | 90 | Premier League | 206k coins | +35.9% | -5.4% |
+| Robin Roefs | 87 | Premier League | 35k coins | +31.4% | +30.3% |
+| Dominic Solanke | 87 | Premier League | 48k coins | +31.1% | +18.3% |
+| Sandro Tonali | 88 | Premier League | 287k coins | +30.5% | +6.3% |
+| Lewis Hall | 89 | Premier League | 107k coins | +28.9% | +132.6% |
+| Yaya Touré | 87 | Premier League | 620k coins | +27.4% | +30.9% |
+| Eberechi Eze | 88 | Premier League | 69k coins | +26.3% | +25.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com clima **comprador
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Morgan Rogers (87)** subiu **+55.6%** em 24h, a **87k coins** (faixa do dia: 37k–120k). Está +32% acima da média de 7 dias (aquecida).
+- **Noni Madueke (86)** subiu **+56.2%** em 24h, a **49k coins** (faixa do dia: 30k–62k). Está em linha com a média de 7 dias (-3%).
 
-- **Jay-Jay Okocha (90)** subiu **+52.9%** em 24h, a **210k coins** (faixa do dia: 135k–230k). Está em linha com a média de 7 dias (-1%).
+- **Lewis Miley (89)** subiu **+38.1%** em 24h, a **36k coins** (faixa do dia: 28k–55k). Está em linha com a média de 7 dias (-3%).
 
-- **Sandro Tonali (88)** subiu **+45%** em 24h, a **287k coins** (faixa do dia: 177k–290k). Está em linha com a média de 7 dias (+4%).
+- **Marcos Senesi (88)** subiu **+38.1%** em 24h, a **21k coins** (faixa do dia: 14.000–31k). Está -34% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Granit Xhaka | 89 | Premier League | 65k coins | -45.7% | -20% |
-| Virgil van Dijk | 90 | Premier League | 990k coins | -34% | -23.6% |
-| Mohammed Kudus | 90 | Premier League | 98k coins | -33.1% | -4% |
-| Viktor Gyökeres | 94 | Premier League | 379k coins | -32.5% | +26.5% |
-| Tim Cahill | 89 | Premier League | 35k coins | -30.7% | -21.3% |
-| Estêvão | 91 | Premier League | 334k coins | -27.4% | -51.7% |
-| Elliot Anderson | 89 | Premier League | 115k coins | -26.3% | +17.3% |
-| Matheus Cunha | 87 | Premier League | 106k coins | -25.9% | +6% |
-| Jérémy Doku | 86 | Premier League | 217k coins | -25.2% | -18.4% |
-| Jordan Pickford | 86 | Premier League | 42k coins | -24.8% | -14.6% |
+| Bernardo Silva | 87 | Premier League | 39k coins | -41% | -35.7% |
+| Harry Wilson | 88 | Premier League | 22k coins | -38.2% | -9.6% |
+| Jerzy Dudek | 87 | Premier League | 33k coins | -36.4% | -17.6% |
+| Bruno Fernandes | 89 | Premier League | 58k coins | -34.5% | +5.5% |
+| Gilberto Silva | 87 | Premier League | 38k coins | -31.4% | +87.9% |
+| Jérémy Doku | 86 | Premier League | 213k coins | -26.3% | -19.9% |
+| Viktor Gyökeres | 94 | Premier League | 416k coins | -25.4% | +16% |
+| Estêvão | 91 | Premier League | 323k coins | -25% | -50.2% |
+| Virgil van Dijk | 90 | Premier League | 975k coins | -24.6% | -27.2% |
+| Igor Jesus | 87 | Premier League | 29k coins | -22.5% | +46.2% |
 
 
 ### Análise das baixas
 
-- **Granit Xhaka (89)** caiu **-45.7%** em 24h, a **65k coins** (faixa do dia: 38k–70k). Está +20% acima da média de 7 dias (aquecida).
+- **Bernardo Silva (87)** caiu **-41%** em 24h, a **39k coins** (faixa do dia: 39k–72k). Está -51% abaixo da média de 7 dias (descontada).
 
-- **Virgil van Dijk (90)** caiu **-34%** em 24h, a **990k coins** (faixa do dia: 923k–1.38M). Está -21% abaixo da média de 7 dias (descontada).
+- **Harry Wilson (88)** caiu **-38.2%** em 24h, a **22k coins** (faixa do dia: 19.000–38k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Mohammed Kudus (90)** caiu **-33.1%** em 24h, a **98k coins** (faixa do dia: 91k–169k). Está -16% abaixo da média de 7 dias (descontada).
+- **Jerzy Dudek (87)** caiu **-36.4%** em 24h, a **33k coins** (faixa do dia: 23k–50k). Está -23% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Morgan Rogers já avançou 55.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Noni Madueke já avançou 56.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Granit Xhaka recuou -45.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Bernardo Silva recuou -41%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Morgan Rogers (87, Premier League), com +55.6% em 24h, a 87k coins no Console (PS).
+Noni Madueke (86, Premier League), com +56.2% em 24h, a 49k coins no Console (PS).
 
 **E a maior queda do dia?**
-Granit Xhaka (89), -45.7% em 24h, a 65k coins.
+Bernardo Silva (87), -41% em 24h, a 39k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 83 cartas em alta contra 94 em queda (média 1.83%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 86 cartas em alta contra 91 em queda (média 0.07%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
