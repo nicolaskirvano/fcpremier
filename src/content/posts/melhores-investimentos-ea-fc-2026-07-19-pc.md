@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T09:33:30.000Z
+pubDatetime: 2026-07-19T10:05:18.000Z
 title: "Investimentos EA FC: Premier League em 19/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.6% em 24h** e **+26.6% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+11.4% em 24h** e **+26.7% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -45,19 +45,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | David Brooks | 86 | Premier League | 33k coins | +32% | +88.6% | Esticada |
 | Ryan Gravenberch | 93 | Premier League | 234k coins | +11.4% | +85.7% | Esticada |
-| Declan Rice | 89 | Premier League | 120k coins | +36.8% | +84.5% | Esticada |
-| Igor Thiago | 89 | Premier League | 74k coins | +9.7% | +72.9% | Esticada |
-| John Arne Riise | 86 | Premier League | 15.250 coins | +27.1% | +32.6% | Esticada |
+| Declan Rice | 89 | Premier League | 119k coins | +36.8% | +84.5% | Esticada |
+| Igor Thiago | 89 | Premier League | 74k coins | +9.7% | +78.2% | Esticada |
+| John Arne Riise | 86 | Premier League | 15.000 coins | +27.1% | +32.6% | Esticada |
+| Tim Howard | 85 | Premier League | 17.000 coins | +28.1% | +30.4% | Esticada |
 | Diogo Dalot | 87 | Premier League | 109k coins | +6.9% | +28.2% | Momentum moderado |
-| Jordan Pickford | 85 | Premier League | 48k coins | +6.1% | +26.7% | Momentum moderado |
-| Pedro Neto | 88 | Premier League | 100k coins | +14.3% | +26.6% | Momentum moderado |
+| Jordan Pickford | 85 | Premier League | 48k coins | +9.2% | +26.7% | Momentum moderado |
+| Pedro Neto | 88 | Premier League | 95k coins | +14.3% | +26.6% | Momentum moderado |
 | Jaap Stam | 89 | Premier League | 150k coins | +5.6% | +26.1% | Momentum moderado |
 | Nick Woltemade | 90 | Premier League | 131k coins | +4.8% | +24.8% | Entrada a observar |
 | Bernardo Silva | 86 | Premier League | 60k coins | +5.3% | +17.6% | Momentum moderado |
-| Jeremie Frimpong | 86 | Premier League | 190k coins | +17.3% | +17.3% | Momentum moderado |
-| Ben Davies | 84 | Premier League | 38k coins | +8.7% | +15.4% | Momentum moderado |
-| Ryan Gravenberch | 86 | Premier League | 91k coins | +9.6% | +13.8% | Momentum moderado |
-| Xavi Simons | 91 | Premier League | 110k coins | +4% | +11.7% | Entrada a observar |
+| Ryan Gravenberch | 86 | Premier League | 90k coins | +9.6% | +17.4% | Momentum moderado |
+| Jeremie Frimpong | 86 | Premier League | 185k coins | +17.3% | +17.3% | Momentum moderado |
+| Xavi Simons | 91 | Premier League | 110k coins | +12.2% | +17% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -66,11 +66,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Ryan Gravenberch (93)** — 234k coins, **+85.7% em 7 dias** (+11.4% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Declan Rice (89)** — 120k coins, **+84.5% em 7 dias** (+36.8% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (89)** — 119k coins, **+84.5% em 7 dias** (+36.8% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Igor Thiago (89)** — 74k coins, **+72.9% em 7 dias** (+9.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Igor Thiago (89)** — 74k coins, **+78.2% em 7 dias** (+9.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **John Arne Riise (86)** — 15.250 coins, **+32.6% em 7 dias** (+27.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **John Arne Riise (86)** — 15.000 coins, **+32.6% em 7 dias** (+27.1% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -86,6 +86,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Premier League em 19/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-19-pc/)
 - [Mercado EA FC em 19/07: Premier League — PC](/posts/mercado-ea-fc-2026-07-19-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

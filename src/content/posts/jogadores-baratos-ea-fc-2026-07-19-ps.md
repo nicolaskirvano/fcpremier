@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T09:33:22.000Z
+pubDatetime: 2026-07-19T10:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.773 coins.
+- **Preço médio das 15 opções:** 12.617 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 1.600 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.750 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Erling Haaland | 90 | ST | Premier League | 12.000 coins | 0% |
 | Sepp van den Berg | 89 | CB | Premier League | 14.500 coins | +3.6% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13.000 coins | -6.9% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13.000 coins | -5.3% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11.750 coins | +4.3% |
-| Freddie Ljungberg | 87 | RM | Premier League | 12.500 coins | -7.4% |
-| Steve McManaman | 87 | RM | Premier League | 14.000 coins | +14.3% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 12.000 coins | 0% |
-| Nwankwo Kanu | 86 | ST | Premier League | 12.000 coins | +6.7% |
-| Freddie Ljungberg | 86 | LM | Premier League | 12.000 coins | +15.9% |
-| Tomáš Rosický | 86 | CAM | Premier League | 12.000 coins | +4.3% |
+| Freddie Ljungberg | 87 | RM | Premier League | 12.250 coins | -9.3% |
+| Harry Kewell | 87 | LW | Premier League | 13.000 coins | +8% |
+| Steve McManaman | 87 | RM | Premier League | 13.750 coins | +14.3% |
+| John Arne Riise | 86 | LB | Premier League | 11.750 coins | -2% |
+| Tomáš Rosický | 86 | CAM | Premier League | 12.000 coins | +6.7% |
 | Park Ji Sung | 86 | LM | Premier League | 12.000 coins | -2% |
-| John Arne Riise | 86 | LB | Premier League | 12.000 coins | -2% |
-| Jerzy Dudek | 86 | GK | Premier League | 13.250 coins | +3.9% |
-| Tim Howard | 85 | GK | Premier League | 12.000 coins | -5.9% |
-| Piero Hincapié | 83 | CB | Premier League | 1.600 coins | 0% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 12.000 coins | 0% |
+| Freddie Ljungberg | 86 | LM | Premier League | 12.000 coins | +15.9% |
+| Nwankwo Kanu | 86 | ST | Premier League | 12.000 coins | +6.7% |
+| Jerzy Dudek | 86 | GK | Premier League | 13.500 coins | +1.9% |
+| Jamie Carragher | 86 | CB | Premier League | 13.750 coins | +5.8% |
 
 
 ## 📈 Destaques
@@ -67,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11.750 coins**
 
-- **Freddie Ljungberg (87, RM)** da Premier League, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Freddie Ljungberg (87, RM)** da Premier League, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
