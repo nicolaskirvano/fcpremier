@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T16:05:17.000Z
+pubDatetime: 2026-07-19T19:05:17.000Z
 title: "Mercado EA FC em 19/07: Premier League — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Marcos Senesi (88, Premier League), com +58.1% em 24h, a 84k coins no PC."
+    a: "Raúl Jiménez (86, Premier League), com +54% em 24h, a 86k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Florian Wirtz (92), -27.8% em 24h, a 452k coins."
+    a: "Igor Jesus (87), -38% em 24h, a 23k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 91 cartas em alta contra 75 em queda (média 5.43%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 74 cartas em alta contra 76 em queda (média 2.34%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **19/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **91 cartas subiram** e **75 caíram** (80+ acima de 5k coins), variação média de **5.43%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **19/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **74 cartas subiram** e **76 caíram** (80+ acima de 5k coins), variação média de **2.34%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Marcos Senesi (88) **+58.1%** · 🔴 **Maior baixa:** Florian Wirtz (92) **-27.8%**
+> 🟢 **Maior alta:** Raúl Jiménez (86) **+54%** · 🔴 **Maior baixa:** Igor Jesus (87) **-38%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Premier League — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **19/07/2026** no PC com clima **comprador** — a m
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 85.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 54.8% entre as cartas que se moveram; o universo observado reúne 220 cartas.
+- **Amplitude do dia:** 92.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.3% entre as cartas que se moveram; o universo observado reúne 208 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marcos Senesi | 88 | Premier League | 84k coins | +58.1% | +118.4% |
-| Omar Marmoush | 87 | Premier League | 85k coins | +54.2% | +14.9% |
-| Patrick Dorgu | 84 | Premier League | 135k coins | +51.4% | -3.4% |
-| Raúl Jiménez | 86 | Premier League | 88k coins | +51.3% | +75.2% |
-| Senne Lammens | 88 | Premier League | 56k coins | +50.6% | -14.4% |
-| Kyle Walker | 89 | Premier League | 377k coins | +50.6% | +6.7% |
+| Raúl Jiménez | 86 | Premier League | 86k coins | +54% | +148.6% |
+| Declan Rice | 89 | Premier League | 106k coins | +52.9% | +43.6% |
+| Dango Ouattara | 84 | Premier League | 50k coins | +50.7% | -1.9% |
 | David Brooks | 86 | Premier League | 38k coins | +50% | +117.4% |
-| Declan Rice | 94 | Premier League | 225k coins | +47.5% | +53.6% |
-| Tim Cahill | 89 | Premier League | 108k coins | +45% | -28.9% |
-| Jerzy Dudek | 87 | Premier League | 66k coins | +40% | -14.7% |
+| Kevin Schade | 88 | Premier League | 41k coins | +49.2% | +53% |
+| Ryan Yates | 85 | Premier League | 29k coins | +46.3% | -20% |
+| Jerzy Dudek | 87 | Premier League | 66k coins | +44.6% | -14.7% |
+| Kyle Walker | 89 | Premier League | 378k coins | +42.6% | +1.1% |
+| Lewis Hall | 89 | Premier League | 58k coins | +42% | -5.7% |
+| Viktor Gyökeres | 94 | Premier League | 1.46M coins | +39.1% | +0.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **19/07/2026** no PC com clima **comprador** — a m
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Marcos Senesi (88)** subiu **+58.1%** em 24h, a **84k coins** (faixa do dia: 47k–85k). Está +22% acima da média de 7 dias (aquecida).
+- **Raúl Jiménez (86)** subiu **+54%** em 24h, a **86k coins** (faixa do dia: 54k–90k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Omar Marmoush (87)** subiu **+54.2%** em 24h, a **85k coins** (faixa do dia: 60k–110k). Está em linha com a média de 7 dias (-4%).
+- **Declan Rice (89)** subiu **+52.9%** em 24h, a **106k coins** (faixa do dia: 46k–119k). Está +23% acima da média de 7 dias (aquecida).
 
-- **Patrick Dorgu (84)** subiu **+51.4%** em 24h, a **135k coins** (faixa do dia: 70k–173k). Está +15% acima da média de 7 dias (aquecida).
+- **Dango Ouattara (84)** subiu **+50.7%** em 24h, a **50k coins** (faixa do dia: 30k–50k). Está +8% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 92 | Premier League | 452k coins | -27.8% | -29.5% |
-| Casemiro | 89 | Premier League | 218k coins | -27.6% | -27.3% |
-| Jeremie Frimpong | 86 | Premier League | 176k coins | -23% | +27.3% |
-| Robin Roefs | 87 | Premier League | 30k coins | -22.4% | -7.1% |
-| Ole Gunnar Solskjær | 88 | Premier League | 20k coins | -20.6% | -40% |
-| Joshua Zirkzee | 87 | Premier League | 30k coins | -20.1% | -23.7% |
-| Joelinton | 89 | Premier League | 229k coins | -20.1% | -17.2% |
-| Enzo Fernández | 91 | Premier League | 90k coins | -18.8% | +24.2% |
-| Ryan Gravenberch | 87 | Premier League | 77k coins | -17.1% | -3.1% |
-| Yaya Touré | 88 | Premier League | 1.16M coins | -16.7% | -21.5% |
+| Igor Jesus | 87 | Premier League | 23k coins | -38% | +9.4% |
+| Ole Gunnar Solskjær | 88 | Premier League | 22k coins | -33.8% | -32.8% |
+| Pascal Groß | 87 | Premier League | 21k coins | -28.7% | -26.7% |
+| Jérémy Doku | 84 | Premier League | 143k coins | -28% | -14.8% |
+| Wilson Odobert | 87 | Premier League | 30k coins | -27.8% | +13% |
+| Bruno Guimarães | 89 | Premier League | 26k coins | -21.5% | -3.6% |
+| Ian Maatsen | 89 | Premier League | 36k coins | -20.7% | -20.1% |
+| Mateus Mané | 88 | Premier League | 28k coins | -20.3% | -29.5% |
+| Casemiro | 86 | Premier League | 48k coins | -20% | -5.9% |
+| Estêvão | 88 | Premier League | 88k coins | -20% | -21.6% |
 
 
 ### Análise das baixas
 
-- **Florian Wirtz (92)** caiu **-27.8%** em 24h, a **452k coins** (faixa do dia: 407k–650k). Está -27% abaixo da média de 7 dias (descontada).
+- **Igor Jesus (87)** caiu **-38%** em 24h, a **23k coins** (faixa do dia: 23k–38k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Casemiro (89)** caiu **-27.6%** em 24h, a **218k coins** (faixa do dia: 218k–301k). Está -24% abaixo da média de 7 dias (descontada).
+- **Ole Gunnar Solskjær (88)** caiu **-33.8%** em 24h, a **22k coins** (faixa do dia: 19.500–34k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Jeremie Frimpong (86)** caiu **-23%** em 24h, a **176k coins** (faixa do dia: 176k–230k). Está em linha com a média de 7 dias (+6%).
+- **Pascal Groß (87)** caiu **-28.7%** em 24h, a **21k coins** (faixa do dia: 17.750–35k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Marcos Senesi já avançou 58.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Raúl Jiménez já avançou 54% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Florian Wirtz recuou -27.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Igor Jesus recuou -38%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Marcos Senesi (88, Premier League), com +58.1% em 24h, a 84k coins no PC.
+Raúl Jiménez (86, Premier League), com +54% em 24h, a 86k coins no PC.
 
 **E a maior queda do dia?**
-Florian Wirtz (92), -27.8% em 24h, a 452k coins.
+Igor Jesus (87), -38% em 24h, a 23k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 91 cartas em alta contra 75 em queda (média 5.43%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 74 cartas em alta contra 76 em queda (média 2.34%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

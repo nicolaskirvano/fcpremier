@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T16:05:10.000Z
+pubDatetime: 2026-07-19T19:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.497 coins.
+- **Preço médio das 12 opções:** 13.771 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 1.500 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 12.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,40 +41,37 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Erling Haaland | 90 | ST | Premier League | 12.000 coins | 0% |
-| Sepp van den Berg | 89 | CB | Premier League | 14.500 coins | +5.6% |
-| Freddie Ljungberg | 87 | RM | Premier League | 12.750 coins | -8.8% |
-| Dimitar Berbatov | 87 | ST | Premier League | 13.000 coins | +13% |
-| Steve McManaman | 87 | RM | Premier League | 13.250 coins | -3.6% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 12.500 coins | +8.2% |
-| Freddie Ljungberg | 86 | LM | Premier League | 12.750 coins | +10.9% |
-| John Arne Riise | 86 | LB | Premier League | 12.750 coins | -5.7% |
-| Tomáš Rosický | 86 | CAM | Premier League | 13.000 coins | +17.4% |
-| Nwankwo Kanu | 86 | ST | Premier League | 13.250 coins | +10.9% |
-| Park Ji Sung | 86 | LM | Premier League | 13.250 coins | -1.9% |
-| Jamie Carragher | 86 | CB | Premier League | 14.000 coins | -8.2% |
-| Oscar Bobb | 85 | RW | Premier League | 12.250 coins | -1.9% |
-| Benjamin White | 83 | RB | Premier League | 1.500 coins | -5% |
-| Matheus Cunha | 83 | CAM | Premier League | 1.700 coins | -13.3% |
+| Sepp van den Berg | 89 | CB | Premier League | 13.250 coins | -3.7% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14.250 coins | -4.9% |
+| Freddie Ljungberg | 87 | RM | Premier League | 13.000 coins | -3.6% |
+| Harry Kewell | 87 | LW | Premier League | 14.000 coins | -7.9% |
+| Park Ji Sung | 86 | LM | Premier League | 13.500 coins | +5.2% |
+| Nwankwo Kanu | 86 | ST | Premier League | 13.750 coins | -3.5% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 14.250 coins | 0% |
+| Freddie Ljungberg | 86 | LM | Premier League | 14.250 coins | -7.3% |
+| Tomáš Rosický | 86 | CAM | Premier League | 14.250 coins | +5.6% |
+| Robbie Keane | 86 | ST | Premier League | 14.500 coins | -1.7% |
+| Oscar Bobb | 85 | RW | Premier League | 14.250 coins | -7.4% |
 
 
 ## 📈 Destaques
 
 - **Erling Haaland (90, ST)** da Premier League, a apenas **12.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **14.500 coins**
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13.250 coins**
 
-- **Freddie Ljungberg (87, RM)** da Premier League, a apenas **12.750 coins**
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **14.250 coins**
 
-- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **13.000 coins**
+- **Freddie Ljungberg (87, RM)** da Premier League, a apenas **13.000 coins**
 
-- **Steve McManaman (87, RM)** da Premier League, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Harry Kewell (87, LW)** da Premier League, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Sepp van den Berg (89, CB) por 14.500 coins é a referência de rating deste recorte.
+- **Defesa:** Sepp van den Berg (89, CB) por 13.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Freddie Ljungberg (87, RM) por 12.750 coins é a referência de rating deste recorte.
+- **Meio:** Cesc Fàbregas (88, CM) por 14.250 coins é a referência de rating deste recorte.
 
 - **Ataque:** Erling Haaland (90, ST) por 12.000 coins é a referência de rating deste recorte.
 

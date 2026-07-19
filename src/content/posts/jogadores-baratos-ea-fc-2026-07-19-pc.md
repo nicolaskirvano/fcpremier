@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T16:05:20.000Z
+pubDatetime: 2026-07-19T19:05:20.000Z
 title: "Jogadores baratos EA FC: Premier League em 19/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 10.206 coins.
-- **Posição mais frequente:** CB, com 4 cartas.
-- **Faixa real:** 1.900 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 9.850 coins.
+- **Posição mais frequente:** CB, com 2 cartas.
+- **Faixa real:** 3.300 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,15 +40,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 90 | CB | Premier League | 4.800 coins | 0% |
+| Virgil van Dijk | 90 | CB | Premier League | 4.800 coins | +11.4% |
 | Erling Haaland | 90 | ST | Premier League | 12.000 coins | 0% |
-| Alisson | 89 | GK | Premier League | 3.400 coins | -5.3% |
-| Sepp van den Berg | 89 | CB | Premier League | 14.250 coins | +4.1% |
-| Dimitar Berbatov | 87 | ST | Premier League | 12.750 coins | +17% |
-| Park Ji Sung | 86 | LM | Premier League | 14.000 coins | -13% |
-| Jamie Carragher | 86 | CB | Premier League | 14.250 coins | +17.3% |
-| Nwankwo Kanu | 86 | ST | Premier League | 14.500 coins | +20.8% |
-| Murillo | 83 | CB | Premier League | 1.900 coins | +5.9% |
+| Alisson | 89 | GK | Premier League | 3.300 coins | +6.5% |
+| Jamie Carragher | 86 | CB | Premier League | 12.000 coins | 0% |
+| Jerzy Dudek | 86 | GK | Premier League | 13.250 coins | +11.8% |
+| Nwankwo Kanu | 86 | ST | Premier League | 13.750 coins | +14.6% |
 
 
 ## 📈 Destaques
@@ -57,18 +54,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Erling Haaland (90, ST)** da Premier League, a apenas **12.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Alisson (89, GK)** da Premier League, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Alisson (89, GK)** da Premier League, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **14.250 coins**
+- **Jamie Carragher (86, CB)** da Premier League, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **12.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Jerzy Dudek (86, GK)** da Premier League, a apenas **13.250 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Virgil van Dijk (90, CB) por 4.800 coins é a referência de rating deste recorte.
-
-- **Meio:** Park Ji Sung (86, LM) por 14.000 coins é a referência de rating deste recorte.
 
 - **Ataque:** Erling Haaland (90, ST) por 12.000 coins é a referência de rating deste recorte.
 
