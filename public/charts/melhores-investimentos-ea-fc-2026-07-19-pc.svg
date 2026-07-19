@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lewis Miley</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marc Cucurella</text>
-<rect x="285" y="153" width="385" height="28" rx="7" fill="#22c55e"/>
-<text x="680" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carlos Tévez</text>
-<rect x="285" y="211" width="379" height="28" rx="7" fill="#22c55e"/>
-<text x="674" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+63.5%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Luke Shaw</text>
-<rect x="285" y="269" width="199" height="28" rx="7" fill="#22c55e"/>
-<text x="494" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.3%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maxence Lacroix</text>
-<rect x="285" y="327" width="173" height="28" rx="7" fill="#22c55e"/>
-<text x="468" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ledley King</text>
-<rect x="285" y="385" width="156" height="28" rx="7" fill="#22c55e"/>
-<text x="451" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+78.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Raúl Jiménez</text>
+<rect x="285" y="153" width="441" height="28" rx="7" fill="#22c55e"/>
+<text x="736" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+72.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cody Gakpo</text>
+<rect x="285" y="211" width="317" height="28" rx="7" fill="#22c55e"/>
+<text x="612" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carlos Tévez</text>
+<rect x="285" y="269" width="306" height="28" rx="7" fill="#22c55e"/>
+<text x="601" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jay-Jay Okocha</text>
+<rect x="285" y="327" width="301" height="28" rx="7" fill="#22c55e"/>
+<text x="596" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sepp van den Berg</text>
+<rect x="285" y="385" width="294" height="28" rx="7" fill="#22c55e"/>
+<text x="589" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.1%</text>
 </svg>
