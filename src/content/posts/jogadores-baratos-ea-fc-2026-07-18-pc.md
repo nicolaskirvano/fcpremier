@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:05:19.000Z
+pubDatetime: 2026-07-19T01:05:19.000Z
 title: "Jogadores baratos EA FC: Premier League em 18/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 12.250 coins.
+- **Preço médio das 7 opções:** 13.250 coins.
 - **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 11.250 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,31 +40,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Erling Haaland | 90 | ST | Premier League | 12.000 coins | +2.1% |
-| Oscar Bobb | 88 | RW | Premier League | 13.000 coins | -10.2% |
-| Nwankwo Kanu | 86 | ST | Premier League | 11.250 coins | -6.1% |
-| Freddie Ljungberg | 86 | LM | Premier League | 11.500 coins | -14.8% |
-| Jamie Carragher | 86 | CB | Premier League | 13.500 coins | -14% |
+| Erling Haaland | 90 | ST | Premier League | 12.000 coins | 0% |
+| Oscar Bobb | 88 | RW | Premier League | 14.250 coins | -3.4% |
+| Jerzy Dudek | 86 | GK | Premier League | 11.500 coins | -12.2% |
+| Freddie Ljungberg | 86 | LM | Premier League | 12.500 coins | -7.4% |
+| Tomáš Rosický | 86 | CAM | Premier League | 13.750 coins | +30.4% |
+| Tim Cahill | 85 | ST | Premier League | 14.000 coins | -12.7% |
+| Oscar Bobb | 85 | RW | Premier League | 14.750 coins | +20.8% |
 
 
 ## 📈 Destaques
 
 - **Erling Haaland (90, ST)** da Premier League, a apenas **12.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Oscar Bobb (88, RW)** da Premier League, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Oscar Bobb (88, RW)** da Premier League, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Nwankwo Kanu (86, ST)** da Premier League, a apenas **11.250 coins**
+- **Jerzy Dudek (86, GK)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Freddie Ljungberg (86, LM)** da Premier League, a apenas **11.500 coins**
+- **Freddie Ljungberg (86, LM)** da Premier League, a apenas **12.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Tomáš Rosický (86, CAM)** da Premier League, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Jamie Carragher (86, CB) por 13.500 coins é a referência de rating deste recorte.
+- **Defesa:** Jerzy Dudek (86, GK) por 11.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Freddie Ljungberg (86, LM) por 11.500 coins é a referência de rating deste recorte.
+- **Meio:** Freddie Ljungberg (86, LM) por 12.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Erling Haaland (90, ST) por 12.000 coins é a referência de rating deste recorte.
 

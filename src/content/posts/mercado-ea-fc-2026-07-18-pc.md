@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:05:17.000Z
+pubDatetime: 2026-07-19T01:05:17.000Z
 title: "Mercado EA FC em 18/07: Premier League — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Lewis Miley (89, Premier League), com +52.8% em 24h, a 45k coins no PC."
+    a: "Virgil van Dijk (95, Premier League), com +55.2% em 24h, a 1.80M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Patrick Dorgu (84), -47.4% em 24h, a 79k coins."
+    a: "Lewis Hall (89), -47.8% em 24h, a 35k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 66 cartas em alta contra 90 em queda (média 1.59%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 85 cartas em alta contra 89 em queda (média 2.74%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **18/07/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **66 em alta** e **90 em queda**, média de **1.59%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **18/07/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **85 em alta** e **89 em queda**, média de **2.74%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lewis Miley (89) **+52.8%** · 🔴 **Maior baixa:** Patrick Dorgu (84) **-47.4%**
+> 🟢 **Maior alta:** Virgil van Dijk (95) **+55.2%** · 🔴 **Maior baixa:** Lewis Hall (89) **-47.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Premier League — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **18/07/2026** (PC): mercado **em alta** — predominam as valoriza�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.3% entre as cartas que se moveram; o universo observado reúne 211 cartas.
+- **Amplitude do dia:** 103.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.9% entre as cartas que se moveram; o universo observado reúne 228 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lewis Miley | 89 | Premier League | 45k coins | +52.8% | +50.7% |
-| Kobbie Mainoo | 90 | Premier League | 149k coins | +49% | +5.7% |
-| Jeremie Frimpong | 86 | Premier League | 225k coins | +42.4% | +3.7% |
-| Estêvão | 91 | Premier League | 1.08M coins | +40.3% | +14.4% |
-| Eli Junior Kroupi | 89 | Premier League | 50k coins | +38.7% | +18.9% |
-| Florian Wirtz | 90 | Premier League | 230k coins | +35.3% | +3.6% |
-| Virgil van Dijk | 95 | Premier League | 1.80M coins | +34.3% | -2.7% |
-| Maxence Lacroix | 87 | Premier League | 120k coins | +33.7% | +26.2% |
-| Gilberto Silva | 87 | Premier League | 31k coins | +30% | +124.1% |
-| Wilson Odobert | 87 | Premier League | 35k coins | +28.8% | +23.6% |
+| Virgil van Dijk | 95 | Premier League | 1.80M coins | +55.2% | -2.7% |
+| Harry Maguire | 90 | Premier League | 280k coins | +52.2% | +10.2% |
+| Marc Guéhi | 88 | Premier League | 36k coins | +51% | +40.8% |
+| Omar Marmoush | 87 | Premier League | 98k coins | +50% | +21.9% |
+| Jeremie Frimpong | 86 | Premier League | 230k coins | +48% | +3.7% |
+| Kevin Schade | 88 | Premier League | 39k coins | +45.7% | +19.4% |
+| Robin Roefs | 87 | Premier League | 30k coins | +43.4% | -3.3% |
+| Bruno Guimarães | 89 | Premier League | 35k coins | +42.9% | +75% |
+| Cristian Romero | 86 | Premier League | 110k coins | +37.5% | 0% |
+| Eberechi Eze | 87 | Premier League | 75k coins | +36.4% | -30.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **18/07/2026** (PC): mercado **em alta** — predominam as valoriza�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lewis Miley (89)** subiu **+52.8%** em 24h, a **45k coins** (faixa do dia: 18.750–64k). Está em linha com a média de 7 dias (+4%).
+- **Virgil van Dijk (95)** subiu **+55.2%** em 24h, a **1.80M coins** (faixa do dia: 971k–2.20M). Está +10% acima da média de 7 dias (aquecida).
 
-- **Kobbie Mainoo (90)** subiu **+49%** em 24h, a **149k coins** (faixa do dia: 64k–149k). Está +12% acima da média de 7 dias (aquecida).
+- **Harry Maguire (90)** subiu **+52.2%** em 24h, a **280k coins** (faixa do dia: 98k–280k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Jeremie Frimpong (86)** subiu **+42.4%** em 24h, a **225k coins** (faixa do dia: 138k–230k). Está +36% acima da média de 7 dias (aquecida).
+- **Marc Guéhi (88)** subiu **+51%** em 24h, a **36k coins** (faixa do dia: 15.750–37k). Está +22% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patrick Dorgu | 84 | Premier League | 79k coins | -47.4% | -61.7% |
-| Eberechi Eze | 88 | Premier League | 38k coins | -33.9% | -28.3% |
-| Ledley King | 86 | Premier League | 30k coins | -33.3% | -1.4% |
-| Jérémy Doku | 86 | Premier League | 740k coins | -26% | +6% |
-| Noni Madueke | 86 | Premier League | 36k coins | -26% | -18.8% |
-| Lewis Miley | 83 | Premier League | 44k coins | -25% | -43.8% |
-| Jean-Philippe Mateta | 92 | Premier League | 58k coins | -24.7% | -3.3% |
-| Jerzy Dudek | 87 | Premier League | 46k coins | -23.8% | -41.3% |
-| Enzo Fernández | 91 | Premier League | 78k coins | -22% | -2.5% |
-| Martin Ødegaard | 88 | Premier League | 80k coins | -20.8% | +6.7% |
+| Lewis Hall | 89 | Premier League | 35k coins | -47.8% | -34.5% |
+| Wilson Odobert | 87 | Premier League | 29k coins | -36.2% | 0% |
+| Jean-Philippe Mateta | 92 | Premier League | 63k coins | -31.2% | -11.7% |
+| Dango Ouattara | 84 | Premier League | 30k coins | -29.1% | -47.4% |
+| Jérémy Doku | 86 | Premier League | 600k coins | -26% | +6% |
+| Harry Maguire | 83 | Premier League | 85k coins | -23.9% | -41.6% |
+| Eberechi Eze | 88 | Premier League | 38k coins | -23.6% | -28.3% |
+| Clint Dempsey | 89 | Premier League | 177k coins | -22.9% | +6.2% |
+| Luke Shaw | 86 | Premier League | 39k coins | -22.1% | -12.9% |
+| Dominik Szoboszlai | 87 | Premier League | 85k coins | -21.3% | -22% |
 
 
 ### Análise das baixas
 
-- **Patrick Dorgu (84)** caiu **-47.4%** em 24h, a **79k coins** (faixa do dia: 79k–153k). Está -38% abaixo da média de 7 dias (descontada).
+- **Lewis Hall (89)** caiu **-47.8%** em 24h, a **35k coins** (faixa do dia: 29k–69k). Está -43% abaixo da média de 7 dias (descontada).
 
-- **Eberechi Eze (88)** caiu **-33.9%** em 24h, a **38k coins** (faixa do dia: 38k–95k). Está -40% abaixo da média de 7 dias (descontada).
+- **Wilson Odobert (87)** caiu **-36.2%** em 24h, a **29k coins** (faixa do dia: 26k–47k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Ledley King (86)** caiu **-33.3%** em 24h, a **30k coins** (faixa do dia: 17.750–30k). Está +44% acima da média de 7 dias (aquecida).
+- **Jean-Philippe Mateta (92)** caiu **-31.2%** em 24h, a **63k coins** (faixa do dia: 52k–77k). Está em linha com a média de 7 dias (+0%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lewis Miley já avançou 52.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Virgil van Dijk já avançou 55.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Patrick Dorgu recuou -47.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Lewis Hall recuou -47.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Lewis Miley (89, Premier League), com +52.8% em 24h, a 45k coins no PC.
+Virgil van Dijk (95, Premier League), com +55.2% em 24h, a 1.80M coins no PC.
 
 **E a maior queda do dia?**
-Patrick Dorgu (84), -47.4% em 24h, a 79k coins.
+Lewis Hall (89), -47.8% em 24h, a 35k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 66 cartas em alta contra 90 em queda (média 1.59%).
+Hoje o mercado está em alta — predominam as valorizações, com 85 cartas em alta contra 89 em queda (média 2.74%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
