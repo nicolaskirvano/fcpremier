@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T09:33:52.000Z
+pubDatetime: 2026-07-20T10:05:17.000Z
 title: "Mercado EA FC em 20/07: Premier League — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Erling Haaland (91), -45.8% em 24h, a 176k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 88 cartas em alta contra 85 em queda (média 2.27%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 86 cartas em alta contra 86 em queda (média 2.02%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **20/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **88 valorizações** contra **85 quedas** entre as cartas relevantes, com média de **2.27%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **20/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **86 valorizações** contra **86 quedas** entre as cartas relevantes, com média de **2.02%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Harry Kewell (87) **+59.4%** · 🔴 **Maior baixa:** Erling Haaland (91) **-45.8%**
 
@@ -36,7 +36,7 @@ Resumo de **20/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 105.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.9% entre as cartas que se moveram; o universo observado reúne 238 cartas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 234 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -45,14 +45,14 @@ Resumo de **20/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 | --- | --- | --- | --- | --- | --- |
 | Harry Kewell | 87 | Premier League | 26k coins | +59.4% | +21.4% |
 | Harry Maguire | 90 | Premier League | 272k coins | +52.8% | +7.1% |
+| Gabriel Martinelli | 87 | Premier League | 99k coins | +45.7% | +27.5% |
 | Virgil van Dijk | 90 | Premier League | 4.30M coins | +43.3% | +48.3% |
 | Florian Wirtz | 92 | Premier League | 646k coins | +42.9% | +0.5% |
-| Hugo Ekitiké | 87 | Premier League | 60k coins | +41.2% | +27% |
-| Bruno Fernandes | 88 | Premier League | 60k coins | +40.3% | +38.1% |
+| Raúl Jiménez | 86 | Premier League | 90k coins | +41.4% | +60.8% |
+| Hugo Ekitiké | 87 | Premier League | 60k coins | +41.2% | +23.1% |
+| Tijjani Reijnders | 87 | Premier League | 89k coins | +39.1% | +4.7% |
 | Moisés Caicedo | 88 | Premier League | 74k coins | +38% | +25.2% |
-| Raúl Jiménez | 86 | Premier League | 80k coins | +37.8% | +60.8% |
-| Oscar Bobb | 88 | Premier League | 20k coins | +34.4% | +1.2% |
-| Eden Hazard | 88 | Premier League | 480k coins | +31.9% | +14.6% |
+| Harry Maguire | 83 | Premier League | 149k coins | +35.5% | -21.2% |
 
 
 ### Análise das altas
@@ -65,7 +65,7 @@ Resumo de **20/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 
 - **Harry Maguire (90)** subiu **+52.8%** em 24h, a **272k coins** (faixa do dia: 178k–277k). Está +15% acima da média de 7 dias (aquecida).
 
-- **Virgil van Dijk (90)** subiu **+43.3%** em 24h, a **4.30M coins** (faixa do dia: 2.49M–4.30M). Está +24% acima da média de 7 dias (aquecida).
+- **Gabriel Martinelli (87)** subiu **+45.7%** em 24h, a **99k coins** (faixa do dia: 70k–110k). Está em linha com a média de 7 dias (-3%).
 
 
 ## 🔴 Quem mais caiu (24h)
@@ -74,14 +74,14 @@ Resumo de **20/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 | --- | --- | --- | --- | --- | --- |
 | Erling Haaland | 91 | Premier League | 176k coins | -45.8% | -20% |
 | Micky van de Ven | 87 | Premier League | 1.45M coins | -44.3% | -17% |
-| Joelinton | 87 | Premier League | 216k coins | -43.2% | -16.3% |
-| Mateus Mané | 88 | Premier League | 20k coins | -41.3% | -58.8% |
-| Marc Cucurella | 86 | Premier League | 33k coins | -38.5% | +12.1% |
-| Enzo Fernández | 91 | Premier League | 60k coins | -38.1% | -21.3% |
-| Declan Rice | 89 | Premier League | 72k coins | -35.7% | -13.1% |
-| Harvey Barnes | 84 | Premier League | 33k coins | -33% | -33% |
-| Patrick Dorgu | 84 | Premier League | 103k coins | -30.2% | -25.7% |
-| Murillo | 87 | Premier League | 127k coins | -29.4% | -28.7% |
+| Joelinton | 87 | Premier League | 216k coins | -43.2% | -12.2% |
+| Marc Cucurella | 86 | Premier League | 32k coins | -38.5% | +12.1% |
+| Murillo | 87 | Premier League | 126k coins | -30% | -29.2% |
+| Virgil van Dijk | 95 | Premier League | 1.21M coins | -27.9% | -27.7% |
+| Marcos Senesi | 88 | Premier League | 60k coins | -27.1% | -10.8% |
+| Ryan Gravenberch | 87 | Premier League | 58k coins | -26.2% | -28.9% |
+| Patrick Dorgu | 84 | Premier League | 100k coins | -24.6% | -25.7% |
+| Jerzy Dudek | 87 | Premier League | 24k coins | -24.6% | -45.6% |
 
 
 ### Análise das baixas
@@ -115,7 +115,7 @@ Harry Kewell (87, Premier League), com +59.4% em 24h, a 26k coins no PC.
 Erling Haaland (91), -45.8% em 24h, a 176k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 88 cartas em alta contra 85 em queda (média 2.27%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 86 cartas em alta contra 86 em queda (média 2.02%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

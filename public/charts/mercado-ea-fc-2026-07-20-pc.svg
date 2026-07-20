@@ -10,16 +10,16 @@
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Harry Maguire</text>
 <rect x="285" y="153" width="427" height="28" rx="7" fill="#22c55e"/>
 <text x="722" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.8%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Virgil van Dijk</text>
-<rect x="285" y="211" width="350" height="28" rx="7" fill="#22c55e"/>
-<text x="645" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.3%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Wirtz</text>
-<rect x="285" y="269" width="347" height="28" rx="7" fill="#22c55e"/>
-<text x="642" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hugo Ekitiké</text>
-<rect x="285" y="327" width="333" height="28" rx="7" fill="#22c55e"/>
-<text x="628" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bruno Fernandes</text>
-<rect x="285" y="385" width="326" height="28" rx="7" fill="#22c55e"/>
-<text x="621" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gabriel Martinelli</text>
+<rect x="285" y="211" width="369" height="28" rx="7" fill="#22c55e"/>
+<text x="664" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Virgil van Dijk</text>
+<rect x="285" y="269" width="350" height="28" rx="7" fill="#22c55e"/>
+<text x="645" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Wirtz</text>
+<rect x="285" y="327" width="347" height="28" rx="7" fill="#22c55e"/>
+<text x="642" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Raúl Jiménez</text>
+<rect x="285" y="385" width="335" height="28" rx="7" fill="#22c55e"/>
+<text x="630" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.4%</text>
 </svg>
