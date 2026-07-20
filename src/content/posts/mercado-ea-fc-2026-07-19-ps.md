@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:05:07.000Z
+pubDatetime: 2026-07-20T01:05:07.000Z
 title: "Mercado EA FC em 19/07: Premier League — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Noni Madueke (86, Premier League), com +57.9% em 24h, a 60k coins no Console (PS)."
+    a: "Joe Cole (88, Premier League), com +58.5% em 24h, a 222k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Jerzy Dudek (87), -32.2% em 24h, a 33k coins."
+    a: "Crysencio Summerville (86), -48.6% em 24h, a 40k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 102 cartas em alta contra 94 em queda (média 2.08%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 85 cartas em alta contra 94 em queda (média 0.38%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **19/07/2026** no Console (PS) com clima **comprador** — a maioria das cartas subiu: **102 cartas subiram** e **94 caíram** (80+ acima de 5k coins), variação média de **2.08%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **de lado** — altas e quedas se equilibram: **85 cartas subiram** e **94 caíram** (80+ acima de 5k coins), variação média de **0.38%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Noni Madueke (86) **+57.9%** · 🔴 **Maior baixa:** Jerzy Dudek (87) **-32.2%**
+> 🟢 **Maior alta:** Joe Cole (88) **+58.5%** · 🔴 **Maior baixa:** Crysencio Summerville (86) **-48.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Premier League — Console (PS)](/charts/mercado-ea-fc-2026-07-19-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com clima **comprador
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 90.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 52.0% entre as cartas que se moveram; o universo observado reúne 224 cartas.
+- **Amplitude do dia:** 107.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.5% entre as cartas que se moveram; o universo observado reúne 207 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Noni Madueke | 86 | Premier League | 60k coins | +57.9% | +9.1% |
-| Lewis Hall | 89 | Premier League | 90k coins | +57.9% | +81.8% |
-| Joe Cole | 88 | Premier League | 227k coins | +56.8% | -26.1% |
-| Matheus Cunha | 87 | Premier League | 133k coins | +56.3% | +70% |
-| Bruno Fernandes | 88 | Premier League | 94k coins | +50% | +27.7% |
-| Jay-Jay Okocha | 90 | Premier League | 233k coins | +47.8% | +9.3% |
-| Igor Jesus | 87 | Premier League | 40k coins | +46.2% | +67% |
-| Martin Dúbravka | 86 | Premier League | 54k coins | +44.6% | +34.6% |
-| Marc Cucurella | 86 | Premier League | 39k coins | +40.7% | +55.9% |
-| Bruno Fernandes | 93 | Premier League | 205k coins | +36.7% | +13.3% |
+| Joe Cole | 88 | Premier League | 222k coins | +58.5% | -27.4% |
+| Rayan Cherki | 87 | Premier League | 140k coins | +55.4% | +144.4% |
+| Virgil van Dijk | 95 | Premier League | 899k coins | +44% | +43.4% |
+| Bruno Fernandes | 88 | Premier League | 88k coins | +42.9% | +33.3% |
+| João Pedro | 87 | Premier League | 48k coins | +42.9% | +31.6% |
+| Dominik Szoboszlai | 87 | Premier League | 116k coins | +41.8% | +29.9% |
+| Marc Cucurella | 86 | Premier League | 40k coins | +40.7% | +55.9% |
+| Tijjani Reijnders | 87 | Premier League | 68k coins | +39.8% | +72.3% |
+| Micah Richards | 85 | Premier League | 37k coins | +34.2% | +7.7% |
+| Clint Dempsey | 89 | Premier League | 130k coins | +33.3% | -4.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com clima **comprador
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Noni Madueke (86)** subiu **+57.9%** em 24h, a **60k coins** (faixa do dia: 30k–70k). Está +18% acima da média de 7 dias (aquecida).
+- **Joe Cole (88)** subiu **+58.5%** em 24h, a **222k coins** (faixa do dia: 139k–360k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Lewis Hall (89)** subiu **+57.9%** em 24h, a **90k coins** (faixa do dia: 54k–156k). Está em linha com a média de 7 dias (-5%).
+- **Rayan Cherki (87)** subiu **+55.4%** em 24h, a **140k coins** (faixa do dia: 64k–167k). Está +66% acima da média de 7 dias (aquecida).
 
-- **Joe Cole (88)** subiu **+56.8%** em 24h, a **227k coins** (faixa do dia: 139k–360k). Está -15% abaixo da média de 7 dias (descontada).
+- **Virgil van Dijk (95)** subiu **+44%** em 24h, a **899k coins** (faixa do dia: 690k–1.38M). Está em linha com a média de 7 dias (-6%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jerzy Dudek | 87 | Premier League | 33k coins | -32.2% | -24.4% |
-| John Arne Riise | 88 | Premier League | 35k coins | -32% | +13.9% |
-| Elliot Anderson | 86 | Premier League | 44k coins | -26.7% | -32.7% |
-| William Saliba | 90 | Premier League | 180k coins | -26.5% | -30.8% |
-| Harry Wilson | 88 | Premier League | 24k coins | -24% | -5% |
-| Jerzy Dudek | 87 | Premier League | 25k coins | -22.6% | -26.8% |
-| Jérémy Doku | 86 | Premier League | 216k coins | -21% | -27.4% |
-| Senne Lammens | 88 | Premier League | 41k coins | -20.4% | -2.4% |
-| Casemiro | 86 | Premier League | 40k coins | -19.6% | -15.8% |
-| Harvey Barnes | 86 | Premier League | 35k coins | -19.2% | -11.2% |
+| Crysencio Summerville | 86 | Premier League | 40k coins | -48.6% | -13.6% |
+| Jerzy Dudek | 87 | Premier League | 32k coins | -33% | -17.9% |
+| Ederson | 85 | Premier League | 130k coins | -31.6% | +30% |
+| Ryan Yates | 85 | Premier League | 21k coins | -30% | -31.7% |
+| William Saliba | 90 | Premier League | 179k coins | -27.7% | -30.8% |
+| John Arne Riise | 88 | Premier League | 34k coins | -27.5% | +24.5% |
+| Hugo Ekitiké | 87 | Premier League | 46k coins | -24.2% | -19.5% |
+| Bruno Guimarães | 89 | Premier League | 22k coins | -23.7% | +40.6% |
+| Yaya Touré | 88 | Premier League | 869k coins | -21.6% | -16.3% |
+| Dan Burn | 86 | Premier League | 167k coins | -21.2% | -46.7% |
 
 
 ### Análise das baixas
 
-- **Jerzy Dudek (87)** caiu **-32.2%** em 24h, a **33k coins** (faixa do dia: 29k–49k). Está -23% abaixo da média de 7 dias (descontada).
+- **Crysencio Summerville (86)** caiu **-48.6%** em 24h, a **40k coins** (faixa do dia: 34k–72k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **John Arne Riise (88)** caiu **-32%** em 24h, a **35k coins** (faixa do dia: 26k–48k). Está em linha com a média de 7 dias (+6%).
+- **Jerzy Dudek (87)** caiu **-33%** em 24h, a **32k coins** (faixa do dia: 29k–48k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Elliot Anderson (86)** caiu **-26.7%** em 24h, a **44k coins** (faixa do dia: 32k–50k). Está em linha com a média de 7 dias (+2%).
+- **Ederson (85)** caiu **-31.6%** em 24h, a **130k coins** (faixa do dia: 130k–190k). Está em linha com a média de 7 dias (+1%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Noni Madueke já avançou 57.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Joe Cole já avançou 58.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jerzy Dudek recuou -32.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Crysencio Summerville recuou -48.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Noni Madueke (86, Premier League), com +57.9% em 24h, a 60k coins no Console (PS).
+Joe Cole (88, Premier League), com +58.5% em 24h, a 222k coins no Console (PS).
 
 **E a maior queda do dia?**
-Jerzy Dudek (87), -32.2% em 24h, a 33k coins.
+Crysencio Summerville (86), -48.6% em 24h, a 40k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 102 cartas em alta contra 94 em queda (média 2.08%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 85 cartas em alta contra 94 em queda (média 0.38%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

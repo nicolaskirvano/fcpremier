@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lewis Hall</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ole Gunnar Solskjær</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dango Ouattara</text>
-<rect x="285" y="153" width="436" height="28" rx="7" fill="#22c55e"/>
-<text x="731" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Enzo Fernández</text>
-<rect x="285" y="211" width="390" height="28" rx="7" fill="#22c55e"/>
-<text x="685" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jerzy Dudek</text>
-<rect x="285" y="269" width="367" height="28" rx="7" fill="#22c55e"/>
-<text x="662" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ryan Yates</text>
-<rect x="285" y="327" width="364" height="28" rx="7" fill="#22c55e"/>
-<text x="659" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kyle Walker</text>
-<rect x="285" y="385" width="351" height="28" rx="7" fill="#22c55e"/>
-<text x="646" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.4%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mateo Kovačić</text>
+<rect x="285" y="153" width="467" height="28" rx="7" fill="#22c55e"/>
+<text x="762" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jay-Jay Okocha</text>
+<rect x="285" y="211" width="457" height="28" rx="7" fill="#22c55e"/>
+<text x="752" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Erling Haaland</text>
+<rect x="285" y="269" width="412" height="28" rx="7" fill="#22c55e"/>
+<text x="707" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sandro Tonali</text>
+<rect x="285" y="327" width="376" height="28" rx="7" fill="#22c55e"/>
+<text x="671" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.8%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aaron Wan-Bissaka</text>
+<rect x="285" y="385" width="366" height="28" rx="7" fill="#22c55e"/>
+<text x="661" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.7%</text>
 </svg>

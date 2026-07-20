@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:05:10.000Z
+pubDatetime: 2026-07-20T01:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.217 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 2.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.570 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 2.300 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,21 +40,21 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 90 | CB | Premier League | 4.000 coins | 0% |
+| Virgil van Dijk | 90 | CB | Premier League | 4.000 coins | +17.6% |
 | Erling Haaland | 90 | ST | Premier League | 12.000 coins | 0% |
-| Alisson | 89 | GK | Premier League | 2.500 coins | +42.1% |
-| Sepp van den Berg | 89 | CB | Premier League | 12.250 coins | +7.4% |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 14.750 coins | +3.4% |
-| Oscar Bobb | 88 | RW | Premier League | 14.750 coins | +13% |
-| Harry Kewell | 87 | LW | Premier League | 12.750 coins | -13.8% |
-| Steve McManaman | 87 | RM | Premier League | 13.250 coins | 0% |
-| Dimitar Berbatov | 87 | ST | Premier League | 13.750 coins | -1.8% |
-| Freddie Ljungberg | 87 | RM | Premier League | 14.000 coins | +7.7% |
-| Tomáš Rosický | 86 | CAM | Premier League | 13.250 coins | -10.9% |
-| Robbie Keane | 86 | ST | Premier League | 13.750 coins | -6.8% |
-| Nwankwo Kanu | 86 | ST | Premier League | 13.750 coins | +3.8% |
-| Freddie Ljungberg | 86 | LM | Premier League | 14.000 coins | +1.8% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 14.500 coins | -3.5% |
+| Alisson | 89 | GK | Premier League | 2.300 coins | +35.3% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 12.500 coins | +1.8% |
+| Sepp van den Berg | 89 | CB | Premier League | 14.000 coins | 0% |
+| Oscar Bobb | 88 | RW | Premier League | 12.750 coins | -3.7% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14.750 coins | +3.4% |
+| Dimitar Berbatov | 87 | ST | Premier League | 11.750 coins | -2% |
+| Steve McManaman | 87 | RM | Premier League | 12.500 coins | -7.3% |
+| Tomáš Rosický | 86 | CAM | Premier League | 12.000 coins | +2.1% |
+| Jerzy Dudek | 86 | GK | Premier League | 12.500 coins | +14.8% |
+| Nwankwo Kanu | 86 | ST | Premier League | 12.750 coins | +10.4% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 12.750 coins | -1.9% |
+| David Brooks | 86 | RM | Premier League | 13.500 coins | +3.7% |
+| Jamie Carragher | 86 | CB | Premier League | 13.500 coins | 0% |
 
 
 ## 📈 Destaques
@@ -63,18 +63,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Erling Haaland (90, ST)** da Premier League, a apenas **12.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Alisson (89, GK)** da Premier League, a apenas **2.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Alisson (89, GK)** da Premier League, a apenas **2.300 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **12.250 coins** — já **valorizando**, sinal de procura crescente.
+- **Jørgen Strand Larsen (89, ST)** da Premier League, a apenas **12.500 coins**
 
-- **Jørgen Strand Larsen (89, ST)** da Premier League, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **14.000 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Virgil van Dijk (90, CB) por 4.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Steve McManaman (87, RM) por 13.250 coins é a referência de rating deste recorte.
+- **Meio:** Cesc Fàbregas (88, CM) por 14.750 coins é a referência de rating deste recorte.
 
 - **Ataque:** Erling Haaland (90, ST) por 12.000 coins é a referência de rating deste recorte.
 
