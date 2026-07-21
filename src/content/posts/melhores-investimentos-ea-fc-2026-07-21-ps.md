@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T13:05:09.000Z
+pubDatetime: 2026-07-21T16:05:09.000Z
 title: "Investimentos EA FC: Premier League em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Mateo Kovačić (91, Premier League) lidera, com +60% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Elliot Anderson (89, Premier League) lidera, com +74.7% em 7 dias a 128k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mateo Kovačić (91) acumula **+60% em 7 dias** a 48k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Elliot Anderson (89) acumula **+74.7% em 7 dias** a 128k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Premier League em 21/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-21-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.6% em 24h** e **+34.1% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+18.8% em 24h** e **+38.2% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mateo Kovačić | 91 | Premier League | 48k coins | +1.1% | +60% | Esticada |
-| Lewis Hall | 89 | Premier League | 80k coins | +22.1% | +50.9% | Esticada |
-| João Pedro | 87 | Premier League | 50k coins | +15% | +48.4% | Momentum moderado |
-| Bruno Guimarães | 89 | Premier League | 26k coins | +6.1% | +42.5% | Momentum moderado |
-| Joelinton | 87 | Premier League | 105k coins | +11.6% | +42.3% | Momentum moderado |
-| Moisés Caicedo | 88 | Premier League | 58k coins | +33.3% | +38.6% | Esticada |
-| David Brooks | 86 | Premier League | 20k coins | +35.6% | +37.9% | Esticada |
-| Bernardo Silva | 86 | Premier League | 50k coins | +4.8% | +34.1% | Momentum moderado |
-| Tijjani Reijnders | 87 | Premier League | 85k coins | +16.7% | +29.6% | Momentum moderado |
-| Sandro Tonali | 91 | Premier League | 139k coins | +25% | +26.9% | Esticada |
-| Rico Lewis | 86 | Premier League | 42k coins | +5.5% | +25.7% | Momentum moderado |
-| Mikkel Damsgaard | 87 | Premier League | 47k coins | +1.1% | +25.5% | Momentum moderado |
-| Raúl Jiménez | 86 | Premier League | 64k coins | +4.1% | +24.3% | Entrada a observar |
-| Sandro Tonali | 87 | Premier League | 70k coins | +17.1% | +23.3% | Momentum moderado |
-| Jaap Stam | 89 | Premier League | 128k coins | +2.6% | +23.1% | Entrada a observar |
+| Elliot Anderson | 89 | Premier League | 128k coins | +11% | +74.7% | Esticada |
+| Micah Richards | 85 | Premier League | 30k coins | +31.2% | +58.4% | Esticada |
+| Carlos Baleba | 90 | Premier League | 134k coins | +8.9% | +57% | Momentum moderado |
+| Erling Haaland | 91 | Premier League | 218k coins | +2.3% | +50% | Momentum moderado |
+| Tino Livramento | 85 | Premier League | 32k coins | +24% | +44.2% | Esticada |
+| Bruno Guimarães | 89 | Premier League | 30k coins | +8.3% | +40.5% | Momentum moderado |
+| Sandro Tonali | 91 | Premier League | 137k coins | +21.8% | +38.9% | Esticada |
+| Tijjani Reijnders | 87 | Premier League | 118k coins | +3.7% | +38.2% | Momentum moderado |
+| Nico González | 86 | Premier League | 19.000 coins | +27% | +35.6% | Esticada |
+| Joelinton | 87 | Premier League | 98k coins | +18.8% | +35.6% | Momentum moderado |
+| Matheus Cunha | 87 | Premier League | 100k coins | +8.2% | +32.7% | Momentum moderado |
+| Lewis Hall | 89 | Premier League | 68k coins | +31.1% | +31.1% | Esticada |
+| Moisés Caicedo | 88 | Premier League | 48k coins | +30.8% | +29.1% | Esticada |
+| Cristian Romero | 86 | Premier League | 70k coins | +15.7% | +28.4% | Momentum moderado |
+| Cesc Fàbregas | 91 | Premier League | 225k coins | +32.2% | +25.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Mateo Kovačić (91)** — 48k coins, **+60% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Elliot Anderson (89)** — 128k coins, **+74.7% em 7 dias** (+11% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lewis Hall (89)** — 80k coins, **+50.9% em 7 dias** (+22.1% em 24h). Preço -21% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Micah Richards (85)** — 30k coins, **+58.4% em 7 dias** (+31.2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Pedro (87)** — 50k coins, **+48.4% em 7 dias** (+15% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Baleba (90)** — 134k coins, **+57% em 7 dias** (+8.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bruno Guimarães (89)** — 26k coins, **+42.5% em 7 dias** (+6.1% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Erling Haaland (91)** — 218k coins, **+50% em 7 dias** (+2.3% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Joelinton (87)** — 105k coins, **+42.3% em 7 dias** (+11.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tino Livramento (85)** — 32k coins, **+44.2% em 7 dias** (+24% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Mateo Kovačić (91, Premier League) lidera, com +60% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Elliot Anderson (89, Premier League) lidera, com +74.7% em 7 dias a 128k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T13:05:10.000Z
+pubDatetime: 2026-07-21T16:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 21/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 21/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (21/07/2026)?"
-    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.700 coins no Console (PS)."
+    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 4.200 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **21/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Rodri (90) por apenas 3.700 coins.
+> 💰 **Melhor pechincha:** Rodri (90) por apenas 4.200 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Premier League em 21/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-21-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.843 coins.
-- **Posição mais frequente:** GK, com 3 cartas.
-- **Faixa real:** 3.000 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.870 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 3.300 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3.700 coins | +5.7% |
-| Virgil van Dijk | 90 | CB | Premier League | 7.100 coins | +35.2% |
-| Alisson | 89 | GK | Premier League | 3.000 coins | -13.5% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3.100 coins | -11.8% |
-| Sepp van den Berg | 89 | CB | Premier League | 13.500 coins | -3.6% |
-| Freddie Ljungberg | 87 | RM | Premier League | 12.250 coins | -5.7% |
-| Dimitar Berbatov | 87 | ST | Premier League | 12.500 coins | -9.1% |
-| Steve McManaman | 87 | RM | Premier League | 14.000 coins | -14.3% |
-| Harry Kewell | 87 | LW | Premier League | 14.000 coins | -3.4% |
-| John Arne Riise | 86 | LB | Premier League | 12.000 coins | -10.9% |
-| Freddie Ljungberg | 86 | LM | Premier League | 12.000 coins | -7.7% |
-| Jerzy Dudek | 86 | GK | Premier League | 13.750 coins | -9.8% |
-| Tomáš Rosický | 86 | CAM | Premier League | 13.750 coins | +7.8% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 13.750 coins | -7.5% |
-| Park Ji Sung | 86 | LM | Premier League | 14.250 coins | -13.3% |
+| Rodri | 90 | CDM | Premier League | 4.200 coins | +14.7% |
+| Virgil van Dijk | 90 | CB | Premier League | 6.900 coins | +27.3% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3.300 coins | -11.8% |
+| Alisson | 89 | GK | Premier League | 3.400 coins | +3% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 14.750 coins | -13.2% |
+| Dimitar Berbatov | 87 | ST | Premier League | 12.250 coins | -9.3% |
+| Freddie Ljungberg | 87 | RM | Premier League | 13.500 coins | +11.3% |
+| Harry Kewell | 87 | LW | Premier League | 13.750 coins | 0% |
+| Freddie Ljungberg | 86 | LM | Premier League | 12.000 coins | -5.9% |
+| Nwankwo Kanu | 86 | ST | Premier League | 12.000 coins | -7.7% |
+| John Arne Riise | 86 | LB | Premier League | 12.250 coins | -10.9% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 12.500 coins | +1.9% |
+| Park Ji Sung | 86 | LM | Premier League | 13.750 coins | -5.1% |
+| Jerzy Dudek | 86 | GK | Premier League | 13.750 coins | -14.1% |
+| Jamie Carragher | 86 | CB | Premier League | 14.750 coins | -9.1% |
 
 
 ## 📈 Destaques
 
-- **Rodri (90, CDM)** da Premier League, a apenas **3.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Rodri (90, CDM)** da Premier League, a apenas **4.200 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **7.100 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **6.900 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Alisson (89, GK)** da Premier League, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3.100 coins** — já **valorizando**, sinal de procura crescente.
+- **Alisson (89, GK)** da Premier League, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13.500 coins**
+- **Jørgen Strand Larsen (89, ST)** da Premier League, a apenas **14.750 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Virgil van Dijk (90, CB) por 7.100 coins é a referência de rating deste recorte.
+- **Defesa:** Virgil van Dijk (90, CB) por 6.900 coins é a referência de rating deste recorte.
 
-- **Meio:** Rodri (90, CDM) por 3.700 coins é a referência de rating deste recorte.
+- **Meio:** Rodri (90, CDM) por 4.200 coins é a referência de rating deste recorte.
 
-- **Ataque:** Dimitar Berbatov (87, ST) por 12.500 coins é a referência de rating deste recorte.
+- **Ataque:** Jørgen Strand Larsen (89, ST) por 14.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (21/07/2026)?**  
-Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.700 coins no Console (PS).
+Rodri (90, Premier League) aparece como melhor custo-benefício, a 4.200 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
