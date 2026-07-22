@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T09:34:39.000Z
+pubDatetime: 2026-07-22T10:05:18.000Z
 title: "Investimentos EA FC: Premier League em 22/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.1% em 24h** e **+34.9% em 7 dias**.
-- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+18.8% em 24h** e **+36.4% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,19 +44,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Nwankwo Kanu | 87 | Premier League | 50k coins | +11.1% | +86.9% | Esticada |
-| João Pedro | 87 | Premier League | 80k coins | +9.3% | +83.2% | Esticada |
-| Declan Rice | 89 | Premier League | 96k coins | +23.2% | +77.1% | Esticada |
-| Alexis Mac Allister | 89 | Premier League | 48k coins | +10.2% | +61.7% | Esticada |
+| João Pedro | 87 | Premier League | 72k coins | +6.4% | +78.4% | Esticada |
+| Alexis Mac Allister | 89 | Premier League | 38k coins | +10.3% | +60.8% | Esticada |
+| Dominic Solanke | 87 | Premier League | 69k coins | +3.8% | +56.8% | Momentum moderado |
 | Oscar Bobb | 88 | Premier League | 24k coins | +36.2% | +56.7% | Esticada |
-| Ollie Watkins | 90 | Premier League | 68k coins | +3.8% | +40.8% | Momentum moderado |
-| Diogo Dalot | 87 | Premier League | 150k coins | +29.3% | +36.4% | Esticada |
+| Ollie Watkins | 90 | Premier League | 68k coins | +4.5% | +40.8% | Momentum moderado |
+| Joško Gvardiol | 86 | Premier League | 68k coins | +22.7% | +37.8% | Esticada |
+| Diogo Dalot | 87 | Premier League | 159k coins | +29.3% | +36.4% | Esticada |
 | Sandro Tonali | 91 | Premier League | 170k coins | +24.1% | +34.9% | Esticada |
-| Freddie Ljungberg | 87 | Premier League | 17.250 coins | +22.1% | +31.7% | Esticada |
-| Joško Gvardiol | 86 | Premier League | 68k coins | +22.7% | +23.9% | Esticada |
-| Raúl Jiménez | 86 | Premier League | 86k coins | +6.1% | +22.5% | Momentum moderado |
-| Bernardo Silva | 87 | Premier League | 90k coins | +33.3% | +20.8% | Esticada |
-| Cesc Fàbregas | 88 | Premier League | 23k coins | +8% | +19% | Momentum moderado |
-| Ledley King | 86 | Premier League | 24k coins | +26.7% | +18.8% | Esticada |
+| Rico Lewis | 86 | Premier League | 50k coins | +1% | +22% | Entrada a observar |
+| Raúl Jiménez | 86 | Premier League | 86k coins | +5.5% | +21.8% | Momentum moderado |
+| Bernardo Silva | 87 | Premier League | 90k coins | +34.3% | +20.8% | Esticada |
+| John Arne Riise | 86 | Premier League | 16.000 coins | +28% | +20.8% | Esticada |
+| Cesc Fàbregas | 88 | Premier League | 22k coins | +22.1% | +19% | Esticada |
 | James Milner | 88 | Premier League | 48k coins | +18.8% | +18.8% | Momentum moderado |
 
 
@@ -64,11 +64,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Nwankwo Kanu (87)** — 50k coins, **+86.9% em 7 dias** (+11.1% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Pedro (87)** — 80k coins, **+83.2% em 7 dias** (+9.3% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Pedro (87)** — 72k coins, **+78.4% em 7 dias** (+6.4% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Declan Rice (89)** — 96k coins, **+77.1% em 7 dias** (+23.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexis Mac Allister (89)** — 38k coins, **+60.8% em 7 dias** (+10.3% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexis Mac Allister (89)** — 48k coins, **+61.7% em 7 dias** (+10.2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dominic Solanke (87)** — 69k coins, **+56.8% em 7 dias** (+3.8% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Oscar Bobb (88)** — 24k coins, **+56.7% em 7 dias** (+36.2% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

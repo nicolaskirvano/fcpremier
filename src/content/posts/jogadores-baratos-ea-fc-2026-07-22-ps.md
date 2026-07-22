@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T09:34:30.000Z
+pubDatetime: 2026-07-22T10:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 22/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 22/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (22/07/2026)?"
-    a: "Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 6.900 coins no Console (PS)."
+    a: "Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 7.400 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **22/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Virgil van Dijk (90) por apenas 6.900 coins.
+> 💰 **Melhor pechincha:** Virgil van Dijk (90) por apenas 7.400 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Premier League em 22/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-22-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.037 coins.
+- **Preço médio das 15 opções:** 11.210 coins.
 - **Posição mais frequente:** CB, com 3 cartas.
-- **Faixa real:** 3.400 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.900 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 90 | CB | Premier League | 6.900 coins | +8.3% |
-| Alisson | 89 | GK | Premier League | 3.400 coins | +6.5% |
+| Virgil van Dijk | 90 | CB | Premier League | 7.400 coins | 0% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2.900 coins | +3.6% |
+| Alisson | 89 | GK | Premier League | 3.600 coins | +6.5% |
 | Sepp van den Berg | 89 | CB | Premier League | 13.000 coins | -1.8% |
-| Dimitar Berbatov | 87 | ST | Premier League | 13.000 coins | +4.3% |
+| Dimitar Berbatov | 87 | ST | Premier League | 12.750 coins | +6.4% |
 | Steve McManaman | 87 | RM | Premier League | 13.250 coins | -1.9% |
-| Harry Kewell | 87 | LW | Premier League | 13.500 coins | +1.7% |
+| Harry Kewell | 87 | LW | Premier League | 13.500 coins | +3.5% |
 | Freddie Ljungberg | 86 | LM | Premier League | 12.000 coins | 0% |
 | Jerzy Dudek | 86 | GK | Premier League | 12.000 coins | -5.9% |
-| Tomáš Rosický | 86 | CAM | Premier League | 12.500 coins | +6.4% |
-| John Arne Riise | 86 | LB | Premier League | 12.500 coins | +2% |
+| Tomáš Rosický | 86 | CAM | Premier League | 12.000 coins | +6.4% |
 | Ole Gunnar Solskjær | 86 | ST | Premier League | 13.000 coins | 0% |
+| Jamie Carragher | 86 | CB | Premier League | 13.250 coins | -1.9% |
 | Nwankwo Kanu | 86 | ST | Premier League | 13.500 coins | +13% |
-| Jamie Carragher | 86 | CB | Premier League | 13.750 coins | -1.9% |
-| Park Ji Sung | 86 | LM | Premier League | 14.250 coins | +3.9% |
-| Oscar Bobb | 85 | RW | Premier League | 14.000 coins | -3.5% |
+| Park Ji Sung | 86 | LM | Premier League | 14.000 coins | +3.9% |
+| Oscar Bobb | 85 | RW | Premier League | 12.000 coins | -6.8% |
 
 
 ## 📈 Destaques
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **6.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **7.400 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Alisson (89, GK)** da Premier League, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Alisson (89, GK)** da Premier League, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Sepp van den Berg (89, CB)** da Premier League, a apenas **13.000 coins**
 
-- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **13.000 coins**
-
-- **Steve McManaman (87, RM)** da Premier League, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **12.750 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Virgil van Dijk (90, CB) por 6.900 coins é a referência de rating deste recorte.
+- **Defesa:** Virgil van Dijk (90, CB) por 7.400 coins é a referência de rating deste recorte.
 
 - **Meio:** Steve McManaman (87, RM) por 13.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Dimitar Berbatov (87, ST) por 13.000 coins é a referência de rating deste recorte.
+- **Ataque:** Dimitar Berbatov (87, ST) por 12.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (22/07/2026)?**  
-Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 6.900 coins no Console (PS).
+Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 7.400 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
