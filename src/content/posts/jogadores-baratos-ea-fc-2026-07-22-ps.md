@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T19:05:10.000Z
+pubDatetime: 2026-07-22T22:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 22/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.650 coins.
-- **Posição mais frequente:** CB, com 3 cartas.
-- **Faixa real:** 8.000 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 12.290 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 4.600 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 90 | CB | Premier League | 8.000 coins | +10.3% |
-| Sepp van den Berg | 89 | CB | Premier League | 12.500 coins | +12.7% |
-| Emiliano Martínez | 88 | GK | Premier League | 14.250 coins | -2.4% |
-| Dimitar Berbatov | 87 | ST | Premier League | 11.750 coins | -13% |
-| Freddie Ljungberg | 87 | RM | Premier League | 12.000 coins | 0% |
-| Steve McManaman | 87 | RM | Premier League | 12.000 coins | -10% |
-| Harry Kewell | 87 | LW | Premier League | 14.000 coins | +16.1% |
+| Virgil van Dijk | 90 | CB | Premier League | 8.000 coins | +11.1% |
+| Alisson | 89 | GK | Premier League | 4.600 coins | +25% |
+| Sepp van den Berg | 89 | CB | Premier League | 12.500 coins | +7.3% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 14.500 coins | -4.9% |
+| Oscar Bobb | 88 | RW | Premier League | 14.250 coins | -8.1% |
+| Dimitar Berbatov | 87 | ST | Premier League | 12.250 coins | -9.6% |
+| Harry Kewell | 87 | LW | Premier League | 13.000 coins | -4.8% |
+| Freddie Ljungberg | 87 | RM | Premier League | 14.000 coins | +3.7% |
 | Freddie Ljungberg | 86 | LM | Premier League | 11.750 coins | -13% |
-| Tomáš Rosický | 86 | CAM | Premier League | 12.000 coins | -11.3% |
-| Nwankwo Kanu | 86 | ST | Premier League | 12.500 coins | -3.8% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 13.000 coins | -5.5% |
-| Jamie Carragher | 86 | CB | Premier League | 13.500 coins | 0% |
-| Jerzy Dudek | 86 | GK | Premier League | 14.250 coins | +11.9% |
-| Park Ji Sung | 86 | LM | Premier League | 14.250 coins | +1.8% |
-| Oscar Bobb | 85 | RW | Premier League | 14.000 coins | 0% |
+| Nwankwo Kanu | 86 | ST | Premier League | 12.500 coins | -7.7% |
+| Park Ji Sung | 86 | LM | Premier League | 12.750 coins | -5.1% |
+| Jerzy Dudek | 86 | GK | Premier League | 13.000 coins | -7% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 13.250 coins | +3.8% |
+| Tomáš Rosický | 86 | CAM | Premier League | 13.250 coins | -3.7% |
+| Robbie Keane | 86 | ST | Premier League | 14.750 coins | -1.7% |
 
 
 ## 📈 Destaques
 
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **8.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Alisson (89, GK)** da Premier League, a apenas **4.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+
 - **Sepp van den Berg (89, CB)** da Premier League, a apenas **12.500 coins**
 
-- **Emiliano Martínez (88, GK)** da Premier League, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jørgen Strand Larsen (89, ST)** da Premier League, a apenas **14.500 coins**
 
-- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **11.750 coins**
-
-- **Freddie Ljungberg (87, RM)** da Premier League, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Oscar Bobb (88, RW)** da Premier League, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Virgil van Dijk (90, CB) por 8.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Freddie Ljungberg (87, RM) por 12.000 coins é a referência de rating deste recorte.
+- **Meio:** Freddie Ljungberg (87, RM) por 14.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Dimitar Berbatov (87, ST) por 11.750 coins é a referência de rating deste recorte.
+- **Ataque:** Jørgen Strand Larsen (89, ST) por 14.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

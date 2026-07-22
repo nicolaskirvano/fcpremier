@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T19:05:17.000Z
+pubDatetime: 2026-07-22T22:05:17.000Z
 title: "Mercado EA FC em 22/07: Premier League — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Martin Dúbravka (86, Premier League), com +59.2% em 24h, a 47k coins no PC."
+    a: "Jay-Jay Okocha (90, Premier League), com +55.7% em 24h, a 288k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Estêvão (91), -44.2% em 24h, a 750k coins."
+    a: "Tijjani Reijnders (93), -37.8% em 24h, a 300k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 90 cartas em alta contra 90 em queda (média 3.75%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 75 cartas em alta contra 102 em queda (média 0.3%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **90 subiram** e **90 caíram**, com variação média de **3.75%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **de lado** — altas e quedas se equilibram: das cartas relevantes (80+ acima de 5k coins), **75 subiram** e **102 caíram**, com variação média de **0.3%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Martin Dúbravka (86) **+59.2%** · 🔴 **Maior baixa:** Estêvão (91) **-44.2%**
+> 🟢 **Maior alta:** Jay-Jay Okocha (90) **+55.7%** · 🔴 **Maior baixa:** Tijjani Reijnders (93) **-37.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Premier League — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 219 cartas.
+- **Amplitude do dia:** 93.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.4% entre as cartas que se moveram; o universo observado reúne 216 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Martin Dúbravka | 86 | Premier League | 47k coins | +59.2% | -1.5% |
-| David Brooks | 86 | Premier League | 35k coins | +56.8% | -5.5% |
-| Jay-Jay Okocha | 90 | Premier League | 288k coins | +55.7% | -6.5% |
-| Erling Haaland | 92 | Premier League | 500k coins | +54.3% | +85.2% |
-| William Saliba | 94 | Premier League | 580k coins | +51% | +29.2% |
-| Granit Xhaka | 89 | Premier League | 60k coins | +45.4% | +54.7% |
-| Rayan Aït-Nouri | 90 | Premier League | 75k coins | +44.2% | +87.5% |
-| Nwankwo Kanu | 87 | Premier League | 44k coins | +43.8% | +72% |
-| Bernardo Silva | 87 | Premier League | 86k coins | +39.5% | +8.1% |
-| Hugo Ekitiké | 86 | Premier League | 42k coins | +39.3% | -12.4% |
+| Jay-Jay Okocha | 90 | Premier League | 288k coins | +55.7% | +2.9% |
+| Eden Hazard | 92 | Premier League | 1.80M coins | +50% | -5.3% |
+| Lucas Paquetá | 84 | Premier League | 39k coins | +49.7% | +37.9% |
+| Martin Ødegaard | 87 | Premier League | 296k coins | +47.3% | -15.4% |
+| Martin Dúbravka | 86 | Premier League | 42k coins | +41.7% | -6.6% |
+| Wilson Odobert | 87 | Premier League | 28k coins | +40% | -21.1% |
+| Dominic Solanke | 87 | Premier League | 60k coins | +38.9% | +38.9% |
+| Bruno Fernandes | 89 | Premier League | 98k coins | +35.4% | +5.7% |
+| Trai Hume | 84 | Premier League | 54k coins | +34.6% | +59.1% |
+| Mateo Kovačić | 91 | Premier League | 50k coins | +33.3% | +12.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Martin Dúbravka (86)** subiu **+59.2%** em 24h, a **47k coins** (faixa do dia: 30k–50k). Está +13% acima da média de 7 dias (aquecida).
-
-- **David Brooks (86)** subiu **+56.8%** em 24h, a **35k coins** (faixa do dia: 22k–38k). Está +16% acima da média de 7 dias (aquecida).
-
 - **Jay-Jay Okocha (90)** subiu **+55.7%** em 24h, a **288k coins** (faixa do dia: 185k–288k). Está +16% acima da média de 7 dias (aquecida).
+
+- **Eden Hazard (92)** subiu **+50%** em 24h, a **1.80M coins** (faixa do dia: 1.20M–2.60M). Está em linha com a média de 7 dias (-6%).
+
+- **Lucas Paquetá (84)** subiu **+49.7%** em 24h, a **39k coins** (faixa do dia: 35k–100k). Está -44% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Estêvão | 91 | Premier League | 750k coins | -44.2% | -44.4% |
-| Eli Junior Kroupi | 89 | Premier League | 28k coins | -42.1% | -57.7% |
-| Hugo Ekitiké | 87 | Premier League | 35k coins | -35.8% | -30% |
-| Jurriën Timber | 86 | Premier League | 34k coins | -34% | -14.6% |
-| Emiliano Martínez | 88 | Premier League | 35k coins | -33.5% | -33.5% |
-| Tijjani Reijnders | 87 | Premier League | 82k coins | -32.8% | -1.2% |
-| Harry Maguire | 83 | Premier League | 96k coins | -32.4% | -39.6% |
-| Ryan Christie | 90 | Premier League | 52k coins | -30.7% | +21.6% |
-| Tim Cahill | 89 | Premier League | 47k coins | -29.3% | -38.5% |
-| Xavi Simons | 88 | Premier League | 28k coins | -28.7% | -48.2% |
+| Tijjani Reijnders | 93 | Premier League | 300k coins | -37.8% | -45.5% |
+| Tijjani Reijnders | 87 | Premier League | 74k coins | -36.1% | -10.6% |
+| Jérémy Doku | 86 | Premier League | 450k coins | -34.3% | -63.2% |
+| Estêvão | 91 | Premier League | 839k coins | -33.1% | -33.4% |
+| Joe Cole | 87 | Premier League | 32k coins | -32.5% | +8% |
+| Federico Chiesa | 86 | Premier League | 188k coins | -32.1% | -32.9% |
+| Joško Gvardiol | 86 | Premier League | 44k coins | -31.3% | -8.2% |
+| Jeremie Frimpong | 86 | Premier League | 202k coins | -30.3% | -25.9% |
+| Eberechi Eze | 88 | Premier League | 46k coins | -29.6% | -32.1% |
+| Xavi Simons | 88 | Premier League | 30k coins | -29.6% | -48.1% |
 
 
 ### Análise das baixas
 
-- **Estêvão (91)** caiu **-44.2%** em 24h, a **750k coins** (faixa do dia: 667k–1.20M). Está -31% abaixo da média de 7 dias (descontada).
+- **Tijjani Reijnders (93)** caiu **-37.8%** em 24h, a **300k coins** (faixa do dia: 300k–544k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Eli Junior Kroupi (89)** caiu **-42.1%** em 24h, a **28k coins** (faixa do dia: 28k–50k). Está -42% abaixo da média de 7 dias (descontada).
+- **Tijjani Reijnders (87)** caiu **-36.1%** em 24h, a **74k coins** (faixa do dia: 62k–125k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Hugo Ekitiké (87)** caiu **-35.8%** em 24h, a **35k coins** (faixa do dia: 35k–54k). Está -31% abaixo da média de 7 dias (descontada).
+- **Jérémy Doku (86)** caiu **-34.3%** em 24h, a **450k coins** (faixa do dia: 299k–697k). Está -48% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Martin Dúbravka já avançou 59.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jay-Jay Okocha já avançou 55.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Estêvão recuou -44.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Tijjani Reijnders recuou -37.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Martin Dúbravka (86, Premier League), com +59.2% em 24h, a 47k coins no PC.
+Jay-Jay Okocha (90, Premier League), com +55.7% em 24h, a 288k coins no PC.
 
 **E a maior queda do dia?**
-Estêvão (91), -44.2% em 24h, a 750k coins.
+Tijjani Reijnders (93), -37.8% em 24h, a 300k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 90 cartas em alta contra 90 em queda (média 3.75%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 75 cartas em alta contra 102 em queda (média 0.3%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
