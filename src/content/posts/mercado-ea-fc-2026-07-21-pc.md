@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T22:05:16.000Z
+pubDatetime: 2026-07-22T01:05:17.000Z
 title: "Mercado EA FC em 21/07: Premier League — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Eli Junior Kroupi (89, Premier League), com +59.6% em 24h, a 44k coins no PC."
+    a: "Lewis Miley (89, Premier League), com +55.7% em 24h, a 64k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Igor Thiago (89), -44.5% em 24h, a 48k coins."
+    a: "Declan Rice (88), -49.4% em 24h, a 40k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 75 cartas em alta contra 95 em queda (média -0.39%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 73 cartas em alta contra 99 em queda (média -0.12%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**21/07/2026**, PC) o Ultimate Team está **lateral** — sem direção clara — **75 subiram**, **95 caíram** (80+ e 5k+ coins), média de **-0.39%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**21/07/2026**, PC) o Ultimate Team está **lateral** — sem direção clara — **73 subiram**, **99 caíram** (80+ e 5k+ coins), média de **-0.12%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Eli Junior Kroupi (89) **+59.6%** · 🔴 **Maior baixa:** Igor Thiago (89) **-44.5%**
+> 🟢 **Maior alta:** Lewis Miley (89) **+55.7%** · 🔴 **Maior baixa:** Declan Rice (88) **-49.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Premier League — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está **lateral** — sem direção cl
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.1% entre as cartas que se moveram; o universo observado reúne 223 cartas.
+- **Amplitude do dia:** 105.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.4% entre as cartas que se moveram; o universo observado reúne 222 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Eli Junior Kroupi | 89 | Premier League | 44k coins | +59.6% | +16.7% |
-| Vincent Kompany | 91 | Premier League | 85k coins | +56% | +75.3% |
-| Federico Chiesa | 86 | Premier League | 201k coins | +55.6% | -11.1% |
-| Marcos Senesi | 88 | Premier League | 90k coins | +51.3% | +28.6% |
-| Xavi Simons | 91 | Premier League | 110k coins | +50.7% | +16.4% |
-| Lewis Miley | 89 | Premier League | 54k coins | +46.8% | +15.5% |
-| Elliot Anderson | 86 | Premier League | 48k coins | +44.8% | -6.7% |
-| Jurriën Timber | 87 | Premier League | 32k coins | +42.4% | -16% |
-| Viktor Gyökeres | 94 | Premier League | 1.38M coins | +39.3% | -4.6% |
-| Cole Palmer | 89 | Premier League | 388k coins | +39.1% | +9% |
+| Lewis Miley | 89 | Premier League | 64k coins | +55.7% | +19.3% |
+| Vincent Kompany | 91 | Premier League | 80k coins | +50.5% | +66% |
+| Eden Hazard | 90 | Premier League | 1.60M coins | +49.5% | +25.2% |
+| Lewis Hall | 89 | Premier League | 92k coins | +48.4% | +55.9% |
+| Sandro Tonali | 87 | Premier League | 55k coins | +38.8% | +14.6% |
+| Tijjani Reijnders | 87 | Premier League | 119k coins | +35.2% | +39.2% |
+| Joe Cole | 87 | Premier League | 30k coins | +34.8% | +76.5% |
+| Kevin Schade | 84 | Premier League | 48k coins | +34.6% | -8.5% |
+| Marcos Senesi | 88 | Premier League | 55k coins | +31.1% | -30.6% |
+| Micah Richards | 85 | Premier League | 34k coins | +25% | +26.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está **lateral** — sem direção cl
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Eli Junior Kroupi (89)** subiu **+59.6%** em 24h, a **44k coins** (faixa do dia: 28k–70k). Está -11% abaixo da média de 7 dias (descontada).
+- **Lewis Miley (89)** subiu **+55.7%** em 24h, a **64k coins** (faixa do dia: 34k–65k). Está +27% acima da média de 7 dias (aquecida).
 
-- **Vincent Kompany (91)** subiu **+56%** em 24h, a **85k coins** (faixa do dia: 37k–85k). Está +46% acima da média de 7 dias (aquecida).
+- **Vincent Kompany (91)** subiu **+50.5%** em 24h, a **80k coins** (faixa do dia: 37k–85k). Está +37% acima da média de 7 dias (aquecida).
 
-- **Federico Chiesa (86)** subiu **+55.6%** em 24h, a **201k coins** (faixa do dia: 160k–277k). Está -20% abaixo da média de 7 dias (descontada).
+- **Eden Hazard (90)** subiu **+49.5%** em 24h, a **1.60M coins** (faixa do dia: 1M–1.60M). Está +30% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Igor Thiago | 89 | Premier League | 48k coins | -44.5% | -8.6% |
-| David Brooks | 86 | Premier League | 22k coins | -42% | -42% |
-| Eberechi Eze | 87 | Premier League | 64k coins | -39.5% | -33.5% |
-| Declan Rice | 88 | Premier League | 48k coins | -38.8% | -37.2% |
-| Declan Rice | 91 | Premier League | 345k coins | -36.4% | -34.1% |
-| Noni Madueke | 86 | Premier League | 22k coins | -36.3% | -38.8% |
-| Jay-Jay Okocha | 90 | Premier League | 185k coins | -36.2% | -39.9% |
-| Nicolò Savona | 83 | Premier League | 65k coins | -35.1% | -33.2% |
-| Jérémy Doku | 84 | Premier League | 112k coins | -32.1% | -34.5% |
-| Micky van de Ven | 90 | Premier League | 1.41M coins | -29.5% | -58.2% |
+| Declan Rice | 88 | Premier League | 40k coins | -49.4% | -52.1% |
+| Wilson Odobert | 87 | Premier League | 20k coins | -47.4% | -48.1% |
+| Nicolò Savona | 83 | Premier League | 60k coins | -45% | -39.7% |
+| Igor Thiago | 89 | Premier League | 40k coins | -44.5% | -14.5% |
+| Emiliano Buendía | 83 | Premier League | 39k coins | -43.9% | +12.9% |
+| Bruno Fernandes | 88 | Premier League | 122k coins | -43% | -12.7% |
+| Ryan Gravenberch | 86 | Premier League | 72k coins | -41.6% | -25% |
+| Murillo | 87 | Premier League | 127k coins | -39.5% | -28.7% |
+| Mateus Mané | 88 | Premier League | 26k coins | -39% | -47.5% |
+| Bruno Guimarães | 87 | Premier League | 40k coins | -37.7% | -10.5% |
 
 
 ### Análise das baixas
 
-- **Igor Thiago (89)** caiu **-44.5%** em 24h, a **48k coins** (faixa do dia: 48k–84k). Está -33% abaixo da média de 7 dias (descontada).
+- **Declan Rice (88)** caiu **-49.4%** em 24h, a **40k coins** (faixa do dia: 40k–80k). Está -44% abaixo da média de 7 dias (descontada).
 
-- **David Brooks (86)** caiu **-42%** em 24h, a **22k coins** (faixa do dia: 22k–38k). Está -29% abaixo da média de 7 dias (descontada).
+- **Wilson Odobert (87)** caiu **-47.4%** em 24h, a **20k coins** (faixa do dia: 17.000–36k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Eberechi Eze (87)** caiu **-39.5%** em 24h, a **64k coins** (faixa do dia: 64k–97k). Está -24% abaixo da média de 7 dias (descontada).
+- **Nicolò Savona (83)** caiu **-45%** em 24h, a **60k coins** (faixa do dia: 60k–250k). Está -37% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Eli Junior Kroupi já avançou 59.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lewis Miley já avançou 55.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Igor Thiago recuou -44.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Declan Rice recuou -49.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Eli Junior Kroupi (89, Premier League), com +59.6% em 24h, a 44k coins no PC.
+Lewis Miley (89, Premier League), com +55.7% em 24h, a 64k coins no PC.
 
 **E a maior queda do dia?**
-Igor Thiago (89), -44.5% em 24h, a 48k coins.
+Declan Rice (88), -49.4% em 24h, a 40k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 75 cartas em alta contra 95 em queda (média -0.39%).
+Hoje o mercado está lateral — sem direção clara, com 73 cartas em alta contra 99 em queda (média -0.12%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
