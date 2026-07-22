@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Virgil van Dijk</text>
-<rect x="285" y="95" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">7.500</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gianluigi Donnarumma</text>
-<rect x="285" y="153" width="275" height="28" rx="7" fill="#38bdf8"/>
-<text x="570" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.300</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alisson</text>
-<rect x="285" y="211" width="288" height="28" rx="7" fill="#38bdf8"/>
-<text x="583" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.500</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexander Isak</text>
-<rect x="285" y="269" width="102" height="28" rx="7" fill="#38bdf8"/>
-<text x="397" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">1.600</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Declan Rice</text>
-<rect x="285" y="327" width="96" height="28" rx="7" fill="#38bdf8"/>
-<text x="391" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">1.500</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Piero Hincapié</text>
-<rect x="285" y="385" width="96" height="28" rx="7" fill="#38bdf8"/>
-<text x="391" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">1.500</text>
+<rect x="285" y="95" width="225" height="28" rx="7" fill="#38bdf8"/>
+<text x="520" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">6.200</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodri</text>
+<rect x="285" y="153" width="272" height="28" rx="7" fill="#38bdf8"/>
+<text x="567" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">7.500</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gianluigi Donnarumma</text>
+<rect x="285" y="211" width="170" height="28" rx="7" fill="#38bdf8"/>
+<text x="465" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.700</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alisson</text>
+<rect x="285" y="269" width="174" height="28" rx="7" fill="#38bdf8"/>
+<text x="469" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.800</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexander Isak</text>
+<rect x="285" y="327" width="72" height="28" rx="7" fill="#38bdf8"/>
+<text x="367" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.000</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dimitar Berbatov</text>
+<rect x="285" y="385" width="480" height="28" rx="7" fill="#38bdf8"/>
+<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.250</text>
 </svg>
