@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joelinton</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+74.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Eberechi Eze</text>
-<rect x="285" y="153" width="341" height="28" rx="7" fill="#22c55e"/>
-<text x="636" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sandro Tonali</text>
-<rect x="285" y="211" width="315" height="28" rx="7" fill="#22c55e"/>
-<text x="610" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cody Gakpo</text>
-<rect x="285" y="269" width="304" height="28" rx="7" fill="#22c55e"/>
-<text x="599" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.9%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+79.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tijjani Reijnders</text>
+<rect x="285" y="153" width="475" height="28" rx="7" fill="#22c55e"/>
+<text x="770" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+78.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tijjani Reijnders</text>
+<rect x="285" y="211" width="421" height="28" rx="7" fill="#22c55e"/>
+<text x="716" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+69.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pascal Groß</text>
+<rect x="285" y="269" width="219" height="28" rx="7" fill="#22c55e"/>
+<text x="514" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.1%</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bruno Guimarães</text>
-<rect x="285" y="327" width="294" height="28" rx="7" fill="#22c55e"/>
-<text x="589" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vincent Kompany</text>
-<rect x="285" y="385" width="294" height="28" rx="7" fill="#22c55e"/>
-<text x="589" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.3%</text>
+<rect x="285" y="327" width="207" height="28" rx="7" fill="#22c55e"/>
+<text x="502" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.2%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rayan Aït-Nouri</text>
+<rect x="285" y="385" width="199" height="28" rx="7" fill="#22c55e"/>
+<text x="494" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.9%</text>
 </svg>
