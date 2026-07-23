@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T09:34:33.000Z
+pubDatetime: 2026-07-23T10:05:19.000Z
 title: "Investimentos EA FC: Premier League em 23/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.3% em 24h** e **+34.3% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+16.3% em 24h** e **+29.2% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Nick Woltemade | 87 | Premier League | 87k coins | +14.1% | +78% | Esticada |
-| Sandro Tonali | 87 | Premier League | 64k coins | +17.3% | +67.5% | Esticada |
+| Sandro Tonali | 87 | Premier League | 52k coins | +17.3% | +67.5% | Esticada |
 | Oscar Bobb | 88 | Premier League | 26k coins | +13.8% | +59.7% | Momentum moderado |
-| Gabriel Martinelli | 87 | Premier League | 146k coins | +16.3% | +42.9% | Momentum moderado |
-| Ryan Christie | 90 | Premier League | 48k coins | +28.3% | +39.5% | Esticada |
+| Gabriel Martinelli | 87 | Premier League | 150k coins | +16.3% | +42.9% | Momentum moderado |
+| Ryan Christie | 90 | Premier League | 75k coins | +36% | +39.5% | Esticada |
 | Pascal Groß | 87 | Premier League | 30k coins | +6.3% | +35.6% | Momentum moderado |
-| Douglas Luiz | 90 | Premier League | 67k coins | +32.1% | +34.6% | Esticada |
-| Trai Hume | 84 | Premier League | 46k coins | +30.5% | +34.3% | Esticada |
+| Trai Hume | 84 | Premier League | 46k coins | +31.4% | +34.3% | Esticada |
 | Jurriën Timber | 86 | Premier League | 52k coins | +18.2% | +29.2% | Momentum moderado |
-| Dominik Szoboszlai | 90 | Premier League | 200k coins | +1% | +25% | Entrada a observar |
-| Hugo Ekitiké | 86 | Premier League | 50k coins | +23.8% | +24.6% | Esticada |
-| Alexis Mac Allister | 89 | Premier League | 49k coins | +7.3% | +24.1% | Momentum moderado |
-| Malo Gusto | 84 | Premier League | 55k coins | +6.8% | +15.2% | Momentum moderado |
-| David Raya | 88 | Premier League | 44k coins | +22.6% | +14% | Esticada |
-| Mateus Mané | 86 | Premier League | 44k coins | +27.5% | +13.4% | Esticada |
+| Douglas Luiz | 90 | Premier League | 67k coins | +26.4% | +28.8% | Esticada |
+| Dominik Szoboszlai | 90 | Premier League | 170k coins | +1% | +25% | Entrada a observar |
+| Hugo Ekitiké | 86 | Premier League | 49k coins | +19% | +19.8% | Momentum moderado |
+| Florian Wirtz | 90 | Premier League | 230k coins | +25% | +18.6% | Esticada |
+| Alexis Mac Allister | 89 | Premier League | 41k coins | +12.7% | +17.5% | Momentum moderado |
+| Malo Gusto | 84 | Premier League | 55k coins | +10% | +15.2% | Momentum moderado |
+| Bruno Fernandes | 89 | Premier League | 92k coins | +11% | +12.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Nick Woltemade (87)** — 87k coins, **+78% em 7 dias** (+14.1% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (87)** — 64k coins, **+67.5% em 7 dias** (+17.3% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sandro Tonali (87)** — 52k coins, **+67.5% em 7 dias** (+17.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Oscar Bobb (88)** — 26k coins, **+59.7% em 7 dias** (+13.8% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gabriel Martinelli (87)** — 146k coins, **+42.9% em 7 dias** (+16.3% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Martinelli (87)** — 150k coins, **+42.9% em 7 dias** (+16.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Christie (90)** — 48k coins, **+39.5% em 7 dias** (+28.3% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Christie (90)** — 75k coins, **+39.5% em 7 dias** (+36% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

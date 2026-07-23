@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Virgil van Dijk</text>
-<rect x="285" y="95" width="209" height="28" rx="7" fill="#38bdf8"/>
-<text x="504" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">6.000</text>
+<rect x="285" y="95" width="237" height="28" rx="7" fill="#38bdf8"/>
+<text x="532" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">6.300</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodri</text>
-<rect x="285" y="153" width="332" height="28" rx="7" fill="#38bdf8"/>
-<text x="627" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">9.500</text>
+<rect x="285" y="153" width="365" height="28" rx="7" fill="#38bdf8"/>
+<text x="660" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">9.700</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alisson</text>
-<rect x="285" y="211" width="195" height="28" rx="7" fill="#38bdf8"/>
-<text x="490" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">5.600</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Freddie Ljungberg</text>
-<rect x="285" y="269" width="375" height="28" rx="7" fill="#38bdf8"/>
-<text x="670" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">10.750</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">John Arne Riise</text>
-<rect x="285" y="327" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.750</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Murillo</text>
-<rect x="285" y="385" width="66" height="28" rx="7" fill="#38bdf8"/>
-<text x="361" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">1.900</text>
+<rect x="285" y="211" width="226" height="28" rx="7" fill="#38bdf8"/>
+<text x="521" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">6.000</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bruno Fernandes</text>
+<rect x="285" y="269" width="75" height="28" rx="7" fill="#38bdf8"/>
+<text x="370" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.000</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Freddie Ljungberg</text>
+<rect x="285" y="327" width="405" height="28" rx="7" fill="#38bdf8"/>
+<text x="700" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">10.750</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">John Arne Riise</text>
+<rect x="285" y="385" width="480" height="28" rx="7" fill="#38bdf8"/>
+<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.750</text>
 </svg>
