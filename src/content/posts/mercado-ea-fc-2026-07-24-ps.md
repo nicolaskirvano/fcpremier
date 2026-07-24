@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T13:05:07.000Z
+pubDatetime: 2026-07-24T19:05:07.000Z
 title: "Mercado EA FC em 24/07: Premier League — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Lewis Hall (89, Premier League), com +57.9% em 24h, a 100k coins no Console (PS)."
+    a: "Anthony Gordon (87, Premier League), com +55.7% em 24h, a 50k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Yaya Touré (93), -33.2% em 24h, a 985k coins."
+    a: "Murillo (87), -43.3% em 24h, a 72k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 91 cartas em alta contra 97 em queda (média 3.56%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 63 cartas em alta contra 69 em queda (média 2.75%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **91 cartas subiram** e **97 caíram** (80+ acima de 5k coins), variação média de **3.56%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **63 cartas subiram** e **69 caíram** (80+ acima de 5k coins), variação média de **2.75%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lewis Hall (89) **+57.9%** · 🔴 **Maior baixa:** Yaya Touré (93) **-33.2%**
+> 🟢 **Maior alta:** Anthony Gordon (87) **+55.7%** · 🔴 **Maior baixa:** Murillo (87) **-43.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Premier League — Console (PS)](/charts/mercado-ea-fc-2026-07-24-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **em alta
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 91.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.4% entre as cartas que se moveram; o universo observado reúne 210 cartas.
+- **Amplitude do dia:** 99.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.7% entre as cartas que se moveram; o universo observado reúne 154 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lewis Hall | 89 | Premier League | 100k coins | +57.9% | -7% |
-| Erling Haaland | 92 | Premier League | 271k coins | +53.2% | -2.7% |
-| Eberechi Eze | 87 | Premier League | 78k coins | +52.4% | +57% |
-| Joško Gvardiol | 86 | Premier League | 50k coins | +51.5% | +51.5% |
-| Florian Wirtz | 92 | Premier League | 539k coins | +51% | -22.1% |
-| David Raya | 93 | Premier League | 54k coins | +50% | -13% |
-| Igor Thiago | 89 | Premier League | 49k coins | +43.2% | +15% |
-| Jeremie Frimpong | 86 | Premier League | 133k coins | +42.9% | -6.2% |
-| Emiliano Martínez | 88 | Premier League | 22k coins | +36.8% | -47.7% |
-| Casemiro | 84 | Premier League | 54k coins | +35.8% | -10% |
+| Anthony Gordon | 87 | Premier League | 50k coins | +55.7% | +2.8% |
+| Anthony Gordon | 88 | Premier League | 165k coins | +54.5% | -15% |
+| Eden Hazard | 90 | Premier League | 550k coins | +47.8% | +18.7% |
+| Martin Ødegaard | 88 | Premier League | 49k coins | +46.6% | -51.4% |
+| Dan Ndoye | 84 | Premier League | 45k coins | +43.8% | +2.6% |
+| Jeremie Frimpong | 86 | Premier League | 88k coins | +43.1% | -34% |
+| John Arne Riise | 88 | Premier League | 28k coins | +37.8% | -1.5% |
+| Tijjani Reijnders | 87 | Premier League | 68k coins | +37.6% | +70.6% |
+| Eberechi Eze | 87 | Premier League | 60k coins | +35.9% | +33.3% |
+| Elliot Anderson | 86 | Premier League | 32k coins | +35% | +0.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **em alta
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lewis Hall (89)** subiu **+57.9%** em 24h, a **100k coins** (faixa do dia: 52k–107k). Está +23% acima da média de 7 dias (aquecida).
+- **Anthony Gordon (87)** subiu **+55.7%** em 24h, a **50k coins** (faixa do dia: 32k–67k). Está em linha com a média de 7 dias (+8%).
 
-- **Erling Haaland (92)** subiu **+53.2%** em 24h, a **271k coins** (faixa do dia: 143k–470k). Está em linha com a média de 7 dias (-5%).
+- **Anthony Gordon (88)** subiu **+54.5%** em 24h, a **165k coins** (faixa do dia: 108k–188k). Está em linha com a média de 7 dias (-7%).
 
-- **Eberechi Eze (87)** subiu **+52.4%** em 24h, a **78k coins** (faixa do dia: 50k–79k). Está +17% acima da média de 7 dias (aquecida).
+- **Eden Hazard (90)** subiu **+47.8%** em 24h, a **550k coins** (faixa do dia: 480k–900k). Está -25% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Yaya Touré | 93 | Premier League | 985k coins | -33.2% | -50.3% |
-| Dango Ouattara | 84 | Premier League | 37k coins | -30.9% | -13% |
-| Tijjani Reijnders | 87 | Premier League | 34k coins | -30.6% | -63% |
-| Elliot Anderson | 89 | Premier League | 74k coins | -29% | -58.6% |
-| Declan Rice | 94 | Premier League | 97k coins | -27.9% | -44.9% |
-| Eden Hazard | 92 | Premier League | 531k coins | -26.4% | -35.9% |
-| Lewis Miley | 89 | Premier League | 50k coins | -26.3% | +0.7% |
-| Granit Xhaka | 89 | Premier League | 48k coins | -25.9% | -28.6% |
-| Igor Jesus | 87 | Premier League | 30k coins | -25% | -18.9% |
-| Ramires | 88 | Premier League | 213k coins | -24.7% | -0.9% |
+| Murillo | 87 | Premier League | 72k coins | -43.3% | -46.7% |
+| Jerzy Dudek | 87 | Premier League | 25k coins | -35.4% | -32% |
+| Elliot Anderson | 89 | Premier League | 60k coins | -34.4% | -67% |
+| Jay-Jay Okocha | 90 | Premier League | 189k coins | -34.3% | -17.4% |
+| Diogo Dalot | 87 | Premier League | 50k coins | -34.1% | -40.8% |
+| James Milner | 88 | Premier League | 50k coins | -32.7% | -54.6% |
+| Cole Palmer | 88 | Premier League | 420k coins | -31.1% | -8.7% |
+| Cristian Romero | 86 | Premier League | 30k coins | -30.3% | -45.4% |
+| Rayan Aït-Nouri | 90 | Premier League | 57k coins | -26.4% | -8% |
+| Carlos Tévez | 89 | Premier League | 260k coins | -26% | -32.9% |
 
 
 ### Análise das baixas
 
-- **Yaya Touré (93)** caiu **-33.2%** em 24h, a **985k coins** (faixa do dia: 735k–1.15M). Está -25% abaixo da média de 7 dias (descontada).
+- **Murillo (87)** caiu **-43.3%** em 24h, a **72k coins** (faixa do dia: 70k–162k). Está -42% abaixo da média de 7 dias (descontada).
 
-- **Dango Ouattara (84)** caiu **-30.9%** em 24h, a **37k coins** (faixa do dia: 34k–47k). Está -12% abaixo da média de 7 dias (descontada).
+- **Jerzy Dudek (87)** caiu **-35.4%** em 24h, a **25k coins** (faixa do dia: 24k–48k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Tijjani Reijnders (87)** caiu **-30.6%** em 24h, a **34k coins** (faixa do dia: 30k–81k). Está -52% abaixo da média de 7 dias (descontada).
+- **Elliot Anderson (89)** caiu **-34.4%** em 24h, a **60k coins** (faixa do dia: 60k–115k). Está -50% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lewis Hall já avançou 57.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Anthony Gordon já avançou 55.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Yaya Touré recuou -33.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Murillo recuou -43.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Lewis Hall (89, Premier League), com +57.9% em 24h, a 100k coins no Console (PS).
+Anthony Gordon (87, Premier League), com +55.7% em 24h, a 50k coins no Console (PS).
 
 **E a maior queda do dia?**
-Yaya Touré (93), -33.2% em 24h, a 985k coins.
+Murillo (87), -43.3% em 24h, a 72k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 91 cartas em alta contra 97 em queda (média 3.56%).
+Hoje o mercado está em alta — predominam as valorizações, com 63 cartas em alta contra 69 em queda (média 2.75%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
