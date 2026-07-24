@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:05:10.000Z
+pubDatetime: 2026-07-24T13:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 24/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (24/07/2026)?"
-    a: "Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 5.300 coins no Console (PS)."
+    a: "Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 3.200 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **24/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Virgil van Dijk (90) por apenas 5.300 coins.
+> 💰 **Melhor pechincha:** Gianluigi Donnarumma (89) por apenas 3.200 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Premier League em 24/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-24-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.270 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 5.300 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.547 coins.
+- **Posição mais frequente:** GK, com 3 cartas.
+- **Faixa real:** 3.200 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 90 | CB | Premier League | 5.300 coins | -11.7% |
-| Alexis Mac Allister | 89 | CM | Premier League | 14.500 coins | +1.4% |
-| Vincent Kompany | 88 | CB | Premier League | 13.250 coins | -5.4% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13.500 coins | +12.5% |
-| Harry Kewell | 87 | LW | Premier League | 12.500 coins | -12.3% |
-| Dimitar Berbatov | 87 | ST | Premier League | 12.750 coins | +8.5% |
-| Freddie Ljungberg | 87 | RM | Premier League | 13.000 coins | +11.8% |
-| Steve McManaman | 87 | RM | Premier League | 13.750 coins | +3.6% |
-| Nwankwo Kanu | 86 | ST | Premier League | 11.500 coins | 0% |
-| Jerzy Dudek | 86 | GK | Premier League | 11.750 coins | -9.4% |
-| Tomáš Rosický | 86 | CAM | Premier League | 11.750 coins | -2.1% |
-| Freddie Ljungberg | 86 | LM | Premier League | 12.000 coins | +4.3% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 12.250 coins | -5.8% |
-| John Arne Riise | 86 | LB | Premier League | 12.750 coins | -1.9% |
-| Robbie Keane | 86 | ST | Premier League | 13.500 coins | -3.6% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3.200 coins | -10.8% |
+| Alisson | 89 | GK | Premier League | 3.500 coins | -10% |
+| Sepp van den Berg | 89 | CB | Premier League | 14.500 coins | -3.3% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14.000 coins | +20.8% |
+| Dimitar Berbatov | 87 | ST | Premier League | 12.500 coins | +6.4% |
+| Harry Kewell | 87 | LW | Premier League | 13.500 coins | -5.3% |
+| Freddie Ljungberg | 87 | RM | Premier League | 14.000 coins | +16.7% |
+| Steve McManaman | 87 | RM | Premier League | 14.000 coins | +1.8% |
+| Tomáš Rosický | 86 | CAM | Premier League | 11.000 coins | -4.2% |
+| Jerzy Dudek | 86 | GK | Premier League | 11.750 coins | -11.3% |
+| Nwankwo Kanu | 86 | ST | Premier League | 11.750 coins | +4.4% |
+| Jamie Carragher | 86 | CB | Premier League | 12.000 coins | +9.6% |
+| Freddie Ljungberg | 86 | LM | Premier League | 12.250 coins | +4.3% |
+| John Arne Riise | 86 | LB | Premier League | 12.250 coins | -11.5% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 13.000 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **5.300 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3.200 coins**
 
-- **Alexis Mac Allister (89, CM)** da Premier League, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alisson (89, GK)** da Premier League, a apenas **3.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Vincent Kompany (88, CB)** da Premier League, a apenas **13.250 coins**
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **14.500 coins**
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13.500 coins**
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **14.000 coins** A alta de 24h pede uma nova checagem antes da compra.
 
-- **Harry Kewell (87, LW)** da Premier League, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dimitar Berbatov (87, ST)** da Premier League, a apenas **12.500 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Virgil van Dijk (90, CB) por 5.300 coins é a referência de rating deste recorte.
+- **Defesa:** Gianluigi Donnarumma (89, GK) por 3.200 coins é a referência de rating deste recorte.
 
-- **Meio:** Alexis Mac Allister (89, CM) por 14.500 coins é a referência de rating deste recorte.
+- **Meio:** Cesc Fàbregas (88, CM) por 14.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kewell (87, LW) por 12.500 coins é a referência de rating deste recorte.
+- **Ataque:** Dimitar Berbatov (87, ST) por 12.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -105,7 +105,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (24/07/2026)?**  
-Virgil van Dijk (90, Premier League) aparece como melhor custo-benefício, a 5.300 coins no Console (PS).
+Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 3.200 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
