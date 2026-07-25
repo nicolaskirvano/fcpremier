@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:05:17.000Z
+pubDatetime: 2026-07-25T13:05:17.000Z
 title: "Mercado EA FC em 25/07: Premier League — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Murillo (87, Premier League), com +59.6% em 24h, a 150k coins no PC."
+    a: "Jeremie Frimpong (86, Premier League), com +53.7% em 24h, a 136k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Harry Maguire (83), -46.9% em 24h, a 43k coins."
+    a: "Declan Rice (88), -49.7% em 24h, a 39k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 64 cartas em alta contra 117 em queda (média -8.31%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 57 cartas em alta contra 106 em queda (média -10.86%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **25/07/2026** no PC: clima **vendedor** — a maioria das cartas recuou. **64 valorizações** contra **117 quedas** entre as cartas relevantes, com média de **-8.31%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **25/07/2026** no PC: clima **vendedor** — a maioria das cartas recuou. **57 valorizações** contra **106 quedas** entre as cartas relevantes, com média de **-10.86%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Murillo (87) **+59.6%** · 🔴 **Maior baixa:** Harry Maguire (83) **-46.9%**
+> 🟢 **Maior alta:** Jeremie Frimpong (86) **+53.7%** · 🔴 **Maior baixa:** Declan Rice (88) **-49.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Premier League — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **25/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 35.4% entre as cartas que se moveram; o universo observado reúne 214 cartas.
+- **Amplitude do dia:** 103.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 35.0% entre as cartas que se moveram; o universo observado reúne 195 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Murillo | 87 | Premier League | 150k coins | +59.6% | 0% |
-| Sandro Tonali | 87 | Premier League | 65k coins | +54.8% | +81.8% |
-| David Raya | 88 | Premier League | 46k coins | +48% | +51.6% |
-| Rodri | 91 | Premier League | 500k coins | +47.1% | +47.1% |
-| Eden Hazard | 90 | Premier League | 1.50M coins | +46.1% | +37.7% |
-| Jurriën Timber | 87 | Premier League | 39k coins | +43.5% | +33.6% |
-| Pascal Groß | 87 | Premier League | 38k coins | +40.2% | +94.8% |
-| Carlos Baleba | 90 | Premier League | 120k coins | +39.5% | +33.3% |
-| Dominik Szoboszlai | 87 | Premier League | 238k coins | +37.6% | +6.7% |
-| Martin Ødegaard | 88 | Premier League | 80k coins | +35.5% | +5.1% |
+| Jeremie Frimpong | 86 | Premier League | 136k coins | +53.7% | +1.6% |
+| Nick Woltemade | 90 | Premier League | 125k coins | +39.7% | -4.6% |
+| David Raya | 88 | Premier League | 44k coins | +38% | +45.9% |
+| Xavi Simons | 88 | Premier League | 52k coins | +37.6% | +70.5% |
+| Jurriën Timber | 86 | Premier League | 52k coins | +30% | -2.8% |
+| Nicolò Savona | 83 | Premier League | 86k coins | +29.6% | +47.1% |
+| Granit Xhaka | 89 | Premier League | 79k coins | +29.5% | +91.5% |
+| Ollie Watkins | 86 | Premier League | 44k coins | +28.9% | +24.1% |
+| David Brooks | 86 | Premier League | 28k coins | +27.3% | +12% |
+| Florian Wirtz | 89 | Premier League | 346k coins | +25.8% | -13.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **25/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Murillo (87)** subiu **+59.6%** em 24h, a **150k coins** (faixa do dia: 91k–160k). Está em linha com a média de 7 dias (-3%).
+- **Jeremie Frimpong (86)** subiu **+53.7%** em 24h, a **136k coins** (faixa do dia: 104k–220k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Sandro Tonali (87)** subiu **+54.8%** em 24h, a **65k coins** (faixa do dia: 38k–65k). Está +37% acima da média de 7 dias (aquecida).
+- **Nick Woltemade (90)** subiu **+39.7%** em 24h, a **125k coins** (faixa do dia: 50k–150k). Está em linha com a média de 7 dias (-1%).
 
-- **David Raya (88)** subiu **+48%** em 24h, a **46k coins** (faixa do dia: 30k–46k). Está +26% acima da média de 7 dias (aquecida).
+- **David Raya (88)** subiu **+38%** em 24h, a **44k coins** (faixa do dia: 31k–46k). Está +18% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Maguire | 83 | Premier League | 43k coins | -46.9% | -71.3% |
-| Morgan Rogers | 87 | Premier League | 86k coins | -45.8% | -24.9% |
-| Bruno Fernandes | 88 | Premier League | 100k coins | -44.4% | -39.8% |
-| Bruno Guimarães | 89 | Premier League | 20k coins | -40.4% | -40% |
-| William Saliba | 94 | Premier League | 311k coins | -38.6% | -31% |
-| Jérémy Doku | 91 | Premier League | 277k coins | -38.4% | -61.5% |
-| Casemiro | 89 | Premier League | 189k coins | -37.8% | -37.2% |
-| Harry Maguire | 90 | Premier League | 158k coins | -34.2% | -14.1% |
-| Antoine Semenyo | 83 | Premier League | 46k coins | -33.2% | -46.9% |
-| Virgil van Dijk | 91 | Premier League | 949k coins | -33.2% | -18.7% |
+| Declan Rice | 88 | Premier League | 39k coins | -49.7% | -30% |
+| Tim Cahill | 89 | Premier League | 42k coins | -48.1% | -38.1% |
+| Bruno Fernandes | 88 | Premier League | 90k coins | -47.5% | -37% |
+| Declan Rice | 89 | Premier League | 88k coins | -46.8% | -42.9% |
+| Igor Thiago | 89 | Premier League | 48k coins | -46.3% | -35.2% |
+| Morgan Rogers | 87 | Premier League | 80k coins | -45.6% | -4.1% |
+| William Saliba | 94 | Premier League | 311k coins | -42.6% | -38.7% |
+| Hugo Ekitiké | 86 | Premier League | 21k coins | -41.7% | -36.2% |
+| Martin Ødegaard | 87 | Premier League | 233k coins | -41.6% | -13.4% |
+| Pedro Neto | 88 | Premier League | 36k coins | -40.8% | -60.8% |
 
 
 ### Análise das baixas
 
-- **Harry Maguire (83)** caiu **-46.9%** em 24h, a **43k coins** (faixa do dia: 37k–135k). Está -62% abaixo da média de 7 dias (descontada).
+- **Declan Rice (88)** caiu **-49.7%** em 24h, a **39k coins** (faixa do dia: 36k–84k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Morgan Rogers (87)** caiu **-45.8%** em 24h, a **86k coins** (faixa do dia: 42k–150k). Está -20% abaixo da média de 7 dias (descontada).
+- **Tim Cahill (89)** caiu **-48.1%** em 24h, a **42k coins** (faixa do dia: 30k–76k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Bruno Fernandes (88)** caiu **-44.4%** em 24h, a **100k coins** (faixa do dia: 84k–180k). Está -24% abaixo da média de 7 dias (descontada).
+- **Bruno Fernandes (88)** caiu **-47.5%** em 24h, a **90k coins** (faixa do dia: 84k–180k). Está -31% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Murillo já avançou 59.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jeremie Frimpong já avançou 53.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Harry Maguire recuou -46.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Declan Rice recuou -49.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Murillo (87, Premier League), com +59.6% em 24h, a 150k coins no PC.
+Jeremie Frimpong (86, Premier League), com +53.7% em 24h, a 136k coins no PC.
 
 **E a maior queda do dia?**
-Harry Maguire (83), -46.9% em 24h, a 43k coins.
+Declan Rice (88), -49.7% em 24h, a 39k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 64 cartas em alta contra 117 em queda (média -8.31%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 57 cartas em alta contra 106 em queda (média -10.86%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
