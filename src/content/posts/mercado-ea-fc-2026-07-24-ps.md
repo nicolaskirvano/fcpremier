@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T22:05:08.000Z
+pubDatetime: 2026-07-25T01:05:07.000Z
 title: "Mercado EA FC em 24/07: Premier League — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Jay-Jay Okocha (88, Premier League), com +55.8% em 24h, a 36k coins no Console (PS)."
+    a: "Maxence Lacroix (87, Premier League), com +49.5% em 24h, a 190k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Tim Cahill (89), -44.5% em 24h, a 29k coins."
+    a: "Elliot Anderson (89), -48.6% em 24h, a 55k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 63 cartas em alta contra 70 em queda (média -0.9%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 52 cartas em alta contra 99 em queda (média -9.07%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **63 cartas subiram** e **70 caíram** (80+ acima de 5k coins), variação média de **-0.9%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **em baixa** — predominam as quedas: **52 cartas subiram** e **99 caíram** (80+ acima de 5k coins), variação média de **-9.07%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Jay-Jay Okocha (88) **+55.8%** · 🔴 **Maior baixa:** Tim Cahill (89) **-44.5%**
+> 🟢 **Maior alta:** Maxence Lacroix (87) **+49.5%** · 🔴 **Maior baixa:** Elliot Anderson (89) **-48.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Premier League — Console (PS)](/charts/mercado-ea-fc-2026-07-24-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **lateral
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.4% entre as cartas que se moveram; o universo observado reúne 158 cartas.
+- **Amplitude do dia:** 98.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 34.4% entre as cartas que se moveram; o universo observado reúne 171 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jay-Jay Okocha | 88 | Premier League | 36k coins | +55.8% | +18.4% |
-| Maxence Lacroix | 87 | Premier League | 170k coins | +49.5% | +125.9% |
-| Hugo Ekitiké | 86 | Premier League | 52k coins | +47.9% | +2.9% |
-| Bruno Guimarães | 87 | Premier League | 46k coins | +43.9% | +11.1% |
-| Ibrahim Sangaré | 86 | Premier League | 54k coins | +43.4% | +36.2% |
-| Martin Dúbravka | 86 | Premier League | 50k coins | +37.2% | +14.4% |
-| John Arne Riise | 88 | Premier League | 30k coins | +36.6% | -7.3% |
-| Lewis Hall | 89 | Premier League | 73k coins | +35.5% | -25.5% |
+| Maxence Lacroix | 87 | Premier League | 190k coins | +49.5% | +131.9% |
+| Bukayo Saka | 90 | Premier League | 675k coins | +40.9% | +7.3% |
+| Ben Davies | 84 | Premier League | 47k coins | +35.3% | +7.4% |
 | Zian Flemming | 80 | Premier League | 50k coins | +35.1% | +2.6% |
-| Daniel Ballard | 86 | Premier League | 41k coins | +34.3% | +5.5% |
+| Eberechi Eze | 87 | Premier League | 55k coins | +32.5% | +47.2% |
+| Lewis Hall | 89 | Premier League | 70k coins | +30.9% | -25.4% |
+| Bruno Guimarães | 87 | Premier League | 48k coins | +30.2% | +0.6% |
+| Dan Ndoye | 84 | Premier League | 50k coins | +28.5% | +10% |
+| Senne Lammens | 88 | Premier League | 50k coins | +27.3% | -3% |
+| Patrick Dorgu | 84 | Premier League | 60k coins | +26.2% | -7.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **lateral
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jay-Jay Okocha (88)** subiu **+55.8%** em 24h, a **36k coins** (faixa do dia: 19.000–54k). Está em linha com a média de 7 dias (+4%).
+- **Maxence Lacroix (87)** subiu **+49.5%** em 24h, a **190k coins** (faixa do dia: 86k–190k). Está +87% acima da média de 7 dias (aquecida).
 
-- **Maxence Lacroix (87)** subiu **+49.5%** em 24h, a **170k coins** (faixa do dia: 86k–190k). Está +70% acima da média de 7 dias (aquecida).
+- **Bukayo Saka (90)** subiu **+40.9%** em 24h, a **675k coins** (faixa do dia: 474k–675k). Está em linha com a média de 7 dias (+5%).
 
-- **Hugo Ekitiké (86)** subiu **+47.9%** em 24h, a **52k coins** (faixa do dia: 34k–59k). Está +16% acima da média de 7 dias (aquecida).
+- **Ben Davies (84)** subiu **+35.3%** em 24h, a **47k coins** (faixa do dia: 23k–47k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tim Cahill | 89 | Premier League | 29k coins | -44.5% | -9% |
-| Ramires | 88 | Premier League | 161k coins | -43.2% | -27.7% |
-| Rayan Aït-Nouri | 90 | Premier League | 40k coins | -42.9% | -32.8% |
-| Micky van de Ven | 87 | Premier League | 490k coins | -41.2% | -36% |
-| Jerzy Dudek | 87 | Premier League | 23k coins | -38.4% | -42.9% |
-| Murillo | 87 | Premier League | 80k coins | -37.4% | -39.8% |
-| Igor Thiago | 89 | Premier League | 20k coins | -34.3% | -45.9% |
-| Bernardo Silva | 87 | Premier League | 30k coins | -32% | -63.2% |
-| Dan Burn | 86 | Premier League | 104k coins | -30.7% | -52.7% |
-| William Saliba | 94 | Premier League | 158k coins | -29.5% | -38.3% |
+| Elliot Anderson | 89 | Premier League | 55k coins | -48.6% | -70.5% |
+| Gabriel Martinelli | 87 | Premier League | 46k coins | -48% | -45.9% |
+| Mateo Kovačić | 91 | Premier League | 32k coins | -45% | -45.5% |
+| Murillo | 87 | Premier League | 78k coins | -44.6% | -40.8% |
+| Matheus Cunha | 87 | Premier League | 74k coins | -44.4% | -60% |
+| Ryan Gravenberch | 93 | Premier League | 100k coins | -44.1% | -41.9% |
+| Diogo Dalot | 87 | Premier League | 54k coins | -39.4% | -46.7% |
+| Phil Foden | 86 | Premier League | 65k coins | -38.5% | -33.3% |
+| Nicolò Savona | 83 | Premier League | 66k coins | -37.7% | -27.5% |
+| Nwankwo Kanu | 87 | Premier League | 21k coins | -37.5% | -4.5% |
 
 
 ### Análise das baixas
 
-- **Tim Cahill (89)** caiu **-44.5%** em 24h, a **29k coins** (faixa do dia: 24k–93k). Está -36% abaixo da média de 7 dias (descontada).
+- **Elliot Anderson (89)** caiu **-48.6%** em 24h, a **55k coins** (faixa do dia: 55k–108k). Está -52% abaixo da média de 7 dias (descontada).
 
-- **Ramires (88)** caiu **-43.2%** em 24h, a **161k coins** (faixa do dia: 161k–316k). Está -35% abaixo da média de 7 dias (descontada).
+- **Gabriel Martinelli (87)** caiu **-48%** em 24h, a **46k coins** (faixa do dia: 40k–98k). Está -49% abaixo da média de 7 dias (descontada).
 
-- **Rayan Aït-Nouri (90)** caiu **-42.9%** em 24h, a **40k coins** (faixa do dia: 40k–74k). Está -30% abaixo da média de 7 dias (descontada).
+- **Mateo Kovačić (91)** caiu **-45%** em 24h, a **32k coins** (faixa do dia: 25k–65k). Está -39% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jay-Jay Okocha já avançou 55.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Maxence Lacroix já avançou 49.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tim Cahill recuou -44.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Elliot Anderson recuou -48.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Jay-Jay Okocha (88, Premier League), com +55.8% em 24h, a 36k coins no Console (PS).
+Maxence Lacroix (87, Premier League), com +49.5% em 24h, a 190k coins no Console (PS).
 
 **E a maior queda do dia?**
-Tim Cahill (89), -44.5% em 24h, a 29k coins.
+Elliot Anderson (89), -48.6% em 24h, a 55k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 63 cartas em alta contra 70 em queda (média -0.9%).
+Hoje o mercado está em baixa — predominam as quedas, com 52 cartas em alta contra 99 em queda (média -9.07%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
