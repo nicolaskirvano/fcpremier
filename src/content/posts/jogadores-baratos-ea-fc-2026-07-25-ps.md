@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T19:05:10.000Z
+pubDatetime: 2026-07-25T22:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 25/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (25/07/2026)?"
-    a: "Xavi Simons (91, Premier League) aparece como melhor custo-benefício, a 13.250 coins no Console (PS)."
+    a: "Conor Gallagher (91, Premier League) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **25/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Xavi Simons (91) por apenas 13.250 coins.
+> 💰 **Melhor pechincha:** Conor Gallagher (91) por apenas 11.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Premier League em 25/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-25-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.400 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 3.000 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.317 coins.
+- **Posição mais frequente:** CM, com 3 cartas.
+- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,26 +40,28 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Xavi Simons | 91 | CAM | Premier League | 13.250 coins | -7.7% |
-| Virgil van Dijk | 90 | CB | Premier League | 10.000 coins | +12.5% |
+| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
+| Xavi Simons | 91 | CAM | Premier League | 12.000 coins | 0% |
+| Virgil van Dijk | 90 | CB | Premier League | 10.000 coins | +4.2% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 13.250 coins | 0% |
-| Alisson | 89 | GK | Premier League | 3.000 coins | -3.1% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Ole Gunnar Solskjær | 88 | ST | Premier League | 13.250 coins | -11.7% |
-| Freddie Ljungberg | 87 | RM | Premier League | 11.000 coins | -8.3% |
-| Dimitar Berbatov | 87 | ST | Premier League | 11.000 coins | -5.9% |
-| Steve McManaman | 87 | RM | Premier League | 14.250 coins | -9.7% |
-| Tomáš Rosický | 86 | CAM | Premier League | 11.000 coins | -8.2% |
-| John Arne Riise | 86 | LB | Premier League | 13.000 coins | -7.8% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 13.250 coins | +7.8% |
+| Ole Gunnar Solskjær | 88 | ST | Premier League | 11.000 coins | -9.4% |
+| Oscar Bobb | 88 | RW | Premier League | 13.250 coins | -8.3% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14.250 coins | -4.9% |
+| Bruno Fernandes | 87 | CAM | Premier League | 1.500 coins | 0% |
+| Freddie Ljungberg | 87 | RM | Premier League | 12.000 coins | 0% |
+| Joe Cole | 87 | RW | Premier League | 12.500 coins | +1.7% |
+| Jamie Carragher | 86 | CB | Premier League | 13.750 coins | -12.3% |
 
 
 ## 📈 Destaques
 
-- **Xavi Simons (91, CAM)** da Premier League, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Xavi Simons (91, CAM)** da Premier League, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **10.000 coins** — já **valorizando**, sinal de procura crescente.
 
@@ -67,14 +69,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ollie Watkins (90, ST)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mohammed Kudus (90, RW)** da Premier League, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 
 ## Como distribuir a banca
 
 - **Defesa:** Virgil van Dijk (90, CB) por 10.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Xavi Simons (91, CAM) por 13.250 coins é a referência de rating deste recorte.
+- **Meio:** Conor Gallagher (91, CM) por 11.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Ollie Watkins (90, ST) por 11.250 coins é a referência de rating deste recorte.
 
@@ -95,7 +95,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (25/07/2026)?**  
-Xavi Simons (91, Premier League) aparece como melhor custo-benefício, a 13.250 coins no Console (PS).
+Conor Gallagher (91, Premier League) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
