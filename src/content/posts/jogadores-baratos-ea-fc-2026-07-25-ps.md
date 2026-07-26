@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:05:10.000Z
+pubDatetime: 2026-07-26T01:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.317 coins.
+- **Preço médio das 15 opções:** 10.710 coins.
 - **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.900 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Xavi Simons | 91 | CAM | Premier League | 12.000 coins | 0% |
-| Virgil van Dijk | 90 | CB | Premier League | 10.000 coins | +4.2% |
+| Virgil van Dijk | 90 | CB | Premier League | 10.000 coins | +1% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 13.250 coins | 0% |
+| Alisson | 89 | GK | Premier League | 2.900 coins | +15.4% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3.000 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Ole Gunnar Solskjær | 88 | ST | Premier League | 11.000 coins | -9.4% |
-| Oscar Bobb | 88 | RW | Premier League | 13.250 coins | -8.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14.250 coins | -4.9% |
-| Bruno Fernandes | 87 | CAM | Premier League | 1.500 coins | 0% |
-| Freddie Ljungberg | 87 | RM | Premier League | 12.000 coins | 0% |
-| Joe Cole | 87 | RW | Premier League | 12.500 coins | +1.7% |
-| Jamie Carragher | 86 | CB | Premier League | 13.750 coins | -12.3% |
+| Ole Gunnar Solskjær | 88 | ST | Premier League | 11.000 coins | -9.8% |
+| Vincent Kompany | 88 | CB | Premier League | 14.500 coins | +7.4% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14.750 coins | -3.3% |
+| Dimitar Berbatov | 87 | ST | Premier League | 11.000 coins | -4.3% |
+| Joe Cole | 87 | RW | Premier League | 12.000 coins | -7.4% |
 
 
 ## 📈 Destaques
