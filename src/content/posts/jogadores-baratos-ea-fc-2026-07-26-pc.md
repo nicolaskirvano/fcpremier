@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T19:05:20.000Z
+pubDatetime: 2026-07-26T22:05:20.000Z
 title: "Jogadores baratos EA FC: Premier League em 26/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.187 coins.
+- **Preço médio das 15 opções:** 9.673 coins.
 - **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 1.600 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,42 +41,42 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Rodri | 90 | CDM | Premier League | 2.100 coins | +11.1% |
-| Virgil van Dijk | 90 | CB | Premier League | 9.000 coins | -2.2% |
-| Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
+| Xavi Simons | 91 | CAM | Premier League | 13.500 coins | +17.4% |
+| Virgil van Dijk | 90 | CB | Premier League | 8.800 coins | +4.7% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
-| Alisson | 89 | GK | Premier League | 2.900 coins | +3.1% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3.200 coins | +3.1% |
+| Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3.800 coins | +20% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Sepp van den Berg | 89 | CB | Premier League | 11.500 coins | +13.3% |
-| Alexander Isak | 88 | ST | Premier League | 1.600 coins | +7.1% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Ole Gunnar Solskjær | 88 | ST | Premier League | 12.750 coins | +27.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13.000 coins | +18.2% |
-| Vincent Kompany | 88 | CB | Premier League | 14.250 coins | -14.9% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13.000 coins | +6.8% |
+| William Saliba | 87 | CB | Premier League | 1.500 coins | +16.7% |
+| Joe Cole | 87 | RW | Premier League | 11.000 coins | -2.2% |
+| Dimitar Berbatov | 87 | ST | Premier League | 11.000 coins | 0% |
+| Steve McManaman | 87 | RM | Premier League | 13.500 coins | +10.2% |
+| Sandro Tonali | 86 | CDM | Premier League | 1.500 coins | +30% |
 
 
 ## 📈 Destaques
 
 - **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rodri (90, CDM)** da Premier League, a apenas **2.100 coins**
+- **Xavi Simons (91, CAM)** da Premier League, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **9.000 coins** — já **valorizando**, sinal de procura crescente.
-
-- **Ollie Watkins (90, ST)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **8.800 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Mohammed Kudus (90, RW)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Douglas Luiz (90, CDM)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Virgil van Dijk (90, CB) por 9.000 coins é a referência de rating deste recorte.
+- **Defesa:** Virgil van Dijk (90, CB) por 8.800 coins é a referência de rating deste recorte.
 
 - **Meio:** Conor Gallagher (91, CM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Ollie Watkins (90, ST) por 11.250 coins é a referência de rating deste recorte.
+- **Ataque:** Mohammed Kudus (90, RW) por 11.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
