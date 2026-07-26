@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T09:27:49.000Z
+pubDatetime: 2026-07-26T10:05:18.000Z
 title: "Investimentos EA FC: Premier League em 26/07 — PC"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.7% em 24h** e **+19.4% em 7 dias**.
+- A mediana é de **+15.8% em 24h** e **+18.8% em 7 dias**.
 - **4 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 13 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,32 +43,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Senne Lammens | 88 | Premier League | 95k coins | +20.3% | +61% | Esticada |
-| Gabriel Martinelli | 87 | Premier League | 123k coins | +26.2% | +52.8% | Esticada |
-| Mohamed Salah | 91 | Premier League | 40k coins | +15.7% | +47.3% | Momentum moderado |
-| Martin Ødegaard | 88 | Premier League | 128k coins | +36.2% | +44.6% | Esticada |
-| Bruno Fernandes | 89 | Premier League | 131k coins | +7.4% | +38.6% | Momentum moderado |
+| Senne Lammens | 88 | Premier League | 95k coins | +35.7% | +61% | Esticada |
+| Gabriel Martinelli | 87 | Premier League | 123k coins | +26.2% | +49.1% | Esticada |
+| Martin Ødegaard | 88 | Premier League | 128k coins | +34.7% | +44.6% | Esticada |
+| Bruno Fernandes | 89 | Premier League | 131k coins | +11% | +38.6% | Momentum moderado |
 | Hugo Ekitiké | 86 | Premier League | 55k coins | +20.9% | +31% | Esticada |
 | Malo Gusto | 84 | Premier League | 48k coins | +15.8% | +19.4% | Momentum moderado |
 | Harvey Barnes | 86 | Premier League | 48k coins | +6.7% | +18.8% | Momentum moderado |
 | Ibrahim Sangaré | 86 | Premier League | 48k coins | +13.8% | +14.5% | Momentum moderado |
 | Dominik Szoboszlai | 90 | Premier League | 194k coins | +16.9% | +14.1% | Momentum moderado |
-| Dango Ouattara | 84 | Premier League | 45k coins | +1.1% | +11.9% | Entrada a observar |
-| Bernardo Silva | 87 | Premier League | 85k coins | +15.6% | +11.8% | Momentum moderado |
+| Dango Ouattara | 84 | Premier League | 45k coins | +1.7% | +11.9% | Entrada a observar |
+| Bernardo Silva | 87 | Premier League | 85k coins | +18.9% | +11.8% | Momentum moderado |
 | Cody Gakpo | 86 | Premier League | 50k coins | +9.4% | +7.6% | Momentum moderado |
+| Bernardo Silva | 86 | Premier League | 60k coins | +7.1% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Senne Lammens (88)** — 95k coins, **+61% em 7 dias** (+20.3% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Senne Lammens (88)** — 95k coins, **+61% em 7 dias** (+35.7% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gabriel Martinelli (87)** — 123k coins, **+52.8% em 7 dias** (+26.2% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Martinelli (87)** — 123k coins, **+49.1% em 7 dias** (+26.2% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mohamed Salah (91)** — 40k coins, **+47.3% em 7 dias** (+15.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Martin Ødegaard (88)** — 128k coins, **+44.6% em 7 dias** (+34.7% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Martin Ødegaard (88)** — 128k coins, **+44.6% em 7 dias** (+36.2% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bruno Fernandes (89)** — 131k coins, **+38.6% em 7 dias** (+11% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bruno Fernandes (89)** — 131k coins, **+38.6% em 7 dias** (+7.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hugo Ekitiké (86)** — 55k coins, **+31% em 7 dias** (+20.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

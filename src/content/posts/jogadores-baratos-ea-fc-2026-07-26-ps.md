@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T09:27:41.000Z
+pubDatetime: 2026-07-26T10:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.627 coins.
+- **Preço médio das 15 opções:** 11.337 coins.
 - **Posição mais frequente:** CM, com 3 cartas.
 - **Faixa real:** 2.300 a 14.500 coins; nenhuma carta custa 15 mil.
 
@@ -47,7 +47,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 13.250 coins | 0% |
-| Alisson | 89 | GK | Premier League | 2.600 coins | -10.3% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
 | Cesc Fàbregas | 88 | CM | Premier League | 12.750 coins | -13.6% |
@@ -55,6 +54,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Dimitar Berbatov | 87 | ST | Premier League | 12.000 coins | +4.3% |
 | Freddie Ljungberg | 87 | RM | Premier League | 12.250 coins | -5.8% |
 | Steve McManaman | 87 | RM | Premier League | 12.500 coins | -7.4% |
+| Harry Kewell | 87 | LW | Premier League | 13.250 coins | 0% |
 
 
 ## 📈 Destaques
