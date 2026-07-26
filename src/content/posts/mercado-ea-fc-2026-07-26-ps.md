@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T13:05:07.000Z
+pubDatetime: 2026-07-26T16:05:08.000Z
 title: "Mercado EA FC em 26/07: Premier League — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Virgil van Dijk (95, Premier League), com +59.5% em 24h, a 650k coins no Console (PS)."
+    a: "Patrick Dorgu (84, Premier League), com +51.1% em 24h, a 70k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ramires (88), -50% em 24h, a 138k coins."
+    a: "Bruno Fernandes (93), -47.6% em 24h, a 135k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 60 cartas em alta contra 52 em queda (média 2.45%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 70 cartas em alta contra 93 em queda (média -2.15%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as altas dominam o dia — **60 subiram**, **52 caíram** (80+ e 5k+ coins), média de **2.45%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está **pressionado** — as quedas dominam o dia — **70 subiram**, **93 caíram** (80+ e 5k+ coins), média de **-2.15%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Virgil van Dijk (95) **+59.5%** · 🔴 **Maior baixa:** Ramires (88) **-50%**
+> 🟢 **Maior alta:** Patrick Dorgu (84) **+51.1%** · 🔴 **Maior baixa:** Bruno Fernandes (93) **-47.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Premier League — Console (PS)](/charts/mercado-ea-fc-2026-07-26-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as al
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.6% entre as cartas que se moveram; o universo observado reúne 156 cartas.
+- **Amplitude do dia:** 98.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.9% entre as cartas que se moveram; o universo observado reúne 205 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 95 | Premier League | 650k coins | +59.5% | -15.7% |
-| Jérémy Doku | 84 | Premier League | 42k coins | +51.2% | +16.5% |
-| Robin Roefs | 87 | Premier League | 30k coins | +47.9% | +15.8% |
-| Martin Ødegaard | 87 | Premier League | 158k coins | +44.6% | -14.3% |
-| Gilberto Silva | 87 | Premier League | 22k coins | +43.5% | -32.1% |
-| James Milner | 88 | Premier League | 80k coins | +42.9% | -35.6% |
-| Mateo Kovačić | 91 | Premier League | 40k coins | +40.2% | -28.6% |
-| Ollie Watkins | 86 | Premier League | 42k coins | +37.5% | +46.7% |
-| Senne Lammens | 88 | Premier League | 51k coins | +35.6% | +60% |
-| Lewis Miley | 83 | Premier League | 59k coins | +29.8% | +24% |
+| Patrick Dorgu | 84 | Premier League | 70k coins | +51.1% | -2.9% |
+| Carlos Tévez | 88 | Premier League | 20k coins | +42.3% | -37.8% |
+| James Milner | 88 | Premier League | 76k coins | +36.6% | -42.5% |
+| Maxence Lacroix | 87 | Premier League | 167k coins | +36.5% | +88.8% |
+| Martin Ødegaard | 87 | Premier League | 148k coins | +35.7% | -18.3% |
+| Robin Roefs | 87 | Premier League | 33k coins | +33.3% | +10% |
+| Senne Lammens | 88 | Premier League | 67k coins | +27.1% | +54.6% |
+| Kai Havertz | 91 | Premier League | 190k coins | +26.3% | +1.1% |
+| Ben Davies | 84 | Premier League | 47k coins | +26.2% | +2.2% |
+| Virgil van Dijk | 95 | Premier League | 564k coins | +25.3% | -34.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as al
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Virgil van Dijk (95)** subiu **+59.5%** em 24h, a **650k coins** (faixa do dia: 415k–889k). Está em linha com a média de 7 dias (-6%).
+- **Patrick Dorgu (84)** subiu **+51.1%** em 24h, a **70k coins** (faixa do dia: 38k–120k). Está +8% acima da média de 7 dias (aquecida).
 
-- **Jérémy Doku (84)** subiu **+51.2%** em 24h, a **42k coins** (faixa do dia: 38k–70k). Está -26% abaixo da média de 7 dias (descontada).
+- **Carlos Tévez (88)** subiu **+42.3%** em 24h, a **20k coins** (faixa do dia: 16.000–32k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Robin Roefs (87)** subiu **+47.9%** em 24h, a **30k coins** (faixa do dia: 16.000–35k). Está em linha com a média de 7 dias (+8%).
+- **James Milner (88)** subiu **+36.6%** em 24h, a **76k coins** (faixa do dia: 40k–113k). Está -25% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ramires | 88 | Premier League | 138k coins | -50% | -50.4% |
-| Nico O'Reilly | 88 | Premier League | 32k coins | -40.7% | -40% |
-| Nwankwo Kanu | 87 | Premier League | 23k coins | -32.7% | -43.5% |
-| Eden Hazard | 92 | Premier League | 512k coins | -28.4% | -27% |
-| John Arne Riise | 88 | Premier League | 26k coins | -24.5% | -14.3% |
-| Harry Kewell | 91 | Premier League | 500k coins | -20.9% | -3.8% |
-| Dominik Szoboszlai | 87 | Premier League | 106k coins | -20.3% | +20.6% |
-| Mikel Merino | 88 | Premier League | 60k coins | -19.2% | -58.9% |
-| Virgil van Dijk | 90 | Premier League | 860k coins | -18.9% | -14.1% |
-| Luke Shaw | 86 | Premier League | 28k coins | -17.8% | +1.7% |
+| Bruno Fernandes | 93 | Premier League | 135k coins | -47.6% | -71.8% |
+| Ryan Christie | 90 | Premier League | 24k coins | -45.8% | -53.4% |
+| Morgan Rogers | 87 | Premier League | 51k coins | -42.8% | -57.1% |
+| Jordan Henderson | 85 | Premier League | 50k coins | -40.2% | -43.5% |
+| Eden Hazard | 92 | Premier League | 465k coins | -39.7% | -28.6% |
+| Kevin Schade | 88 | Premier League | 20k coins | -36.4% | -20.5% |
+| Virgil van Dijk | 90 | Premier League | 950k coins | -34.6% | -15% |
+| Federico Chiesa | 86 | Premier League | 139k coins | -29.3% | -30% |
+| Yaya Touré | 93 | Premier League | 1.43M coins | -28.9% | -30.5% |
+| Ramires | 88 | Premier League | 148k coins | -27.4% | -50.7% |
 
 
 ### Análise das baixas
 
-- **Ramires (88)** caiu **-50%** em 24h, a **138k coins** (faixa do dia: 102k–278k). Está -40% abaixo da média de 7 dias (descontada).
+- **Bruno Fernandes (93)** caiu **-47.6%** em 24h, a **135k coins** (faixa do dia: 50k–170k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Nico O'Reilly (88)** caiu **-40.7%** em 24h, a **32k coins** (faixa do dia: 17.000–58k). Está -15% abaixo da média de 7 dias (descontada).
+- **Ryan Christie (90)** caiu **-45.8%** em 24h, a **24k coins** (faixa do dia: 24k–45k). Está -58% abaixo da média de 7 dias (descontada).
 
-- **Nwankwo Kanu (87)** caiu **-32.7%** em 24h, a **23k coins** (faixa do dia: 18.500–27k). Está -23% abaixo da média de 7 dias (descontada).
+- **Morgan Rogers (87)** caiu **-42.8%** em 24h, a **51k coins** (faixa do dia: 51k–92k). Está -53% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Virgil van Dijk já avançou 59.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Patrick Dorgu já avançou 51.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ramires recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Bruno Fernandes recuou -47.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Virgil van Dijk (95, Premier League), com +59.5% em 24h, a 650k coins no Console (PS).
+Patrick Dorgu (84, Premier League), com +51.1% em 24h, a 70k coins no Console (PS).
 
 **E a maior queda do dia?**
-Ramires (88), -50% em 24h, a 138k coins.
+Bruno Fernandes (93), -47.6% em 24h, a 135k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 60 cartas em alta contra 52 em queda (média 2.45%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 70 cartas em alta contra 93 em queda (média -2.15%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
