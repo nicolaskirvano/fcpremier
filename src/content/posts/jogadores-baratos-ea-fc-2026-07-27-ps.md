@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T16:05:11.000Z
+pubDatetime: 2026-07-27T19:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.180 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 1.800 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 8.663 coins.
+- **Posição mais frequente:** CB, com 3 cartas.
+- **Faixa real:** 2.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,38 +41,38 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Xavi Simons | 91 | CAM | Premier League | 12.250 coins | +4.2% |
-| Rodri | 90 | CDM | Premier League | 2.800 coins | 0% |
-| Virgil van Dijk | 90 | CB | Premier League | 10.000 coins | 0% |
+| Rodri | 90 | CDM | Premier League | 2.500 coins | +8.3% |
+| Virgil van Dijk | 90 | CB | Premier League | 9.800 coins | -2% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3.500 coins | +9.7% |
-| Alisson | 89 | GK | Premier League | 3.600 coins | +20% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3.000 coins | +32.1% |
+| Alisson | 89 | GK | Premier League | 3.500 coins | +24.1% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 11.250 coins | 0% |
+| Tomas Brolin | 89 | ST | Premier League | 11.250 coins | -11% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 11.250 coins | -4.3% |
-| Sepp van den Berg | 89 | CB | Premier League | 11.500 coins | +12.2% |
-| Ian Maatsen | 89 | LB | Premier League | 13.750 coins | +49.2% |
-| Cesc Fàbregas | 88 | CM | Premier League | 11.000 coins | -6.7% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| William Saliba | 87 | CB | Premier League | 1.800 coins | +23.1% |
+| Vincent Kompany | 88 | CB | Premier League | 14.750 coins | -3.3% |
+| William Saliba | 87 | CB | Premier League | 2.000 coins | +38.5% |
+| Bruno Fernandes | 87 | CAM | Premier League | 2.400 coins | +25% |
+| Joe Cole | 87 | RW | Premier League | 13.250 coins | -7% |
 
 
 ## 📈 Destaques
 
 - **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Xavi Simons (91, CAM)** da Premier League, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rodri (90, CDM)** da Premier League, a apenas **2.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rodri (90, CDM)** da Premier League, a apenas **2.800 coins**
-
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **10.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **9.800 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Douglas Luiz (90, CDM)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Ollie Watkins (90, ST)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Virgil van Dijk (90, CB) por 10.000 coins é a referência de rating deste recorte.
+- **Defesa:** Virgil van Dijk (90, CB) por 9.800 coins é a referência de rating deste recorte.
 
 - **Meio:** Conor Gallagher (91, CM) por 11.500 coins é a referência de rating deste recorte.
 
