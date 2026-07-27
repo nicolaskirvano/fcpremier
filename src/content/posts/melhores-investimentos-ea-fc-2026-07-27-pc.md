@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T09:33:08.000Z
+pubDatetime: 2026-07-27T10:05:18.000Z
 title: "Investimentos EA FC: Premier League em 27/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+23.3% em 24h** e **+34.0% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+22.0% em 24h** e **+36.4% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adam Wharton | 88 | Premier League | 30k coins | +38.5% | +70.3% | Esticada |
-| Patrick Dorgu | 84 | Premier League | 131k coins | +9.2% | +56.9% | Momentum moderado |
+| Patrick Dorgu | 84 | Premier League | 129k coins | +9.2% | +56.9% | Momentum moderado |
 | Jerzy Dudek | 87 | Premier League | 48k coins | +18.8% | +52% | Momentum moderado |
-| Mohamed Salah | 91 | Premier League | 41k coins | +3.1% | +51.8% | Momentum moderado |
-| Omar Marmoush | 87 | Premier League | 109k coins | +25.7% | +47.4% | Esticada |
+| Mohamed Salah | 91 | Premier League | 40k coins | +1.9% | +50% | Momentum moderado |
+| Omar Marmoush | 87 | Premier League | 109k coins | +24.6% | +44.3% | Esticada |
 | Granit Xhaka | 89 | Premier League | 84k coins | +10.6% | +39.2% | Momentum moderado |
+| Ryan Gravenberch | 87 | Premier League | 84k coins | +11.9% | +36.8% | Momentum moderado |
 | Gabriel Martinelli | 87 | Premier League | 148k coins | +22% | +36.4% | Esticada |
-| Bryan Mbeumo | 87 | Premier League | 66k coins | +37.5% | +34% | Esticada |
-| Daniel Ballard | 86 | Premier League | 50k coins | +36.1% | +31.6% | Esticada |
+| Daniel Ballard | 86 | Premier League | 50k coins | +36.1% | +32.5% | Esticada |
 | Hugo Ekitiké | 87 | Premier League | 75k coins | +9.5% | +25% | Momentum moderado |
+| Bryan Mbeumo | 87 | Premier League | 66k coins | +37.5% | +23.4% | Esticada |
 | Bruno Guimarães | 87 | Premier League | 59k coins | +39.5% | +21.1% | Esticada |
-| Matheus Cunha | 87 | Premier League | 127k coins | +23.3% | +21% | Esticada |
+| Matheus Cunha | 87 | Premier League | 123k coins | +23.3% | +21% | Esticada |
 | Dan Ndoye | 84 | Premier League | 45k coins | +28.6% | +20% | Esticada |
-| Jordan Pickford | 86 | Premier League | 50k coins | +14.9% | +17.6% | Momentum moderado |
-| Dango Ouattara | 84 | Premier League | 58k coins | +30.7% | +15.8% | Esticada |
+| Jordan Pickford | 86 | Premier League | 50k coins | +14.9% | +18.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Adam Wharton (88)** — 30k coins, **+70.3% em 7 dias** (+38.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patrick Dorgu (84)** — 131k coins, **+56.9% em 7 dias** (+9.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrick Dorgu (84)** — 129k coins, **+56.9% em 7 dias** (+9.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Jerzy Dudek (87)** — 48k coins, **+52% em 7 dias** (+18.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mohamed Salah (91)** — 41k coins, **+51.8% em 7 dias** (+3.1% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mohamed Salah (91)** — 40k coins, **+50% em 7 dias** (+1.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Omar Marmoush (87)** — 109k coins, **+47.4% em 7 dias** (+25.7% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Omar Marmoush (87)** — 109k coins, **+44.3% em 7 dias** (+24.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

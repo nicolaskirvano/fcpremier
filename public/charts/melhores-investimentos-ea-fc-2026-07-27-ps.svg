@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pascal Groß</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+70.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.3%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Declan Rice</text>
-<rect x="285" y="153" width="448" height="28" rx="7" fill="#22c55e"/>
-<text x="743" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+66.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sandro Tonali</text>
-<rect x="285" y="211" width="352" height="28" rx="7" fill="#22c55e"/>
-<text x="647" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joško Gvardiol</text>
-<rect x="285" y="269" width="342" height="28" rx="7" fill="#22c55e"/>
-<text x="637" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Micah Richards</text>
-<rect x="285" y="327" width="331" height="28" rx="7" fill="#22c55e"/>
-<text x="626" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.7%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Robbie Keane</text>
-<rect x="285" y="385" width="279" height="28" rx="7" fill="#22c55e"/>
-<text x="574" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.1%</text>
+<rect x="285" y="153" width="470" height="28" rx="7" fill="#22c55e"/>
+<text x="765" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Micah Richards</text>
+<rect x="285" y="211" width="358" height="28" rx="7" fill="#22c55e"/>
+<text x="653" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Robbie Keane</text>
+<rect x="285" y="269" width="302" height="28" rx="7" fill="#22c55e"/>
+<text x="597" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sandro Tonali</text>
+<rect x="285" y="327" width="285" height="28" rx="7" fill="#22c55e"/>
+<text x="580" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.8%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carlos Baleba</text>
+<rect x="285" y="385" width="283" height="28" rx="7" fill="#22c55e"/>
+<text x="578" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.5%</text>
 </svg>
