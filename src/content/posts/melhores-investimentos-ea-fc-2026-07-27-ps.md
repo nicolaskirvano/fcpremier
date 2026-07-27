@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:05:09.000Z
+pubDatetime: 2026-07-27T22:05:10.000Z
 title: "Investimentos EA FC: Premier League em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Tijjani Reijnders (87, Premier League) lidera, com +30% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Pascal Groß (87, Premier League) lidera, com +54.8% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Tijjani Reijnders (87) acumula **+30% em 7 dias** a 52k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Pascal Groß (87) acumula **+54.8% em 7 dias** a 20k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Premier League em 27/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.7% em 24h** e **+15.4% em 7 dias**.
-- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+14.4% em 24h** e **+22.2% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Tijjani Reijnders | 87 | Premier League | 52k coins | +18.2% | +30% | Momentum moderado |
-| Jerzy Dudek | 86 | Premier League | 19.250 coins | +31% | +28.8% | Esticada |
-| Ollie Watkins | 86 | Premier League | 50k coins | +10% | +25.3% | Momentum moderado |
-| Federico Chiesa | 86 | Premier League | 214k coins | +4.5% | +25% | Entrada a observar |
-| Steve McManaman | 89 | Premier League | 40k coins | +5.2% | +22% | Momentum moderado |
-| Harvey Barnes | 86 | Premier League | 48k coins | +8% | +20.3% | Momentum moderado |
-| Robin Roefs | 87 | Premier League | 35k coins | +34.6% | +19.7% | Esticada |
-| Jean-Philippe Mateta | 84 | Premier League | 45k coins | +4.7% | +15.4% | Entrada a observar |
-| Jurriën Timber | 86 | Premier League | 50k coins | +7.1% | +15.4% | Momentum moderado |
-| Jerzy Dudek | 87 | Premier League | 18.000 coins | +17% | +14.6% | Momentum moderado |
-| Ole Gunnar Solskjær | 86 | Premier League | 15.250 coins | +3.5% | +13.5% | Entrada a observar |
-| Casemiro | 86 | Premier League | 50k coins | +12.7% | +13.3% | Momentum moderado |
-| Hugo Ekitiké | 87 | Premier League | 51k coins | +13.3% | +13.3% | Momentum moderado |
-| Robbie Keane | 86 | Premier League | 17.500 coins | +15% | +13.1% | Momentum moderado |
-| Tim Howard | 85 | Premier League | 19.000 coins | +20% | +12.5% | Esticada |
+| Pascal Groß | 87 | Premier League | 20k coins | +6.6% | +54.8% | Momentum moderado |
+| Eberechi Eze | 87 | Premier League | 69k coins | +1.3% | +53.8% | Momentum moderado |
+| Nathan Collins | 85 | Premier League | 53k coins | +8.2% | +38.6% | Momentum moderado |
+| Casemiro | 84 | Premier League | 62k coins | +4.8% | +36.2% | Momentum moderado |
+| Hugo Ekitiké | 87 | Premier League | 50k coins | +28.9% | +28.9% | Esticada |
+| Amine Adli | 84 | Premier League | 55k coins | +22.2% | +27.2% | Esticada |
+| Vincent Kompany | 88 | Premier League | 19.750 coins | +33.3% | +23.1% | Esticada |
+| Patrick Dorgu | 84 | Premier League | 70k coins | +32% | +22.2% | Esticada |
+| Diogo Dalot | 87 | Premier League | 69k coins | +8.7% | +22.1% | Momentum moderado |
+| Jerzy Dudek | 86 | Premier League | 16.000 coins | +20% | +22% | Esticada |
+| Daniel Ballard | 86 | Premier League | 50k coins | +17.8% | +21.5% | Momentum moderado |
+| Tim Howard | 85 | Premier League | 19.000 coins | +25% | +19% | Esticada |
+| Nwankwo Kanu | 86 | Premier League | 15.750 coins | +5.3% | +17.6% | Momentum moderado |
+| Casemiro | 86 | Premier League | 55k coins | +14.4% | +15.1% | Momentum moderado |
+| Robbie Keane | 86 | Premier League | 17.000 coins | +6.2% | +11.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Tijjani Reijnders (87)** — 52k coins, **+30% em 7 dias** (+18.2% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pascal Groß (87)** — 20k coins, **+54.8% em 7 dias** (+6.6% em 24h). Preço -35% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jerzy Dudek (86)** — 19.250 coins, **+28.8% em 7 dias** (+31% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eberechi Eze (87)** — 69k coins, **+53.8% em 7 dias** (+1.3% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ollie Watkins (86)** — 50k coins, **+25.3% em 7 dias** (+10% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nathan Collins (85)** — 53k coins, **+38.6% em 7 dias** (+8.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Federico Chiesa (86)** — 214k coins, **+25% em 7 dias** (+4.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Casemiro (84)** — 62k coins, **+36.2% em 7 dias** (+4.8% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steve McManaman (89)** — 40k coins, **+22% em 7 dias** (+5.2% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hugo Ekitiké (87)** — 50k coins, **+28.9% em 7 dias** (+28.9% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Tijjani Reijnders (87, Premier League) lidera, com +30% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Pascal Groß (87, Premier League) lidera, com +54.8% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

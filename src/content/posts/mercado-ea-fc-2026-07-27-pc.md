@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:05:17.000Z
+pubDatetime: 2026-07-27T22:05:18.000Z
 title: "Mercado EA FC em 27/07: Premier League — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Emiliano Buendía (83, Premier League), com +59.7% em 24h, a 58k coins no PC."
+    a: "Kai Havertz (91, Premier League), com +55% em 24h, a 365k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Jay-Jay Okocha (88), -44.9% em 24h, a 27k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 70 cartas em alta contra 85 em queda (média 0.2%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 42 cartas em alta contra 42 em queda (média 0.52%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **70 subiram** e **85 caíram**, com variação média de **0.2%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **42 subiram** e **42 caíram**, com variação média de **0.52%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Emiliano Buendía (83) **+59.7%** · 🔴 **Maior baixa:** Jay-Jay Okocha (88) **-44.9%**
+> 🟢 **Maior alta:** Kai Havertz (91) **+55%** · 🔴 **Maior baixa:** Jay-Jay Okocha (88) **-44.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Premier League — PC](/charts/mercado-ea-fc-2026-07-27-pc.svg)
 
@@ -35,24 +35,24 @@ Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **latera
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.2% entre as cartas que se moveram; o universo observado reúne 212 cartas.
+- **Amplitude do dia:** 99.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 91 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Emiliano Buendía | 83 | Premier League | 58k coins | +59.7% | -22.3% |
-| Riccardo Calafiori | 90 | Premier League | 1.50M coins | +50% | 0% |
-| Luke Shaw | 86 | Premier League | 33k coins | +47.1% | 0% |
-| Zian Flemming | 80 | Premier League | 50k coins | +42.9% | 0% |
-| Daniel Ballard | 86 | Premier League | 48k coins | +39.9% | +11.1% |
-| Virgil van Dijk | 95 | Premier League | 725k coins | +38.3% | -32.4% |
-| Tim Cahill | 89 | Premier League | 80k coins | +36.4% | +47.7% |
-| Dango Ouattara | 84 | Premier League | 42k coins | +29.4% | +0.9% |
-| Amine Adli | 84 | Premier League | 39k coins | +28.7% | -3.1% |
-| Bernardo Silva | 87 | Premier League | 76k coins | +24.4% | +29.2% |
+| Kai Havertz | 91 | Premier League | 365k coins | +55% | -6.7% |
+| Jerzy Dudek | 86 | Premier League | 20k coins | +48.1% | +1.3% |
+| Diogo Dalot | 87 | Premier League | 130k coins | +42.1% | +4.8% |
+| Jaap Stam | 87 | Premier League | 270k coins | +40% | -59.4% |
+| Nico O'Reilly | 88 | Premier League | 35k coins | +39.1% | -18.8% |
+| Leny Yoro | 86 | Premier League | 125k coins | +35.3% | -12.1% |
+| Ian Maatsen | 89 | Premier League | 23k coins | +33.3% | -3.2% |
+| Mateo Kovačić | 91 | Premier League | 25k coins | +31.6% | -52.3% |
+| Emiliano Buendía | 83 | Premier League | 47k coins | +29.9% | -36% |
+| Peter Crouch | 85 | Premier League | 30k coins | +27.7% | 0% |
 
 
 ### Análise das altas
@@ -61,41 +61,41 @@ Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **latera
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Emiliano Buendía (83)** subiu **+59.7%** em 24h, a **58k coins** (faixa do dia: 36k–74k). Está em linha com a média de 7 dias (+3%).
+- **Kai Havertz (91)** subiu **+55%** em 24h, a **365k coins** (faixa do dia: 126k–420k). Está em linha com a média de 7 dias (+5%).
 
-- **Riccardo Calafiori (90)** subiu **+50%** em 24h, a **1.50M coins** (faixa do dia: 999k–1.50M). Está em linha com a média de 7 dias (+2%).
+- **Jerzy Dudek (86)** subiu **+48.1%** em 24h, a **20k coins** (faixa do dia: 12.250–20k). Está +29% acima da média de 7 dias (aquecida).
 
-- **Luke Shaw (86)** subiu **+47.1%** em 24h, a **33k coins** (faixa do dia: 26k–50k). Está -16% abaixo da média de 7 dias (descontada).
+- **Diogo Dalot (87)** subiu **+42.1%** em 24h, a **130k coins** (faixa do dia: 64k–130k). Está +12% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jay-Jay Okocha | 88 | Premier League | 27k coins | -44.9% | -19.4% |
-| Federico Chiesa | 86 | Premier League | 145k coins | -41.8% | -28.6% |
-| Viktor Gyökeres | 94 | Premier League | 846k coins | -38.5% | -17.9% |
-| Lewis Hall | 89 | Premier League | 36k coins | -37.9% | -34.6% |
-| Bruno Fernandes | 88 | Premier League | 71k coins | -35% | -48.4% |
-| Vincent Kompany | 91 | Premier League | 21k coins | -33.3% | -60.7% |
-| Antoine Semenyo | 91 | Premier League | 179k coins | -33% | -28.1% |
-| Mohamed Salah | 92 | Premier League | 400k coins | -32.7% | -18.4% |
-| Joško Gvardiol | 86 | Premier League | 47k coins | -30.4% | -13% |
-| Bryan Mbeumo | 87 | Premier League | 32k coins | -29.8% | -46.5% |
+| Jay-Jay Okocha | 88 | Premier League | 27k coins | -44.9% | -8.5% |
+| Gabriel | 89 | Premier League | 50k coins | -41.8% | -65.7% |
+| Lewis Hall | 89 | Premier League | 36k coins | -34.6% | -34.6% |
+| Patrick Dorgu | 84 | Premier League | 111k coins | -34% | +13.1% |
+| Harry Maguire | 83 | Premier League | 45k coins | -29.2% | -67.2% |
+| Antoine Semenyo | 91 | Premier League | 185k coins | -28.3% | -25.4% |
+| Harry Wilson | 88 | Premier League | 22k coins | -26.2% | -15.9% |
+| Rodri | 91 | Premier League | 375k coins | -22.7% | +10.3% |
+| Pedro Neto | 88 | Premier League | 52k coins | -22.2% | -27.1% |
+| Steve McManaman | 89 | Premier League | 44k coins | -17% | -1.1% |
 
 
 ### Análise das baixas
 
 - **Jay-Jay Okocha (88)** caiu **-44.9%** em 24h, a **27k coins** (faixa do dia: 12.500–65k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Federico Chiesa (86)** caiu **-41.8%** em 24h, a **145k coins** (faixa do dia: 119k–249k). Está -35% abaixo da média de 7 dias (descontada).
+- **Gabriel (89)** caiu **-41.8%** em 24h, a **50k coins** (faixa do dia: 35k–86k). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Viktor Gyökeres (94)** caiu **-38.5%** em 24h, a **846k coins** (faixa do dia: 846k–1.60M). Está -36% abaixo da média de 7 dias (descontada).
+- **Lewis Hall (89)** caiu **-34.6%** em 24h, a **36k coins** (faixa do dia: 36k–110k). Está -40% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Emiliano Buendía já avançou 59.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Kai Havertz já avançou 55% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Jay-Jay Okocha recuou -44.9%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Emiliano Buendía (83, Premier League), com +59.7% em 24h, a 58k coins no PC.
+Kai Havertz (91, Premier League), com +55% em 24h, a 365k coins no PC.
 
 **E a maior queda do dia?**
 Jay-Jay Okocha (88), -44.9% em 24h, a 27k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 70 cartas em alta contra 85 em queda (média 0.2%).
+Hoje o mercado está lateral — sem direção clara, com 42 cartas em alta contra 42 em queda (média 0.52%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
