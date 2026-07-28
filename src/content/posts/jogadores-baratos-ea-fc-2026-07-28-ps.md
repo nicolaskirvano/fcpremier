@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T10:05:10.000Z
+pubDatetime: 2026-07-28T13:05:11.000Z
 title: "Jogadores baratos EA FC: Premier League em 28/07 — Console (PS)"
 draft: false
 featured: false
