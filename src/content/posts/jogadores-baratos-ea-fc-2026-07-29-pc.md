@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:05:22.000Z
+pubDatetime: 2026-07-29T16:05:20.000Z
 title: "Jogadores baratos EA FC: Premier League em 29/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 29/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (29/07/2026)?"
-    a: "Conor Gallagher (91, Premier League) aparece como melhor custo-benefício, a 11.500 coins no PC."
+    a: "Florian Wirtz (92, Premier League) aparece como melhor custo-benefício, a 11.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **29/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Conor Gallagher (91) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Florian Wirtz (92) por apenas 11.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Premier League em 29/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-29-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 8.553 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 2.000 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.643 coins.
+- **Posição mais frequente:** RW, com 4 cartas.
+- **Faixa real:** 8.400 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
+| Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
+| Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Xavi Simons | 91 | CAM | Premier League | 13.000 coins | +20.8% |
-| Rodri | 90 | CDM | Premier League | 2.700 coins | +3.8% |
-| Virgil van Dijk | 90 | CB | Premier League | 9.500 coins | +2.2% |
+| Virgil van Dijk | 90 | CB | Premier League | 8.400 coins | -5.6% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3.500 coins | +5.7% |
-| Alisson | 89 | GK | Premier League | 3.600 coins | +5.9% |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
+| Joelinton | 89 | CM | Premier League | 14.250 coins | 0% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12.750 coins | +15.9% |
-| Bruno Fernandes | 87 | CAM | Premier League | 2.000 coins | +42.9% |
-| William Saliba | 87 | CB | Premier League | 2.500 coins | -4% |
+| Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
+| Joe Cole | 88 | RW | Premier League | 12.750 coins | 0% |
+| Oscar Bobb | 88 | RW | Premier League | 14.250 coins | 0% |
+| Dimitar Berbatov | 87 | ST | Premier League | 11.000 coins | 0% |
+| Joe Cole | 87 | RW | Premier League | 12.500 coins | 0% |
 
 
 ## 📈 Destaques
 
+- **Florian Wirtz (92, CAM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Erling Haaland (92, ST)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Xavi Simons (91, CAM)** da Premier League, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
-
-- **Rodri (90, CDM)** da Premier League, a apenas **2.700 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **9.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **8.400 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Mohammed Kudus (90, RW)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Virgil van Dijk (90, CB) por 9.500 coins é a referência de rating deste recorte.
+- **Defesa:** Virgil van Dijk (90, CB) por 8.400 coins é a referência de rating deste recorte.
 
-- **Meio:** Conor Gallagher (91, CM) por 11.500 coins é a referência de rating deste recorte.
+- **Meio:** Florian Wirtz (92, CAM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Mohammed Kudus (90, RW) por 11.250 coins é a referência de rating deste recorte.
+- **Ataque:** Erling Haaland (92, ST) por 11.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -105,7 +105,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (29/07/2026)?**  
-Conor Gallagher (91, Premier League) aparece como melhor custo-benefício, a 11.500 coins no PC.
+Florian Wirtz (92, Premier League) aparece como melhor custo-benefício, a 11.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
