@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:05:11.000Z
+pubDatetime: 2026-07-29T22:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 29/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.117 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 5.500 a 13.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.403 coins.
+- **Posição mais frequente:** CM, com 4 cartas.
+- **Faixa real:** 3.600 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -48,13 +48,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Alisson | 89 | GK | Premier League | 5.500 coins | +19.5% |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 11.250 coins | +4.4% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3.600 coins | +51.5% |
+| Alisson | 89 | GK | Premier League | 5.200 coins | +41.5% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
-| Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Oscar Bobb | 88 | RW | Premier League | 12.000 coins | -8.9% |
-| Sandro Tonali | 88 | CDM | Premier League | 13.250 coins | 0% |
+| Sepp van den Berg | 89 | CB | Premier League | 11.250 coins | +2.2% |
+| Cesc Fàbregas | 88 | CM | Premier League | 11.000 coins | -7.7% |
 
 
 ## 📈 Destaques
