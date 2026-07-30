@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:05:18.000Z
+pubDatetime: 2026-07-30T01:05:18.000Z
 title: "Investimentos EA FC: Premier League em 29/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **29/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.9% em 24h** e **+28.0% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+9.5% em 24h** e **+25.3% em 7 dias**.
+- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Eberechi Eze | 86 | Premier League | 249k coins | +38.3% | +77.9% | Esticada |
-| Trai Hume | 84 | Premier League | 54k coins | +9.5% | +61.5% | Esticada |
-| Erling Haaland | 90 | Premier League | 26k coins | +23.2% | +57.8% | Esticada |
+| Trai Hume | 84 | Premier League | 54k coins | +9.5% | +62.7% | Esticada |
 | Carlos Baleba | 90 | Premier League | 92k coins | +1.6% | +54.2% | Momentum moderado |
 | Mikkel Damsgaard | 87 | Premier League | 54k coins | +17.4% | +52.1% | Momentum moderado |
-| Moisés Caicedo | 88 | Premier League | 52k coins | +19.8% | +36.2% | Momentum moderado |
-| Eberechi Eze | 88 | Premier League | 62k coins | +13.2% | +33% | Momentum moderado |
-| Tijjani Reijnders | 87 | Premier League | 110k coins | +6.1% | +28% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 112k coins | +12.6% | +47.4% | Momentum moderado |
+| Ole Gunnar Solskjær | 88 | Premier League | 30k coins | +4.9% | +40.2% | Momentum moderado |
+| Eberechi Eze | 88 | Premier League | 64k coins | +6.1% | +30.1% | Momentum moderado |
 | Harvey Barnes | 86 | Premier League | 50k coins | +11.9% | +25.3% | Momentum moderado |
-| Declan Rice | 94 | Premier League | 216k coins | +10.8% | +24.9% | Momentum moderado |
-| Rayan Cherki | 87 | Premier League | 42k coins | +9.1% | +24.4% | Momentum moderado |
-| Cody Gakpo | 86 | Premier League | 48k coins | +1.6% | +19.3% | Entrada a observar |
-| Declan Rice | 88 | Premier League | 100k coins | +10.6% | +16.4% | Momentum moderado |
-| Jerzy Dudek | 87 | Premier League | 43k coins | +25.7% | +15.5% | Esticada |
-| Steve McManaman | 89 | Premier League | 48k coins | +12.5% | +15.1% | Momentum moderado |
+| Moisés Caicedo | 88 | Premier League | 49k coins | +8.2% | +23.1% | Momentum moderado |
+| Declan Rice | 94 | Premier League | 212k coins | +8.7% | +21.8% | Momentum moderado |
+| Tijjani Reijnders | 87 | Premier League | 98k coins | +2% | +17.4% | Entrada a observar |
+| Rico Lewis | 86 | Premier League | 48k coins | +10.5% | +15.6% | Momentum moderado |
+| Crysencio Summerville | 86 | Premier League | 47k coins | +6.7% | +12.3% | Momentum moderado |
+| Patrick Dorgu | 84 | Premier League | 90k coins | +20.6% | +10% | Esticada |
+| Dominic Solanke | 87 | Premier League | 58k coins | +19.6% | +9.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Eberechi Eze (86)** — 249k coins, **+77.9% em 7 dias** (+38.3% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eberechi Eze (86)** — 249k coins, **+77.9% em 7 dias** (+38.3% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trai Hume (84)** — 54k coins, **+61.5% em 7 dias** (+9.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trai Hume (84)** — 54k coins, **+62.7% em 7 dias** (+9.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Erling Haaland (90)** — 26k coins, **+57.8% em 7 dias** (+23.2% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Baleba (90)** — 92k coins, **+54.2% em 7 dias** (+1.6% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carlos Baleba (90)** — 92k coins, **+54.2% em 7 dias** (+1.6% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mikkel Damsgaard (87)** — 54k coins, **+52.1% em 7 dias** (+17.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mikkel Damsgaard (87)** — 54k coins, **+52.1% em 7 dias** (+17.4% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (89)** — 112k coins, **+47.4% em 7 dias** (+12.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
