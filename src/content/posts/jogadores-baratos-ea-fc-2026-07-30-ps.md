@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T13:05:10.000Z
+pubDatetime: 2026-07-30T16:05:12.000Z
 title: "Jogadores baratos EA FC: Premier League em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.373 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 4.600 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 9.993 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 1.500 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,40 +41,40 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
-| Florian Wirtz | 92 | CAM | Premier League | 13.250 coins | 0% |
+| Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | -13.2% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Virgil van Dijk | 90 | CB | Premier League | 10.000 coins | +2% |
+| Rodri | 90 | CDM | Premier League | 5.500 coins | +35.1% |
+| Virgil van Dijk | 90 | CB | Premier League | 9.700 coins | -3% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Alisson | 89 | GK | Premier League | 4.600 coins | +8.7% |
-| Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
+| Alisson | 89 | GK | Premier League | 5.200 coins | +17.4% |
 | Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
-| Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Sandro Tonali | 88 | CDM | Premier League | 13.250 coins | 0% |
-| Joe Cole | 87 | RW | Premier League | 14.250 coins | +18.8% |
-| Nwankwo Kanu | 86 | ST | Premier League | 13.750 coins | -3.7% |
+| Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 13.000 coins | -2.1% |
+| Sepp van den Berg | 89 | CB | Premier League | 13.000 coins | 0% |
+| Alexander Isak | 88 | ST | Premier League | 1.500 coins | +33.3% |
 
 
 ## 📈 Destaques
 
 - **Erling Haaland (92, ST)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Florian Wirtz (92, CAM)** da Premier League, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Florian Wirtz (92, CAM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **10.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Rodri (90, CDM)** da Premier League, a apenas **5.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Mohammed Kudus (90, RW)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **9.700 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Virgil van Dijk (90, CB) por 10.000 coins é a referência de rating deste recorte.
+- **Defesa:** Virgil van Dijk (90, CB) por 9.700 coins é a referência de rating deste recorte.
 
-- **Meio:** Florian Wirtz (92, CAM) por 13.250 coins é a referência de rating deste recorte.
+- **Meio:** Florian Wirtz (92, CAM) por 11.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Erling Haaland (92, ST) por 11.500 coins é a referência de rating deste recorte.
 

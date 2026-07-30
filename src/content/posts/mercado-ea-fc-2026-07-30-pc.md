@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T13:05:17.000Z
+pubDatetime: 2026-07-30T16:05:20.000Z
 title: "Mercado EA FC em 30/07: Premier League — PC"
 draft: false
 featured: true
@@ -13,20 +13,22 @@ tags:
 description: "Dados de 30/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Jordan Pickford (85, Premier League), com +55.4% em 24h, a 39k coins no PC."
+    a: "Sepp van den Berg (89, Premier League), com +56.4% em 24h, a 22k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Dominik Szoboszlai (87), -47.4% em 24h, a 100k coins."
+    a: "Luke Shaw (86), -38% em 24h, a 31k coins."
+  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
+    a: "Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 58k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 77 cartas em alta contra 72 em queda (média 7.43%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 80 cartas em alta contra 64 em queda (média 6.92%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **30/07/2026** no PC: mercado **em alta** — predominam as valorizações. **77 valorizações** contra **72 quedas** entre as cartas relevantes, com média de **7.43%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **30/07/2026** no PC: mercado **em alta** — predominam as valorizações. **80 valorizações** contra **64 quedas** entre as cartas relevantes, com média de **6.92%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Jordan Pickford (85) **+55.4%** · 🔴 **Maior baixa:** Dominik Szoboszlai (87) **-47.4%**
+> 🟢 **Maior alta:** Sepp van den Berg (89) **+56.4%** · 🔴 **Maior baixa:** Luke Shaw (86) **-38%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Premier League — PC](/charts/mercado-ea-fc-2026-07-30-pc.svg)
 
@@ -35,24 +37,24 @@ Resumo de **30/07/2026** no PC: mercado **em alta** — predominam as valorizaç
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.7% entre as cartas que se moveram; o universo observado reúne 226 cartas.
+- **Amplitude do dia:** 94.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 55.6% entre as cartas que se moveram; o universo observado reúne 206 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jordan Pickford | 85 | Premier League | 39k coins | +55.4% | -16.5% |
-| Oscar Bobb | 85 | Premier League | 24k coins | +54.2% | +2.8% |
+| Sepp van den Berg | 89 | Premier League | 22k coins | +56.4% | +22.9% |
 | Jaap Stam | 89 | Premier League | 180k coins | +53.8% | +20% |
-| David Brooks | 86 | Premier League | 31k coins | +50% | +2.4% |
-| Rayan Cherki | 87 | Premier League | 55k coins | +49.3% | -20.9% |
-| Morgan Rogers | 87 | Premier League | 111k coins | +49.2% | -33.1% |
-| Eli Junior Kroupi | 89 | Premier League | 34k coins | +45.1% | +30.4% |
-| Nicolò Savona | 83 | Premier League | 128k coins | +41.4% | +60% |
-| Jeremie Frimpong | 86 | Premier League | 196k coins | +35.8% | +6.8% |
+| Yaya Touré | 93 | Premier League | 2.40M coins | +45.1% | +9.1% |
+| Tim Cahill | 85 | Premier League | 23k coins | +43.1% | -8.8% |
+| Mikkel Damsgaard | 87 | Premier League | 65k coins | +38.9% | +101.3% |
+| Martin Ødegaard | 87 | Premier League | 400k coins | +37.9% | +45.5% |
+| Nico O'Reilly | 88 | Premier League | 70k coins | +33.3% | +53.8% |
 | Diego Gómez | 80 | Premier League | 48k coins | +31.9% | +1.1% |
+| Diogo Dalot | 87 | Premier League | 160k coins | +31.1% | 0% |
+| Tomas Brolin | 89 | Premier League | 35k coins | +31.1% | +35% |
 
 
 ### Análise das altas
@@ -61,43 +63,52 @@ Resumo de **30/07/2026** no PC: mercado **em alta** — predominam as valorizaç
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jordan Pickford (85)** subiu **+55.4%** em 24h, a **39k coins** (faixa do dia: 24k–39k). Está em linha com a média de 7 dias (-1%).
+- **Sepp van den Berg (89)** subiu **+56.4%** em 24h, a **22k coins** (faixa do dia: 11.250–24k). Está +40% acima da média de 7 dias (aquecida).
 
-- **Oscar Bobb (85)** subiu **+54.2%** em 24h, a **24k coins** (faixa do dia: 10.750–29k). Está +45% acima da média de 7 dias (aquecida).
+- **Jaap Stam (89)** subiu **+53.8%** em 24h, a **180k coins** (faixa do dia: 86k–180k). Está +49% acima da média de 7 dias (aquecida).
 
-- **Jaap Stam (89)** subiu **+53.8%** em 24h, a **180k coins** (faixa do dia: 84k–180k). Está +50% acima da média de 7 dias (aquecida).
+- **Yaya Touré (93)** subiu **+45.1%** em 24h, a **2.40M coins** (faixa do dia: 1.55M–2.40M). Está +21% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dominik Szoboszlai | 87 | Premier League | 100k coins | -47.4% | -9.1% |
-| Jerzy Dudek | 87 | Premier League | 24k coins | -45% | -29.3% |
-| Kai Havertz | 91 | Premier League | 195k coins | -39.6% | -33.9% |
-| Erling Haaland | 91 | Premier League | 172k coins | -38.3% | -51.3% |
 | Luke Shaw | 86 | Premier League | 31k coins | -38% | -3.1% |
-| Micky van de Ven | 90 | Premier League | 1.30M coins | -31.6% | -28.3% |
-| Clint Dempsey | 89 | Premier League | 139k coins | -31.2% | -27.2% |
-| Dan Burn | 86 | Premier League | 107k coins | -28.7% | -28.2% |
-| Tijjani Reijnders | 87 | Premier League | 99k coins | -28.3% | +5.3% |
-| Hugo Ekitiké | 90 | Premier League | 55k coins | -27.3% | -35.5% |
+| João Pedro | 87 | Premier League | 51k coins | -33.8% | -26.8% |
+| Micky van de Ven | 90 | Premier League | 1.30M coins | -31.6% | -35% |
+| Igor Jesus | 87 | Premier League | 25k coins | -27.8% | -31.4% |
+| Senne Lammens | 88 | Premier League | 62k coins | -26.1% | +37.8% |
+| Erling Haaland | 91 | Premier League | 200k coins | -25.5% | -56.8% |
+| Gabriel | 89 | Premier League | 81k coins | -24.5% | +3.8% |
+| Lucas Paquetá | 84 | Premier League | 50k coins | -23.1% | -30.6% |
+| Florian Wirtz | 89 | Premier League | 247k coins | -22.8% | +22.4% |
+| Kevin Schade | 84 | Premier League | 48k coins | -21.7% | -15.1% |
 
 
 ### Análise das baixas
 
-- **Dominik Szoboszlai (87)** caiu **-47.4%** em 24h, a **100k coins** (faixa do dia: 100k–190k). Está -18% abaixo da média de 7 dias (descontada).
+- **Luke Shaw (86)** caiu **-38%** em 24h, a **31k coins** (faixa do dia: 25k–50k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Jerzy Dudek (87)** caiu **-45%** em 24h, a **24k coins** (faixa do dia: 24k–45k). Está -27% abaixo da média de 7 dias (descontada).
+- **João Pedro (87)** caiu **-33.8%** em 24h, a **51k coins** (faixa do dia: 42k–68k). Está em linha com a média de 7 dias (+4%).
 
-- **Kai Havertz (91)** caiu **-39.6%** em 24h, a **195k coins** (faixa do dia: 186k–450k). Está -35% abaixo da média de 7 dias (descontada).
+- **Micky van de Ven (90)** caiu **-31.6%** em 24h, a **1.30M coins** (faixa do dia: 1.09M–1.68M). Está -42% abaixo da média de 7 dias (descontada).
+
+
+## 🔮 O que o modelo prevê para as próximas 24h
+
+Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
+
+| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
+| --- | --- | --- | --- | --- |
+| Mohamed Salah | 91 | 58k coins | 59k coins | 61% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jordan Pickford já avançou 55.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Sepp van den Berg já avançou 56.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Dominik Szoboszlai recuou -47.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Luke Shaw recuou -38%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +120,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Jordan Pickford (85, Premier League), com +55.4% em 24h, a 39k coins no PC.
+Sepp van den Berg (89, Premier League), com +56.4% em 24h, a 22k coins no PC.
 
 **E a maior queda do dia?**
-Dominik Szoboszlai (87), -47.4% em 24h, a 100k coins.
+Luke Shaw (86), -38% em 24h, a 31k coins.
+
+**Qual carta tem mais chance de subir amanhã no EA FC?**
+Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 58k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 77 cartas em alta contra 72 em queda (média 7.43%).
+Hoje o mercado está em alta — predominam as valorizações, com 80 cartas em alta contra 64 em queda (média 6.92%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Moisés Caicedo</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+82.9%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">John Arne Riise</text>
-<rect x="285" y="153" width="380" height="28" rx="7" fill="#22c55e"/>
-<text x="675" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tomáš Rosický</text>
-<rect x="285" y="211" width="342" height="28" rx="7" fill="#22c55e"/>
-<text x="637" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.1%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Declan Rice</text>
-<rect x="285" y="269" width="274" height="28" rx="7" fill="#22c55e"/>
-<text x="569" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sandro Tonali</text>
-<rect x="285" y="327" width="244" height="28" rx="7" fill="#22c55e"/>
-<text x="539" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+71.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Freddie Ljungberg</text>
+<rect x="285" y="153" width="447" height="28" rx="7" fill="#22c55e"/>
+<text x="742" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+66.7%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">John Arne Riise</text>
+<rect x="285" y="211" width="440" height="28" rx="7" fill="#22c55e"/>
+<text x="735" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.6%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nico O&#x27;Reilly</text>
+<rect x="285" y="269" width="361" height="28" rx="7" fill="#22c55e"/>
+<text x="656" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maxence Lacroix</text>
+<rect x="285" y="327" width="271" height="28" rx="7" fill="#22c55e"/>
+<text x="566" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.4%</text>
 <text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bruno Guimarães</text>
-<rect x="285" y="385" width="234" height="28" rx="7" fill="#22c55e"/>
-<text x="529" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.4%</text>
+<rect x="285" y="385" width="269" height="28" rx="7" fill="#22c55e"/>
+<text x="564" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.2%</text>
 </svg>
