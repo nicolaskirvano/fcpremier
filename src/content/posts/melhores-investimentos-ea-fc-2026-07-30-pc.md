@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:05:18.000Z
+pubDatetime: 2026-07-30T22:05:19.000Z
 title: "Investimentos EA FC: Premier League em 30/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.1% em 24h** e **+24.7% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.1% em 24h** e **+15.4% em 7 dias**.
+- **2 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 13 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Mikkel Damsgaard | 87 | Premier League | 66k coins | +23.1% | +78.5% | Esticada |
-| John Arne Riise | 88 | Premier League | 37k coins | +8.6% | +58.3% | Momentum moderado |
-| Maxence Lacroix | 87 | Premier League | 160k coins | +28% | +40.4% | Esticada |
-| Eberechi Eze | 87 | Premier League | 103k coins | +4.9% | +39.9% | Momentum moderado |
-| Diogo Dalot | 87 | Premier League | 160k coins | +31.1% | +37.9% | Esticada |
-| Harry Wilson | 88 | Premier League | 25k coins | +11.8% | +31.6% | Momentum moderado |
-| Freddie Ljungberg | 86 | Premier League | 15.000 coins | +7.1% | +30.4% | Momentum moderado |
-| Bruno Guimarães | 87 | Premier League | 60k coins | +8.8% | +24.7% | Momentum moderado |
-| Robbie Keane | 86 | Premier League | 16.500 coins | +4.8% | +20% | Entrada a observar |
-| Casemiro | 86 | Premier League | 55k coins | +8.2% | +19% | Momentum moderado |
-| Moisés Caicedo | 88 | Premier League | 58k coins | +1.7% | +17.8% | Entrada a observar |
-| Martin Dúbravka | 86 | Premier League | 50k coins | +11.1% | +17.6% | Momentum moderado |
-| Hugo Ekitiké | 86 | Premier League | 55k coins | +31% | +17% | Esticada |
-| Jurriën Timber | 86 | Premier League | 49k coins | +10.1% | +16.6% | Momentum moderado |
-| Tino Livramento | 85 | Premier League | 30k coins | +16.5% | +14.3% | Momentum moderado |
+| Tijjani Reijnders | 87 | Premier League | 116k coins | +14.3% | +50.9% | Momentum moderado |
+| Bruno Guimarães | 87 | Premier League | 50k coins | +2.6% | +28.6% | Momentum moderado |
+| Ryan Yates | 85 | Premier League | 36k coins | +13.2% | +28.1% | Momentum moderado |
+| João Gomes | 84 | Premier League | 50k coins | +11.1% | +25.8% | Momentum moderado |
+| Cody Gakpo | 86 | Premier League | 50k coins | +4.2% | +22.7% | Entrada a observar |
+| Maxence Lacroix | 87 | Premier League | 134k coins | +9.8% | +15.4% | Momentum moderado |
+| Martin Dúbravka | 86 | Premier League | 50k coins | +11.1% | +14.9% | Momentum moderado |
+| Mateus Mané | 86 | Premier League | 49k coins | +13.6% | +13% | Momentum moderado |
+| Hugo Ekitiké | 86 | Premier League | 55k coins | +31% | +12.2% | Esticada |
+| Harvey Barnes | 86 | Premier League | 50k coins | +1% | +10.5% | Entrada a observar |
+| Diogo Dalot | 87 | Premier League | 128k coins | +4.9% | +10.3% | Entrada a observar |
+| Jordan Pickford | 86 | Premier League | 50k coins | +14.1% | +7.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Mikkel Damsgaard (87)** — 66k coins, **+78.5% em 7 dias** (+23.1% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mikkel Damsgaard (87)** — 66k coins, **+78.5% em 7 dias** (+23.1% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **John Arne Riise (88)** — 37k coins, **+58.3% em 7 dias** (+8.6% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tijjani Reijnders (87)** — 116k coins, **+50.9% em 7 dias** (+14.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maxence Lacroix (87)** — 160k coins, **+40.4% em 7 dias** (+28% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bruno Guimarães (87)** — 50k coins, **+28.6% em 7 dias** (+2.6% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eberechi Eze (87)** — 103k coins, **+39.9% em 7 dias** (+4.9% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Yates (85)** — 36k coins, **+28.1% em 7 dias** (+13.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diogo Dalot (87)** — 160k coins, **+37.9% em 7 dias** (+31.1% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Gomes (84)** — 50k coins, **+25.8% em 7 dias** (+11.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
