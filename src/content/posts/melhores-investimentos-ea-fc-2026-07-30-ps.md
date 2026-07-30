@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T09:34:13.000Z
+pubDatetime: 2026-07-30T10:05:09.000Z
 title: "Investimentos EA FC: Premier League em 30/07 — Console (PS)"
 draft: false
 featured: true
@@ -34,7 +34,7 @@ Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 ## O que os números desta lista mostram
 
 - A mediana é de **+13.7% em 24h** e **+34.7% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Dan Burn | 86 | Premier League | 249k coins | +11.6% | +81.8% | Esticada |
-| João Pedro | 87 | Premier League | 72k coins | +39% | +77.1% | Esticada |
-| Jordan Henderson | 85 | Premier League | 105k coins | +16.7% | +62.8% | Esticada |
+| João Pedro | 87 | Premier League | 65k coins | +36% | +73.2% | Esticada |
+| Jordan Henderson | 85 | Premier League | 105k coins | +16.7% | +53.3% | Momentum moderado |
 | Harvey Barnes | 86 | Premier League | 54k coins | +25.6% | +41.2% | Esticada |
-| Kobbie Mainoo | 90 | Premier League | 122k coins | +6.1% | +41% | Momentum moderado |
 | Jordan Pickford | 86 | Premier League | 55k coins | +10% | +39.2% | Momentum moderado |
-| Mateus Mané | 86 | Premier League | 52k coins | +22.4% | +38.7% | Esticada |
+| Tim Cahill | 85 | Premier League | 35k coins | +33.7% | +37.6% | Esticada |
+| Kobbie Mainoo | 90 | Premier League | 118k coins | +2.6% | +36.4% | Momentum moderado |
 | Jurriën Timber | 86 | Premier League | 48k coins | +18.3% | +34.7% | Momentum moderado |
-| David Brooks | 86 | Premier League | 19.250 coins | +20% | +32.2% | Esticada |
-| Nathan Collins | 85 | Premier League | 50k coins | +2.8% | +32.1% | Momentum moderado |
+| Mateus Mané | 86 | Premier League | 48k coins | +22.4% | +34.2% | Esticada |
 | Bernardo Silva | 86 | Premier League | 50k coins | +7.5% | +31.6% | Momentum moderado |
-| Hugo Ekitiké | 86 | Premier League | 48k coins | +6.7% | +31.5% | Momentum moderado |
-| Nick Woltemade | 90 | Premier League | 147k coins | +16.7% | +31.2% | Momentum moderado |
-| Declan Rice | 89 | Premier League | 61k coins | +13.7% | +30.3% | Momentum moderado |
+| Nick Woltemade | 90 | Premier League | 139k coins | +16.7% | +31.2% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 54k coins | +13.7% | +30.3% | Momentum moderado |
+| Hugo Ekitiké | 86 | Premier League | 48k coins | +6.7% | +29.7% | Momentum moderado |
 | Bryan Mbeumo | 87 | Premier League | 44k coins | +8.8% | +28.9% | Momentum moderado |
+| Declan Rice | 88 | Premier League | 48k coins | +1% | +27.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Dan Burn (86)** — 249k coins, **+81.8% em 7 dias** (+11.6% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Pedro (87)** — 72k coins, **+77.1% em 7 dias** (+39% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Pedro (87)** — 65k coins, **+73.2% em 7 dias** (+36% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jordan Henderson (85)** — 105k coins, **+62.8% em 7 dias** (+16.7% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jordan Henderson (85)** — 105k coins, **+53.3% em 7 dias** (+16.7% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Harvey Barnes (86)** — 54k coins, **+41.2% em 7 dias** (+25.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kobbie Mainoo (90)** — 122k coins, **+41% em 7 dias** (+6.1% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jordan Pickford (86)** — 55k coins, **+39.2% em 7 dias** (+10% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
