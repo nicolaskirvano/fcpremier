@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:05:19.000Z
+pubDatetime: 2026-07-31T16:05:19.000Z
 title: "Jogadores baratos EA FC: Premier League em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.750 coins.
+- **Preço médio das 15 opções:** 11.450 coins.
 - **Posição mais frequente:** CAM, com 4 cartas.
-- **Faixa real:** 3.100 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,17 +44,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
 | Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Xavi Simons | 91 | CAM | Premier League | 12.750 coins | -13.3% |
-| Virgil van Dijk | 90 | CB | Premier League | 9.900 coins | +2.1% |
+| Xavi Simons | 91 | CAM | Premier League | 14.000 coins | -11.9% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
+| Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
 | Jaap Stam | 89 | CB | Premier League | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Alexander Isak | 88 | ST | Premier League | 3.100 coins | +55.6% |
-| Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
+| Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
+| Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
 
 
 ## 📈 Destaques
@@ -67,12 +67,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Xavi Simons (91, CAM)** da Premier League, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Xavi Simons (91, CAM)** da Premier League, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Virgil van Dijk (90, CB) por 9.900 coins é a referência de rating deste recorte.
+- **Defesa:** William Saliba (90, CB) por 11.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Cole Palmer (92, CAM) por 11.500 coins é a referência de rating deste recorte.
 
