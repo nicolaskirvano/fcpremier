@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:05:10.000Z
+pubDatetime: 2026-07-31T13:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.533 coins.
-- **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 10.750 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.783 coins.
+- **Posição mais frequente:** CAM, com 3 cartas.
+- **Faixa real:** 11.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,7 +40,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | -13.2% |
+| Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
 | Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
@@ -49,12 +49,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
-| Sepp van den Berg | 89 | CB | Premier League | 12.000 coins | -11.1% |
+| Sepp van den Berg | 89 | CB | Premier League | 13.000 coins | -8.8% |
+| Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Oscar Bobb | 88 | RW | Premier League | 14.500 coins | +10.9% |
-| Dimitar Berbatov | 87 | ST | Premier League | 11.000 coins | 0% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 10.750 coins | -13% |
-| Nwankwo Kanu | 86 | ST | Premier League | 11.750 coins | -4.2% |
+| Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
+| Xavi Simons | 88 | CAM | Premier League | 14.000 coins | +32.1% |
+| Steve McManaman | 87 | RM | Premier League | 14.750 coins | -1.6% |
 
 
 ## 📈 Destaques

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:05:07.000Z
+pubDatetime: 2026-07-31T13:05:07.000Z
 title: "Mercado EA FC em 31/07: Premier League — Console (PS)"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Patrick Dorgu (84, Premier League), com +58.2% em 24h, a 82k coins no Console (PS)."
+    a: "Viktor Gyökeres (94, Premier League), com +54.4% em 24h, a 301k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Vincent Kompany (91), -49.1% em 24h, a 21k coins."
+    a: "Pedro Neto (88), -49.1% em 24h, a 25k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 141k coins."
+    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 127k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 87 cartas em alta contra 82 em queda (média 2.08%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 80 cartas em alta contra 89 em queda (média 1.79%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **87 subiram**, **82 caíram** (80+ e 5k+ coins), média de **2.08%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **80 subiram**, **89 caíram** (80+ e 5k+ coins), média de **1.79%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Patrick Dorgu (84) **+58.2%** · 🔴 **Maior baixa:** Vincent Kompany (91) **-49.1%**
+> 🟢 **Maior alta:** Viktor Gyökeres (94) **+54.4%** · 🔴 **Maior baixa:** Pedro Neto (88) **-49.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Premier League — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -37,24 +37,24 @@ Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.5% entre as cartas que se moveram; o universo observado reúne 212 cartas.
+- **Amplitude do dia:** 103.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.3% entre as cartas que se moveram; o universo observado reúne 213 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patrick Dorgu | 84 | Premier League | 82k coins | +58.2% | +50% |
-| Ramires | 86 | Premier League | 98k coins | +52.4% | +96.4% |
-| Federico Chiesa | 86 | Premier League | 163k coins | +49.1% | +23.7% |
-| Joelinton | 87 | Premier League | 34k coins | +47.9% | -55.6% |
-| João Pedro | 89 | Premier League | 204k coins | +44.5% | -2.2% |
-| Xavi Simons | 88 | Premier League | 20k coins | +40% | -30% |
-| Ryan Gravenberch | 86 | Premier League | 65k coins | +39% | +32% |
-| Bryan Mbeumo | 87 | Premier League | 38k coins | +37.5% | +45.7% |
-| Tino Livramento | 85 | Premier League | 29k coins | +36.8% | +20.2% |
-| Anthony Gordon | 87 | Premier League | 56k coins | +32.7% | +52% |
+| Viktor Gyökeres | 94 | Premier League | 301k coins | +54.4% | +3.9% |
+| Carlos Tévez | 89 | Premier League | 309k coins | +51.2% | +25.2% |
+| Daniel James | 87 | Premier League | 290k coins | +40.7% | +41.4% |
+| Ramires | 88 | Premier League | 129k coins | +38.7% | -35.2% |
+| Ramires | 88 | Premier League | 170k coins | +38.4% | -33.5% |
+| Anthony Gordon | 88 | Premier League | 192k coins | +36.2% | +14.3% |
+| Adam Wharton | 88 | Premier League | 21k coins | +33.3% | -20.8% |
+| Kobbie Mainoo | 90 | Premier League | 103k coins | +33.3% | +20.5% |
+| Bruno Fernandes | 88 | Premier League | 56k coins | +30.6% | +11.5% |
+| Gianluigi Donnarumma | 95 | Premier League | 230k coins | +30.2% | +64.7% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Patrick Dorgu (84)** subiu **+58.2%** em 24h, a **82k coins** (faixa do dia: 53k–125k). Está +13% acima da média de 7 dias (aquecida).
+- **Viktor Gyökeres (94)** subiu **+54.4%** em 24h, a **301k coins** (faixa do dia: 199k–500k). Está em linha com a média de 7 dias (+2%).
 
-- **Ramires (86)** subiu **+52.4%** em 24h, a **98k coins** (faixa do dia: 70k–156k). Está +47% acima da média de 7 dias (aquecida).
+- **Carlos Tévez (89)** subiu **+51.2%** em 24h, a **309k coins** (faixa do dia: 220k–358k). Está em linha com a média de 7 dias (+3%).
 
-- **Federico Chiesa (86)** subiu **+49.1%** em 24h, a **163k coins** (faixa do dia: 108k–190k). Está em linha com a média de 7 dias (-4%).
+- **Daniel James (87)** subiu **+40.7%** em 24h, a **290k coins** (faixa do dia: 181k–320k). Está +33% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vincent Kompany | 91 | Premier League | 21k coins | -49.1% | -63.6% |
-| Cole Palmer | 92 | Premier League | 26k coins | -48.5% | -95.9% |
-| Jean-Philippe Mateta | 92 | Premier League | 78k coins | -46.9% | +1.2% |
-| Marc Cucurella | 86 | Premier League | 30k coins | -45% | +4.3% |
-| Dominik Szoboszlai | 87 | Premier League | 54k coins | -44.3% | -46.5% |
-| Florian Wirtz | 89 | Premier League | 64k coins | -44% | -71.7% |
-| Jérémy Doku | 86 | Premier League | 299k coins | -33.4% | +50.3% |
-| Eberechi Eze | 86 | Premier League | 66k coins | -31.5% | -54.6% |
-| Cristian Romero | 86 | Premier League | 55k coins | -30.8% | +63% |
-| Martin Ødegaard | 88 | Premier League | 98k coins | -29.9% | +68.6% |
+| Pedro Neto | 88 | Premier League | 25k coins | -49.1% | -31.1% |
+| Elliot Anderson | 86 | Premier League | 22k coins | -41.1% | -57.9% |
+| Jurriën Timber | 87 | Premier League | 22k coins | -36% | -54.2% |
+| Steve McManaman | 89 | Premier League | 22k coins | -35.3% | -46.2% |
+| Jérémy Doku | 86 | Premier League | 286k coins | -34.5% | +35.5% |
+| Jerzy Dudek | 87 | Premier League | 42k coins | -32.7% | +13.5% |
+| Cristian Romero | 86 | Premier League | 42k coins | -29.2% | +25% |
+| Bryan Mbeumo | 87 | Premier League | 36k coins | -29.1% | -26.3% |
+| Jay-Jay Okocha | 88 | Premier League | 25k coins | -28.8% | -29.3% |
+| Omar Marmoush | 87 | Premier League | 37k coins | -28.6% | -0.7% |
 
 
 ### Análise das baixas
 
-- **Vincent Kompany (91)** caiu **-49.1%** em 24h, a **21k coins** (faixa do dia: 16.000–58k). Está -22% abaixo da média de 7 dias (descontada).
+- **Pedro Neto (88)** caiu **-49.1%** em 24h, a **25k coins** (faixa do dia: 15.500–56k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Cole Palmer (92)** caiu **-48.5%** em 24h, a **26k coins** (faixa do dia: 26k–52k). Está -74% abaixo da média de 7 dias (descontada).
+- **Elliot Anderson (86)** caiu **-41.1%** em 24h, a **22k coins** (faixa do dia: 12.500–25k). Está em linha com a média de 7 dias (+4%).
 
-- **Jean-Philippe Mateta (92)** caiu **-46.9%** em 24h, a **78k coins** (faixa do dia: 30k–80k). Está +117% acima da média de 7 dias (aquecida).
+- **Jurriën Timber (87)** caiu **-36%** em 24h, a **22k coins** (faixa do dia: 11.750–24k). Está +13% acima da média de 7 dias (aquecida).
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -101,14 +101,14 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 93 | 141k coins | 150k coins | 82% |
+| Ryan Gravenberch | 93 | 127k coins | 135k coins | 82% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Patrick Dorgu já avançou 58.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Viktor Gyökeres já avançou 54.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Vincent Kompany recuou -49.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Pedro Neto recuou -49.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +120,16 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Patrick Dorgu (84, Premier League), com +58.2% em 24h, a 82k coins no Console (PS).
+Viktor Gyökeres (94, Premier League), com +54.4% em 24h, a 301k coins no Console (PS).
 
 **E a maior queda do dia?**
-Vincent Kompany (91), -49.1% em 24h, a 21k coins.
+Pedro Neto (88), -49.1% em 24h, a 25k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 141k coins.
+Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 127k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 87 cartas em alta contra 82 em queda (média 2.08%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 80 cartas em alta contra 89 em queda (média 1.79%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
