@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T09:28:12.000Z
+pubDatetime: 2026-07-31T10:05:09.000Z
 title: "Investimentos EA FC: Premier League em 31/07 — Console (PS)"
 draft: false
 featured: true
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Robin Roefs | 87 | Premier League | 30k coins | +33.3% | +81.8% | Esticada |
-| Sandro Tonali | 87 | Premier League | 61k coins | +26.2% | +62.5% | Esticada |
-| Marc Guéhi | 88 | Premier League | 15.000 coins | +23.1% | +60% | Esticada |
+| Robin Roefs | 87 | Premier League | 30k coins | +28.6% | +81.8% | Esticada |
+| Sandro Tonali | 87 | Premier League | 65k coins | +30% | +62.5% | Esticada |
 | Kevin Schade | 84 | Premier League | 65k coins | +30% | +52.9% | Esticada |
 | Harvey Barnes | 86 | Premier League | 55k coins | +1.9% | +52.8% | Momentum moderado |
-| Declan Rice | 88 | Premier League | 59k coins | +24.2% | +47.5% | Esticada |
-| Eberechi Eze | 88 | Premier League | 95k coins | +3.4% | +47.2% | Momentum moderado |
+| Anthony Gordon | 87 | Premier League | 56k coins | +32.7% | +52% | Esticada |
+| Eberechi Eze | 88 | Premier League | 95k coins | +19.5% | +52% | Momentum moderado |
+| Declan Rice | 88 | Premier League | 55k coins | +24.2% | +47.5% | Esticada |
 | Dan Ndoye | 84 | Premier League | 50k coins | +4.2% | +46% | Momentum moderado |
-| Bryan Mbeumo | 87 | Premier League | 50k coins | +37.5% | +45.7% | Esticada |
+| Bryan Mbeumo | 87 | Premier League | 38k coins | +37.5% | +45.7% | Esticada |
 | Martin Dúbravka | 86 | Premier League | 55k coins | +12.8% | +38.4% | Momentum moderado |
-| Jurriën Timber | 86 | Premier League | 55k coins | +13.4% | +38.4% | Momentum moderado |
-| Mikkel Damsgaard | 87 | Premier League | 57k coins | +6.5% | +37.3% | Momentum moderado |
-| Raúl Jiménez | 86 | Premier League | 92k coins | +19.9% | +37% | Momentum moderado |
-| Carlos Tévez | 88 | Premier League | 25k coins | +25.3% | +35.2% | Esticada |
-| Mateus Mané | 86 | Premier League | 55k coins | +5.8% | +32.9% | Momentum moderado |
+| Jurriën Timber | 86 | Premier League | 55k coins | +13.4% | +37.5% | Momentum moderado |
+| Raúl Jiménez | 86 | Premier League | 90k coins | +19.9% | +37% | Momentum moderado |
+| Mikkel Damsgaard | 87 | Premier League | 57k coins | +6.5% | +36.5% | Momentum moderado |
+| Mateus Mané | 86 | Premier League | 55k coins | +14.6% | +34.1% | Momentum moderado |
+| Ryan Gravenberch | 86 | Premier League | 65k coins | +39% | +32% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Robin Roefs (87)** — 30k coins, **+81.8% em 7 dias** (+33.3% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Robin Roefs (87)** — 30k coins, **+81.8% em 7 dias** (+28.6% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (87)** — 61k coins, **+62.5% em 7 dias** (+26.2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Marc Guéhi (88)** — 15.000 coins, **+60% em 7 dias** (+23.1% em 24h). Preço -35% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sandro Tonali (87)** — 65k coins, **+62.5% em 7 dias** (+30% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Kevin Schade (84)** — 65k coins, **+52.9% em 7 dias** (+30% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Harvey Barnes (86)** — 55k coins, **+52.8% em 7 dias** (+1.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Anthony Gordon (87)** — 56k coins, **+52% em 7 dias** (+32.7% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

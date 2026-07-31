@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T09:28:13.000Z
+pubDatetime: 2026-07-31T10:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.367 coins.
+- **Preço médio das 15 opções:** 11.533 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 11.000 a 12.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 10.750 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -49,11 +49,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
-| Sepp van den Berg | 89 | CB | Premier League | 12.250 coins | -9.3% |
+| Sepp van den Berg | 89 | CB | Premier League | 12.000 coins | -11.1% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
+| Oscar Bobb | 88 | RW | Premier League | 14.500 coins | +10.9% |
 | Dimitar Berbatov | 87 | ST | Premier League | 11.000 coins | 0% |
-| Ole Gunnar Solskjær | 86 | ST | Premier League | 11.000 coins | -13% |
-| Jamie Carragher | 86 | CB | Premier League | 11.500 coins | -5.8% |
+| Ole Gunnar Solskjær | 86 | ST | Premier League | 10.750 coins | -13% |
 | Nwankwo Kanu | 86 | ST | Premier League | 11.750 coins | -4.2% |
 
 
