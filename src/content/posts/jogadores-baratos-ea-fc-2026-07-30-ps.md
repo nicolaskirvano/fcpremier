@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:05:10.000Z
+pubDatetime: 2026-07-31T01:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.233 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 2.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.430 coins.
+- **Posição mais frequente:** CAM, com 3 cartas.
+- **Faixa real:** 2.500 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,16 +45,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
-| Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Erling Haaland | 90 | ST | Premier League | 14.750 coins | -7% |
+| Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 12.000 coins | +8.5% |
-| Sepp van den Berg | 89 | CB | Premier League | 12.250 coins | +13% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 11.250 coins | -11.8% |
+| Sepp van den Berg | 89 | CB | Premier League | 13.250 coins | +15.2% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14.500 coins | +7.4% |
-| William Saliba | 87 | CB | Premier League | 2.000 coins | 0% |
+| Oscar Bobb | 88 | RW | Premier League | 13.750 coins | +20.8% |
+| William Saliba | 87 | CB | Premier League | 2.500 coins | +9.1% |
+| Bruno Fernandes | 87 | CAM | Premier League | 2.700 coins | 0% |
 
 
 ## 📈 Destaques

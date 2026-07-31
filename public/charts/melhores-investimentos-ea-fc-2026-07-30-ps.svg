@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maxence Lacroix</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.9%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">John Arne Riise</text>
-<rect x="285" y="153" width="444" height="28" rx="7" fill="#22c55e"/>
-<text x="739" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+82.3%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ben Davies</text>
+<rect x="285" y="153" width="399" height="28" rx="7" fill="#22c55e"/>
+<text x="694" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+71.2%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cesc Fàbregas</text>
-<rect x="285" y="211" width="346" height="28" rx="7" fill="#22c55e"/>
-<text x="641" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.0%</text>
+<rect x="285" y="211" width="386" height="28" rx="7" fill="#22c55e"/>
+<text x="681" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+68.9%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dan Burn</text>
-<rect x="285" y="269" width="321" height="28" rx="7" fill="#22c55e"/>
-<text x="616" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rayan Cherki</text>
-<rect x="285" y="327" width="313" height="28" rx="7" fill="#22c55e"/>
-<text x="608" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ledley King</text>
-<rect x="285" y="385" width="270" height="28" rx="7" fill="#22c55e"/>
-<text x="565" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<rect x="285" y="269" width="344" height="28" rx="7" fill="#22c55e"/>
+<text x="639" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+61.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Malo Gusto</text>
+<rect x="285" y="327" width="282" height="28" rx="7" fill="#22c55e"/>
+<text x="577" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Amine Adli</text>
+<rect x="285" y="385" width="262" height="28" rx="7" fill="#22c55e"/>
+<text x="557" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.7%</text>
 </svg>

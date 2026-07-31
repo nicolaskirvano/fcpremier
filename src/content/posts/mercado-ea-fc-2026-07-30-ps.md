@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:05:08.000Z
+pubDatetime: 2026-07-31T01:05:07.000Z
 title: "Mercado EA FC em 30/07: Premier League — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,22 @@ tags:
 description: "Dados de 30/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Hugo Ekitiké (86, Premier League), com +47.5% em 24h, a 30k coins no Console (PS)."
+    a: "Moisés Caicedo (88, Premier League), com +59.8% em 24h, a 68k coins no Console (PS)."
   - q: "E a maior queda do dia?"
     a: "Cole Palmer (92), -48.5% em 24h, a 26k coins."
+  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
+    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 143k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 77 cartas em alta contra 91 em queda (média 3.69%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 73 cartas em alta contra 70 em queda (média 3.58%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **30/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **77 valorizações** contra **91 quedas** entre as cartas relevantes, com média de **3.69%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **30/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **73 valorizações** contra **70 quedas** entre as cartas relevantes, com média de **3.58%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Hugo Ekitiké (86) **+47.5%** · 🔴 **Maior baixa:** Cole Palmer (92) **-48.5%**
+> 🟢 **Maior alta:** Moisés Caicedo (88) **+59.8%** · 🔴 **Maior baixa:** Cole Palmer (92) **-48.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Premier League — Console (PS)](/charts/mercado-ea-fc-2026-07-30-ps.svg)
 
@@ -35,24 +37,24 @@ Resumo de **30/07/2026** no Console (PS): mercado **em alta** — predominam as 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 96.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.8% entre as cartas que se moveram; o universo observado reúne 210 cartas.
+- **Amplitude do dia:** 108.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.0% entre as cartas que se moveram; o universo observado reúne 184 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Hugo Ekitiké | 86 | Premier League | 30k coins | +47.5% | +11.3% |
-| Andrew Robertson | 86 | Premier League | 297k coins | +43.5% | +11.7% |
-| Ramires | 88 | Premier League | 158k coins | +42.3% | -43.1% |
-| Maxence Lacroix | 87 | Premier League | 170k coins | +39.3% | +88.9% |
-| Vincent Kompany | 91 | Premier League | 26k coins | +35.5% | -54.8% |
-| Igor Jesus | 87 | Premier League | 33k coins | +33.3% | -8.6% |
-| Dominik Szoboszlai | 90 | Premier League | 120k coins | +32.4% | +23.9% |
-| Jérémy Doku | 84 | Premier League | 66k coins | +32.3% | +20.2% |
-| Lucas Paquetá | 84 | Premier League | 64k coins | +31.7% | +46.2% |
-| Riccardo Calafiori | 90 | Premier League | 600k coins | +27.7% | +46.3% |
+| Moisés Caicedo | 88 | Premier League | 68k coins | +59.8% | +52.1% |
+| Daniel James | 87 | Premier League | 290k coins | +48.7% | +42.9% |
+| Wilson Odobert | 87 | Premier League | 30k coins | +48.5% | +7.9% |
+| Jerzy Dudek | 87 | Premier League | 42k coins | +40.8% | +72.4% |
+| Mohamed Salah | 92 | Premier League | 239k coins | +37.1% | -2% |
+| Nwankwo Kanu | 87 | Premier League | 27k coins | +36.6% | -15.8% |
+| Maxence Lacroix | 87 | Premier League | 180k coins | +29.5% | +85.6% |
+| Ben Davies | 84 | Premier League | 60k coins | +28% | +71.2% |
+| Granit Xhaka | 89 | Premier League | 28k coins | +27.5% | -42% |
+| Ramires | 88 | Premier League | 170k coins | +27.2% | -33.5% |
 
 
 ### Análise das altas
@@ -61,11 +63,11 @@ Resumo de **30/07/2026** no Console (PS): mercado **em alta** — predominam as 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Hugo Ekitiké (86)** subiu **+47.5%** em 24h, a **30k coins** (faixa do dia: 13.000–41k). Está em linha com a média de 7 dias (+3%).
+- **Moisés Caicedo (88)** subiu **+59.8%** em 24h, a **68k coins** (faixa do dia: 45k–95k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Andrew Robertson (86)** subiu **+43.5%** em 24h, a **297k coins** (faixa do dia: 200k–297k). Está +20% acima da média de 7 dias (aquecida).
+- **Daniel James (87)** subiu **+48.7%** em 24h, a **290k coins** (faixa do dia: 163k–430k). Está +37% acima da média de 7 dias (aquecida).
 
-- **Ramires (88)** subiu **+42.3%** em 24h, a **158k coins** (faixa do dia: 90k–158k). Está em linha com a média de 7 dias (-3%).
+- **Wilson Odobert (87)** subiu **+48.5%** em 24h, a **30k coins** (faixa do dia: 20k–38k). Está +12% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
@@ -73,29 +75,38 @@ Resumo de **30/07/2026** no Console (PS): mercado **em alta** — predominam as 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Cole Palmer | 92 | Premier League | 26k coins | -48.5% | -96.4% |
-| Morgan Rogers | 87 | Premier League | 49k coins | -45.3% | -49% |
-| Pedro Neto | 88 | Premier League | 35k coins | -38.1% | -21.8% |
-| Crysencio Summerville | 86 | Premier League | 46k coins | -35.7% | -8.2% |
-| Declan Rice | 89 | Premier League | 49k coins | -33.1% | -50% |
-| Eden Hazard | 88 | Premier League | 154k coins | -32.2% | -52.6% |
-| Matheus Cunha | 87 | Premier League | 90k coins | -30.8% | -16.7% |
-| Malick Thiaw | 86 | Premier League | 60k coins | -29.9% | -31.1% |
-| Jeremie Frimpong | 86 | Premier League | 70k coins | -29.1% | -20.6% |
-| Senne Lammens | 88 | Premier League | 70k coins | -29% | -3.5% |
+| Rayan Cherki | 87 | Premier League | 64k coins | -48% | +26.7% |
+| Jean-Philippe Mateta | 92 | Premier League | 39k coins | -47.4% | -5.3% |
+| Sandro Tonali | 91 | Premier League | 57k coins | -37.4% | -49.1% |
+| Pascal Groß | 87 | Premier League | 20k coins | -36.7% | -60.1% |
+| Eberechi Eze | 88 | Premier League | 58k coins | -32.3% | -0.9% |
+| João Pedro | 87 | Premier League | 50k coins | -26.3% | +23.2% |
+| Eden Hazard | 90 | Premier League | 317k coins | -25.8% | -42.4% |
+| Tijjani Reijnders | 93 | Premier League | 139k coins | -25.5% | -8.7% |
+| Dominik Szoboszlai | 87 | Premier League | 145k coins | -23.5% | +23.8% |
 
 
 ### Análise das baixas
 
-- **Cole Palmer (92)** caiu **-48.5%** em 24h, a **26k coins** (faixa do dia: 26k–52k). Está -83% abaixo da média de 7 dias (descontada).
+- **Cole Palmer (92)** caiu **-48.5%** em 24h, a **26k coins** (faixa do dia: 26k–52k). Está -82% abaixo da média de 7 dias (descontada).
 
-- **Morgan Rogers (87)** caiu **-45.3%** em 24h, a **49k coins** (faixa do dia: 49k–126k). Está -40% abaixo da média de 7 dias (descontada).
+- **Rayan Cherki (87)** caiu **-48%** em 24h, a **64k coins** (faixa do dia: 63k–190k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Pedro Neto (88)** caiu **-38.1%** em 24h, a **35k coins** (faixa do dia: 35k–65k). Está em linha com a média de 7 dias (+2%).
+- **Jean-Philippe Mateta (92)** caiu **-47.4%** em 24h, a **39k coins** (faixa do dia: 30k–80k). Está +9% acima da média de 7 dias (aquecida).
+
+
+## 🔮 O que o modelo prevê para as próximas 24h
+
+Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
+
+| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
+| --- | --- | --- | --- | --- |
+| Ryan Gravenberch | 93 | 143k coins | 152k coins | 82% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Hugo Ekitiké já avançou 47.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Moisés Caicedo já avançou 59.8% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Cole Palmer recuou -48.5%; confirme estabilização e liquidez.
 
@@ -109,13 +120,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Hugo Ekitiké (86, Premier League), com +47.5% em 24h, a 30k coins no Console (PS).
+Moisés Caicedo (88, Premier League), com +59.8% em 24h, a 68k coins no Console (PS).
 
 **E a maior queda do dia?**
 Cole Palmer (92), -48.5% em 24h, a 26k coins.
 
+**Qual carta tem mais chance de subir amanhã no EA FC?**
+Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 143k coins.
+
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 77 cartas em alta contra 91 em queda (média 3.69%).
+Hoje o mercado está em alta — predominam as valorizações, com 73 cartas em alta contra 70 em queda (média 3.58%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
