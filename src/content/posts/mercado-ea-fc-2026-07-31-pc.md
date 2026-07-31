@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:05:17.000Z
+pubDatetime: 2026-07-31T22:05:17.000Z
 title: "Mercado EA FC em 31/07: Premier League — PC"
 draft: false
 featured: true
@@ -13,22 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Elliot Anderson (89, Premier League), com +50.9% em 24h, a 160k coins no PC."
+    a: "Jérémy Doku (91, Premier League), com +55.6% em 24h, a 380k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Diogo Dalot (87), -48.4% em 24h, a 77k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 45k coins."
+    a: "Lewis Miley (83), -47.1% em 24h, a 50k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 55 cartas em alta contra 79 em queda (média 4.72%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 47 cartas em alta contra 82 em queda (média -4.59%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**31/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **55 subiram**, **79 caíram** (80+ e 5k+ coins), média de **4.72%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**31/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **47 subiram**, **82 caíram** (80+ e 5k+ coins), média de **-4.59%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Elliot Anderson (89) **+50.9%** · 🔴 **Maior baixa:** Diogo Dalot (87) **-48.4%**
+> 🟢 **Maior alta:** Jérémy Doku (91) **+55.6%** · 🔴 **Maior baixa:** Lewis Miley (83) **-47.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Premier League — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
 
@@ -37,24 +35,24 @@ Hoje (**31/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 99.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 41.0% entre as cartas que se moveram; o universo observado reúne 207 cartas.
+- **Amplitude do dia:** 102.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 36.4% entre as cartas que se moveram; o universo observado reúne 202 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Elliot Anderson | 89 | Premier League | 160k coins | +50.9% | +96.3% |
-| Gianluigi Donnarumma | 95 | Premier League | 460k coins | +48.5% | +32.3% |
-| Cesc Fàbregas | 91 | Premier League | 350k coins | +47.7% | -9.3% |
-| Marc Cucurella | 86 | Premier League | 49k coins | +45.7% | +67.2% |
-| Estêvão | 91 | Premier League | 598k coins | +44.7% | -9.7% |
-| Eberechi Eze | 88 | Premier League | 76k coins | +43.4% | -11.1% |
-| Ledley King | 86 | Premier League | 23k coins | +41.5% | +31.4% |
-| Jérémy Doku | 91 | Premier League | 300k coins | +29.6% | -6.7% |
-| Steve McManaman | 89 | Premier League | 38k coins | +27% | +2.6% |
-| Bernardo Silva | 86 | Premier League | 60k coins | +26.3% | +9.1% |
+| Jérémy Doku | 91 | Premier League | 380k coins | +55.6% | +16.7% |
+| Nwankwo Kanu | 87 | Premier League | 50k coins | +50.4% | +22% |
+| Ramires | 86 | Premier League | 113k coins | +48.1% | +56.9% |
+| Bryan Mbeumo | 87 | Premier League | 64k coins | +43.5% | +62.8% |
+| Erling Haaland | 91 | Premier League | 286k coins | +43% | -10.6% |
+| Lewis Miley | 89 | Premier League | 20k coins | +41.4% | -65.3% |
+| Jerzy Dudek | 87 | Premier League | 44k coins | +39.5% | +47.5% |
+| Ledley King | 86 | Premier League | 24k coins | +36.8% | +36.8% |
+| William Saliba | 94 | Premier League | 546k coins | +36.6% | +11.2% |
+| Sandro Tonali | 87 | Premier League | 56k coins | +28.3% | -10.5% |
 
 
 ### Análise das altas
@@ -63,52 +61,43 @@ Hoje (**31/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Elliot Anderson (89)** subiu **+50.9%** em 24h, a **160k coins** (faixa do dia: 98k–160k). Está +42% acima da média de 7 dias (aquecida).
+- **Jérémy Doku (91)** subiu **+55.6%** em 24h, a **380k coins** (faixa do dia: 270k–420k). Está +25% acima da média de 7 dias (aquecida).
 
-- **Gianluigi Donnarumma (95)** subiu **+48.5%** em 24h, a **460k coins** (faixa do dia: 240k–460k). Está +31% acima da média de 7 dias (aquecida).
+- **Nwankwo Kanu (87)** subiu **+50.4%** em 24h, a **50k coins** (faixa do dia: 31k–50k). Está +90% acima da média de 7 dias (aquecida).
 
-- **Cesc Fàbregas (91)** subiu **+47.7%** em 24h, a **350k coins** (faixa do dia: 193k–435k). Está +22% acima da média de 7 dias (aquecida).
+- **Ramires (86)** subiu **+48.1%** em 24h, a **113k coins** (faixa do dia: 81k–200k). Está +68% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diogo Dalot | 87 | Premier League | 77k coins | -48.4% | -24.3% |
-| Lewis Miley | 83 | Premier League | 48k coins | -48.4% | -37.7% |
-| Alejandro Garnacho | 89 | Premier League | 180k coins | -45% | -43.2% |
-| Cody Gakpo | 89 | Premier League | 116k coins | -44.5% | -33.1% |
-| Xavi Simons | 88 | Premier League | 36k coins | -43.9% | -12.7% |
-| Micky van de Ven | 87 | Premier League | 1.40M coins | -41.7% | -11.3% |
-| Jurriën Timber | 87 | Premier League | 25k coins | -40.8% | -30.1% |
-| Emiliano Martínez | 88 | Premier League | 32k coins | -38.8% | -24.1% |
-| Lucas Paquetá | 84 | Premier League | 42k coins | -38.7% | -53.1% |
-| Yaya Touré | 93 | Premier League | 1.55M coins | -35.4% | -29.5% |
+| Lewis Miley | 83 | Premier League | 50k coins | -47.1% | -35.1% |
+| Yaya Touré | 88 | Premier League | 750k coins | -46.4% | -21.1% |
+| Lucas Paquetá | 84 | Premier League | 42k coins | -44% | -53.1% |
+| Yaya Touré | 93 | Premier League | 1.55M coins | -40.4% | -29.5% |
+| Bruno Fernandes | 89 | Premier League | 48k coins | -40.4% | -50.5% |
+| Joshua Zirkzee | 87 | Premier League | 32k coins | -35% | +62.5% |
+| Trai Hume | 84 | Premier League | 35k coins | -31.4% | -30% |
+| Gabriel Martinelli | 87 | Premier League | 110k coins | -31.2% | -27.6% |
+| Leny Yoro | 86 | Premier League | 94k coins | -23.8% | +56.1% |
+| Hugo Ekitiké | 87 | Premier League | 49k coins | -22.8% | -34.7% |
 
 
 ### Análise das baixas
 
-- **Diogo Dalot (87)** caiu **-48.4%** em 24h, a **77k coins** (faixa do dia: 77k–128k). Está -28% abaixo da média de 7 dias (descontada).
+- **Lewis Miley (83)** caiu **-47.1%** em 24h, a **50k coins** (faixa do dia: 43k–100k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Lewis Miley (83)** caiu **-48.4%** em 24h, a **48k coins** (faixa do dia: 48k–100k). Está -36% abaixo da média de 7 dias (descontada).
+- **Yaya Touré (88)** caiu **-46.4%** em 24h, a **750k coins** (faixa do dia: 750k–1.40M). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Alejandro Garnacho (89)** caiu **-45%** em 24h, a **180k coins** (faixa do dia: 125k–380k). Está -44% abaixo da média de 7 dias (descontada).
-
-
-## 🔮 Projeções do modelo para 24h
-
-Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
-
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Mohamed Salah | 91 | 45k coins | 46k coins | 61% |
+- **Lucas Paquetá (84)** caiu **-44%** em 24h, a **42k coins** (faixa do dia: 42k–88k). Está -39% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Elliot Anderson já avançou 50.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jérémy Doku já avançou 55.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Diogo Dalot recuou -48.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Lewis Miley recuou -47.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Elliot Anderson (89, Premier League), com +50.9% em 24h, a 160k coins no PC.
+Jérémy Doku (91, Premier League), com +55.6% em 24h, a 380k coins no PC.
 
 **E a maior queda do dia?**
-Diogo Dalot (87), -48.4% em 24h, a 77k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 45k coins.
+Lewis Miley (83), -47.1% em 24h, a 50k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 55 cartas em alta contra 79 em queda (média 4.72%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 47 cartas em alta contra 82 em queda (média -4.59%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

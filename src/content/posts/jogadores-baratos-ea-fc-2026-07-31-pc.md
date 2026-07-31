@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:05:19.000Z
+pubDatetime: 2026-07-31T22:05:20.000Z
 title: "Jogadores baratos EA FC: Premier League em 31/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 31/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/07/2026)?"
-    a: "Cole Palmer (92, Premier League) aparece como melhor custo-benefício, a 11.500 coins no PC."
+    a: "Erling Haaland (92, Premier League) aparece como melhor custo-benefício, a 11.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Cole Palmer (92) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Erling Haaland (92) por apenas 11.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Premier League em 31/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-31-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.630 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 1.700 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.420 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 2.600 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
+| Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
 | Cole Palmer | 92 | CAM | Premier League | 11.500 coins | 0% |
 | Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
-| Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
+| Xavi Simons | 91 | CAM | Premier League | 14.750 coins | +9.1% |
+| Erling Haaland | 90 | ST | Premier League | 10.000 coins | -13.6% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
+| Alisson | 89 | GK | Premier League | 2.600 coins | +36.7% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 4.200 coins | +30.3% |
 | Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Jaap Stam | 89 | CB | Premier League | 11.250 coins | 0% |
-| Bukayo Saka | 88 | RW | Premier League | 1.700 coins | +20% |
-| Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
-| Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
-| Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
 
 
 ## 📈 Destaques
+
+- **Erling Haaland (92, ST)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Cole Palmer (92, CAM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Florian Wirtz (92, CAM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Erling Haaland (92, ST)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins**
 
-- **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Mohammed Kudus (90, RW)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Xavi Simons (91, CAM)** da Premier League, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
@@ -95,7 +95,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/07/2026)?**  
-Cole Palmer (92, Premier League) aparece como melhor custo-benefício, a 11.500 coins no PC.
+Erling Haaland (92, Premier League) aparece como melhor custo-benefício, a 11.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
