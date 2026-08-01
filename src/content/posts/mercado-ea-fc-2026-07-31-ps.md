@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:05:07.000Z
+pubDatetime: 2026-08-01T01:05:07.000Z
 title: "Mercado EA FC em 31/07: Premier League — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Hugo Ekitiké (87, Premier League), com +49.1% em 24h, a 75k coins no Console (PS)."
+    a: "Tino Livramento (85, Premier League), com +50% em 24h, a 30k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Cody Gakpo (89), -46.5% em 24h, a 72k coins."
+    a: "Florian Wirtz (90), -49.5% em 24h, a 52k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 54 cartas em alta contra 85 em queda (média -3.84%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 54 cartas em alta contra 94 em queda (média -3.26%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **54 subiram**, **85 caíram** (80+ e 5k+ coins), média de **-3.84%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **54 subiram**, **94 caíram** (80+ e 5k+ coins), média de **-3.26%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Hugo Ekitiké (87) **+49.1%** · 🔴 **Maior baixa:** Cody Gakpo (89) **-46.5%**
+> 🟢 **Maior alta:** Tino Livramento (85) **+50%** · 🔴 **Maior baixa:** Florian Wirtz (90) **-49.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Premier League — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **vendedor** 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 95.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.8% entre as cartas que se moveram; o universo observado reúne 185 cartas.
+- **Amplitude do dia:** 99.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 36.5% entre as cartas que se moveram; o universo observado reúne 196 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Hugo Ekitiké | 87 | Premier League | 75k coins | +49.1% | +65.7% |
-| Ryan Gravenberch | 87 | Premier League | 45k coins | +48% | +75.7% |
-| Florian Wirtz | 89 | Premier League | 107k coins | +42.5% | 0% |
-| Carlos Tévez | 89 | Premier League | 349k coins | +40.7% | +34.3% |
-| Granit Xhaka | 89 | Premier League | 38k coins | +33.3% | +11.9% |
-| Joelinton | 87 | Premier League | 56k coins | +32.6% | +19.6% |
-| Martin Ødegaard | 87 | Premier League | 170k coins | +31.9% | +32.9% |
-| Joshua Zirkzee | 87 | Premier League | 31k coins | +31.6% | +13% |
-| Virgil van Dijk | 95 | Premier League | 730k coins | +31.3% | +54.5% |
-| Matheus Cunha | 87 | Premier League | 191k coins | +30% | +76.9% |
+| Tino Livramento | 85 | Premier League | 30k coins | +50% | +28.1% |
+| Leny Yoro | 86 | Premier League | 61k coins | +38.4% | -23.4% |
+| Gabriel | 89 | Premier League | 58k coins | +36.4% | +75% |
+| Eberechi Eze | 88 | Premier League | 66k coins | +35.8% | +35.8% |
+| Martin Ødegaard | 87 | Premier League | 192k coins | +34.7% | +36.6% |
+| Florian Wirtz | 89 | Premier League | 98k coins | +34.2% | +1.6% |
+| Marcos Senesi | 88 | Premier League | 22k coins | +31.3% | +18.9% |
+| Yaya Touré | 88 | Premier League | 899k coins | +25% | +34.2% |
+| Anthony Gordon | 90 | Premier League | 394k coins | +23.9% | -21.5% |
+| Steve McManaman | 89 | Premier League | 34k coins | +23.9% | -17.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está em clima **vendedor** 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Hugo Ekitiké (87)** subiu **+49.1%** em 24h, a **75k coins** (faixa do dia: 52k–94k). Está +26% acima da média de 7 dias (aquecida).
+- **Tino Livramento (85)** subiu **+50%** em 24h, a **30k coins** (faixa do dia: 18.250–38k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Ryan Gravenberch (87)** subiu **+48%** em 24h, a **45k coins** (faixa do dia: 21k–66k). Está +15% acima da média de 7 dias (aquecida).
+- **Leny Yoro (86)** subiu **+38.4%** em 24h, a **61k coins** (faixa do dia: 22k–75k). Está em linha com a média de 7 dias (-3%).
 
-- **Florian Wirtz (89)** subiu **+42.5%** em 24h, a **107k coins** (faixa do dia: 36k–123k). Está +50% acima da média de 7 dias (aquecida).
+- **Gabriel (89)** subiu **+36.4%** em 24h, a **58k coins** (faixa do dia: 33k–110k). Está +24% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Cody Gakpo | 89 | Premier League | 72k coins | -46.5% | -15.6% |
-| Bruno Fernandes | 88 | Premier League | 44k coins | -43.9% | -2.2% |
-| Florian Wirtz | 90 | Premier League | 52k coins | -38.8% | -21.2% |
-| Declan Rice | 94 | Premier League | 76k coins | -36.7% | -22.4% |
-| Martin Ødegaard | 88 | Premier League | 110k coins | -35.3% | -14.7% |
-| Igor Jesus | 87 | Premier League | 35k coins | -34.4% | -16% |
-| Lucas Paquetá | 84 | Premier League | 45k coins | -30.8% | -8.2% |
-| Malo Gusto | 84 | Premier League | 68k coins | -30.1% | -6.8% |
-| Yaya Touré | 93 | Premier League | 971k coins | -29.8% | +4.7% |
-| Patrick Dorgu | 84 | Premier League | 45k coins | -29.1% | -27.4% |
+| Florian Wirtz | 90 | Premier League | 52k coins | -49.5% | -16.1% |
+| Marc Guéhi | 88 | Premier League | 26k coins | -45.5% | -34.1% |
+| Declan Rice | 94 | Premier League | 76k coins | -42.9% | -17.4% |
+| Cesc Fàbregas | 91 | Premier League | 197k coins | -40.9% | -8.7% |
+| Ryan Christie | 90 | Premier League | 29k coins | -40.5% | -40.5% |
+| Sandro Tonali | 91 | Premier League | 36k coins | -36.4% | -27.5% |
+| Raúl Jiménez | 86 | Premier League | 52k coins | -33.1% | +18.2% |
+| Rayan Cherki | 87 | Premier League | 44k coins | -30.5% | +16.3% |
+| Sandro Tonali | 87 | Premier League | 47k coins | -30% | +19.5% |
+| Ramires | 88 | Premier League | 142k coins | -29.6% | -29.6% |
 
 
 ### Análise das baixas
 
-- **Cody Gakpo (89)** caiu **-46.5%** em 24h, a **72k coins** (faixa do dia: 60k–200k). Está -28% abaixo da média de 7 dias (descontada).
+- **Florian Wirtz (90)** caiu **-49.5%** em 24h, a **52k coins** (faixa do dia: 50k–107k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Bruno Fernandes (88)** caiu **-43.9%** em 24h, a **44k coins** (faixa do dia: 43k–83k). Está -27% abaixo da média de 7 dias (descontada).
+- **Marc Guéhi (88)** caiu **-45.5%** em 24h, a **26k coins** (faixa do dia: 13.500–44k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Florian Wirtz (90)** caiu **-38.8%** em 24h, a **52k coins** (faixa do dia: 50k–108k). Está -18% abaixo da média de 7 dias (descontada).
+- **Declan Rice (94)** caiu **-42.9%** em 24h, a **76k coins** (faixa do dia: 76k–134k). Está -34% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Hugo Ekitiké já avançou 49.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Tino Livramento já avançou 50% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Cody Gakpo recuou -46.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Florian Wirtz recuou -49.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Hugo Ekitiké (87, Premier League), com +49.1% em 24h, a 75k coins no Console (PS).
+Tino Livramento (85, Premier League), com +50% em 24h, a 30k coins no Console (PS).
 
 **E a maior queda do dia?**
-Cody Gakpo (89), -46.5% em 24h, a 72k coins.
+Florian Wirtz (90), -49.5% em 24h, a 52k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 54 cartas em alta contra 85 em queda (média -3.84%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 54 cartas em alta contra 94 em queda (média -3.26%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

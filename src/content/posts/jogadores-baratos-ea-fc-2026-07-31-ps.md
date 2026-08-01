@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:05:10.000Z
+pubDatetime: 2026-08-01T01:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.360 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 2.900 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.960 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 2.900 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,16 +45,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
-| William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
-| Alisson | 89 | GK | Premier League | 3.000 coins | +50% |
-| Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
+| William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
+| Alisson | 89 | GK | Premier League | 2.900 coins | +50% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
+| Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
+| Sepp van den Berg | 89 | CB | Premier League | 12.750 coins | +7.7% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 13.750 coins | +16.7% |
 | Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
-| Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Vincent Kompany | 88 | CB | Premier League | 14.500 coins | -1.6% |
-| William Saliba | 87 | CB | Premier League | 2.900 coins | +36.4% |
+| Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
 
 
 ## 📈 Destaques
@@ -63,7 +63,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Erling Haaland (92, ST)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins**
 
 - **Mohammed Kudus (90, RW)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
