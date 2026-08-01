@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:05:18.000Z
+pubDatetime: 2026-08-01T22:05:17.000Z
 title: "Mercado EA FC em 01/08: Premier League — PC"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Mateo Kovačić (91, Premier League), com +57.1% em 24h, a 43k coins no PC."
+    a: "Murillo (87, Premier League), com +58.7% em 24h, a 123k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Eden Hazard (88), -48.9% em 24h, a 94k coins."
+    a: "Cody Gakpo (89), -44.4% em 24h, a 94k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 23k coins."
+    a: "Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 28k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 69 cartas em alta contra 68 em queda (média 5.64%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 67 cartas em alta contra 87 em queda (média 3.77%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **69 subiram** e **68 caíram**, com variação média de **5.64%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **67 subiram** e **87 caíram**, com variação média de **3.77%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Mateo Kovačić (91) **+57.1%** · 🔴 **Maior baixa:** Eden Hazard (88) **-48.9%**
+> 🟢 **Maior alta:** Murillo (87) **+58.7%** · 🔴 **Maior baixa:** Cody Gakpo (89) **-44.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Premier League — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -37,24 +37,24 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.4% entre as cartas que se moveram; o universo observado reúne 226 cartas.
+- **Amplitude do dia:** 103.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.5% entre as cartas que se moveram; o universo observado reúne 242 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mateo Kovačić | 91 | Premier League | 43k coins | +57.1% | +37.5% |
-| Jaap Stam | 87 | Premier League | 210k coins | +55.9% | -41.1% |
-| Igor Jesus | 87 | Premier League | 24k coins | +53.1% | +48.5% |
-| João Gomes | 84 | Premier League | 50k coins | +50.4% | +25% |
-| Senne Lammens | 88 | Premier League | 80k coins | +45.6% | +11.7% |
-| Lewis Miley | 83 | Premier League | 69k coins | +43.8% | +50% |
-| Jurriën Timber | 87 | Premier League | 28k coins | +39.2% | +1.9% |
-| Virgil van Dijk | 91 | Premier League | 1.20M coins | +34.8% | +65.5% |
-| Morgan Rogers | 87 | Premier League | 94k coins | +33.3% | -32.9% |
-| Joško Gvardiol | 86 | Premier League | 66k coins | +33% | +20.9% |
+| Murillo | 87 | Premier League | 123k coins | +58.7% | +51.9% |
+| Robin Roefs | 87 | Premier League | 37k coins | +55.2% | +63.7% |
+| Freddie Ljungberg | 87 | Premier League | 28k coins | +53.6% | +92.7% |
+| Tijjani Reijnders | 87 | Premier League | 150k coins | +51.5% | +50% |
+| Peter Crouch | 87 | Premier League | 300k coins | +50% | +30.4% |
+| Anthony Gordon | 88 | Premier League | 190k coins | +46.2% | -33.8% |
+| Trai Hume | 84 | Premier League | 50k coins | +42.9% | +8.1% |
+| Gabriel Martinelli | 87 | Premier League | 152k coins | +38.2% | +47.6% |
+| Jean-Philippe Mateta | 84 | Premier League | 45k coins | +36.1% | 0% |
+| Hugo Ekitiké | 87 | Premier League | 75k coins | +35.7% | +40% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Mateo Kovačić (91)** subiu **+57.1%** em 24h, a **43k coins** (faixa do dia: 28k–49k). Está em linha com a média de 7 dias (+4%).
+- **Murillo (87)** subiu **+58.7%** em 24h, a **123k coins** (faixa do dia: 78k–210k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Jaap Stam (87)** subiu **+55.9%** em 24h, a **210k coins** (faixa do dia: 114k–278k). Está -20% abaixo da média de 7 dias (descontada).
+- **Robin Roefs (87)** subiu **+55.2%** em 24h, a **37k coins** (faixa do dia: 22k–40k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Igor Jesus (87)** subiu **+53.1%** em 24h, a **24k coins** (faixa do dia: 13.000–41k). Está -23% abaixo da média de 7 dias (descontada).
+- **Freddie Ljungberg (87)** subiu **+53.6%** em 24h, a **28k coins** (faixa do dia: 16.750–28k). Está +47% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Eden Hazard | 88 | Premier League | 94k coins | -48.9% | -64.6% |
-| Kevin Schade | 88 | Premier League | 34k coins | -48.5% | -34% |
-| Declan Rice | 89 | Premier League | 59k coins | -39.8% | -46.4% |
-| Micky van de Ven | 90 | Premier League | 1.20M coins | -37.4% | -70.2% |
+| Cody Gakpo | 89 | Premier League | 94k coins | -44.4% | -43.1% |
+| Bruno Fernandes | 88 | Premier League | 112k coins | -41.3% | -14.1% |
+| Declan Rice | 89 | Premier League | 75k coins | -41.2% | -48.2% |
+| Federico Chiesa | 86 | Premier League | 168k coins | -40% | -31.1% |
+| Jay-Jay Okocha | 88 | Premier League | 51k coins | -40% | +51.6% |
+| Diogo Dalot | 87 | Premier League | 94k coins | -39.7% | +20.6% |
+| Wilson Odobert | 87 | Premier League | 20k coins | -38.5% | -40.3% |
+| Micky van de Ven | 90 | Premier League | 1.20M coins | -36.8% | -68.4% |
+| Rayan Aït-Nouri | 90 | Premier League | 64k coins | -35.8% | -12% |
 | Mohamed Salah | 92 | Premier League | 123k coins | -34.9% | -52.1% |
-| William Saliba | 94 | Premier League | 355k coins | -34.1% | +19.7% |
-| David Raya | 93 | Premier League | 46k coins | -31.9% | -16.8% |
-| Estêvão | 88 | Premier League | 26k coins | -30.2% | -54.4% |
-| Granit Xhaka | 89 | Premier League | 60k coins | -29.6% | -21.2% |
-| Tim Cahill | 89 | Premier League | 54k coins | -28.2% | +34.9% |
 
 
 ### Análise das baixas
 
-- **Eden Hazard (88)** caiu **-48.9%** em 24h, a **94k coins** (faixa do dia: 94k–370k). Está -67% abaixo da média de 7 dias (descontada).
+- **Cody Gakpo (89)** caiu **-44.4%** em 24h, a **94k coins** (faixa do dia: 94k–170k). Está -44% abaixo da média de 7 dias (descontada).
 
-- **Kevin Schade (88)** caiu **-48.5%** em 24h, a **34k coins** (faixa do dia: 26k–50k). Está -18% abaixo da média de 7 dias (descontada).
+- **Bruno Fernandes (88)** caiu **-41.3%** em 24h, a **112k coins** (faixa do dia: 50k–124k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Declan Rice (89)** caiu **-39.8%** em 24h, a **59k coins** (faixa do dia: 40k–140k). Está -39% abaixo da média de 7 dias (descontada).
+- **Declan Rice (89)** caiu **-41.2%** em 24h, a **75k coins** (faixa do dia: 40k–110k). Está -22% abaixo da média de 7 dias (descontada).
 
 
 ## 🔮 Radar de valorização (24h)
@@ -101,14 +101,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Mohamed Salah | 91 | 23k coins | 24k coins | 61% |
+| Mohamed Salah | 91 | 28k coins | 28k coins | 61% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Mateo Kovačić já avançou 57.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Murillo já avançou 58.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Eden Hazard recuou -48.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Cody Gakpo recuou -44.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +120,16 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Mateo Kovačić (91, Premier League), com +57.1% em 24h, a 43k coins no PC.
+Murillo (87, Premier League), com +58.7% em 24h, a 123k coins no PC.
 
 **E a maior queda do dia?**
-Eden Hazard (88), -48.9% em 24h, a 94k coins.
+Cody Gakpo (89), -44.4% em 24h, a 94k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 23k coins.
+Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 28k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 69 cartas em alta contra 68 em queda (média 5.64%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 67 cartas em alta contra 87 em queda (média 3.77%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
