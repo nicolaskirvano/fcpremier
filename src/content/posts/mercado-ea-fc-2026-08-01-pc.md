@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:05:17.000Z
+pubDatetime: 2026-08-01T13:05:16.000Z
 title: "Mercado EA FC em 01/08: Premier League — PC"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Jérémy Doku (91, Premier League), com +55.6% em 24h, a 420k coins no PC."
+    a: "Harry Maguire (83, Premier League), com +56% em 24h, a 149k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Declan Rice (94), -49% em 24h, a 76k coins."
+    a: "Yaya Touré (93), -40.4% em 24h, a 1.55M coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 28k coins."
+    a: "Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 30k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 70 cartas em alta contra 90 em queda (média -0.45%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 76 cartas em alta contra 90 em queda (média -2.06%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **70 subiram** e **90 caíram**, com variação média de **-0.45%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **76 subiram** e **90 caíram**, com variação média de **-2.06%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Jérémy Doku (91) **+55.6%** · 🔴 **Maior baixa:** Declan Rice (94) **-49%**
+> 🟢 **Maior alta:** Harry Maguire (83) **+56%** · 🔴 **Maior baixa:** Yaya Touré (93) **-40.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Premier League — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -37,24 +37,24 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia *
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.8% entre as cartas que se moveram; o universo observado reúne 234 cartas.
+- **Amplitude do dia:** 96.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.8% entre as cartas que se moveram; o universo observado reúne 233 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jérémy Doku | 91 | Premier League | 420k coins | +55.6% | +40% |
-| Riccardo Calafiori | 90 | Premier League | 1.50M coins | +51.5% | 0% |
-| Carlos Tévez | 88 | Premier League | 40k coins | +46.8% | +140.3% |
-| Diogo Dalot | 87 | Premier League | 160k coins | +46.8% | +53.8% |
-| John Arne Riise | 88 | Premier League | 45k coins | +42.9% | +59.3% |
-| Ian Maatsen | 89 | Premier League | 38k coins | +40.2% | +117.4% |
-| Robin Roefs | 87 | Premier League | 38k coins | +39.2% | +16.4% |
-| Rayan Aït-Nouri | 90 | Premier League | 61k coins | +38.2% | +40.6% |
-| Jaap Stam | 87 | Premier League | 264k coins | +35.7% | -46% |
-| Nwankwo Kanu | 87 | Premier League | 50k coins | +35.3% | +19% |
+| Harry Maguire | 83 | Premier League | 149k coins | +56% | +148.3% |
+| João Pedro | 87 | Premier League | 64k coins | +52.3% | +33% |
+| Morgan Rogers | 87 | Premier League | 118k coins | +51.6% | -20.1% |
+| Gilberto Silva | 87 | Premier League | 34k coins | +46.8% | +79.2% |
+| Trai Hume | 84 | Premier League | 50k coins | +45.7% | +8.5% |
+| Jaap Stam | 87 | Premier League | 135k coins | +44.1% | -42.5% |
+| John Arne Riise | 88 | Premier League | 45k coins | +42.9% | +66.7% |
+| Lucas Paquetá | 84 | Premier League | 60k coins | +42% | -29.4% |
+| Nwankwo Kanu | 87 | Premier League | 50k coins | +40.3% | +40.3% |
+| Joshua Zirkzee | 87 | Premier League | 28k coins | +40.2% | +74.3% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia *
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jérémy Doku (91)** subiu **+55.6%** em 24h, a **420k coins** (faixa do dia: 270k–420k). Está +36% acima da média de 7 dias (aquecida).
+- **Harry Maguire (83)** subiu **+56%** em 24h, a **149k coins** (faixa do dia: 40k–149k). Está +44% acima da média de 7 dias (aquecida).
 
-- **Riccardo Calafiori (90)** subiu **+51.5%** em 24h, a **1.50M coins** (faixa do dia: 960k–1.50M). Está +12% acima da média de 7 dias (aquecida).
+- **João Pedro (87)** subiu **+52.3%** em 24h, a **64k coins** (faixa do dia: 42k–80k). Está +27% acima da média de 7 dias (aquecida).
 
-- **Carlos Tévez (88)** subiu **+46.8%** em 24h, a **40k coins** (faixa do dia: 30k–50k). Está +41% acima da média de 7 dias (aquecida).
+- **Morgan Rogers (87)** subiu **+51.6%** em 24h, a **118k coins** (faixa do dia: 60k–119k). Está +8% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Declan Rice | 94 | Premier League | 76k coins | -49% | -44.9% |
-| Mohamed Salah | 91 | Premier League | 28k coins | -48.7% | -33.5% |
 | Yaya Touré | 93 | Premier League | 1.55M coins | -40.4% | -29.5% |
-| Hugo Ekitiké | 90 | Premier League | 45k coins | -36.7% | -5% |
-| Eden Hazard | 88 | Premier League | 190k coins | -34.6% | -35% |
-| Micky van de Ven | 90 | Premier League | 1.20M coins | -34.2% | -67.9% |
-| Nicolò Savona | 83 | Premier League | 168k coins | -32.9% | +171.5% |
-| Adama Traoré | 89 | Premier League | 110k coins | -29.5% | -37.1% |
-| Rayan Cherki | 87 | Premier League | 42k coins | -29.2% | -33.1% |
-| Moisés Caicedo | 88 | Premier League | 48k coins | -25.4% | +21.2% |
+| Elliot Anderson | 89 | Premier League | 117k coins | -38.4% | -0.6% |
+| Kevin Schade | 88 | Premier League | 35k coins | -38% | -11.4% |
+| Moisés Caicedo | 88 | Premier League | 44k coins | -37.4% | +11.9% |
+| Micky van de Ven | 90 | Premier League | 1.19M coins | -37.4% | -70.2% |
+| Wilson Odobert | 87 | Premier League | 35k coins | -36.4% | -2.8% |
+| Mohamed Salah | 92 | Premier League | 123k coins | -34.9% | -52.1% |
+| Sandro Tonali | 91 | Premier League | 130k coins | -34.5% | -22.9% |
+| Aaron Wan-Bissaka | 89 | Premier League | 20k coins | -29.2% | -46.2% |
+| Ryan Gravenberch | 93 | Premier League | 201k coins | -25.6% | +197.8% |
 
 
 ### Análise das baixas
 
-- **Declan Rice (94)** caiu **-49%** em 24h, a **76k coins** (faixa do dia: 76k–210k). Está -56% abaixo da média de 7 dias (descontada).
+- **Yaya Touré (93)** caiu **-40.4%** em 24h, a **1.55M coins** (faixa do dia: 1.55M–2.08M). Está -20% abaixo da média de 7 dias (descontada).
 
-- **Mohamed Salah (91)** caiu **-48.7%** em 24h, a **28k coins** (faixa do dia: 25k–60k). Está -40% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 61% de probabilidade.
+- **Elliot Anderson (89)** caiu **-38.4%** em 24h, a **117k coins** (faixa do dia: 30k–160k). Está em linha com a média de 7 dias (+4%).
 
-- **Yaya Touré (93)** caiu **-40.4%** em 24h, a **1.55M coins** (faixa do dia: 1.55M–2.60M). Está -20% abaixo da média de 7 dias (descontada).
+- **Kevin Schade (88)** caiu **-38%** em 24h, a **35k coins** (faixa do dia: 30k–50k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## 🔮 Radar de valorização (24h)
@@ -101,14 +101,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Mohamed Salah | 91 | 28k coins | 29k coins | 61% |
+| Mohamed Salah | 91 | 30k coins | 31k coins | 61% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jérémy Doku já avançou 55.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Harry Maguire já avançou 56% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Declan Rice recuou -49%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Yaya Touré recuou -40.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +120,16 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Jérémy Doku (91, Premier League), com +55.6% em 24h, a 420k coins no PC.
+Harry Maguire (83, Premier League), com +56% em 24h, a 149k coins no PC.
 
 **E a maior queda do dia?**
-Declan Rice (94), -49% em 24h, a 76k coins.
+Yaya Touré (93), -40.4% em 24h, a 1.55M coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 28k coins.
+Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 30k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 70 cartas em alta contra 90 em queda (média -0.45%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 76 cartas em alta contra 90 em queda (média -2.06%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

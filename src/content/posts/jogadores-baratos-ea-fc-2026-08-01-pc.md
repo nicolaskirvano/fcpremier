@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:05:20.000Z
+pubDatetime: 2026-08-01T13:05:19.000Z
 title: "Jogadores baratos EA FC: Premier League em 01/08 — PC"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.097 coins.
+- **Preço médio das 15 opções:** 10.083 coins.
 - **Posição mais frequente:** CAM, com 3 cartas.
 - **Faixa real:** 3.100 a 14.000 coins; nenhuma carta custa 15 mil.
 
@@ -49,12 +49,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Alisson | 89 | GK | Premier League | 4.800 coins | +14% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 4.800 coins | +23.1% |
-| Jaap Stam | 89 | CB | Premier League | 11.250 coins | 0% |
-| Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
+| Alisson | 89 | GK | Premier League | 4.400 coins | +18.9% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 5.000 coins | +21.1% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Alexander Isak | 88 | ST | Premier League | 3.100 coins | +3.3% |
+| Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
+| Jaap Stam | 89 | CB | Premier League | 11.250 coins | 0% |
+| Alexander Isak | 88 | ST | Premier League | 3.100 coins | 0% |
 
 
 ## 📈 Destaques
