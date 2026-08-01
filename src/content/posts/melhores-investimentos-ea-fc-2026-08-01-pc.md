@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T09:27:58.000Z
+pubDatetime: 2026-08-01T10:05:18.000Z
 title: "Investimentos EA FC: Premier League em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Noni Madueke (86, Premier League) lidera, com +82.9% em 7 dias a 75k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Joshua Zirkzee (87, Premier League) lidera, com +86.5% em 7 dias a 36k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Noni Madueke (86) acumula **+82.9% em 7 dias** a 75k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Joshua Zirkzee (87) acumula **+86.5% em 7 dias** a 36k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Premier League em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,7 +33,7 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.3% em 24h** e **+40.6% em 7 dias**.
+- A mediana é de **+13.5% em 24h** e **+40.6% em 7 dias**.
 - **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
+| Joshua Zirkzee | 87 | Premier League | 36k coins | +4.5% | +86.5% | Esticada |
 | Noni Madueke | 86 | Premier League | 75k coins | +2% | +82.9% | Esticada |
-| Ryan Gravenberch | 86 | Premier League | 84k coins | +32.2% | +76.6% | Esticada |
 | Mikkel Damsgaard | 87 | Premier League | 74k coins | +29.6% | +68.4% | Esticada |
+| Ryan Gravenberch | 86 | Premier League | 84k coins | +21.6% | +57.9% | Esticada |
 | Luke Shaw | 86 | Premier League | 50k coins | +9.9% | +48.5% | Momentum moderado |
 | Tino Livramento | 85 | Premier League | 28k coins | +10.7% | +42.5% | Momentum moderado |
-| Oscar Bobb | 85 | Premier League | 22k coins | +13.5% | +42.4% | Momentum moderado |
-| Florian Wirtz | 90 | Premier League | 200k coins | +17.6% | +41.8% | Momentum moderado |
+| Oscar Bobb | 85 | Premier League | 17.250 coins | +13.5% | +42.4% | Momentum moderado |
 | Rayan Aït-Nouri | 90 | Premier League | 61k coins | +38.2% | +40.6% | Esticada |
-| Morgan Rogers | 87 | Premier League | 119k coins | +29.3% | +39.2% | Esticada |
+| Morgan Rogers | 87 | Premier League | 118k coins | +30.8% | +39.2% | Esticada |
+| Florian Wirtz | 90 | Premier League | 200k coins | +17.6% | +37.9% | Momentum moderado |
+| Ramires | 86 | Premier League | 104k coins | +4% | +30.4% | Momentum moderado |
 | Eberechi Eze | 88 | Premier League | 85k coins | +11.8% | +27.8% | Momentum moderado |
 | Murillo | 87 | Premier League | 190k coins | +5% | +26.7% | Momentum moderado |
 | Ben Davies | 84 | Premier League | 38k coins | +26.1% | +25% | Esticada |
 | João Gomes | 84 | Premier League | 50k coins | +14.3% | +25% | Momentum moderado |
-| Nwankwo Kanu | 87 | Premier League | 47k coins | +35.3% | +19% | Esticada |
-| Micah Richards | 85 | Premier League | 18.500 coins | +1.7% | +17.6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Noni Madueke (86)** — 75k coins, **+82.9% em 7 dias** (+2% em 24h). Preço +136% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joshua Zirkzee (87)** — 36k coins, **+86.5% em 7 dias** (+4.5% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Gravenberch (86)** — 84k coins, **+76.6% em 7 dias** (+32.2% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noni Madueke (86)** — 75k coins, **+82.9% em 7 dias** (+2% em 24h). Preço +136% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Mikkel Damsgaard (87)** — 74k coins, **+68.4% em 7 dias** (+29.6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luke Shaw (86)** — 50k coins, **+48.5% em 7 dias** (+9.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Gravenberch (86)** — 84k coins, **+57.9% em 7 dias** (+21.6% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tino Livramento (85)** — 28k coins, **+42.5% em 7 dias** (+10.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luke Shaw (86)** — 50k coins, **+48.5% em 7 dias** (+9.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Noni Madueke (86, Premier League) lidera, com +82.9% em 7 dias a 75k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Joshua Zirkzee (87, Premier League) lidera, com +86.5% em 7 dias a 36k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

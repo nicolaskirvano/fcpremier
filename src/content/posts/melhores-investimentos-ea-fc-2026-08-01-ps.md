@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T09:27:49.000Z
+pubDatetime: 2026-08-01T10:05:09.000Z
 title: "Investimentos EA FC: Premier League em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.2% em 24h** e **+36.1% em 7 dias**.
+- A mediana é de **+10.1% em 24h** e **+42.5% em 7 dias**.
 - **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Crysencio Summerville | 86 | Premier League | 85k coins | +25% | +77.1% | Esticada |
-| Anthony Gordon | 87 | Premier League | 68k coins | +27.9% | +65.1% | Esticada |
-| Sandro Tonali | 87 | Premier League | 64k coins | +9.8% | +54% | Momentum moderado |
-| Gilberto Silva | 87 | Premier League | 34k coins | +13.8% | +53.8% | Momentum moderado |
+| Martin Ødegaard | 87 | Premier League | 180k coins | +17.4% | +64.3% | Esticada |
+| Anthony Gordon | 87 | Premier League | 67k coins | +23.9% | +60.7% | Esticada |
 | Jérémy Doku | 91 | Premier League | 207k coins | +1.5% | +53.8% | Momentum moderado |
 | Tijjani Reijnders | 93 | Premier League | 170k coins | +25% | +47.8% | Esticada |
-| John Arne Riise | 88 | Premier League | 48k coins | +23.7% | +38.8% | Esticada |
-| Phil Foden | 86 | Premier League | 65k coins | +18.2% | +36.1% | Momentum moderado |
-| Jérémy Doku | 84 | Premier League | 57k coins | +9% | +34.4% | Momentum moderado |
-| Mateus Mané | 88 | Premier League | 40k coins | +36.7% | +29.1% | Esticada |
-| Federico Chiesa | 86 | Premier League | 148k coins | +6.7% | +16.9% | Momentum moderado |
-| Ibrahim Sangaré | 86 | Premier League | 64k coins | +3.3% | +16.8% | Entrada a observar |
-| João Pedro | 87 | Premier League | 51k coins | +24.3% | +15% | Esticada |
-| Emiliano Martínez | 88 | Premier League | 28k coins | +4.2% | +14.8% | Entrada a observar |
-| Casemiro | 86 | Premier League | 55k coins | +25.7% | +14.6% | Esticada |
+| Sandro Tonali | 87 | Premier League | 63k coins | +5.7% | +45.8% | Momentum moderado |
+| Noni Madueke | 86 | Premier League | 26k coins | +38.2% | +43.8% | Esticada |
+| Peter Crouch | 87 | Premier League | 200k coins | +10.1% | +42.5% | Momentum moderado |
+| John Arne Riise | 88 | Premier League | 45k coins | +23.7% | +38.8% | Esticada |
+| Phil Foden | 86 | Premier League | 64k coins | +6.7% | +34% | Momentum moderado |
+| Ibrahim Sangaré | 86 | Premier League | 64k coins | +5% | +27% | Momentum moderado |
+| Luke Shaw | 86 | Premier League | 50k coins | +2.4% | +21.4% | Entrada a observar |
+| Jerzy Dudek | 86 | Premier League | 15.000 coins | +8.9% | +17.3% | Momentum moderado |
+| Casemiro | 86 | Premier League | 50k coins | +25.7% | +14.6% | Esticada |
+| Casemiro | 84 | Premier League | 64k coins | +6.7% | +14.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Crysencio Summerville (86)** — 85k coins, **+77.1% em 7 dias** (+25% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Anthony Gordon (87)** — 68k coins, **+65.1% em 7 dias** (+27.9% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Martin Ødegaard (87)** — 180k coins, **+64.3% em 7 dias** (+17.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (87)** — 64k coins, **+54% em 7 dias** (+9.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Gilberto Silva (87)** — 34k coins, **+53.8% em 7 dias** (+13.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Anthony Gordon (87)** — 67k coins, **+60.7% em 7 dias** (+23.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Jérémy Doku (91)** — 207k coins, **+53.8% em 7 dias** (+1.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Tijjani Reijnders (93)** — 170k coins, **+47.8% em 7 dias** (+25% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

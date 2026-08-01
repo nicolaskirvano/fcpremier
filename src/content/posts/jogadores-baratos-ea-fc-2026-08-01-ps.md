@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T09:27:50.000Z
+pubDatetime: 2026-08-01T10:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.627 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 4.000 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.090 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 2.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
 | Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Xavi Simons | 91 | CAM | Premier League | 13.000 coins | +6% |
-| William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
+| Xavi Simons | 91 | CAM | Premier League | 14.000 coins | +8% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
-| Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
+| William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
+| Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3.600 coins | +42.9% |
 | Alisson | 89 | GK | Premier League | 4.000 coins | +33.3% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 4.400 coins | +42.9% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
-| Jørgen Strand Larsen | 89 | ST | Premier League | 14.000 coins | -5.5% |
-| Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
+| Sepp van den Berg | 89 | CB | Premier League | 11.750 coins | +10.4% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 14.000 coins | +1.8% |
+| Alexander Isak | 88 | ST | Premier League | 2.000 coins | +45.5% |
 
 
 ## 📈 Destaques
@@ -65,9 +65,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins**
 
-- **Xavi Simons (91, CAM)** da Premier League, a apenas **13.000 coins**
+- **Xavi Simons (91, CAM)** da Premier League, a apenas **14.000 coins**
 
-- **William Saliba (90, CB)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ollie Watkins (90, ST)** da Premier League, a apenas **11.250 coins**
 
 
 ## Como distribuir a banca

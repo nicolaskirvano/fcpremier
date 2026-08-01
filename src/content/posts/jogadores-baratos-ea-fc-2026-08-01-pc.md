@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T09:28:00.000Z
+pubDatetime: 2026-08-01T10:05:20.000Z
 title: "Jogadores baratos EA FC: Premier League em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.917 coins.
+- **Preço médio das 15 opções:** 10.097 coins.
 - **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 3.100 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.100 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,13 +43,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Cole Palmer | 92 | CAM | Premier League | 11.500 coins | 0% |
 | Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
 | Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
-| Xavi Simons | 91 | CAM | Premier League | 11.500 coins | +3.8% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
+| Xavi Simons | 91 | CAM | Premier League | 14.000 coins | +7.7% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
 | Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Alisson | 89 | GK | Premier League | 4.600 coins | +9.3% |
+| Alisson | 89 | GK | Premier League | 4.800 coins | +14% |
 | Gianluigi Donnarumma | 89 | GK | Premier League | 4.800 coins | +23.1% |
 | Jaap Stam | 89 | CB | Premier League | 11.250 coins | 0% |
 | Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
@@ -65,9 +65,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Erling Haaland (92, ST)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Xavi Simons (91, CAM)** da Premier League, a apenas **11.500 coins** — já **valorizando**, sinal de procura crescente.
-
 - **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins**
+
+- **Xavi Simons (91, CAM)** da Premier League, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
