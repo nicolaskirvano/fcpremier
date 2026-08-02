@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:05:09.000Z
+pubDatetime: 2026-08-02T13:05:09.000Z
 title: "Investimentos EA FC: Premier League em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Tomas Brolin (89, Premier League) lidera, com +86.8% em 7 dias a 35k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Matheus Cunha (87, Premier League) lidera, com +77.9% em 7 dias a 182k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Tomas Brolin (89) acumula **+86.8% em 7 dias** a 35k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Matheus Cunha (87) acumula **+77.9% em 7 dias** a 182k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Premier League em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+50.0% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+18.6% em 24h** e **+54.6% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Tomas Brolin | 89 | Premier League | 35k coins | +23.5% | +86.8% | Esticada |
-| Carlos Baleba | 90 | Premier League | 230k coins | +17.9% | +64.3% | Esticada |
-| Eberechi Eze | 87 | Premier League | 109k coins | +5.8% | +62.7% | Esticada |
-| Matheus Cunha | 87 | Premier League | 185k coins | +1.3% | +60% | Esticada |
-| Ledley King | 86 | Premier League | 20k coins | +4.8% | +55.4% | Momentum moderado |
-| Dan Burn | 86 | Premier League | 230k coins | +2.2% | +53.3% | Momentum moderado |
-| John Arne Riise | 86 | Premier League | 17.750 coins | +26.8% | +51.1% | Esticada |
-| Steve McManaman | 89 | Premier League | 60k coins | +10.1% | +50% | Momentum moderado |
-| Federico Chiesa | 86 | Premier League | 221k coins | +38.8% | +39.6% | Esticada |
-| João Pedro | 87 | Premier League | 63k coins | +31.3% | +36.8% | Esticada |
-| Xavi Simons | 88 | Premier League | 20k coins | +30.6% | +35% | Esticada |
-| Jeremie Frimpong | 86 | Premier League | 96k coins | +39.9% | +33.1% | Esticada |
-| Bernardo Silva | 86 | Premier League | 55k coins | +3.8% | +31% | Momentum moderado |
-| David Raya | 93 | Premier League | 120k coins | +2.8% | +31% | Momentum moderado |
-| Moisés Caicedo | 88 | Premier League | 51k coins | +11.1% | +25% | Momentum moderado |
+| Matheus Cunha | 87 | Premier League | 182k coins | +20.9% | +77.9% | Esticada |
+| Kyle Walker | 89 | Premier League | 144k coins | +3% | +71.7% | Esticada |
+| Trai Hume | 84 | Premier League | 64k coins | +11.2% | +69.7% | Esticada |
+| David Raya | 93 | Premier League | 65k coins | +18.6% | +68.7% | Esticada |
+| James Milner | 88 | Premier League | 118k coins | +24.2% | +66.2% | Esticada |
+| Carlos Baleba | 90 | Premier League | 228k coins | +19.9% | +63.6% | Esticada |
+| Eberechi Eze | 88 | Premier League | 95k coins | +28.4% | +55.7% | Esticada |
+| Eberechi Eze | 87 | Premier League | 93k coins | +15.3% | +54.6% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 60k coins | +13.2% | +51.9% | Momentum moderado |
+| Luke Shaw | 86 | Premier League | 33k coins | +2.9% | +47.5% | Momentum moderado |
+| Omar Marmoush | 87 | Premier League | 30k coins | +1.7% | +40.2% | Momentum moderado |
+| Dominik Szoboszlai | 90 | Premier League | 180k coins | +18.2% | +36.8% | Momentum moderado |
+| Marcos Senesi | 88 | Premier League | 42k coins | +27% | +35.6% | Esticada |
+| Amine Adli | 84 | Premier League | 50k coins | +22.2% | +35% | Esticada |
+| Sandro Tonali | 87 | Premier League | 64k coins | +21.2% | +32.6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Tomas Brolin (89)** — 35k coins, **+86.8% em 7 dias** (+23.5% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matheus Cunha (87)** — 182k coins, **+77.9% em 7 dias** (+20.9% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carlos Baleba (90)** — 230k coins, **+64.3% em 7 dias** (+17.9% em 24h). Preço +100% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kyle Walker (89)** — 144k coins, **+71.7% em 7 dias** (+3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eberechi Eze (87)** — 109k coins, **+62.7% em 7 dias** (+5.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trai Hume (84)** — 64k coins, **+69.7% em 7 dias** (+11.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matheus Cunha (87)** — 185k coins, **+60% em 7 dias** (+1.3% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Raya (93)** — 65k coins, **+68.7% em 7 dias** (+18.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ledley King (86)** — 20k coins, **+55.4% em 7 dias** (+4.8% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **James Milner (88)** — 118k coins, **+66.2% em 7 dias** (+24.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Tomas Brolin (89, Premier League) lidera, com +86.8% em 7 dias a 35k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Matheus Cunha (87, Premier League) lidera, com +77.9% em 7 dias a 182k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

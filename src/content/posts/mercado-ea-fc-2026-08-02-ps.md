@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:05:08.000Z
+pubDatetime: 2026-08-02T13:05:07.000Z
 title: "Mercado EA FC em 02/08: Premier League — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Bernardo Silva (87, Premier League), com +58.6% em 24h, a 88k coins no Console (PS)."
+    a: "Anthony Gordon (90, Premier League), com +56.3% em 24h, a 590k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Tijjani Reijnders (87), -43.2% em 24h, a 50k coins."
+    a: "Jean-Philippe Mateta (92), -47% em 24h, a 20k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 88 cartas em alta contra 50 em queda (média 8.79%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 99 cartas em alta contra 61 em queda (média 9.46%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **02/08/2026** (Console (PS)): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **88 em alta** e **50 em queda**, média de **8.79%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **02/08/2026** (Console (PS)): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **99 em alta** e **61 em queda**, média de **9.46%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Bernardo Silva (87) **+58.6%** · 🔴 **Maior baixa:** Tijjani Reijnders (87) **-43.2%**
+> 🟢 **Maior alta:** Anthony Gordon (90) **+56.3%** · 🔴 **Maior baixa:** Jean-Philippe Mateta (92) **-47%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Premier League — Console (PS)](/charts/mercado-ea-fc-2026-08-02-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **02/08/2026** (Console (PS)): mercado **em alta** — predominam as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 63.8% entre as cartas que se moveram; o universo observado reúne 203 cartas.
+- **Amplitude do dia:** 103.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 61.9% entre as cartas que se moveram; o universo observado reúne 215 cartas.
 - **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bernardo Silva | 87 | Premier League | 88k coins | +58.6% | +74.3% |
-| Jaap Stam | 89 | Premier League | 60k coins | +55.8% | -36.2% |
-| Harry Maguire | 83 | Premier League | 69k coins | +54.5% | +82.1% |
-| Jerzy Dudek | 87 | Premier League | 75k coins | +53.1% | +109.8% |
-| Yaya Touré | 87 | Premier League | 568k coins | +49.3% | +42% |
-| Kyle Walker | 89 | Premier League | 210k coins | +44.8% | +71.5% |
-| Noni Madueke | 86 | Premier League | 36k coins | +43% | +62.5% |
-| Bukayo Saka | 90 | Premier League | 950k coins | +42.6% | +47.3% |
-| Bruno Fernandes | 88 | Premier League | 74k coins | +42.5% | +74.5% |
-| Mikel Merino | 88 | Premier League | 79k coins | +40.2% | +33.1% |
+| Anthony Gordon | 90 | Premier League | 590k coins | +56.3% | +59.7% |
+| Mohamed Salah | 92 | Premier League | 190k coins | +55.2% | +31.6% |
+| Senne Lammens | 88 | Premier League | 98k coins | +53.1% | +32.4% |
+| Jérémy Doku | 86 | Premier League | 250k coins | +47.4% | +26% |
+| Bernardo Silva | 87 | Premier League | 70k coins | +41.8% | +18.8% |
+| Matheus Cunha | 87 | Premier League | 170k coins | +36.1% | +135.3% |
+| Jaap Stam | 89 | Premier League | 51k coins | +36% | -46.9% |
+| Federico Chiesa | 86 | Premier League | 236k coins | +33.7% | +21.4% |
+| Anthony Gordon | 88 | Premier League | 197k coins | +32.7% | +24.4% |
+| William Saliba | 94 | Premier League | 258k coins | +30.7% | +18.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **02/08/2026** (Console (PS)): mercado **em alta** — predominam as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Bernardo Silva (87)** subiu **+58.6%** em 24h, a **88k coins** (faixa do dia: 37k–88k). Está +43% acima da média de 7 dias (aquecida).
+- **Anthony Gordon (90)** subiu **+56.3%** em 24h, a **590k coins** (faixa do dia: 359k–750k). Está +50% acima da média de 7 dias (aquecida).
 
-- **Jaap Stam (89)** subiu **+55.8%** em 24h, a **60k coins** (faixa do dia: 31k–67k). Está -24% abaixo da média de 7 dias (descontada).
+- **Mohamed Salah (92)** subiu **+55.2%** em 24h, a **190k coins** (faixa do dia: 128k–330k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Harry Maguire (83)** subiu **+54.5%** em 24h, a **69k coins** (faixa do dia: 42k–120k). Está +28% acima da média de 7 dias (aquecida).
+- **Senne Lammens (88)** subiu **+53.1%** em 24h, a **98k coins** (faixa do dia: 40k–100k). Está +32% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tijjani Reijnders | 87 | Premier League | 50k coins | -43.2% | +8.7% |
-| Estêvão | 91 | Premier League | 283k coins | -32.7% | +10.8% |
-| Sandro Tonali | 91 | Premier League | 50k coins | -27.9% | -54.8% |
-| Eden Hazard | 88 | Premier League | 60k coins | -24.6% | -49% |
-| Estêvão | 88 | Premier League | 30k coins | -22.2% | -16.2% |
-| Mohamed Salah | 91 | Premier League | 26k coins | -19.4% | -44.7% |
-| Gabriel Martinelli | 87 | Premier League | 88k coins | -18.3% | +41.3% |
-| Maxence Lacroix | 87 | Premier League | 141k coins | -17.1% | -11.9% |
-| Lewis Miley | 83 | Premier League | 44k coins | -16.8% | -18.3% |
-| Rayan Cherki | 87 | Premier League | 40k coins | -15.6% | +68.9% |
+| Jean-Philippe Mateta | 92 | Premier League | 20k coins | -47% | -32.2% |
+| Cole Palmer | 88 | Premier League | 351k coins | -45.7% | -16% |
+| Crysencio Summerville | 86 | Premier League | 50k coins | -33.8% | -10.5% |
+| Elliot Anderson | 89 | Premier League | 27k coins | -33.6% | -2.9% |
+| Rayan Cherki | 87 | Premier League | 41k coins | -32.2% | +29% |
+| Ryan Gravenberch | 87 | Premier League | 48k coins | -32.1% | +10.5% |
+| Cody Gakpo | 89 | Premier League | 150k coins | -25% | +76.5% |
+| Mohamed Salah | 91 | Premier League | 24k coins | -20.6% | -46.8% |
+| Estêvão | 91 | Premier League | 255k coins | -19.1% | +12.7% |
+| Martin Ødegaard | 88 | Premier League | 80k coins | -18.2% | +19.8% |
 
 
 ### Análise das baixas
 
-- **Tijjani Reijnders (87)** caiu **-43.2%** em 24h, a **50k coins** (faixa do dia: 50k–99k). Está -13% abaixo da média de 7 dias (descontada).
+- **Jean-Philippe Mateta (92)** caiu **-47%** em 24h, a **20k coins** (faixa do dia: 20k–60k). Está -49% abaixo da média de 7 dias (descontada).
 
-- **Estêvão (91)** caiu **-32.7%** em 24h, a **283k coins** (faixa do dia: 205k–382k). Está em linha com a média de 7 dias (+5%).
+- **Cole Palmer (88)** caiu **-45.7%** em 24h, a **351k coins** (faixa do dia: 351k–647k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Sandro Tonali (91)** caiu **-27.9%** em 24h, a **50k coins** (faixa do dia: 47k–68k). Está -27% abaixo da média de 7 dias (descontada).
+- **Crysencio Summerville (86)** caiu **-33.8%** em 24h, a **50k coins** (faixa do dia: 43k–72k). Está -18% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Bernardo Silva já avançou 58.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Anthony Gordon já avançou 56.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tijjani Reijnders recuou -43.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jean-Philippe Mateta recuou -47%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Bernardo Silva (87, Premier League), com +58.6% em 24h, a 88k coins no Console (PS).
+Anthony Gordon (90, Premier League), com +56.3% em 24h, a 590k coins no Console (PS).
 
 **E a maior queda do dia?**
-Tijjani Reijnders (87), -43.2% em 24h, a 50k coins.
+Jean-Philippe Mateta (92), -47% em 24h, a 20k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 88 cartas em alta contra 50 em queda (média 8.79%).
+Hoje o mercado está em alta — predominam as valorizações, com 99 cartas em alta contra 61 em queda (média 9.46%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
