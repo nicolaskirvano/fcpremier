@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:05:10.000Z
+pubDatetime: 2026-08-02T22:05:10.000Z
 title: "Jogadores baratos EA FC: Premier League em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.797 coins.
+- **Preço médio das 15 opções:** 10.467 coins.
 - **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 4.100 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 4.300 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,15 +46,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Vincent Kompany | 91 | CB | Premier League | 11.500 coins | 0% |
 | Antoine Semenyo | 91 | LW | Premier League | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Virgil van Dijk | 90 | CB | Premier League | 4.100 coins | +14.3% |
-| Rodri | 90 | CDM | Premier League | 5.600 coins | +10.9% |
-| William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
+| Virgil van Dijk | 90 | CB | Premier League | 4.500 coins | +29% |
+| Rodri | 90 | CDM | Premier League | 7.200 coins | +20.4% |
 | Douglas Luiz | 90 | CDM | Premier League | 11.250 coins | 0% |
-| Kobbie Mainoo | 90 | CM | Premier League | 11.250 coins | 0% |
+| Ollie Watkins | 90 | ST | Premier League | 11.250 coins | 0% |
+| William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
+| Kobbie Mainoo | 90 | CM | Premier League | 11.250 coins | 0% |
 | Nick Woltemade | 90 | ST | Premier League | 14.750 coins | 0% |
-| Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
+| Alisson | 89 | GK | Premier League | 4.300 coins | +50% |
 
 
 ## 📈 Destaques

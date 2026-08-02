@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:05:18.000Z
+pubDatetime: 2026-08-02T22:05:18.000Z
 title: "Investimentos EA FC: Premier League em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Noni Madueke (86, Premier League) lidera, com +87.5% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Malick Thiaw (86, Premier League) lidera, com +66.7% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Noni Madueke (86) acumula **+87.5% em 7 dias** a 55k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Malick Thiaw (86) acumula **+66.7% em 7 dias** a 50k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Premier League em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.5% em 24h** e **+20.4% em 7 dias**.
-- **5 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 13 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.3% em 24h** e **+29.8% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,32 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Noni Madueke | 86 | Premier League | 55k coins | +7.1% | +87.5% | Esticada |
-| Tim Cahill | 85 | Premier League | 26k coins | +15.1% | +80% | Esticada |
-| Marcos Senesi | 88 | Premier League | 48k coins | +5.4% | +79.8% | Esticada |
-| Pedro Neto | 88 | Premier League | 53k coins | +11.4% | +53.9% | Momentum moderado |
-| Robbie Keane | 86 | Premier League | 18.250 coins | +17.7% | +37.7% | Momentum moderado |
-| Daniel Ballard | 86 | Premier League | 50k coins | +25% | +36.1% | Esticada |
-| Crysencio Summerville | 86 | Premier League | 56k coins | +9.5% | +20.4% | Momentum moderado |
-| Dan Burn | 86 | Premier League | 135k coins | +9.8% | +17.4% | Momentum moderado |
-| Hugo Ekitiké | 90 | Premier League | 42k coins | +3.7% | +12.7% | Entrada a observar |
-| Ollie Watkins | 86 | Premier League | 45k coins | +1.7% | +11.2% | Entrada a observar |
-| Gilberto Silva | 87 | Premier League | 25k coins | +31.2% | +9.8% | Esticada |
-| Casemiro | 86 | Premier League | 60k coins | +9.1% | +8.1% | Momentum moderado |
-| Martin Dúbravka | 86 | Premier League | 50k coins | +8.7% | +5.8% | Momentum moderado |
+| Malick Thiaw | 86 | Premier League | 50k coins | +3.6% | +66.7% | Esticada |
+| Eberechi Eze | 87 | Premier League | 100k coins | +33.6% | +56.7% | Esticada |
+| Xavi Simons | 91 | Premier League | 15.000 coins | +7.5% | +56.5% | Momentum moderado |
+| Hugo Ekitiké | 90 | Premier League | 45k coins | +12.7% | +49.6% | Momentum moderado |
+| Tomas Brolin | 89 | Premier League | 42k coins | +13.3% | +47.8% | Momentum moderado |
+| Estêvão | 88 | Premier League | 60k coins | +9.1% | +46.3% | Momentum moderado |
+| Daniel Ballard | 86 | Premier League | 49k coins | +16.3% | +36.1% | Momentum moderado |
+| Sandro Tonali | 91 | Premier League | 170k coins | +14.9% | +29.8% | Momentum moderado |
+| Tim Cahill | 89 | Premier League | 58k coins | +25.3% | +25.9% | Esticada |
+| Jerzy Dudek | 86 | Premier League | 15.000 coins | +12.3% | +20.8% | Momentum moderado |
+| Dan Burn | 86 | Premier League | 150k coins | +3.8% | +17.4% | Entrada a observar |
+| Cesc Fàbregas | 88 | Premier League | 15.000 coins | +17.6% | +15.4% | Momentum moderado |
+| Crysencio Summerville | 86 | Premier League | 50k coins | +6.9% | +13.1% | Momentum moderado |
+| David Raya | 93 | Premier League | 62k coins | +38.4% | +11.1% | Esticada |
+| Martin Dúbravka | 86 | Premier League | 50k coins | +25% | +5.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Noni Madueke (86)** — 55k coins, **+87.5% em 7 dias** (+7.1% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Malick Thiaw (86)** — 50k coins, **+66.7% em 7 dias** (+3.6% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tim Cahill (85)** — 26k coins, **+80% em 7 dias** (+15.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eberechi Eze (87)** — 100k coins, **+56.7% em 7 dias** (+33.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcos Senesi (88)** — 48k coins, **+79.8% em 7 dias** (+5.4% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Xavi Simons (91)** — 15.000 coins, **+56.5% em 7 dias** (+7.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pedro Neto (88)** — 53k coins, **+53.9% em 7 dias** (+11.4% em 24h). Preço -21% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hugo Ekitiké (90)** — 45k coins, **+49.6% em 7 dias** (+12.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Robbie Keane (86)** — 18.250 coins, **+37.7% em 7 dias** (+17.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tomas Brolin (89)** — 42k coins, **+47.8% em 7 dias** (+13.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -86,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Noni Madueke (86, Premier League) lidera, com +87.5% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Malick Thiaw (86, Premier League) lidera, com +66.7% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
