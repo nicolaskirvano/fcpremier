@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tim Cahill</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+61.2%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jerzy Dudek</text>
-<rect x="285" y="153" width="362" height="28" rx="7" fill="#22c55e"/>
-<text x="657" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.2%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Xavi Simons</text>
-<rect x="285" y="211" width="307" height="28" rx="7" fill="#22c55e"/>
-<text x="602" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.1%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jeremie Frimpong</text>
-<rect x="285" y="269" width="289" height="28" rx="7" fill="#22c55e"/>
-<text x="584" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Anthony Gordon</text>
-<rect x="285" y="327" width="278" height="28" rx="7" fill="#22c55e"/>
-<text x="573" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.4%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bernardo Silva</text>
-<rect x="285" y="385" width="249" height="28" rx="7" fill="#22c55e"/>
-<text x="544" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jurriën Timber</text>
+<rect x="285" y="153" width="410" height="28" rx="7" fill="#22c55e"/>
+<text x="705" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+72.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maxence Lacroix</text>
+<rect x="285" y="211" width="338" height="28" rx="7" fill="#22c55e"/>
+<text x="633" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tim Cahill</text>
+<rect x="285" y="269" width="299" height="28" rx="7" fill="#22c55e"/>
+<text x="594" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">David Raya</text>
+<rect x="285" y="327" width="209" height="28" rx="7" fill="#22c55e"/>
+<text x="504" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Xavi Simons</text>
+<rect x="285" y="385" width="208" height="28" rx="7" fill="#22c55e"/>
+<text x="503" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.0%</text>
 </svg>
