@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tim Cahill</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Noni Madueke</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.2%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jurriën Timber</text>
-<rect x="285" y="153" width="410" height="28" rx="7" fill="#22c55e"/>
-<text x="705" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+72.8%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maxence Lacroix</text>
-<rect x="285" y="211" width="338" height="28" rx="7" fill="#22c55e"/>
-<text x="633" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tim Cahill</text>
-<rect x="285" y="269" width="299" height="28" rx="7" fill="#22c55e"/>
-<text x="594" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">David Raya</text>
-<rect x="285" y="327" width="209" height="28" rx="7" fill="#22c55e"/>
-<text x="504" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Xavi Simons</text>
-<rect x="285" y="385" width="208" height="28" rx="7" fill="#22c55e"/>
-<text x="503" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tim Cahill</text>
+<rect x="285" y="153" width="439" height="28" rx="7" fill="#22c55e"/>
+<text x="734" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marcos Senesi</text>
+<rect x="285" y="211" width="438" height="28" rx="7" fill="#22c55e"/>
+<text x="733" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+79.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pedro Neto</text>
+<rect x="285" y="269" width="296" height="28" rx="7" fill="#22c55e"/>
+<text x="591" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Robbie Keane</text>
+<rect x="285" y="327" width="207" height="28" rx="7" fill="#22c55e"/>
+<text x="502" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniel Ballard</text>
+<rect x="285" y="385" width="198" height="28" rx="7" fill="#22c55e"/>
+<text x="493" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.1%</text>
 </svg>
