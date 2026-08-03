@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jørgen Strand Larsen</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jérémy Doku</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jeremie Frimpong</text>
-<rect x="285" y="153" width="390" height="28" rx="7" fill="#22c55e"/>
-<text x="685" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.3%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Pedro</text>
-<rect x="285" y="211" width="381" height="28" rx="7" fill="#22c55e"/>
-<text x="676" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.1%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Xavi Simons</text>
-<rect x="285" y="269" width="326" height="28" rx="7" fill="#22c55e"/>
-<text x="621" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emiliano Martínez</text>
-<rect x="285" y="327" width="303" height="28" rx="7" fill="#22c55e"/>
-<text x="598" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Elliot Anderson</text>
-<rect x="285" y="385" width="274" height="28" rx="7" fill="#22c55e"/>
-<text x="569" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Pedro</text>
+<rect x="285" y="153" width="387" height="28" rx="7" fill="#22c55e"/>
+<text x="682" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.4%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jeremie Frimpong</text>
+<rect x="285" y="211" width="352" height="28" rx="7" fill="#22c55e"/>
+<text x="647" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.6%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Robbie Keane</text>
+<rect x="285" y="269" width="292" height="28" rx="7" fill="#22c55e"/>
+<text x="587" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carlos Baleba</text>
+<rect x="285" y="327" width="211" height="28" rx="7" fill="#22c55e"/>
+<text x="506" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matheus Cunha</text>
+<rect x="285" y="385" width="165" height="28" rx="7" fill="#22c55e"/>
+<text x="460" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.4%</text>
 </svg>
