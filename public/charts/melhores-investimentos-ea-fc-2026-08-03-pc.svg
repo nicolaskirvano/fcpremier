@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jørgen Strand Larsen</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+68.9%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Morgan Rogers</text>
-<rect x="285" y="153" width="461" height="28" rx="7" fill="#22c55e"/>
-<text x="756" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+66.2%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jeremie Frimpong</text>
-<rect x="285" y="211" width="371" height="28" rx="7" fill="#22c55e"/>
-<text x="666" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.3%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.4%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jeremie Frimpong</text>
+<rect x="285" y="153" width="390" height="28" rx="7" fill="#22c55e"/>
+<text x="685" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Pedro</text>
+<rect x="285" y="211" width="381" height="28" rx="7" fill="#22c55e"/>
+<text x="676" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.1%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Xavi Simons</text>
-<rect x="285" y="269" width="276" height="28" rx="7" fill="#22c55e"/>
-<text x="571" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Anthony Gordon</text>
-<rect x="285" y="327" width="242" height="28" rx="7" fill="#22c55e"/>
-<text x="537" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.7%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Amine Adli</text>
-<rect x="285" y="385" width="240" height="28" rx="7" fill="#22c55e"/>
-<text x="535" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.4%</text>
+<rect x="285" y="269" width="326" height="28" rx="7" fill="#22c55e"/>
+<text x="621" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emiliano Martínez</text>
+<rect x="285" y="327" width="303" height="28" rx="7" fill="#22c55e"/>
+<text x="598" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Elliot Anderson</text>
+<rect x="285" y="385" width="274" height="28" rx="7" fill="#22c55e"/>
+<text x="569" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.8%</text>
 </svg>
