@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:05:18.000Z
+pubDatetime: 2026-08-03T01:05:18.000Z
 title: "Investimentos EA FC: Premier League em 02/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.3% em 24h** e **+29.8% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.3% em 24h** e **+44.3% em 7 dias**.
+- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Malick Thiaw | 86 | Premier League | 50k coins | +3.6% | +66.7% | Esticada |
+| Xavi Simons | 91 | Premier League | 16.750 coins | +10.6% | +58.7% | Momentum moderado |
 | Eberechi Eze | 87 | Premier League | 100k coins | +33.6% | +56.7% | Esticada |
-| Xavi Simons | 91 | Premier League | 15.000 coins | +7.5% | +56.5% | Momentum moderado |
-| Hugo Ekitiké | 90 | Premier League | 45k coins | +12.7% | +49.6% | Momentum moderado |
-| Tomas Brolin | 89 | Premier League | 42k coins | +13.3% | +47.8% | Momentum moderado |
-| Estêvão | 88 | Premier League | 60k coins | +9.1% | +46.3% | Momentum moderado |
-| Daniel Ballard | 86 | Premier League | 49k coins | +16.3% | +36.1% | Momentum moderado |
-| Sandro Tonali | 91 | Premier League | 170k coins | +14.9% | +29.8% | Momentum moderado |
-| Tim Cahill | 89 | Premier League | 58k coins | +25.3% | +25.9% | Esticada |
-| Jerzy Dudek | 86 | Premier League | 15.000 coins | +12.3% | +20.8% | Momentum moderado |
-| Dan Burn | 86 | Premier League | 150k coins | +3.8% | +17.4% | Entrada a observar |
-| Cesc Fàbregas | 88 | Premier League | 15.000 coins | +17.6% | +15.4% | Momentum moderado |
-| Crysencio Summerville | 86 | Premier League | 50k coins | +6.9% | +13.1% | Momentum moderado |
-| David Raya | 93 | Premier League | 62k coins | +38.4% | +11.1% | Esticada |
-| Martin Dúbravka | 86 | Premier League | 50k coins | +25% | +5.8% | Esticada |
+| John Arne Riise | 86 | Premier League | 17.000 coins | +26.3% | +53.2% | Esticada |
+| Amine Adli | 84 | Premier League | 44k coins | +14.3% | +44.3% | Momentum moderado |
+| Hugo Ekitiké | 90 | Premier League | 38k coins | +15.6% | +39.3% | Momentum moderado |
+| Tim Cahill | 89 | Premier League | 52k coins | +32.5% | +14.3% | Esticada |
+| João Gomes | 84 | Premier League | 50k coins | +1.5% | +11.1% | Entrada a observar |
+| Martin Dúbravka | 86 | Premier League | 48k coins | +11.1% | +5.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Malick Thiaw (86)** — 50k coins, **+66.7% em 7 dias** (+3.6% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Malick Thiaw (86)** — 50k coins, **+66.7% em 7 dias** (+3.6% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eberechi Eze (87)** — 100k coins, **+56.7% em 7 dias** (+33.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Xavi Simons (91)** — 16.750 coins, **+58.7% em 7 dias** (+10.6% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Xavi Simons (91)** — 15.000 coins, **+56.5% em 7 dias** (+7.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eberechi Eze (87)** — 100k coins, **+56.7% em 7 dias** (+33.6% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hugo Ekitiké (90)** — 45k coins, **+49.6% em 7 dias** (+12.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **John Arne Riise (86)** — 17.000 coins, **+53.2% em 7 dias** (+26.3% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tomas Brolin (89)** — 42k coins, **+47.8% em 7 dias** (+13.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Amine Adli (84)** — 44k coins, **+44.3% em 7 dias** (+14.3% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
