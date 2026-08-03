@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:05:18.000Z
+pubDatetime: 2026-08-03T22:05:18.000Z
 title: "Investimentos EA FC: Premier League em 03/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Oscar Bobb (88, Premier League) lidera, com +84.1% em 7 dias a 29k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Bernardo Silva (87, Premier League) lidera, com +50.9% em 7 dias a 120k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Oscar Bobb (88) acumula **+84.1% em 7 dias** a 29k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Bernardo Silva (87) acumula **+50.9% em 7 dias** a 120k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Premier League em 03/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.6% em 24h** e **+38.0% em 7 dias**.
-- **5 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+19.4% em 24h** e **+34.7% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Oscar Bobb | 88 | Premier League | 29k coins | +6.6% | +84.1% | Esticada |
-| Bernardo Silva | 87 | Premier League | 120k coins | +33.3% | +50.9% | Esticada |
-| Jamie Carragher | 86 | Premier League | 16.000 coins | +24% | +40.9% | Esticada |
-| Robbie Keane | 86 | Premier League | 18.500 coins | +1.4% | +39.6% | Momentum moderado |
-| Ole Gunnar Solskjær | 88 | Premier League | 15.000 coins | +7.1% | +36.4% | Momentum moderado |
-| João Pedro | 87 | Premier League | 51k coins | +1.9% | +28.6% | Momentum moderado |
-| Tomas Brolin | 89 | Premier League | 42k coins | +39.3% | +27.8% | Esticada |
-| Jurriën Timber | 86 | Premier League | 54k coins | +32.1% | +7.9% | Esticada |
+| Bernardo Silva | 87 | Premier League | 120k coins | +37.9% | +50.9% | Esticada |
+| Martin Ødegaard | 88 | Premier League | 130k coins | +20.4% | +47.7% | Esticada |
+| Kevin Schade | 88 | Premier League | 32k coins | +5.7% | +47.4% | Momentum moderado |
+| Enzo Fernández | 91 | Premier League | 86k coins | +18.7% | +41.3% | Momentum moderado |
+| Robbie Keane | 86 | Premier League | 18.500 coins | +19.4% | +39.6% | Momentum moderado |
+| Oscar Bobb | 85 | Premier League | 24k coins | +22.8% | +38.6% | Esticada |
+| Ole Gunnar Solskjær | 88 | Premier League | 15.000 coins | +36.4% | +36.4% | Esticada |
+| David Raya | 93 | Premier League | 66k coins | +9.1% | +34.7% | Momentum moderado |
+| Xavi Simons | 91 | Premier League | 18.500 coins | +2.8% | +32.1% | Momentum moderado |
+| Carlos Baleba | 90 | Premier League | 117k coins | +26.5% | +28.6% | Esticada |
+| Nico O'Reilly | 84 | Premier League | 75k coins | +16.3% | +23% | Momentum moderado |
+| Jeremie Frimpong | 86 | Premier League | 146k coins | +24% | +19% | Esticada |
+| Dominik Szoboszlai | 90 | Premier League | 170k coins | +31.9% | +18.8% | Esticada |
+| Leny Yoro | 86 | Premier League | 126k coins | +5.8% | +17% | Momentum moderado |
+| Harvey Barnes | 86 | Premier League | 49k coins | +7% | +13% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Oscar Bobb (88)** — 29k coins, **+84.1% em 7 dias** (+6.6% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bernardo Silva (87)** — 120k coins, **+50.9% em 7 dias** (+37.9% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bernardo Silva (87)** — 120k coins, **+50.9% em 7 dias** (+33.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Martin Ødegaard (88)** — 130k coins, **+47.7% em 7 dias** (+20.4% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jamie Carragher (86)** — 16.000 coins, **+40.9% em 7 dias** (+24% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kevin Schade (88)** — 32k coins, **+47.4% em 7 dias** (+5.7% em 24h). Preço -22% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Robbie Keane (86)** — 18.500 coins, **+39.6% em 7 dias** (+1.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Enzo Fernández (91)** — 86k coins, **+41.3% em 7 dias** (+18.7% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ole Gunnar Solskjær (88)** — 15.000 coins, **+36.4% em 7 dias** (+7.1% em 24h). Preço -41% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Robbie Keane (86)** — 18.500 coins, **+39.6% em 7 dias** (+19.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -91,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Oscar Bobb (88, Premier League) lidera, com +84.1% em 7 dias a 29k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Bernardo Silva (87, Premier League) lidera, com +50.9% em 7 dias a 120k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
