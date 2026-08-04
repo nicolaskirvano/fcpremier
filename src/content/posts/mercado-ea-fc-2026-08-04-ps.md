@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T19:05:08.000Z
+pubDatetime: 2026-08-04T22:05:07.000Z
 title: "Mercado EA FC em 04/08: Premier League — Console (PS)"
 draft: false
 featured: true
