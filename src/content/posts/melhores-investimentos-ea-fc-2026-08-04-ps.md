@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T13:05:09.000Z
+pubDatetime: 2026-08-04T16:05:08.000Z
 title: "Investimentos EA FC: Premier League em 04/08 — Console (PS)"
 draft: false
 featured: true
