@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:05:17.000Z
+pubDatetime: 2026-08-04T13:05:17.000Z
 title: "Mercado EA FC em 04/08: Premier League — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 04/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (04/08/2026)?"
-    a: "Harry Maguire (83, Premier League), com +52% em 24h, a 112k coins no PC."
+    a: "Carlos Tévez (88, Premier League), com +14.2% em 24h, a 37k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Tomas Brolin (89), -35.3% em 24h, a 35k coins."
+    a: "Marc Cucurella (86), -32.7% em 24h, a 50k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 37 cartas em alta contra 41 em queda (média 0.74%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 27 cartas em alta contra 25 em queda (média 1.81%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **04/08/2026** no PC: dia **indefinido** — sem tendência dominante. **37 valorizações** contra **41 quedas** entre as cartas relevantes, com média de **0.74%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **04/08/2026** no PC: mercado **aquecido** — as altas dominam o dia. **27 valorizações** contra **25 quedas** entre as cartas relevantes, com média de **1.81%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Harry Maguire (83) **+52%** · 🔴 **Maior baixa:** Tomas Brolin (89) **-35.3%**
+> 🟢 **Maior alta:** Carlos Tévez (88) **+14.2%** · 🔴 **Maior baixa:** Marc Cucurella (86) **-32.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 04/08: Premier League — PC](/charts/mercado-ea-fc-2026-08-04-pc.svg)
 
@@ -35,24 +35,20 @@ Resumo de **04/08/2026** no PC: dia **indefinido** — sem tendência dominante.
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 87.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.4% entre as cartas que se moveram; o universo observado reúne 121 cartas.
-- **Concentração:** Premier League aparece em 20 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 46.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.9% entre as cartas que se moveram; o universo observado reúne 96 cartas.
+- **Concentração:** Premier League aparece em 16 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Maguire | 83 | Premier League | 112k coins | +52% | 0% |
-| Cesc Fàbregas | 91 | Premier League | 427k coins | +28.7% | +1.2% |
-| Kyle Walker | 89 | Premier League | 225k coins | +20.3% | -35.6% |
-| Carlos Tévez | 88 | Premier League | 34k coins | +16.1% | +41.2% |
-| Dominik Szoboszlai | 90 | Premier League | 190k coins | +11.8% | +18.8% |
-| Estêvão | 91 | Premier League | 570k coins | +10.4% | -4.3% |
-| Viktor Gyökeres | 94 | Premier League | 675k coins | +6.8% | -19.8% |
-| Peter Crouch | 85 | Premier League | 30k coins | +5.3% | 0% |
-| Carlos Baleba | 90 | Premier League | 117k coins | +4.5% | +26.5% |
-| Aaron Wan-Bissaka | 89 | Premier League | 60k coins | +3.4% | +20% |
+| Carlos Tévez | 88 | Premier League | 37k coins | +14.2% | +42.7% |
+| Jurriën Timber | 86 | Premier League | 54k coins | +11.2% | +7.9% |
+| Estêvão | 91 | Premier League | 562k coins | +9.7% | -5.7% |
+| Marc Guéhi | 88 | Premier League | 28k coins | +7.9% | +7.9% |
+| Ian Maatsen | 89 | Premier League | 40k coins | +6.7% | +105.1% |
+| Maxence Lacroix | 87 | Premier League | 146k coins | +5.8% | -2.7% |
 
 
 ### Análise das altas
@@ -61,43 +57,43 @@ Resumo de **04/08/2026** no PC: dia **indefinido** — sem tendência dominante.
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Harry Maguire (83)** subiu **+52%** em 24h, a **112k coins** (faixa do dia: 96k–190k). Está -10% abaixo da média de 7 dias (descontada).
+- **Carlos Tévez (88)** subiu **+14.2%** em 24h, a **37k coins** (faixa do dia: 23k–50k). Está +18% acima da média de 7 dias (aquecida).
 
-- **Cesc Fàbregas (91)** subiu **+28.7%** em 24h, a **427k coins** (faixa do dia: 200k–435k). Está +61% acima da média de 7 dias (aquecida).
+- **Jurriën Timber (86)** subiu **+11.2%** em 24h, a **54k coins** (faixa do dia: 39k–54k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Kyle Walker (89)** subiu **+20.3%** em 24h, a **225k coins** (faixa do dia: 161k–239k). Está em linha com a média de 7 dias (-3%).
+- **Estêvão (91)** subiu **+9.7%** em 24h, a **562k coins** (faixa do dia: 508k–599k). Está em linha com a média de 7 dias (+0%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tomas Brolin | 89 | Premier League | 35k coins | -35.3% | -40% |
-| Ramires | 86 | Premier League | 94k coins | -33.3% | +170.4% |
+| Marc Cucurella | 86 | Premier League | 50k coins | -32.7% | +94.1% |
 | Cody Gakpo | 89 | Premier League | 120k coins | -29.4% | -30.2% |
-| Erling Haaland | 91 | Premier League | 111k coins | -27.3% | -42.9% |
-| Eden Hazard | 90 | Premier League | 28k coins | -24.2% | -96% |
-| Ryan Gravenberch | 93 | Premier League | 202k coins | -19.2% | +9.8% |
-| Enzo Fernández | 91 | Premier League | 99k coins | -17.5% | +105.2% |
-| Mikel Merino | 88 | Premier League | 190k coins | -11.8% | +6.3% |
-| Oscar Bobb | 88 | Premier League | 26k coins | -11% | +89.4% |
-| Jaap Stam | 89 | Premier League | 99k coins | -10.8% | +17.9% |
+| Erling Haaland | 91 | Premier League | 104k coins | -29.2% | -42% |
+| Martin Ødegaard | 88 | Premier League | 90k coins | -23.1% | +5.3% |
+| Sepp van den Berg | 89 | Premier League | 20k coins | -13% | +37.9% |
+| Enzo Fernández | 91 | Premier League | 95k coins | -11.8% | -10.2% |
+| Harry Maguire | 83 | Premier League | 101k coins | -10.4% | -41.1% |
+| Leny Yoro | 86 | Premier League | 88k coins | -7.2% | -19.6% |
+| Eden Hazard | 92 | Premier League | 1.20M coins | -4.7% | +61.3% |
+| Aaron Wan-Bissaka | 89 | Premier League | 58k coins | -3.3% | -12.1% |
 
 
 ### Análise das baixas
 
-- **Tomas Brolin (89)** caiu **-35.3%** em 24h, a **35k coins** (faixa do dia: 30k–42k). Está em linha com a média de 7 dias (+0%).
-
-- **Ramires (86)** caiu **-33.3%** em 24h, a **94k coins** (faixa do dia: 80k–200k). Está em linha com a média de 7 dias (+5%).
+- **Marc Cucurella (86)** caiu **-32.7%** em 24h, a **50k coins** (faixa do dia: 28k–80k). Está +17% acima da média de 7 dias (aquecida).
 
 - **Cody Gakpo (89)** caiu **-29.4%** em 24h, a **120k coins** (faixa do dia: 110k–170k). Está -25% abaixo da média de 7 dias (descontada).
+
+- **Erling Haaland (91)** caiu **-29.2%** em 24h, a **104k coins** (faixa do dia: 50k–200k). Está -38% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Harry Maguire já avançou 52% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Carlos Tévez já avançou 14.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tomas Brolin recuou -35.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Marc Cucurella recuou -32.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +105,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (04/08/2026)?**
-Harry Maguire (83, Premier League), com +52% em 24h, a 112k coins no PC.
+Carlos Tévez (88, Premier League), com +14.2% em 24h, a 37k coins no PC.
 
 **E a maior queda do dia?**
-Tomas Brolin (89), -35.3% em 24h, a 35k coins.
+Marc Cucurella (86), -32.7% em 24h, a 50k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 37 cartas em alta contra 41 em queda (média 0.74%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 27 cartas em alta contra 25 em queda (média 1.81%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
