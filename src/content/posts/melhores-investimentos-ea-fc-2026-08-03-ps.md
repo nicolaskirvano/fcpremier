@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:05:09.000Z
+pubDatetime: 2026-08-04T01:05:09.000Z
 title: "Investimentos EA FC: Premier League em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "John Arne Riise (86, Premier League) lidera, com +58.9% em 7 dias a 27k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gabriel Martinelli (87, Premier League) lidera, com +88.1% em 7 dias a 122k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** John Arne Riise (86) acumula **+58.9% em 7 dias** a 27k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Gabriel Martinelli (87) acumula **+88.1% em 7 dias** a 122k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Premier League em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.8% em 24h** e **+32.7% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+9.2% em 24h** e **+28.6% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| John Arne Riise | 86 | Premier League | 27k coins | +25.4% | +58.9% | Esticada |
-| Matheus Cunha | 87 | Premier League | 168k coins | +31.9% | +54.8% | Esticada |
-| Martin Ødegaard | 87 | Premier League | 214k coins | +25.5% | +54% | Esticada |
-| Mateus Mané | 88 | Premier League | 31k coins | +4.2% | +53.8% | Momentum moderado |
-| Adama Traoré | 89 | Premier League | 125k coins | +5.1% | +46.9% | Momentum moderado |
-| Xavi Simons | 91 | Premier League | 18.750 coins | +6.9% | +40% | Momentum moderado |
-| Jérémy Doku | 86 | Premier League | 245k coins | +37% | +36.3% | Esticada |
-| Mikkel Damsgaard | 87 | Premier League | 65k coins | +14% | +32.7% | Momentum moderado |
-| Malick Thiaw | 86 | Premier League | 60k coins | +1.7% | +31.9% | Momentum moderado |
-| Ledley King | 86 | Premier League | 20k coins | +20.6% | +26.2% | Esticada |
-| Cesc Fàbregas | 88 | Premier League | 15.000 coins | +3% | +23.6% | Entrada a observar |
-| Sandro Tonali | 87 | Premier League | 50k coins | +3.9% | +17.8% | Entrada a observar |
-| Jordan Pickford | 86 | Premier League | 55k coins | +12.8% | +17% | Momentum moderado |
-| Amine Adli | 84 | Premier League | 55k coins | +1.9% | +14.6% | Entrada a observar |
-| Robin Roefs | 87 | Premier League | 40k coins | +33.3% | +14.3% | Esticada |
+| Gabriel Martinelli | 87 | Premier League | 122k coins | +32.6% | +88.1% | Esticada |
+| Mateus Mané | 88 | Premier League | 58k coins | +4.2% | +85.2% | Esticada |
+| Jeremie Frimpong | 86 | Premier League | 124k coins | +22.8% | +65.7% | Esticada |
+| Adama Traoré | 89 | Premier League | 149k coins | +11.2% | +52% | Momentum moderado |
+| Martin Ødegaard | 87 | Premier League | 201k coins | +9.2% | +34% | Momentum moderado |
+| Jérémy Doku | 84 | Premier League | 66k coins | +11.9% | +32.7% | Momentum moderado |
+| Xavi Simons | 91 | Premier League | 18.250 coins | +4.3% | +30.4% | Momentum moderado |
+| Park Ji Sung | 86 | Premier League | 18.000 coins | +2.9% | +28.6% | Momentum moderado |
+| Dango Ouattara | 84 | Premier League | 50k coins | +4.7% | +24.4% | Entrada a observar |
+| Mikkel Damsgaard | 87 | Premier League | 60k coins | +22.4% | +23.1% | Esticada |
+| Ryan Christie | 90 | Premier League | 77k coins | +13.2% | +22.9% | Momentum moderado |
+| Jurriën Timber | 86 | Premier League | 54k coins | +5.9% | +21.3% | Momentum moderado |
+| Erling Haaland | 91 | Premier League | 117k coins | +17% | +17% | Momentum moderado |
+| Ledley King | 86 | Premier League | 18.250 coins | +7.4% | +12.3% | Momentum moderado |
+| Hugo Ekitiké | 86 | Premier League | 60k coins | +9.1% | +12.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **John Arne Riise (86)** — 27k coins, **+58.9% em 7 dias** (+25.4% em 24h). Preço -46% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Martinelli (87)** — 122k coins, **+88.1% em 7 dias** (+32.6% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matheus Cunha (87)** — 168k coins, **+54.8% em 7 dias** (+31.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mateus Mané (88)** — 58k coins, **+85.2% em 7 dias** (+4.2% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Martin Ødegaard (87)** — 214k coins, **+54% em 7 dias** (+25.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jeremie Frimpong (86)** — 124k coins, **+65.7% em 7 dias** (+22.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mateus Mané (88)** — 31k coins, **+53.8% em 7 dias** (+4.2% em 24h). Preço -20% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Adama Traoré (89)** — 149k coins, **+52% em 7 dias** (+11.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Adama Traoré (89)** — 125k coins, **+46.9% em 7 dias** (+5.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Martin Ødegaard (87)** — 201k coins, **+34% em 7 dias** (+9.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-John Arne Riise (86, Premier League) lidera, com +58.9% em 7 dias a 27k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gabriel Martinelli (87, Premier League) lidera, com +88.1% em 7 dias a 122k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
