@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T09:31:01.000Z
+pubDatetime: 2026-08-04T10:05:09.000Z
 title: "Investimentos EA FC: Premier League em 04/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 04/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (04/08/2026) no EA FC?"
-    a: "Murillo (87, Premier League) lidera, com +58.7% em 7 dias a 141k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Murillo (87, Premier League) lidera, com +83.8% em 7 dias a 125k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **04/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Murillo (87) acumula **+58.7% em 7 dias** a 141k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Murillo (87) acumula **+83.8% em 7 dias** a 125k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Premier League em 04/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-04-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **04/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.3% em 24h** e **+21.2% em 7 dias**.
-- **1 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+14.7% em 24h** e **+38.5% em 7 dias**.
+- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,26 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Murillo | 87 | Premier League | 141k coins | +23.5% | +58.7% | Esticada |
-| Pedro Neto | 88 | Premier League | 45k coins | +9.3% | +57.7% | Momentum moderado |
-| Jurriën Timber | 86 | Premier League | 54k coins | +19.6% | +25.7% | Momentum moderado |
-| Mikel Merino | 88 | Premier League | 100k coins | +5.8% | +21.2% | Momentum moderado |
-| Jean-Philippe Mateta | 92 | Premier League | 30k coins | +1.5% | +11.8% | Entrada a observar |
-| Declan Rice | 88 | Premier League | 50k coins | +2% | +11.1% | Entrada a observar |
-| Ledley King | 86 | Premier League | 16.250 coins | +14.5% | +6% | Momentum moderado |
+| Murillo | 87 | Premier League | 125k coins | +14.7% | +83.8% | Esticada |
+| Ryan Christie | 90 | Premier League | 49k coins | +37.9% | +59.7% | Esticada |
+| Enzo Fernández | 91 | Premier League | 39k coins | +26.7% | +46.2% | Esticada |
+| Declan Rice | 89 | Premier League | 86k coins | +2.9% | +38.5% | Momentum moderado |
+| Jurriën Timber | 86 | Premier League | 54k coins | +19.6% | +27.2% | Momentum moderado |
+| Declan Rice | 88 | Premier League | 57k coins | +14% | +21.9% | Momentum moderado |
+| Dan Burn | 86 | Premier League | 223k coins | +11.3% | +5.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Murillo (87)** — 141k coins, **+58.7% em 7 dias** (+23.5% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Murillo (87)** — 125k coins, **+83.8% em 7 dias** (+14.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pedro Neto (88)** — 45k coins, **+57.7% em 7 dias** (+9.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Christie (90)** — 49k coins, **+59.7% em 7 dias** (+37.9% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jurriën Timber (86)** — 54k coins, **+25.7% em 7 dias** (+19.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Enzo Fernández (91)** — 39k coins, **+46.2% em 7 dias** (+26.7% em 24h). Preço -21% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mikel Merino (88)** — 100k coins, **+21.2% em 7 dias** (+5.8% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (89)** — 86k coins, **+38.5% em 7 dias** (+2.9% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jean-Philippe Mateta (92)** — 30k coins, **+11.8% em 7 dias** (+1.5% em 24h). Preço -25% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jurriën Timber (86)** — 54k coins, **+27.2% em 7 dias** (+19.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +80,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (04/08/2026) no EA FC?**  
-Murillo (87, Premier League) lidera, com +58.7% em 7 dias a 141k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Murillo (87, Premier League) lidera, com +83.8% em 7 dias a 125k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
